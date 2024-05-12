@@ -22,6 +22,8 @@ def set_seed(seed):
     torch.backends.cudnn.deterministic = True
     print("seed = %d" % (manualSeed))
 
+# input: [1, 2, 3, 4, 5]
+# output: A: 1, B: 2, C: 3, D: 4, E: 5
 def construct_option_text(options):
   char_offset = 0
   option_texts = []
@@ -33,12 +35,26 @@ def construct_option_text(options):
 def construct_question(question, options):
   return PROMPT_TEMPLATE.format(question + " " + options + ".\n" + ANSWER_TEMPATE)
 
+def read_csv(csvfilename, puzzle_id):
+    import csv
+
+    qa_info = []
+    with open(csvfilename, newline="") as csvfile:
+        datareader = csv.DictReader(csvfile)
+        for row in datareader:
+            row["puzzle_id"] = str(puzzle_id)
+            if len(row["A"]) == 0:
+                row["A"] = "A"
+                row["B"] = "B"
+                row["C"] = "C"
+                row["D"] = "D"
+                row["E"] = "E"
+            qa_info.append(row)
+    return qa_info
+
 def loader_dataset(input_data_dir, puzzle_id, puzzle_subset_size):
   # Initialize list to hold all prompt_list data
-  prompt_list = []
-  image_list = []
-  image_id_list = []
-  answers_list = []
+  processed_puzzle = []
 
   subfolder = os.path.join(input_data_dir, str(puzzle_id))
   if not os.path.exists(subfolder):
@@ -46,38 +62,23 @@ def loader_dataset(input_data_dir, puzzle_id, puzzle_subset_size):
 
   csv_file = os.path.join(subfolder, 'puzzle_{}.csv'.format(puzzle_id))
   # read the csv file
-  puzzles = pd.read_csv(csv_file)
-  ids = puzzles['id'].tolist()
-  questions = puzzles['Question'].tolist()
-  answers = puzzles['Answer'].tolist()
-  image_paths = puzzles['image'].tolist()
-  options_a = puzzles['A'].tolist()
-  options_b = puzzles['B'].tolist()
-  options_c = puzzles['C'].tolist()
-  options_d = puzzles['D'].tolist()
-  options_e = puzzles['E'].tolist()
-  notes = puzzles['Note'].tolist()
-
+  puzzles = read_csv(csv_file, puzzle_id)
   # process each record in the puzzle_x.csv
-  subset_puzzle_ids = np.random.choice(ids, puzzle_subset_size)
-  # print("subfolder_id:{}, subset_puzzle_ids: {}".format(subfolder_id, subset_puzzle_ids))
-  for id in subset_puzzle_ids:
-      i = int(id) - 1
-      
+  subset_puzzles = np.random.choice(puzzles, puzzle_subset_size)
+
+  for puzzle in subset_puzzles:      
       #e.g. flower, disk, book, drink, ball
-      options = [options_a[i], options_b[i], options_c[i],
-                  options_d[i], options_e[i]]
-      prompt_list.append(construct_question(questions[i], construct_option_text(options)))
+      options = [puzzle['A'], puzzle['B'], puzzle['C'], puzzle['D'], puzzle['E']]
+      puzzle['Question'] = construct_question(puzzle['Question'], construct_option_text(options))
 
       # construct image
       image_subfolder = os.path.join(subfolder, 'img')
-      image_path = os.path.join(image_subfolder, image_paths[i])
-      image_list.append(image_path)
+      image_path = os.path.join(image_subfolder, puzzle['image'])
+      puzzle['image_path'] =  image_path
 
-      image_id_list.append(image_paths[i])
-      answers_list.append(answers[i])
+      processed_puzzle.append(puzzle)
 
-  return prompt_list, image_list, image_id_list, answers_list
+  return processed_puzzle
 
 def main(args):
     # 0. set seed
@@ -97,19 +98,17 @@ def main(args):
       for puzzle_id in range(1, args.puzzle_max + 1):
         # load data
         print("=================load data===============")
-        prompt_list, image_list, image_id_list, answers_list = loader_dataset(input_data_dir, 
-                                                                              puzzle_id,
-                                                                              puzzle_subset_size)
-        # print(prompt_list)
-        for i in range(len(prompt_list)):
+        puzzles = loader_dataset(input_data_dir, puzzle_id, puzzle_subset_size)
+        for i in range(len(puzzles)):
+          puzzle = puzzles[i]
           # get model predict result
           start_time = time.perf_counter() 
-          predict_answers = client.generate([prompt_list[i]], [Image.open(image_list[i])], **generation_configs)
+          predict_answers = client.generate([puzzle['Question']], [Image.open(puzzle['image_path'])], **generation_configs)
           end_time = time.perf_counter()
           elapsed_time = end_time - start_time
-          print("No. {} predict {} cost time: {:.4f} seconds".format(i, image_id_list[i], elapsed_time))
+          print("No. {} predict {} cost time: {:.4f} seconds".format(puzzle['id'], puzzle['image'], elapsed_time))
 
-          csvwriter.writerow([puzzle_id, image_id_list[i], prompt_list[i], answers_list[i], 
+          csvwriter.writerow([puzzle_id, puzzle['image'], puzzle['Question'], puzzle['Answer'], 
                               predict_answers[0].strip(), float("{:.4f}".format(elapsed_time))])
           if i % 50 == 0:
             csvfile.flush()
