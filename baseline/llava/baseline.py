@@ -9,6 +9,7 @@ import torch
 from model import load_preptrained_model
 import csv 
 import time
+from accuracy import get_group_puzzle_accuracy
 
 PROMPT_TEMPLATE = "[INST] <image>\n{} [/INST]"
 ANSWER_TEMPATE = "Please provide the answer in a single upper case letter, e.g: A"
@@ -87,11 +88,14 @@ def main(args):
     # 2. load pretrained model 
     print("=================predict===============")
     generation_configs = {'do_sample': False, 'max_new_tokens': 128}
-    client = load_preptrained_model(args.model_id)
+    
+    if not args.test:
+      client = load_preptrained_model(args.model_id)
     
     # 3. get response from model and save response 
     output_header = ['puzzle_id', 'image_id', 'prompt', 'true_answer', 'predit_answer', 'time_cost(s)']
-    with open(args.output_file, 'w', newline='') as csvfile:
+    output_csv_file = os.path.join(args.output_root, 'output.csv')
+    with open(output_csv_file, 'w', newline='') as csvfile:
       csvwriter = csv.writer(csvfile)
       csvwriter.writerow(output_header)
 
@@ -103,7 +107,12 @@ def main(args):
           puzzle = puzzles[i]
           # get model predict result
           start_time = time.perf_counter() 
-          predict_answers = client.generate([puzzle['Question']], [Image.open(puzzle['image_path'])], **generation_configs)
+          #call the model to get the predict output. 
+          if args.test:
+             predict_answers = np.random.choice(['A', 'B', 'C', 'D', 'E'], 1)
+          else:
+             predict_answers = client.generate([puzzle['Question']], [Image.open(puzzle['image_path'])], **generation_configs)
+          
           end_time = time.perf_counter()
           elapsed_time = end_time - start_time
           print("No. {} predict {} cost time: {:.4f} seconds".format(puzzle['id'], puzzle['image'], elapsed_time))
@@ -114,7 +123,7 @@ def main(args):
             csvfile.flush()
     
     # 5. accuracy 
-    # TODO: calculate acc
+    get_group_puzzle_accuracy(output_csv_file, args.output_root)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="A tool for Llava baseline.")
@@ -149,10 +158,15 @@ if __name__ == "__main__":
         help="location of llava model.",
     )
     parser.add_argument(
-        "--output-file",
+        "--output-root",
         type=str,
-        default="output.csv",
-        help="output the predict answer.",
+        default="output",
+        help="The output folder to save all the results.",
+    )
+    parser.add_argument(
+       "--test", 
+       action="store_true",
+       help="test random generate output."
     )
 
     args = parser.parse_args()
@@ -163,6 +177,10 @@ if __name__ == "__main__":
     if not os.path.exists(input_data_dir):
       raise ValueError("input data path {} not exist.".format(input_data_dir))
 
+    output_root = args.output_root
+    if not os.path.exists(output_root):
+      os.makedirs(output_root)
+    
     puzzle_subfolder_max = args.puzzle_max 
     if puzzle_subfolder_max < 1 or puzzle_subfolder_max > 101:
       raise ValueError("puzzle max can only range from 1 to 101.")
