@@ -2,8 +2,6 @@ import csv
 import pandas as pd
 import matplotlib.pyplot as plt
 
-MAX_PUZZLE_ID = 101
-
 def read_output_csv(output_csv_file):
     records = []
     with open(output_csv_file, newline="") as csvfile:
@@ -17,17 +15,20 @@ def get_accuracy(df):
     acc = filtered_df.size / df.size * 100
     return acc
 
-def get_group_puzzle_accuracy(output_file, output_figure_path):
+def get_group_puzzle_accuracy(output_file, puzzle_max, output_figure_path):
     df = pd.read_csv(output_file)
 
     avg_acc = get_accuracy(df)
 
-    puzzle_ids = range(1, MAX_PUZZLE_ID + 1)
+    puzzle_ids = range(1, puzzle_max + 1)
     accuracy = []
     for id in puzzle_ids:
         total_df = df[df['puzzle_id'] == id]
-        correct_df = total_df[total_df['true_answer'] == total_df['predit_answer']]
-        accuracy.append(correct_df.size / total_df.size * 100)
+        if total_df.size == 0:
+            accuracy.append(0)
+        else:
+            correct_df = total_df[total_df['true_answer'] == total_df['predit_answer']]
+            accuracy.append(correct_df.size / total_df.size * 100)
 
     # Create a bar chart
     fig = plt.figure(figsize=(32, 2))

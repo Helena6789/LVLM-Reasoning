@@ -123,7 +123,7 @@ def main(args):
             csvfile.flush()
     
     # 5. accuracy 
-    get_group_puzzle_accuracy(output_csv_file, args.output_root)
+    get_group_puzzle_accuracy(output_csv_file, args.puzzle_max, args.output_root)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="A tool for Llava baseline.")
