@@ -9,7 +9,7 @@ import torch
 from model import load_preptrained_model
 import csv 
 import time
-from accuracy import get_group_puzzle_accuracy
+from accuracy import plot_accuracy
 
 PROMPT_TEMPLATE = "[INST] <image>\n{} [/INST]"
 ANSWER_TEMPATE = "Please provide the answer in a single upper case letter, e.g: A"
@@ -70,7 +70,7 @@ def loader_dataset(input_data_dir, puzzle_id, puzzle_subset_size):
   for puzzle in subset_puzzles:      
       #e.g. flower, disk, book, drink, ball
       options = [puzzle['A'], puzzle['B'], puzzle['C'], puzzle['D'], puzzle['E']]
-      puzzle['Question'] = construct_question(puzzle['Question'], construct_option_text(options))
+      puzzle['Prompt'] = construct_question(puzzle['Question'], construct_option_text(options))
 
       # construct image
       image_subfolder = os.path.join(subfolder, 'img')
@@ -111,19 +111,19 @@ def main(args):
           if args.test:
              predict_answers = np.random.choice(['A', 'B', 'C', 'D', 'E'], 1)
           else:
-             predict_answers = client.generate([puzzle['Question']], [Image.open(puzzle['image_path'])], **generation_configs)
+             predict_answers = client.generate([puzzle['Prompt']], [Image.open(puzzle['image_path'])], **generation_configs)
           
           end_time = time.perf_counter()
           elapsed_time = end_time - start_time
           print("No. {} predict {} cost time: {:.4f} seconds".format(puzzle['id'], puzzle['image'], elapsed_time))
 
-          csvwriter.writerow([puzzle_id, puzzle['image'], puzzle['Question'], puzzle['Answer'], 
+          csvwriter.writerow([puzzle_id, puzzle['image'], puzzle['Prompt'], puzzle['Answer'], 
                               predict_answers[0].strip(), float("{:.4f}".format(elapsed_time))])
           if i % 50 == 0:
             csvfile.flush()
     
     # 5. accuracy 
-    get_group_puzzle_accuracy(output_csv_file, args.puzzle_max, args.output_root)
+    plot_accuracy(output_csv_file, args.smart_info_v2_csv, args.puzzle_max, args.output_root, args.subset_size)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="A tool for Llava baseline.")
@@ -168,6 +168,12 @@ if __name__ == "__main__":
        action="store_true",
        help="test random generate output."
     )
+    parser.add_argument(
+        "--smart-info-v2-csv",
+        type=str,
+        default="/home/hq/LVLM/LVLM-Reasoning/dataset/SMART_info_v2.csv",
+        help="The smart101 information csv file (include puzzle difficulty and puzzle type).",
+    )
 
     args = parser.parse_args()
 
@@ -189,4 +195,8 @@ if __name__ == "__main__":
     if puzzle_subset_size < 0 or puzzle_subset_size > 2000:
       raise ValueError("puzzle subset size can only range from 1 to 2000.")
     
+    smart_info_v2_csv = args.smart_info_v2_csv
+    if not os.path.exists(smart_info_v2_csv):
+      raise ValueError("input smart csv file path {} not exist.".format(smart_info_v2_csv))
+
     main(args)
