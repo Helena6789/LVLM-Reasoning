@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import argparse
 import os
 import csv
@@ -29,18 +31,43 @@ def plot_accuracy(output_csv_file, smart_info_csv_file, puzzle_max, output_figur
     df['difficulty'] = df['puzzle_id'].apply(lambda x : difficulty_list[x-1])
     df['type'] = df['puzzle_id'].apply(lambda x : type_list[x-1])
 
+    img_suffix = "all"
     # plot by difficulty
-    plot_accuracy_by_group(df, difficulty_list, 'difficulty', 10, output_figure_path, puzzle_subset_size)
+    plot_accuracy_by_group(df, difficulty_list, 'difficulty', 10, 
+                           output_figure_path, puzzle_subset_size, img_suffix, True)
     # plot by type
-    plot_accuracy_by_group(df, type_list, 'type', 20, output_figure_path, puzzle_subset_size)
+    plot_accuracy_by_group(df, type_list, 'type', 20, 
+                           output_figure_path, puzzle_subset_size, img_suffix, True)
     # plot by puzzle_id
-    plot_accuracy_by_group(df, range(1, puzzle_max + 1), 'puzzle_id', 32, output_figure_path, puzzle_subset_size)
+    plot_accuracy_by_group(df, range(1, puzzle_max + 1), 'puzzle_id', 32, 
+                           output_figure_path, puzzle_subset_size, img_suffix)
 
+    # get the empty image
+    puzzle_id_with_empty_image = df_smart_info_csv[df_smart_info_csv['image'].isnull()]['id'].to_list()
+    df_without_empty_image = df[~df['puzzle_id'].isin(puzzle_id_with_empty_image)]
+    
+    # plot accuracy without empty images.
+    img_suffix = "excl_blank_img"
+    # plot by difficulty
+    plot_accuracy_by_group(df_without_empty_image, difficulty_list, 'difficulty', 10, 
+                           output_figure_path, puzzle_subset_size, img_suffix, True)
+    # plot by type
+    plot_accuracy_by_group(df_without_empty_image, type_list, 'type', 20,
+                           output_figure_path, puzzle_subset_size, img_suffix, True)
+    # plot by puzzle_id
+    plot_accuracy_by_group(df_without_empty_image, range(1, puzzle_max + 1), 'puzzle_id', 32,
+                           output_figure_path, puzzle_subset_size, img_suffix)
 
 # plot accuracy by different group
 # - group_vals: the values in the group to plot
 # - group_name: filter out records group by the group_name key.
-def plot_accuracy_by_group(df, group_vals, group_name, figure_width, output_figure_path, puzzle_subset_size):
+def plot_accuracy_by_group(df, group_vals, 
+                           group_name, 
+                           figure_width, 
+                           output_figure_path, 
+                           puzzle_subset_size,
+                           img_suffix, 
+                           add_text_value=False):
     accuracy = []
     group_vals = sorted(list(set(group_vals)))
     for v in group_vals:
@@ -58,13 +85,15 @@ def plot_accuracy_by_group(df, group_vals, group_name, figure_width, output_figu
     ax = fig.add_subplot(111)
     ax.set_xticks(range(0, len(group_vals)), labels=group_vals)
     plt.xticks(fontsize=8)
-    for i, v in enumerate(accuracy):
-        plt.text(i, v, '{:.2f}'.format(v), ha = 'center')
+    # add text value to graph
+    if add_text_value:
+        for i, v in enumerate(accuracy):
+            plt.text(i, v, '{:.2f}'.format(v), ha = 'center')
     plt.bar(group_vals, accuracy)
     plt.xlabel(group_name)
     plt.ylabel('Accuracy (%)')
     plt.title('Llava grouped by {} (avg. acc= {:.2f}%)'.format(group_name, get_accuracy(df)))
-    output_figure = "{}/accuracy_group_by_{}_{}.png".format(output_figure_path, group_name, puzzle_subset_size)
+    output_figure = "{}/accuracy_group_by_{}_{}_{}.png".format(output_figure_path, group_name, img_suffix, puzzle_subset_size)
     print("Save plot to: {}".format(output_figure))
     plt.savefig(output_figure)
     plt.close()
