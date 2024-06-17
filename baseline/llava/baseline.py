@@ -1,98 +1,34 @@
 #!/usr/bin/env python3
 
 import argparse
-import pandas as pd
 import os
 from PIL import Image
 import numpy as np
-import torch
 from model import load_preptrained_model
-import csv 
+import csv
+import constants
 import time
 from accuracy import plot_accuracy
+from utils import loader_dataset, set_seed, read_csv
 
-PROMPT_TEMPLATE = "[INST] <image>\n{} [/INST]"
-ANSWER_TEMPATE = "Please provide the answer in a single upper case letter, e.g: A"
-
-def set_seed(seed):
-    manualSeed = np.random.randint(10000) if seed == -1 else seed
-    np.random.seed(manualSeed)
-    torch.manual_seed(manualSeed)
-    torch.cuda.manual_seed(manualSeed)
-    torch.cuda.manual_seed_all(manualSeed)
-    torch.backends.cudnn.deterministic = True
-    print("seed = %d" % (manualSeed))
-
-# input: [1, 2, 3, 4, 5]
-# output: A: 1, B: 2, C: 3, D: 4, E: 5
-def construct_option_text(options):
-  char_offset = 0
-  option_texts = []
-  for option in options:
-    option_texts.append(chr(ord('A')+char_offset) + ": "+ str(option))
-    char_offset += 1
-  return ",".join(option_texts)
-
-def construct_question(question, options):
-  return PROMPT_TEMPLATE.format(question + " " + options + ".\n" + ANSWER_TEMPATE)
-
-def read_csv(csvfilename, puzzle_id):
-    import csv
-
-    qa_info = []
-    with open(csvfilename, newline="") as csvfile:
-        datareader = csv.DictReader(csvfile)
-        for row in datareader:
-            row["puzzle_id"] = str(puzzle_id)
-            if len(row["A"]) == 0:
-                row["A"] = "A"
-                row["B"] = "B"
-                row["C"] = "C"
-                row["D"] = "D"
-                row["E"] = "E"
-            qa_info.append(row)
-    return qa_info
-
-def loader_dataset(input_data_dir, puzzle_id, puzzle_subset_size):
-  # Initialize list to hold all prompt_list data
-  processed_puzzle = []
-
-  subfolder = os.path.join(input_data_dir, str(puzzle_id))
-  if not os.path.exists(subfolder):
-      return
-
-  csv_file = os.path.join(subfolder, 'puzzle_{}.csv'.format(puzzle_id))
-  # read the csv file
-  puzzles = read_csv(csv_file, puzzle_id)
-  # process each record in the puzzle_x.csv
-  subset_puzzles = np.random.choice(puzzles, puzzle_subset_size)
-
-  for puzzle in subset_puzzles:      
-      #e.g. flower, disk, book, drink, ball
-      options = [puzzle['A'], puzzle['B'], puzzle['C'], puzzle['D'], puzzle['E']]
-      puzzle['Prompt'] = construct_question(puzzle['Question'], construct_option_text(options))
-
-      # construct image
-      image_subfolder = os.path.join(subfolder, 'img')
-      image_path = os.path.join(image_subfolder, puzzle['image'])
-      puzzle['image_path'] =  image_path
-
-      processed_puzzle.append(puzzle)
-
-  return processed_puzzle
+# Transfer llava-1-5 prompt to llava-1-6
+def get_prompt(prompt, model_id):
+    if 'llava-1.5-7b' in model_id:
+        return prompt.replace('[INST]', 'USER').replace('[/INST]', 'ASSISTANT:')
+    return prompt
 
 def main(args):
     # 0. set seed
     set_seed(args.seed)
 
-    # 2. load pretrained model 
+    # 2. load pretrained model
     print("=================predict===============")
     generation_configs = {'do_sample': False, 'max_new_tokens': 128}
-    
+
     if not args.test:
       client = load_preptrained_model(args.model_id)
-    
-    # 3. get response from model and save response 
+
+    # 3. get response from model and save response
     output_header = ['puzzle_id', 'image_id', 'prompt', 'true_answer', 'predit_answer', 'time_cost(s)']
     output_csv_file = os.path.join(args.output_root, 'output.csv')
     with open(output_csv_file, 'w', newline='') as csvfile:
@@ -102,27 +38,28 @@ def main(args):
       for puzzle_id in range(1, args.puzzle_max + 1):
         # load data
         print("=================load data===============")
-        puzzles = loader_dataset(input_data_dir, puzzle_id, puzzle_subset_size)
+        puzzles = loader_dataset(input_data_dir, puzzle_id, puzzle_subset_size, True)
         for i in range(len(puzzles)):
           puzzle = puzzles[i]
           # get model predict result
-          start_time = time.perf_counter() 
-          #call the model to get the predict output. 
+          start_time = time.perf_counter()
+          #call the model to get the predict output.
           if args.test:
              predict_answers = np.random.choice(['A', 'B', 'C', 'D', 'E'], 1)
           else:
-             predict_answers = client.generate([puzzle['Prompt']], [Image.open(puzzle['image_path'])], **generation_configs)
-          
+             prompt = get_prompt(puzzle['Prompt'], args.model_id)
+             predict_answers = client.generate([prompt], [Image.open(puzzle['image_path'])], **generation_configs)
+
           end_time = time.perf_counter()
           elapsed_time = end_time - start_time
           print("No. {} predict {} cost time: {:.4f} seconds".format(puzzle['id'], puzzle['image'], elapsed_time))
 
-          csvwriter.writerow([puzzle_id, puzzle['image'], puzzle['Prompt'], puzzle['Answer'], 
+          csvwriter.writerow([puzzle_id, puzzle['image'], prompt, puzzle['Answer'],
                               predict_answers[0].strip(), float("{:.4f}".format(elapsed_time))])
           if i % 50 == 0:
             csvfile.flush()
-    
-    # 5. accuracy 
+
+    # 5. accuracy
     plot_accuracy(output_csv_file, args.smart_info_v2_csv, args.puzzle_max, args.output_root, args.subset_size)
 
 if __name__ == "__main__":
@@ -130,18 +67,18 @@ if __name__ == "__main__":
     parser.add_argument(
         "--data-root",
         type=str,
-        default="/home/qh/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/",
+        default="./dataset/SMART101-release-v1/SMART101-Data/",
         help="location of the smart101 dataset.",
     )
     parser.add_argument(
-        "--puzzle-max", 
-        default=1, 
+        "--puzzle-max",
+        default=1,
         type=int,
         help="The subfolder of the puzzle to process from 1 to max value (101)."
     )
     parser.add_argument(
-        "--subset-size", 
-        default=10, 
+        "--subset-size",
+        default=10,
         type=int,
         help="The size of subset puzzle to process for each puzzle folder, max value(2000)."
     )
@@ -154,7 +91,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--model-id",
         type=str,
-        default="/project/models--llava-hf--llava-v1.6-mistral-7b-hf/snapshots/d7f9c48a21f52c49df120dcbf87e05767734c71a",
+        default="./models--llava-hf--llava-v1.6-mistral-7b-hf/snapshots/d7f9c48a21f52c49df120dcbf87e05767734c71a",
         help="location of llava model.",
     )
     parser.add_argument(
@@ -164,14 +101,14 @@ if __name__ == "__main__":
         help="The output folder to save all the results.",
     )
     parser.add_argument(
-       "--test", 
+       "--test",
        action="store_true",
        help="test random generate output."
     )
     parser.add_argument(
         "--smart-info-v2-csv",
         type=str,
-        default="/home/hq/LVLM/LVLM-Reasoning/dataset/SMART_info_v2.csv",
+        default="./dataset/SMART_info_v2.csv",
         help="The smart101 information csv file (include puzzle difficulty and puzzle type).",
     )
 
@@ -186,15 +123,15 @@ if __name__ == "__main__":
     output_root = args.output_root
     if not os.path.exists(output_root):
       os.makedirs(output_root)
-    
-    puzzle_subfolder_max = args.puzzle_max 
+
+    puzzle_subfolder_max = args.puzzle_max
     if puzzle_subfolder_max < 1 or puzzle_subfolder_max > 101:
       raise ValueError("puzzle max can only range from 1 to 101.")
 
-    puzzle_subset_size = args.subset_size 
+    puzzle_subset_size = args.subset_size
     if puzzle_subset_size < 0 or puzzle_subset_size > 2000:
       raise ValueError("puzzle subset size can only range from 1 to 2000.")
-    
+
     smart_info_v2_csv = args.smart_info_v2_csv
     if not os.path.exists(smart_info_v2_csv):
       raise ValueError("input smart csv file path {} not exist.".format(smart_info_v2_csv))

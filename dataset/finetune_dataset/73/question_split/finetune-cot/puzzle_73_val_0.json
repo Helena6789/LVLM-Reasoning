@@ -1,0 +1,1602 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA small town with 10 apartments has 5 straight pathways and 5 round pathways. The map illustrates 9 of the apartments. On each straight pathway there are 2 apartments. On each round pathway, there are also 2 apartments. Where on the map should the 10th apartment be put?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1014.png"
+    ],
+    "id": 1014
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA place with 20 condos has 5 straight roads and 5 circular roads. The drawing depicts 19 of the condos. On every straight road there are 4 condos. On every circular road, there are also 4 condos. Which place on the drawing should the 20th condo be put?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_103.png"
+    ],
+    "id": 103
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA small town with 15 condos has 5 straight roads and 5 round roads. The map illustrates 14 of the condos. On each straight road there are 3 condos. On each round road, there are also 3 condos. Which location on the map should the 15th condo be added?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1045.png"
+    ],
+    "id": 1045
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA village with 30 houses has 6 straight pathways and 6 round pathways. The picture illustrates 29 of the houses. On each straight pathway there are 5 houses. On each round pathway, there are also 5 houses. Which location on the picture should the 30th house be added?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1060.png"
+    ],
+    "id": 1060
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA village with 30 apartments has 6 straight roads and 6 round roads. The drawing depicts 29 of the apartments. On each straight road there are 5 apartments. On each round road, there are also 5 apartments. Which location on the drawing should the 30th apartment be put?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1122.png"
+    ],
+    "id": 1122
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA community with 12 houses has 6 straight paths and 6 round paths. The map depicts 11 of the houses. On every straight path there are 2 houses. On every round path, there are also 2 houses. Which place on the map should the 12th house be added?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1135.png"
+    ],
+    "id": 1135
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA community with 15 houses has 5 straight paths and 5 round paths. The drawing shows 14 of the houses. On each straight path there are 3 houses. On each round path, there are also 3 houses. Which place on the drawing should the 15th house be put?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1143.png"
+    ],
+    "id": 1143
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA village with 10 condos has 5 straight roads and 5 circular roads. The map illustrates 9 of the condos. On each straight road there are 2 condos. On each circular road, there are also 2 condos. Which place on the map should the 10th condo be put?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1147.png"
+    ],
+    "id": 1147
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA small town with 12 apartments has 4 straight pathways and 4 round pathways. The picture shows 11 of the apartments. On every straight pathway there are 3 apartments. On every round pathway, there are also 3 apartments. Where on the picture should the 12th apartment be put?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1158.png"
+    ],
+    "id": 1158
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA place with 18 huts has 6 straight roads and 6 circular roads. The drawing shows 17 of the huts. On each straight road there are 3 huts. On each circular road, there are also 3 huts. Which place on the drawing should the 18th hut be added?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1171.png"
+    ],
+    "id": 1171
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA village with 18 condos has 6 straight lanes and 6 circular lanes. The map depicts 17 of the condos. On each straight lane there are 3 condos. On each circular lane, there are also 3 condos. Which place on the map should the 18th condo be added?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1186.png"
+    ],
+    "id": 1186
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA community with 24 houses has 6 straight paths and 6 circular paths. The map depicts 23 of the houses. On every straight path there are 4 houses. On every circular path, there are also 4 houses. Where on the map should the 24th house be added?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1218.png"
+    ],
+    "id": 1218
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA small town with 30 huts has 6 straight lanes and 6 circular lanes. The map shows 29 of the huts. On every straight lane there are 5 huts. On every circular lane, there are also 5 huts. Which place on the map should the 30th hut be put?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1250.png"
+    ],
+    "id": 1250
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA place with 18 houses has 6 straight pathways and 6 round pathways. The map depicts 17 of the houses. On every straight pathway there are 3 houses. On every round pathway, there are also 3 houses. Which place on the map should the 18th house be added?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1300.png"
+    ],
+    "id": 1300
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA place with 24 houses has 6 straight roads and 6 circular roads. The map illustrates 23 of the houses. On each straight road there are 4 houses. On each circular road, there are also 4 houses. Where on the map should the 24th house be built?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1321.png"
+    ],
+    "id": 1321
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA small town with 6 huts has 3 straight roads and 3 round roads. The drawing shows 5 of the huts. On each straight road there are 2 huts. On each round road, there are also 2 huts. Which place on the drawing should the 6th hut be put?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1327.png"
+    ],
+    "id": 1327
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA place with 6 houses has 3 straight pathways and 3 round pathways. The picture illustrates 5 of the houses. On every straight pathway there are 2 houses. On every round pathway, there are also 2 houses. Where on the picture should the 6th house be put?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1349.png"
+    ],
+    "id": 1349
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA village with 6 apartments has 3 straight paths and 3 round paths. The drawing shows 5 of the apartments. On every straight path there are 2 apartments. On every round path, there are also 2 apartments. Which location on the drawing should the 6th apartment be put?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1372.png"
+    ],
+    "id": 1372
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA community with 20 dwellings has 5 straight paths and 5 circular paths. The map illustrates 19 of the dwellings. On every straight path there are 4 dwellings. On every circular path, there are also 4 dwellings. Where on the map should the 20th dwelling be put?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1388.png"
+    ],
+    "id": 1388
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA town with 10 houses has 5 straight paths and 5 circular paths. The map shows 9 of the houses. On every straight path there are 2 houses. On every circular path, there are also 2 houses. Where on the map should the 10th house be added?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1398.png"
+    ],
+    "id": 1398
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA community with 8 houses has 4 straight roads and 4 circular roads. The map shows 7 of the houses. On every straight road there are 2 houses. On every circular road, there are also 2 houses. Which place on the map should the 8th house be put?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1415.png"
+    ],
+    "id": 1415
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA village with 30 houses has 6 straight lanes and 6 round lanes. The picture depicts 29 of the houses. On every straight lane there are 5 houses. On every round lane, there are also 5 houses. Which place on the picture should the 30th house be put?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1438.png"
+    ],
+    "id": 1438
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA town with 10 apartments has 5 straight pathways and 5 round pathways. The map illustrates 9 of the apartments. On every straight pathway there are 2 apartments. On every round pathway, there are also 2 apartments. Where on the map should the 10th apartment be put?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1443.png"
+    ],
+    "id": 1443
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA community with 12 condos has 4 straight roads and 4 round roads. The picture shows 11 of the condos. On each straight road there are 3 condos. On each round road, there are also 3 condos. Which location on the picture should the 12th condo be put?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1445.png"
+    ],
+    "id": 1445
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA place with 10 apartments has 5 straight paths and 5 round paths. The map illustrates 9 of the apartments. On every straight path there are 2 apartments. On every round path, there are also 2 apartments. Which location on the map should the 10th apartment be built?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_146.png"
+    ],
+    "id": 146
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA community with 6 condos has 3 straight pathways and 3 circular pathways. The picture shows 5 of the condos. On every straight pathway there are 2 condos. On every circular pathway, there are also 2 condos. Which location on the picture should the 6th condo be put?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_150.png"
+    ],
+    "id": 150
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA small town with 6 huts has 3 straight pathways and 3 circular pathways. The drawing illustrates 5 of the huts. On each straight pathway there are 2 huts. On each circular pathway, there are also 2 huts. Where on the drawing should the 6th hut be added?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_151.png"
+    ],
+    "id": 151
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA place with 8 condos has 4 straight paths and 4 round paths. The drawing illustrates 7 of the condos. On every straight path there are 2 condos. On every round path, there are also 2 condos. Which place on the drawing should the 8th condo be added?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_152.png"
+    ],
+    "id": 152
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA place with 12 dwellings has 4 straight pathways and 4 round pathways. The drawing illustrates 11 of the dwellings. On every straight pathway there are 3 dwellings. On every round pathway, there are also 3 dwellings. Which location on the drawing should the 12th dwelling be built?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1527.png"
+    ],
+    "id": 1527
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA small town with 30 dwellings has 6 straight roads and 6 circular roads. The map illustrates 29 of the dwellings. On every straight road there are 5 dwellings. On every circular road, there are also 5 dwellings. Which place on the map should the 30th dwelling be added?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1595.png"
+    ],
+    "id": 1595
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA village with 8 condos has 4 straight pathways and 4 round pathways. The map depicts 7 of the condos. On every straight pathway there are 2 condos. On every round pathway, there are also 2 condos. Which place on the map should the 8th condo be built?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_160.png"
+    ],
+    "id": 160
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA small town with 6 houses has 3 straight lanes and 3 circular lanes. The map illustrates 5 of the houses. On each straight lane there are 2 houses. On each circular lane, there are also 2 houses. Which location on the map should the 6th house be added?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1603.png"
+    ],
+    "id": 1603
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA town with 10 condos has 5 straight paths and 5 circular paths. The picture depicts 9 of the condos. On every straight path there are 2 condos. On every circular path, there are also 2 condos. Which location on the picture should the 10th condo be added?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1626.png"
+    ],
+    "id": 1626
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA village with 6 houses has 3 straight lanes and 3 round lanes. The map shows 5 of the houses. On each straight lane there are 2 houses. On each round lane, there are also 2 houses. Where on the map should the 6th house be built?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1634.png"
+    ],
+    "id": 1634
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA town with 18 houses has 6 straight paths and 6 circular paths. The picture shows 17 of the houses. On each straight path there are 3 houses. On each circular path, there are also 3 houses. Where on the picture should the 18th house be built?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1655.png"
+    ],
+    "id": 1655
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA place with 12 condos has 4 straight lanes and 4 circular lanes. The drawing shows 11 of the condos. On every straight lane there are 3 condos. On every circular lane, there are also 3 condos. Where on the drawing should the 12th condo be added?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1681.png"
+    ],
+    "id": 1681
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA small town with 6 houses has 3 straight roads and 3 circular roads. The drawing shows 5 of the houses. On each straight road there are 2 houses. On each circular road, there are also 2 houses. Which place on the drawing should the 6th house be built?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1683.png"
+    ],
+    "id": 1683
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA community with 20 apartments has 5 straight roads and 5 round roads. The picture illustrates 19 of the apartments. On every straight road there are 4 apartments. On every round road, there are also 4 apartments. Which place on the picture should the 20th apartment be put?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1692.png"
+    ],
+    "id": 1692
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA village with 6 houses has 3 straight paths and 3 circular paths. The map depicts 5 of the houses. On each straight path there are 2 houses. On each circular path, there are also 2 houses. Where on the map should the 6th house be put?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1702.png"
+    ],
+    "id": 1702
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA community with 30 apartments has 6 straight pathways and 6 round pathways. The picture illustrates 29 of the apartments. On each straight pathway there are 5 apartments. On each round pathway, there are also 5 apartments. Which location on the picture should the 30th apartment be built?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1704.png"
+    ],
+    "id": 1704
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA place with 6 apartments has 3 straight pathways and 3 circular pathways. The map shows 5 of the apartments. On each straight pathway there are 2 apartments. On each circular pathway, there are also 2 apartments. Where on the map should the 6th apartment be built?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1712.png"
+    ],
+    "id": 1712
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA village with 24 huts has 6 straight lanes and 6 circular lanes. The drawing shows 23 of the huts. On every straight lane there are 4 huts. On every circular lane, there are also 4 huts. Where on the drawing should the 24th hut be put?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1733.png"
+    ],
+    "id": 1733
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA community with 6 houses has 3 straight paths and 3 circular paths. The drawing depicts 5 of the houses. On each straight path there are 2 houses. On each circular path, there are also 2 houses. Which place on the drawing should the 6th house be added?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1768.png"
+    ],
+    "id": 1768
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA small town with 18 apartments has 6 straight roads and 6 circular roads. The drawing shows 17 of the apartments. On every straight road there are 3 apartments. On every circular road, there are also 3 apartments. Which location on the drawing should the 18th apartment be added?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1770.png"
+    ],
+    "id": 1770
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA small town with 24 condos has 6 straight lanes and 6 round lanes. The drawing shows 23 of the condos. On every straight lane there are 4 condos. On every round lane, there are also 4 condos. Which place on the drawing should the 24th condo be added?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1776.png"
+    ],
+    "id": 1776
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA community with 20 condos has 5 straight roads and 5 circular roads. The picture depicts 19 of the condos. On each straight road there are 4 condos. On each circular road, there are also 4 condos. Where on the picture should the 20th condo be put?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1779.png"
+    ],
+    "id": 1779
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA town with 6 apartments has 3 straight lanes and 3 circular lanes. The drawing illustrates 5 of the apartments. On each straight lane there are 2 apartments. On each circular lane, there are also 2 apartments. Which place on the drawing should the 6th apartment be put?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1811.png"
+    ],
+    "id": 1811
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA town with 20 huts has 5 straight paths and 5 circular paths. The drawing shows 19 of the huts. On every straight path there are 4 huts. On every circular path, there are also 4 huts. Which place on the drawing should the 20th hut be built?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1822.png"
+    ],
+    "id": 1822
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA place with 24 apartments has 6 straight lanes and 6 circular lanes. The picture depicts 23 of the apartments. On each straight lane there are 4 apartments. On each circular lane, there are also 4 apartments. Which place on the picture should the 24th apartment be built?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1843.png"
+    ],
+    "id": 1843
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA small town with 20 dwellings has 5 straight paths and 5 circular paths. The picture shows 19 of the dwellings. On each straight path there are 4 dwellings. On each circular path, there are also 4 dwellings. Which location on the picture should the 20th dwelling be built?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_186.png"
+    ],
+    "id": 186
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA small town with 20 condos has 5 straight roads and 5 circular roads. The drawing depicts 19 of the condos. On every straight road there are 4 condos. On every circular road, there are also 4 condos. Which place on the drawing should the 20th condo be built?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1870.png"
+    ],
+    "id": 1870
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA place with 10 dwellings has 5 straight roads and 5 round roads. The picture shows 9 of the dwellings. On each straight road there are 2 dwellings. On each round road, there are also 2 dwellings. Which place on the picture should the 10th dwelling be added?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1877.png"
+    ],
+    "id": 1877
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA community with 8 huts has 4 straight roads and 4 circular roads. The picture shows 7 of the huts. On every straight road there are 2 huts. On every circular road, there are also 2 huts. Which place on the picture should the 8th hut be added?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1882.png"
+    ],
+    "id": 1882
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA place with 10 dwellings has 5 straight roads and 5 circular roads. The picture depicts 9 of the dwellings. On each straight road there are 2 dwellings. On each circular road, there are also 2 dwellings. Which place on the picture should the 10th dwelling be added?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1888.png"
+    ],
+    "id": 1888
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA town with 6 dwellings has 3 straight pathways and 3 round pathways. The map depicts 5 of the dwellings. On every straight pathway there are 2 dwellings. On every round pathway, there are also 2 dwellings. Which place on the map should the 6th dwelling be put?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1890.png"
+    ],
+    "id": 1890
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA small town with 8 huts has 4 straight lanes and 4 circular lanes. The drawing depicts 7 of the huts. On every straight lane there are 2 huts. On every circular lane, there are also 2 huts. Where on the drawing should the 8th hut be added?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1894.png"
+    ],
+    "id": 1894
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA place with 20 apartments has 5 straight pathways and 5 round pathways. The drawing depicts 19 of the apartments. On each straight pathway there are 4 apartments. On each round pathway, there are also 4 apartments. Where on the drawing should the 20th apartment be built?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1906.png"
+    ],
+    "id": 1906
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA community with 8 huts has 4 straight roads and 4 circular roads. The drawing depicts 7 of the huts. On each straight road there are 2 huts. On each circular road, there are also 2 huts. Where on the drawing should the 8th hut be put?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1928.png"
+    ],
+    "id": 1928
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA village with 20 apartments has 5 straight roads and 5 circular roads. The picture shows 19 of the apartments. On each straight road there are 4 apartments. On each circular road, there are also 4 apartments. Where on the picture should the 20th apartment be put?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1942.png"
+    ],
+    "id": 1942
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA small town with 8 dwellings has 4 straight lanes and 4 circular lanes. The map shows 7 of the dwellings. On each straight lane there are 2 dwellings. On each circular lane, there are also 2 dwellings. Where on the map should the 8th dwelling be built?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1948.png"
+    ],
+    "id": 1948
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA community with 6 condos has 3 straight pathways and 3 circular pathways. The drawing illustrates 5 of the condos. On every straight pathway there are 2 condos. On every circular pathway, there are also 2 condos. Which location on the drawing should the 6th condo be put?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1967.png"
+    ],
+    "id": 1967
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA community with 20 apartments has 5 straight lanes and 5 round lanes. The picture illustrates 19 of the apartments. On every straight lane there are 4 apartments. On every round lane, there are also 4 apartments. Which place on the picture should the 20th apartment be put?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1982.png"
+    ],
+    "id": 1982
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA village with 10 condos has 5 straight lanes and 5 round lanes. The drawing illustrates 9 of the condos. On every straight lane there are 2 condos. On every round lane, there are also 2 condos. Which location on the drawing should the 10th condo be put?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_207.png"
+    ],
+    "id": 207
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA place with 12 condos has 6 straight roads and 6 round roads. The drawing depicts 11 of the condos. On each straight road there are 2 condos. On each round road, there are also 2 condos. Which location on the drawing should the 12th condo be added?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_225.png"
+    ],
+    "id": 225
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA place with 6 condos has 3 straight roads and 3 circular roads. The drawing depicts 5 of the condos. On each straight road there are 2 condos. On each circular road, there are also 2 condos. Which location on the drawing should the 6th condo be built?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_229.png"
+    ],
+    "id": 229
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA place with 20 houses has 5 straight lanes and 5 round lanes. The map depicts 19 of the houses. On each straight lane there are 4 houses. On each round lane, there are also 4 houses. Which place on the map should the 20th house be built?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_253.png"
+    ],
+    "id": 253
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA village with 12 dwellings has 6 straight roads and 6 round roads. The drawing illustrates 11 of the dwellings. On every straight road there are 2 dwellings. On every round road, there are also 2 dwellings. Where on the drawing should the 12th dwelling be added?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_26.png"
+    ],
+    "id": 26
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA place with 6 apartments has 3 straight pathways and 3 round pathways. The picture depicts 5 of the apartments. On every straight pathway there are 2 apartments. On every round pathway, there are also 2 apartments. Where on the picture should the 6th apartment be put?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_262.png"
+    ],
+    "id": 262
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA place with 6 apartments has 3 straight paths and 3 circular paths. The picture shows 5 of the apartments. On every straight path there are 2 apartments. On every circular path, there are also 2 apartments. Which location on the picture should the 6th apartment be put?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_283.png"
+    ],
+    "id": 283
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA place with 6 houses has 3 straight roads and 3 circular roads. The drawing shows 5 of the houses. On each straight road there are 2 houses. On each circular road, there are also 2 houses. Which place on the drawing should the 6th house be built?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_345.png"
+    ],
+    "id": 345
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA village with 6 dwellings has 3 straight roads and 3 circular roads. The picture illustrates 5 of the dwellings. On every straight road there are 2 dwellings. On every circular road, there are also 2 dwellings. Which place on the picture should the 6th dwelling be put?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_37.png"
+    ],
+    "id": 37
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA place with 8 huts has 4 straight roads and 4 circular roads. The picture depicts 7 of the huts. On each straight road there are 2 huts. On each circular road, there are also 2 huts. Which location on the picture should the 8th hut be put?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_402.png"
+    ],
+    "id": 402
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA place with 12 condos has 4 straight lanes and 4 circular lanes. The map illustrates 11 of the condos. On every straight lane there are 3 condos. On every circular lane, there are also 3 condos. Where on the map should the 12th condo be added?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_403.png"
+    ],
+    "id": 403
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA town with 20 apartments has 5 straight lanes and 5 circular lanes. The picture shows 19 of the apartments. On each straight lane there are 4 apartments. On each circular lane, there are also 4 apartments. Where on the picture should the 20th apartment be added?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_437.png"
+    ],
+    "id": 437
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA small town with 6 condos has 3 straight paths and 3 round paths. The picture shows 5 of the condos. On each straight path there are 2 condos. On each round path, there are also 2 condos. Which place on the picture should the 6th condo be added?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_452.png"
+    ],
+    "id": 452
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA place with 6 condos has 3 straight roads and 3 circular roads. The map depicts 5 of the condos. On each straight road there are 2 condos. On each circular road, there are also 2 condos. Which place on the map should the 6th condo be put?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_463.png"
+    ],
+    "id": 463
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA village with 18 apartments has 6 straight paths and 6 round paths. The picture shows 17 of the apartments. On each straight path there are 3 apartments. On each round path, there are also 3 apartments. Which place on the picture should the 18th apartment be built?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_469.png"
+    ],
+    "id": 469
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA place with 6 apartments has 3 straight roads and 3 circular roads. The drawing depicts 5 of the apartments. On each straight road there are 2 apartments. On each circular road, there are also 2 apartments. Which location on the drawing should the 6th apartment be put?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_472.png"
+    ],
+    "id": 472
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA small town with 12 apartments has 6 straight pathways and 6 round pathways. The map illustrates 11 of the apartments. On every straight pathway there are 2 apartments. On every round pathway, there are also 2 apartments. Which location on the map should the 12th apartment be built?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_488.png"
+    ],
+    "id": 488
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA place with 10 apartments has 5 straight lanes and 5 round lanes. The drawing illustrates 9 of the apartments. On every straight lane there are 2 apartments. On every round lane, there are also 2 apartments. Which location on the drawing should the 10th apartment be added?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_509.png"
+    ],
+    "id": 509
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA place with 18 huts has 6 straight lanes and 6 circular lanes. The drawing illustrates 17 of the huts. On each straight lane there are 3 huts. On each circular lane, there are also 3 huts. Which place on the drawing should the 18th hut be added?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_53.png"
+    ],
+    "id": 53
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA small town with 6 dwellings has 3 straight paths and 3 round paths. The picture illustrates 5 of the dwellings. On each straight path there are 2 dwellings. On each round path, there are also 2 dwellings. Which place on the picture should the 6th dwelling be put?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_550.png"
+    ],
+    "id": 550
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA town with 20 condos has 5 straight paths and 5 round paths. The map shows 19 of the condos. On each straight path there are 4 condos. On each round path, there are also 4 condos. Which location on the map should the 20th condo be built?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_586.png"
+    ],
+    "id": 586
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA small town with 30 apartments has 6 straight roads and 6 circular roads. The map illustrates 29 of the apartments. On each straight road there are 5 apartments. On each circular road, there are also 5 apartments. Where on the map should the 30th apartment be put?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_623.png"
+    ],
+    "id": 623
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA small town with 12 apartments has 4 straight pathways and 4 circular pathways. The picture shows 11 of the apartments. On every straight pathway there are 3 apartments. On every circular pathway, there are also 3 apartments. Which place on the picture should the 12th apartment be added?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_639.png"
+    ],
+    "id": 639
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA village with 24 huts has 6 straight pathways and 6 circular pathways. The picture shows 23 of the huts. On every straight pathway there are 4 huts. On every circular pathway, there are also 4 huts. Which location on the picture should the 24th hut be built?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_640.png"
+    ],
+    "id": 640
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA village with 12 huts has 6 straight roads and 6 circular roads. The picture illustrates 11 of the huts. On every straight road there are 2 huts. On every circular road, there are also 2 huts. Which location on the picture should the 12th hut be put?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_659.png"
+    ],
+    "id": 659
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA community with 30 apartments has 6 straight lanes and 6 circular lanes. The picture depicts 29 of the apartments. On every straight lane there are 5 apartments. On every circular lane, there are also 5 apartments. Where on the picture should the 30th apartment be added?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_687.png"
+    ],
+    "id": 687
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA town with 6 huts has 3 straight pathways and 3 circular pathways. The map shows 5 of the huts. On each straight pathway there are 2 huts. On each circular pathway, there are also 2 huts. Where on the map should the 6th hut be put?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_749.png"
+    ],
+    "id": 749
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA place with 12 houses has 4 straight paths and 4 round paths. The picture depicts 11 of the houses. On every straight path there are 3 houses. On every round path, there are also 3 houses. Which location on the picture should the 12th house be added?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_797.png"
+    ],
+    "id": 797
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA place with 30 huts has 6 straight roads and 6 round roads. The picture illustrates 29 of the huts. On each straight road there are 5 huts. On each round road, there are also 5 huts. Where on the picture should the 30th hut be built?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_8.png"
+    ],
+    "id": 8
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA small town with 6 houses has 3 straight paths and 3 round paths. The picture depicts 5 of the houses. On every straight path there are 2 houses. On every round path, there are also 2 houses. Which location on the picture should the 6th house be built?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_800.png"
+    ],
+    "id": 800
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA village with 24 dwellings has 6 straight pathways and 6 circular pathways. The map depicts 23 of the dwellings. On every straight pathway there are 4 dwellings. On every circular pathway, there are also 4 dwellings. Which location on the map should the 24th dwelling be built?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_821.png"
+    ],
+    "id": 821
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA town with 30 huts has 6 straight paths and 6 round paths. The drawing depicts 29 of the huts. On every straight path there are 5 huts. On every round path, there are also 5 huts. Which location on the drawing should the 30th hut be built?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_877.png"
+    ],
+    "id": 877
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA village with 6 condos has 3 straight roads and 3 round roads. The drawing depicts 5 of the condos. On each straight road there are 2 condos. On each round road, there are also 2 condos. Which place on the drawing should the 6th condo be added?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_880.png"
+    ],
+    "id": 880
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA village with 18 houses has 6 straight lanes and 6 circular lanes. The picture illustrates 17 of the houses. On each straight lane there are 3 houses. On each circular lane, there are also 3 houses. Which place on the picture should the 18th house be added?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_896.png"
+    ],
+    "id": 896
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA place with 18 condos has 6 straight roads and 6 circular roads. The drawing depicts 17 of the condos. On each straight road there are 3 condos. On each circular road, there are also 3 condos. Which place on the drawing should the 18th condo be added?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_913.png"
+    ],
+    "id": 913
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA place with 30 apartments has 6 straight lanes and 6 round lanes. The map shows 29 of the apartments. On every straight lane there are 5 apartments. On every round lane, there are also 5 apartments. Which location on the map should the 30th apartment be added?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_928.png"
+    ],
+    "id": 928
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA community with 20 apartments has 5 straight pathways and 5 circular pathways. The picture depicts 19 of the apartments. On each straight pathway there are 4 apartments. On each circular pathway, there are also 4 apartments. Where on the picture should the 20th apartment be built?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_954.png"
+    ],
+    "id": 954
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nA small town with 12 houses has 4 straight pathways and 4 round pathways. The picture illustrates 11 of the houses. On every straight pathway there are 3 houses. On every round pathway, there are also 3 houses. Where on the picture should the 12th house be built?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_956.png"
+    ],
+    "id": 956
+  }
+]

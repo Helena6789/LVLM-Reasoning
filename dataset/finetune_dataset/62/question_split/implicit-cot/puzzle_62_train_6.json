@@ -1,0 +1,4631 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhere is the remote placed?",
+        "role": "user"
+      },
+      {
+        "content": "6",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhere is the shoe lace placed?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhere is the mirror placed in relation to the hanger?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Erin has 8 toy objects: a mirror, a chalk, a boom box, a cookie jar, a hanger, flowers, a remote, and a shoe lace. She puts each toy at a different location of the shelf. She puts hanger as shown. The cookie jar behind mirror and cookie jar behind chalk. Shoe lace behind mirror and mirror ahead of chalk. Mirror ahead of hanger. On which location can the shoe lace not be placed? A: 6,B: 4,C: 5,D: 1,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1019_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1019_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1019_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1019_grid1.png"
+    ],
+    "id": 1019
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn which position is the chapter book placed?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nIn which position is the car placed?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich item is placed at position 1?",
+        "role": "user"
+      },
+      {
+        "content": "Leg warmers",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Charles has 8 toy items: leg warmers, a watch, a chapter book, a car, a bottle, a plate, a sharpie, and a chair. He places each toy at a different location of the shelf. The chair behind watch. Plate behind bottle. Car behind chapter book. Watch ahead of car and plate behind chapter book. He places bottle  as shown. On which location can the leg warmers not be placed? A: 2,B: 8,C: 5,D: 4,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1022_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1022_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1022_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1022_grid1.png"
+    ],
+    "id": 1022
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich object is placed higher than the sailboat?",
+        "role": "user"
+      },
+      {
+        "content": "No information available",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Michele has 7 toy objects: a water bottle, a piano, a sailboat, a paint brush, a grid paper, a wagon, and a chair. She puts each toy at a different row of the shelf. She puts water bottle as shown. The piano lower to  wagon and water bottle lower to  grid paper. Paint brush higher to water bottle. On which row can the piano not be placed? A: 7,B: 1,C: 5,D: 3,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1050_grid11.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1050_grid3.png"
+    ],
+    "id": 1050
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nConsidering that the mouse pad is at position 1 and the screw can be placed at positions 4, 5, and 6, and the vase can be placed at positions 5 and 6, where can the milk be placed?",
+        "role": "user"
+      },
+      {
+        "content": "2, 3, 4",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nConsidering that the mouse pad is at position 1 and the vase can be placed at positions 5 and 6, where can the screw be placed?",
+        "role": "user"
+      },
+      {
+        "content": "4, 5",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nConsidering that the mouse pad is at position 1 and the milk can be placed at positions 2, 3, and 4, where can the car be placed?",
+        "role": "user"
+      },
+      {
+        "content": "3, 4",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Robert has 6 toy items: a brocolli, a mouse pad, a milk, a car, a screw, and a vase. He puts each toy at a different location of the shelf. He puts mouse pad as shown. The screw right of car and vase right of screw. Milk left of vase. On which location can the milk not be placed? A: 5,B: 3,C: 6,D: 4,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1055_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1055_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1055_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1055_grid1.png"
+    ],
+    "id": 1055
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich item is immediately behind bread?",
+        "role": "user"
+      },
+      {
+        "content": "ipod",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhere is the ipod placed on the shelf?",
+        "role": "user"
+      },
+      {
+        "content": "6",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nIn relation to bread, where is the face wash placed?",
+        "role": "user"
+      },
+      {
+        "content": "ahead of bread",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Jorge has 7 toy items: a face wash, a bread, a shawl, an ipod, a hair brush, a car, and a sketch pad. He keeps each toy at a different location of the shelf. He keeps ipod as shown. The ipod behind face wash and bread ahead of ipod. Face wash ahead of sketch pad. Sketch pad behind shawl. On which location can the face wash not be placed? A: 5,B: 4,C: 7,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1057_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1057_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1057_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1057_grid1.png"
+    ],
+    "id": 1057
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nOn which location can the sticky note be placed considering it must be ahead of the truck?",
+        "role": "user"
+      },
+      {
+        "content": "The sticky note can be placed on locations 1 or 2.",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nOn which location can the truck be placed considering carrots are placed on location 5?",
+        "role": "user"
+      },
+      {
+        "content": "The truck can be placed on locations 3 or 4.",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nOn which location can the boom box be placed considering it must be ahead of the truck?",
+        "role": "user"
+      },
+      {
+        "content": "The boom box can be placed on locations 1 or 2.",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Amber has 5 toy items: a boom box, a sticky note, headphones, a truck, and carrots. She puts each toy at a different location of the shelf. The boom box ahead of truck and sticky note ahead of truck. Headphones behind sticky note. She puts carrots  as shown. On which location can the boom box not be placed? A: 4,B: 1,C: 3,D: 2,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1093_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1093_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1093_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1093_grid4.png"
+    ],
+    "id": 1093
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Kathryn has 7 toy items: a sandal, a wallet, a purse, a washing machine, a bow, a sofa, and a computer. She puts each toy at a different row of the shelf. She puts sandal as shown. The bow higher to sandal and sofa higher to bow. Bow higher to wallet and bow lower to  computer. Washing machine lower to  sofa. On which row can the washing machine not be placed? A: 7,B: 5,C: 6,D: 1,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1098_grid5.png"
+    ],
+    "id": 1098
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nGiven that the mirror cannot be in positions 5, 6, or 7, which positions are left for the mirror?",
+        "role": "user"
+      },
+      {
+        "content": "1, 2, 3",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nIf the mirror must be to the right of clothes in position 4 but cannot be in positions 5, 6, or 7, what is the position of the white out?",
+        "role": "user"
+      },
+      {
+        "content": "The white out must be in positions 1, 2, or 3",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhat are the positions left for the mirror if it must be to the right of the clothes at position 4?",
+        "role": "user"
+      },
+      {
+        "content": "6 or 7",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Stephen has 7 toy items: a white out, a slipper, clothes, a rug, a cookie jar, a bowl, and a mirror. He keeps each toy at a different location of the shelf. The white out left of mirror and cookie jar left of mirror. Slipper left of mirror. He keeps clothes  as shown. On which location can the white out not be placed? A: 1,B: 5,C: 6,D: 7,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1102_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1102_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1102_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1102_grid6.png"
+    ],
+    "id": 1102
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIs the toothbrush placed at position 4?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Paige has 5 toy objects: a stop sign, a toothbrush, keys, a monitor, and tooth picks. She keeps each toy at a different location of the shelf. She keeps monitor as shown. The stop sign left of keys. Stop sign left of tooth picks and tooth picks right of monitor. On which location can the keys not be placed? A: 4,B: 3,C: 2,D: 1,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1115_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1115_grid1.png"
+    ],
+    "id": 1115
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhere does Felicia place the hair tie?",
+        "role": "user"
+      },
+      {
+        "content": "Slot 2",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhat is the slot for the ipod?",
+        "role": "user"
+      },
+      {
+        "content": "Slot 4",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhere does Felicia place the food?",
+        "role": "user"
+      },
+      {
+        "content": "Slot 8",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Felicia has 8 toy objects: a food, a hair tie, canvas, an ipod, a tomato, a newspaper, a cookie jar, and a sofa. She puts each toy at a different location of the shelf. The ipod ahead of sofa and sofa behind tomato. Canvas ahead of cookie jar and cookie jar ahead of sofa. Tomato behind canvas. She puts newspaper  as shown. On which location can the ipod not be placed? A: 2,B: 5,C: 8,D: 1,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1117_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1117_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1117_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1117_grid1.png"
+    ],
+    "id": 1117
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhat is the location of the bread?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich location is the spring placed?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhat is the location of the tire swing?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Christine has 5 toy items: a tire swing, a bread, a controller, a toothpaste, and a spring. She puts each toy at a different location of the shelf. The toothpaste behind bread and controller behind tire swing. She puts toothpaste  as shown. On which location can the tire swing not be placed? A: 4,B: 1,C: 2,D: 3,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1135_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1135_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1135_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1135_grid4.png"
+    ],
+    "id": 1135
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Kevin has 7 toy objects: keys, a fork, a spoon, a screw, an eraser, a chocolate, and a knife. He keeps each toy at a different location of the shelf. He keeps fork as shown. The keys ahead of eraser and keys ahead of knife. Eraser behind spoon. Chocolate behind spoon. On which location can the chocolate not be placed? A: 4,B: 1,C: 7,D: 5,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1141_grid6.png"
+    ],
+    "id": 1141
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nOn which row is the puddle placed?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Joseph has 5 toy objects: a tree, a controller, a puddle, a playing card, and shoes. He keeps each toy at a different row of the shelf. He keeps controller as shown. The tree above shoes. Playing card under tree and puddle under tree. On which row can the puddle not be placed? A: 4,B: 2,C: 5,D: 1,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1144_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1144_grid13.png"
+    ],
+    "id": 1144
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nOn which row is the controller placed?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nOn which row is the face wash placed?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Jorge has 8 toy objects: a face wash, a sofa, sun glasses, shoes, a sand paper, a key chain, a cork, and a controller. He keeps each toy at a different row of the shelf. The sun glasses higher to sofa. Cork higher to key chain and sofa lower to  key chain. Face wash lower to  shoes. Sand paper higher to sofa. He keeps sand paper  as shown. On which row can the face wash not be placed? A: 4,B: 8,C: 6,D: 7,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_117_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_117_grid8.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_117_grid5.png"
+    ],
+    "id": 117
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhere is the toilet placed?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhere is the socks placed?",
+        "role": "user"
+      },
+      {
+        "content": "6",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Anthony has 8 toy items: a conditioner, a monitor, a cup, an ice cube tray, a soy sauce packet, a toilet, socks, and a plastic fork. He places each toy at a different location of the shelf. The soy sauce packet behind ice cube tray and cup behind conditioner. Conditioner ahead of plastic fork and socks behind soy sauce packet. Ice cube tray ahead of socks. He places cup  as shown. On which location can the monitor not be placed? A: 7,B: 5,C: 8,D: 1,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1174_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1174_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1174_grid1.png"
+    ],
+    "id": 1174
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIs the doll ahead of the teddies?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nIs the doll placed ahead of the watch?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nIs the watch placed ahead of the bag?",
+        "role": "user"
+      },
+      {
+        "content": "No",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Michael has 7 toy objects: a doll, a conditioner, teddies, a checkbook, a sharpie, a bag, and a watch. He places each toy at a different location of the shelf. The conditioner ahead of teddies. Doll ahead of checkbook and teddies behind doll. Checkbook ahead of sharpie. Doll ahead of sharpie. He places sharpie  as shown. On which location can the conditioner not be placed? A: 6,B: 2,C: 4,D: 7,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1177_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1177_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1177_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1177_grid6.png"
+    ],
+    "id": 1177
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIs the screw ahead of the balloon?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nIs the screw ahead of the stop sign?",
+        "role": "user"
+      },
+      {
+        "content": "No",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nIs the screw ahead of sand paper?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Anthony has 6 toy objects: a soap, a sand paper, a thermostat, a stop sign, a screw, and a balloon. He keeps each toy at a different location of the shelf. The screw behind thermostat and stop sign ahead of balloon. Stop sign behind thermostat. He keeps stop sign  as shown. On which location can the soap not be placed? A: 1,B: 3,C: 4,D: 5,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1179_grid12.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1179_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1179_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1179_grid6.png"
+    ],
+    "id": 1179
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAt which location is the glow stick placed relative to the playing card?",
+        "role": "user"
+      },
+      {
+        "content": "Left",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nAt which location is the conditioner placed relative to the sandal?",
+        "role": "user"
+      },
+      {
+        "content": "Right",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nAt which location is the playing card placed relative to the conditioner?",
+        "role": "user"
+      },
+      {
+        "content": "Right",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Joshua has 5 toy objects: teddies, a playing card, a glow stick, a sandal, and a conditioner. He puts each toy at a different location of the shelf. He puts sandal as shown. The teddies left of glow stick and teddies left of sandal. On which location can the playing card not be placed? A: 5,B: 2,C: 1,D: 3,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1195_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1195_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1195_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1195_grid1.png"
+    ],
+    "id": 1195
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nOn which row can the candle be placed?",
+        "role": "user"
+      },
+      {
+        "content": "Row 2",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nOn which row can the lamp shade be placed?",
+        "role": "user"
+      },
+      {
+        "content": "Row 8",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Robert has 8 toy objects: a spring, a candle, a grid paper, a lamp shade, a water bottle, a drawer, a shoe lace, and a bracelet. He places each toy at a different row of the shelf. He places drawer as shown. The water bottle below grid paper and bracelet below grid paper. Water bottle above shoe lace. Bracelet below lamp shade and bracelet below spring. Grid paper below spring. On which row can the lamp shade not be placed? A: 8,B: 7,C: 4,D: 1,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_120_grid11.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_120_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_120_grid11.png"
+    ],
+    "id": 120
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhere can the mop be placed relative to the camera?",
+        "role": "user"
+      },
+      {
+        "content": "Positions 2 or 3",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nIf the camera is at position 1, where can the mop be placed?",
+        "role": "user"
+      },
+      {
+        "content": "Position 2 or 3",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nIf the camera cannot be placed at position 5, where can it not be placed?",
+        "role": "user"
+      },
+      {
+        "content": "Position 5",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Jeff has 5 toy objects: a mop, a camera, an eraser, a piano, and a lamp. He places each toy at a different location of the shelf. The eraser right of mop. Camera left of eraser. He places lamp  as shown. On which location can the mop not be placed? A: 4,B: 5,C: 1,D: 2,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1200_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1200_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1200_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1200_grid4.png"
+    ],
+    "id": 1200
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhere is the toy placed relative to the scotch tape?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Pamela has 5 toy objects: a scotch tape, an eye liner, leg warmers, a chair, and a candy wrapper. She puts each toy at a different row of the shelf. She puts scotch tape as shown. The eye liner above candy wrapper. Candy wrapper under chair. On which row can the eye liner not be placed? A: 1,B: 2,C: 5,D: 4,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1202_grid3.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1202_grid9.png"
+    ],
+    "id": 1202
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich row is the house placed on?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Johnny has 6 toy objects: socks, a phone, a lamp, packing peanuts, a drawer, and a house. He puts each toy at a different row of the shelf. He puts phone as shown. The drawer lower to  house. Lamp higher to phone. House higher to lamp. On which row can the lamp not be placed? A: 2,B: 4,C: 6,D: 1,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1203_grid11.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1203_grid11.png"
+    ],
+    "id": 1203
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich toy item is placed in location 4?",
+        "role": "user"
+      },
+      {
+        "content": "Balloon",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich toy item is placed in location 5?",
+        "role": "user"
+      },
+      {
+        "content": "Pencil",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Emily has 5 toy items: glasses, clothes, a lotion, a balloon, and a pencil. She places each toy at a different location of the shelf. The glasses ahead of pencil and balloon ahead of pencil. Glasses ahead of clothes. She places clothes  as shown. On which location can the balloon not be placed? A: 1,B: 2,C: 4,D: 3,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1244_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1244_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1244_grid1.png"
+    ],
+    "id": 1244
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many positions to the right of the pillow is the sharpie placed?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Carl has 5 toy items: a candle, a rubber band, a pillow, a plastic fork, and a sharpie. He puts each toy at a different location of the shelf. He puts plastic fork as shown. The sharpie right of rubber band and sharpie right of candle. On which location can the candle not be placed? A: 2,B: 5,C: 4,D: 1,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1292_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1292_grid4.png"
+    ],
+    "id": 1292
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAt which location is the cup placed?",
+        "role": "user"
+      },
+      {
+        "content": "7",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nAt which location is the vase placed?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nAt which location is the vase placed?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nAt which location is the cup placed?",
+        "role": "user"
+      },
+      {
+        "content": "7",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nAt which location is the cup placed?",
+        "role": "user"
+      },
+      {
+        "content": "7",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nAt which location is the phone placed?",
+        "role": "user"
+      },
+      {
+        "content": "6",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Katherine has 7 toy objects: sun glasses, a cup, a clay pot, an ice cube tray, a helmet, a vase, and a phone. She places each toy at a different location of the shelf. She places vase as shown. The clay pot ahead of ice cube tray and sun glasses ahead of phone. Phone behind vase. Clay pot ahead of vase. On which location can the sun glasses not be placed? A: 2,B: 1,C: 7,D: 5,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1293_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1293_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1293_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1293_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1293_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1293_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1293_grid6.png"
+    ],
+    "id": 1293
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nOn which row is the needle placed?",
+        "role": "user"
+      },
+      {
+        "content": "7",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nOn which row is the lace placed?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich row is the lace placed above?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Rachel has 7 toy items: a shoe lace, a lace, teddies, a toe ring, a bow, a key chain, and a needle. She keeps each toy at a different row of the shelf. The shoe lace above teddies and lace above bow. Bow below teddies and needle below shoe lace. Bow below toe ring. She keeps key chain  as shown. On which row can the lace not be placed? A: 3,B: 5,C: 2,D: 7,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1327_grid11.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1327_grid11.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1327_grid11.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1327_grid3.png"
+    ],
+    "id": 1327
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIf the chocolate is on row 1 and the newspaper is on row 2, where can the keys be placed?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich row can the playing card be placed if the chocolate is in row 1 and the keys are in row 3?",
+        "role": "user"
+      },
+      {
+        "content": "4 or 5",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhere can the chocolate be placed if the newspaper is in row 2?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Rachel has 5 toy items: a chocolate, a tree, a newspaper, keys, and a playing card. She puts each toy at a different row of the shelf. The keys below newspaper and newspaper below chocolate. Chocolate above playing card. She puts newspaper  as shown. On which row can the tree not be placed? A: 2,B: 3,C: 4,D: 1,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1341_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1341_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1341_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1341_grid6.png"
+    ],
+    "id": 1341
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Albert has 5 toy objects: a beef, a slipper, a thermometer, a cup, and a blanket. He puts each toy at a different location of the shelf. He puts beef as shown. The blanket right of cup and blanket right of slipper. On which location can the slipper not be placed? A: 1,B: 2,C: 3,D: 5,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1350_grid1.png"
+    ],
+    "id": 1350
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich item is to the left of the face wash?",
+        "role": "user"
+      },
+      {
+        "content": "cork",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Katherine has 7 toy items: a cork, an eraser, a soap, a beef, a cat, a face wash, and a nail file. She places each toy at a different location of the shelf. She places face wash as shown. The beef right of cork. Cat right of soap and face wash right of cork. Cat right of beef. On which location can the soap not be placed? A: 2,B: 7,C: 6,D: 4,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1355_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1355_grid1.png"
+    ],
+    "id": 1355
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich row is the grid paper placed in?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich row is the cork placed in?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Anthony has 5 toy objects: a rug, a grid paper, a paper, a mirror, and a cork. He puts each toy at a different row of the shelf. The paper above cork and mirror under paper. Rug above mirror. He puts rug  as shown. On which row can the mirror not be placed? A: 2,B: 1,C: 5,D: 4,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1377_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1377_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1377_grid13.png"
+    ],
+    "id": 1377
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nOn which location is the sandal placed?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nOn which location is the hair tie placed?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nOn which location is the blanket placed?",
+        "role": "user"
+      },
+      {
+        "content": "8",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Holly has 8 toy items: a sandal, a face wash, a cork, a hair tie, flowers, a toothpaste, a blanket, and a glow stick. She keeps each toy at a different location of the shelf. She keeps face wash as shown. The toothpaste behind cork. Flowers behind face wash. Toothpaste ahead of glow stick and sandal ahead of hair tie. Sandal ahead of flowers. On which location can the blanket not be placed? A: 8,B: 4,C: 7,D: 3,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1389_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1389_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1389_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1389_grid1.png"
+    ],
+    "id": 1389
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Melissa has 6 toy objects: a bread, tooth picks, a soy sauce packet, a food, a pillow, and a greeting card. She keeps each toy at a different location of the shelf. The soy sauce packet right of tooth picks. Food right of tooth picks. Pillow right of soy sauce packet. She keeps greeting card  as shown. On which location can the food not be placed? A: 6,B: 5,C: 2,D: 4,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_139_grid1.png"
+    ],
+    "id": 139
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich item is ahead of the controller?",
+        "role": "user"
+      },
+      {
+        "content": "buckle",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Charles has 5 toy items: a zipper, a controller, a vase, a buckle, and a puddle. He keeps each toy at a different location of the shelf. He keeps vase as shown. The vase ahead of puddle. Zipper ahead of vase. On which location can the zipper not be placed? A: 2,B: 3,C: 4,D: 5,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1399_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1399_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1399_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1399_grid1.png"
+    ],
+    "id": 1399
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nOn which row is the balloon placed?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nOn which row is the keyboard placed?",
+        "role": "user"
+      },
+      {
+        "content": "6",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nOn which row is the keyboard placed?",
+        "role": "user"
+      },
+      {
+        "content": "7",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Mary has 7 toy items: a television, drill press, a keyboard, a tv, a balloon, a toilet, and a lamp shade. She puts each toy at a different row of the shelf. The toilet higher to keyboard. Lamp shade higher to television. Tv lower to  lamp shade and balloon higher to tv. She puts television  as shown. On which row can the keyboard not be placed? A: 1,B: 7,C: 6,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1418_grid11.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1418_grid13.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1418_grid13.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1418_grid13.png"
+    ],
+    "id": 1418
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich item is placed at location 5?",
+        "role": "user"
+      },
+      {
+        "content": "Seat belt",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Tina has 7 toy objects: packing peanuts, a spoon, a hair tie, a CD, shoes, a seat belt, and a desk. She keeps each toy at a different location of the shelf. The packing peanuts ahead of seat belt. Shoes behind spoon. Desk behind spoon. She keeps CD  as shown. On which location can the packing peanuts not be placed? A: 2,B: 7,C: 1,D: 3,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1423_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1423_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1423_grid6.png"
+    ],
+    "id": 1423
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nOn which row is the sofa placed?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Joseph has 6 toy objects: a sofa, a sidewalk, street lights, a pillow, a knife, and glass. He keeps each toy at a different row of the shelf. He keeps glass as shown. The street lights lower to  pillow and sofa lower to  sidewalk. Knife higher to pillow. On which row can the sofa not be placed? A: 1,B: 2,C: 5,D: 3,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1428_grid13.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1428_grid11.png"
+    ],
+    "id": 1428
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich toy is in slot 6?",
+        "role": "user"
+      },
+      {
+        "content": "socks",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Bridget has 6 toy items: a plastic fork, a pen, a car, a lace, teddies, and socks. She keeps each toy at a different location of the shelf. The teddies behind pen and car ahead of teddies. Pen ahead of socks. She keeps plastic fork  as shown. On which location can the car not be placed? A: 1,B: 4,C: 2,D: 6,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1460_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1460_grid6.png"
+    ],
+    "id": 1460
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Cristina has 6 toy items: a lotion, a CD, a house, a toilet, a toe ring, and an ice cube tray. She keeps each toy at a different location of the shelf. The ice cube tray behind CD and house ahead of toe ring. Ice cube tray behind house. She keeps CD  as shown. On which location can the toe ring not be placed? A: 1,B: 5,C: 2,D: 3,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1489_grid1.png"
+    ],
+    "id": 1489
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhere should the sketch pad be placed in relation to the magnet?",
+        "role": "user"
+      },
+      {
+        "content": "The sketch pad should be placed to the left of the magnet.",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Kevin has 5 toy objects: a phone, a magnet, coasters, a candy wrapper, and a sketch pad. He keeps each toy at a different location of the shelf. The phone ahead of candy wrapper. Phone ahead of coasters. He keeps magnet  as shown. On which location can the coasters not be placed? A: 5,B: 2,C: 3,D: 1,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1492_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1492_grid1.png"
+    ],
+    "id": 1492
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhere is the computer located?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhere is the charger located?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Pamela has 6 toy items: a computer, a checkbook, a charger, a table, a car, and a shirt. She keeps each toy at a different location of the shelf. The charger ahead of shirt and car behind checkbook. Computer ahead of checkbook. She keeps car  as shown. On which location can the charger not be placed? A: 3,B: 5,C: 2,D: 1,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_150_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_150_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_150_grid1.png"
+    ],
+    "id": 150
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich location is the outlet placed?",
+        "role": "user"
+      },
+      {
+        "content": "6",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Derrick has 7 toy items: a pool stick, a controller, a hanger, a hair brush, a white out, an outlet, and a tree. He puts each toy at a different location of the shelf. The hair brush ahead of tree and hanger ahead of outlet. Controller ahead of tree and hair brush behind controller. He puts white out  as shown. On which location can the hanger not be placed? A: 4,B: 1,C: 7,D: 6,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1506_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1506_grid6.png"
+    ],
+    "id": 1506
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIf the stockings are behind the model car, which location are they in?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhere is the model car placed?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhere are the clothes placed?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Pamela has 5 toy items: a model car, a sponge, stockings, clothes, and a bracelet. She keeps each toy at a different location of the shelf. The bracelet behind model car and bracelet behind stockings. She keeps model car  as shown. On which location can the sponge not be placed? A: 4,B: 5,C: 1,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_153_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_153_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_153_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_153_grid4.png"
+    ],
+    "id": 153
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhat is the relative position of the picture frame compared to the USB drive?",
+        "role": "user"
+      },
+      {
+        "content": "Lower",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Ariel has 5 toy items: a picture frame, a soy sauce packet, a doll, a key chain, and a USB drive. He places each toy at a different row of the shelf. He places USB drive as shown. The doll higher to picture frame and soy sauce packet higher to picture frame. USB drive higher to picture frame. On which row can the soy sauce packet not be placed? A: 1,B: 4,C: 5,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1546_grid11.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1546_grid6.png"
+    ],
+    "id": 1546
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhere is the clamp relative to the button?",
+        "role": "user"
+      },
+      {
+        "content": "left",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhere is the needle relative to the button?",
+        "role": "user"
+      },
+      {
+        "content": "left",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Kathryn has 5 toy items: a candy wrapper, a pool stick, a clamp, a needle, and a button. She puts each toy at a different location of the shelf. She puts button as shown. The candy wrapper left of needle. Pool stick left of clamp. On which location can the candy wrapper not be placed? A: 3,B: 2,C: 4,D: 5,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1547_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1547_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1547_grid1.png"
+    ],
+    "id": 1547
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Brenda has 6 toy items: street lights, a mouse pad, a tree, a rubber duck, stockings, and a phone. She places each toy at a different row of the shelf. The stockings below street lights and stockings below rubber duck. Street lights above rubber duck. She places stockings  as shown. On which row can the street lights not be placed? A: 4,B: 5,C: 1,D: 2,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1548_grid9.png"
+    ],
+    "id": 1548
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich location is the thermostat placed at?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich location is the mop placed at?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Mary has 8 toy items: a sponge, a bed, a food, a bag, a seat belt, a mop, a glow stick, and a thermostat. She puts each toy at a different location of the shelf. She puts seat belt as shown. The bed behind sponge. Bed ahead of food. Food ahead of glow stick and glow stick behind sponge. Glow stick behind mop. On which location can the mop not be placed? A: 1,B: 4,C: 7,D: 2,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1551_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1551_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1551_grid1.png"
+    ],
+    "id": 1551
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAt which location is the charger placed?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nAt which location are the shoes placed?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Kevin has 7 toy items: a magnet, a tree, a charger, shoes, a pen, a lamp, and a cat. He puts each toy at a different location of the shelf. The cat right of tree and magnet left of lamp. Shoes left of lamp and cat right of charger. Magnet left of cat. He puts tree  as shown. On which location can the charger not be placed? A: 1,B: 4,C: 7,D: 6,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1565_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1565_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1565_grid6.png"
+    ],
+    "id": 1565
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich location is the food placed?",
+        "role": "user"
+      },
+      {
+        "content": "6",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Christopher has 6 toy objects: a food, a needle, a screw, a car, a bowl, and a hair brush. He keeps each toy at a different location of the shelf. The hair brush right of screw and needle left of hair brush. Bowl right of screw. Hair brush right of food. He keeps bowl  as shown. On which location can the food not be placed? A: 1,B: 4,C: 6,D: 2,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_162_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_162_grid1.png"
+    ],
+    "id": 162
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Kathryn has 7 toy objects: a twister, lip gloss, shoes, a checkbook, a shawl, a picture frame, and a flag. She places each toy at a different location of the shelf. She places shawl as shown. The lip gloss ahead of shoes and picture frame behind shoes. Picture frame behind twister. Checkbook behind lip gloss. On which location can the twister not be placed? A: 3,B: 1,C: 2,D: 6,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1629_grid6.png"
+    ],
+    "id": 1629
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nOn which row is the magnet placed relative to the zipper?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Cristina has 5 toy items: a mp3 player, a lamp shade, a zipper, an ice cube tray, and a magnet. She places each toy at a different row of the shelf. She places zipper as shown. The lamp shade above zipper. Lamp shade under mp3 player. Magnet under mp3 player. On which row can the magnet not be placed? A: 1,B: 5,C: 2,D: 4,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1637_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1637_grid6.png"
+    ],
+    "id": 1637
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich position is to the left of the bananas if they are placed on position 4?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich position should the bananas be placed on to the left of position 5?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Christine has 5 toy items: a hair brush, bananas, an eraser, a towel, and carrots. She places each toy at a different location of the shelf. She places eraser as shown. The eraser right of bananas. Towel right of bananas. On which location can the bananas not be placed? A: 4,B: 3,C: 1,D: 2,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1704_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1704_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1704_grid1.png"
+    ],
+    "id": 1704
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn which row is the water bottle placed above the mouse pad?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Katherine has 5 toy objects: keys, a water bottle, a mouse pad, a computer, and a hair brush. She puts each toy at a different row of the shelf. The computer under water bottle. Computer under keys and water bottle above mouse pad. She puts mouse pad  as shown. On which row can the keys not be placed? A: 2,B: 5,C: 1,D: 3,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1734_grid11.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1734_grid9.png"
+    ],
+    "id": 1734
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Charles has 5 toy items: a keyboard, a twister, a bread, a camera, and a stop sign. He puts each toy at a different row of the shelf. The keyboard above camera and keyboard above stop sign. He puts bread  as shown. On which row can the camera not be placed? A: 1,B: 2,C: 3,D: 4,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1738_grid13.png"
+    ],
+    "id": 1738
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich location is right of the zipper?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich location is right of the ipod?",
+        "role": "user"
+      },
+      {
+        "content": "The location right of the ipod is 4.",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Lisa has 7 toy objects: an ipod, a toe ring, a zipper, a shirt, video games, street lights, and a mop. She puts each toy at a different location of the shelf. She puts zipper as shown. The toe ring right of ipod and mop right of ipod. Shirt right of zipper and ipod left of zipper. On which location can the toe ring not be placed? A: 1,B: 3,C: 2,D: 6,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1739_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1739_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1739_grid6.png"
+    ],
+    "id": 1739
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich location is the hair tie in?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhat is the location of the drill press?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Amber has 5 toy objects: a rubber band, a hair tie, a computer, drill press, and a milk. She keeps each toy at a different location of the shelf. The computer behind rubber band. Milk behind rubber band. She keeps rubber band  as shown. On which location can the computer not be placed? A: 4,B: 3,C: 2,D: 1,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1743_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1743_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1743_grid1.png"
+    ],
+    "id": 1743
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nOn which row should the seat belt be placed?",
+        "role": "user"
+      },
+      {
+        "content": "7",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nOn which row should the cell phone be placed?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhere does Tracy put the cell phone in relation to the coasters?",
+        "role": "user"
+      },
+      {
+        "content": "Lower",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Tracy has 5 toy items: a cell phone, coasters, a shirt, a white out, and a seat belt. She puts each toy at a different row of the shelf. The white out higher to coasters. Coasters higher to cell phone. Shirt lower to  white out. She puts white out  as shown. On which row can the cell phone not be placed? A: 3,B: 4,C: 2,D: 1,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1777_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1777_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1777_grid3.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1777_grid3.png"
+    ],
+    "id": 1777
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich toy is at location 2?",
+        "role": "user"
+      },
+      {
+        "content": "flowers",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich toy is at location 5?",
+        "role": "user"
+      },
+      {
+        "content": "lip gloss",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich toy is at location 6?",
+        "role": "user"
+      },
+      {
+        "content": "shovel",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Karen has 8 toy objects: a plate, a boom box, a mouse pad, a phone, flowers, a shovel, lip gloss, and a hair brush. She puts each toy at a different location of the shelf. She puts phone as shown. The plate left of lip gloss. Mouse pad left of hair brush. Boom box left of flowers. Shovel left of lip gloss. Hair brush right of lip gloss. On which location can the boom box not be placed? A: 8,B: 3,C: 4,D: 1,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_179_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_179_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_179_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_179_grid6.png"
+    ],
+    "id": 179
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Pamela has 6 toy objects: a rubber duck, a white out, a credit card, a pencil, a truck, and a bread. She puts each toy at a different location of the shelf. The rubber duck left of bread and pencil right of white out. Rubber duck left of white out. She puts truck  as shown. On which location can the bread not be placed? A: 4,B: 5,C: 6,D: 1,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_185_grid1.png"
+    ],
+    "id": 185
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhere is the wallet placed?",
+        "role": "user"
+      },
+      {
+        "content": "Location 3",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Kristin has 6 toy items: a milk, a chalk, a wallet, glass, a candy wrapper, and pants. She keeps each toy at a different location of the shelf. The wallet left of pants and candy wrapper left of pants. Candy wrapper right of glass. She keeps chalk  as shown. On which location can the wallet not be placed? A: 6,B: 1,C: 3,D: 4,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1872_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1872_grid6.png"
+    ],
+    "id": 1872
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nOn which location can the milk be placed?",
+        "role": "user"
+      },
+      {
+        "content": "7",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nOn which location can the nail file be placed?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nOn which location can the bottle cap be placed?",
+        "role": "user"
+      },
+      {
+        "content": "6",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Derrick has 7 toy items: a nail file, a rubber band, a hair tie, a bottle cap, an air freshener, a charger, and a milk. He puts each toy at a different location of the shelf. The hair tie left of charger and nail file left of rubber band. Milk right of hair tie and milk right of charger. Milk right of air freshener. He puts air freshener  as shown. On which location can the nail file not be placed? A: 7,B: 3,C: 1,D: 6,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1894_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1894_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1894_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1894_grid6.png"
+    ],
+    "id": 1894
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhere is the outlet placed?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhere is the purse placed?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Kathryn has 5 toy items: a mp3 player, a food, a purse, a desk, and an outlet. She keeps each toy at a different location of the shelf. She keeps desk as shown. The purse right of mp3 player. Purse left of desk. Purse right of food. On which location can the mp3 player not be placed? A: 1,B: 2,C: 5,D: 4,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1905_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1905_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1905_grid1.png"
+    ],
+    "id": 1905
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nOn which location is the bottle placed?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich item is on location 1?",
+        "role": "user"
+      },
+      {
+        "content": "Bottle",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Jerry has 5 toy objects: a CD, a model car, a shovel, a bottle, and a white out. He puts each toy at a different location of the shelf. The shovel right of model car and cD left of model car. Shovel left of white out. He puts shovel  as shown. On which location can the bottle not be placed? A: 4,B: 1,C: 5,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_191_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_191_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_191_grid1.png"
+    ],
+    "id": 191
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhat is higher than the plastic fork?",
+        "role": "user"
+      },
+      {
+        "content": "hair brush",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhat is higher than the remote?",
+        "role": "user"
+      },
+      {
+        "content": "mirror",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhat is higher than the chair?",
+        "role": "user"
+      },
+      {
+        "content": "lamp shade",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Rachel has 6 toy objects: a plastic fork, a lamp shade, a chair, a hair brush, a remote, and a mirror. She places each toy at a different row of the shelf. The hair brush higher to plastic fork. Chair lower to  mirror. Chair higher to plastic fork. She places plastic fork  as shown. On which row can the hair brush not be placed? A: 5,B: 6,C: 1,D: 4,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1910_grid11.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1910_grid13.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1910_grid11.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1910_grid6.png"
+    ],
+    "id": 1910
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: John has 6 toy objects: an ice cube tray, a pillow, a clay pot, a tree, a hair tie, and a blanket. He puts each toy at a different row of the shelf. The blanket under tree. Pillow above hair tie and pillow above clay pot. Blanket under clay pot. He puts ice cube tray  as shown. On which row can the tree not be placed? A: 5,B: 2,C: 6,D: 3,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1911_grid9.png"
+    ],
+    "id": 1911
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nOn which row must the air freshener be placed when the eraser is above the candy wrapper?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Justin has 5 toy items: a thermostat, a candy wrapper, an air freshener, stockings, and an eraser. He keeps each toy at a different row of the shelf. The stockings below thermostat. Stockings above eraser and eraser below air freshener. He keeps candy wrapper  as shown. On which row can the air freshener not be placed? A: 1,B: 5,C: 4,D: 2,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1914_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1914_grid5.png"
+    ],
+    "id": 1914
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhere is the sketch pad placed?",
+        "role": "user"
+      },
+      {
+        "content": "Position 7",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Jasmine has 7 toy objects: a sketch pad, a sticky note, a tv, canvas, an ipod, a candle, and a flag. She places each toy at a different location of the shelf. She places candle as shown. The ipod right of sticky note. Ipod right of canvas and candle left of flag. Sketch pad left of flag. On which location can the sketch pad not be placed? A: 2,B: 6,C: 3,D: 7,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1916_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1916_grid6.png"
+    ],
+    "id": 1916
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhere is the car placed?",
+        "role": "user"
+      },
+      {
+        "content": "Row 6",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich row is the cup placed?",
+        "role": "user"
+      },
+      {
+        "content": "Row 2",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Thomas has 7 toy items: a doll, a car, a cup, a picture frame, a toothbrush, a candy wrapper, and a vase. He keeps each toy at a different row of the shelf. The toothbrush under picture frame. Doll above cup. Doll above candy wrapper. He keeps vase  as shown. On which row can the cup not be placed? A: 1,B: 4,C: 6,D: 7,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1922_grid13.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1922_grid13.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1922_grid13.png"
+    ],
+    "id": 1922
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nOn which row can the house not be placed, given that it is placed lower than the tree?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nOn which row can the house be placed if the vase is on row 3?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Anthony has 5 toy items: a house, a tree, a vase, a slipper, and a shovel. He places each toy at a different row of the shelf. The house lower to  vase and vase higher to tree. House lower to  tree. He places tree  as shown. On which row can the house not be placed? A: 4,B: 3,C: 2,D: 1,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1929_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1929_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1929_grid9.png"
+    ],
+    "id": 1929
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nOn which row can the teddies be placed if they must be below the sketch pad?",
+        "role": "user"
+      },
+      {
+        "content": "3, 4, 5",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Emily has 5 toy items: a sketch pad, fake flowers, a helmet, a key chain, and teddies. She places each toy at a different row of the shelf. She places sketch pad as shown. The key chain above teddies. Sketch pad above teddies. On which row can the key chain not be placed? A: 3,B: 5,C: 1,D: 4,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1936_grid11.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1936_grid3.png"
+    ],
+    "id": 1936
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhere is the tissue box placed?",
+        "role": "user"
+      },
+      {
+        "content": "7",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhere is the slipper placed?",
+        "role": "user"
+      },
+      {
+        "content": "8",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Justin has 8 toy items: headphones, a buckle, a lamp, a slipper, a tissue box, a white out, a sticky note, and a sand paper. He places each toy at a different location of the shelf. The buckle ahead of lamp. Sand paper behind sticky note. Headphones ahead of lamp and white out ahead of sand paper. White out behind headphones. He places lamp  as shown. On which location can the sticky note not be placed? A: 8,B: 3,C: 1,D: 6,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1941_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1941_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1941_grid4.png"
+    ],
+    "id": 1941
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nOn which row can the video games be placed?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nOn which row can the cinder block be placed?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nOn which row can the chapter book be placed?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Sandra has 6 toy items: video games, an apple, shoes, a knife, a chapter book, and a cinder block. She keeps each toy at a different row of the shelf. She keeps knife as shown. The video games above chapter book and chapter book below apple. Video games above knife. On which row can the video games not be placed? A: 1,B: 6,C: 5,D: 4,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1943_grid11.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1943_grid13.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1943_grid11.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1943_grid11.png"
+    ],
+    "id": 1943
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nGiven that the nail file must be in position 1 and the vase can be in positions 3 or 4, on which positions can the rusty nail be placed?",
+        "role": "user"
+      },
+      {
+        "content": "2 or 3",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: William has 5 toy items: a rusty nail, a toothpaste, a nail file, a vase, and a floor. He places each toy at a different location of the shelf. He places floor as shown. The rusty nail ahead of vase. Nail file ahead of vase. On which location can the rusty nail not be placed? A: 2,B: 4,C: 1,D: 3,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1956_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1956_grid4.png"
+    ],
+    "id": 1956
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhere should the lotion be placed?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhere should the truck be placed?",
+        "role": "user"
+      },
+      {
+        "content": "Below the carrots, which are on row 3.",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhere should the iPod be placed?",
+        "role": "user"
+      },
+      {
+        "content": "6",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Charles has 6 toy objects: carrots, a lotion, a bracelet, a truck, a soy sauce packet, and an ipod. He places each toy at a different row of the shelf. The ipod under lotion and carrots above lotion. Truck under carrots. Ipod under bracelet. He places bracelet  as shown. On which row can the soy sauce packet not be placed? A: 1,B: 6,C: 3,D: 5,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1958_grid11.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1958_grid13.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1958_grid11.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1958_grid11.png"
+    ],
+    "id": 1958
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nOn which location is the cookie jar placed?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nOn which location is the keyboard placed?",
+        "role": "user"
+      },
+      {
+        "content": "6",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nOn which location is the lace placed?",
+        "role": "user"
+      },
+      {
+        "content": "7",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: John has 8 toy objects: a balloon, a sharpie, a lotion, a cookie jar, a bag, a lace, a water bottle, and a keyboard. He puts each toy at a different location of the shelf. The bag left of water bottle. Sharpie right of balloon. Water bottle right of cookie jar. Keyboard right of cookie jar. Keyboard right of sharpie. Sharpie left of lace. He puts balloon  as shown. On which location can the bag not be placed? A: 6,B: 7,C: 5,D: 8,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1959_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1959_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1959_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1959_grid1.png"
+    ],
+    "id": 1959
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAt which location is the cat placed?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nAt which location is the boom box placed?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nAt which location is the apple placed?",
+        "role": "user"
+      },
+      {
+        "content": "6",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Tina has 8 toy objects: an apple, an eye liner, a plate, a boom box, a monitor, a cat, a conditioner, and a rubber band. She puts each toy at a different location of the shelf. She puts conditioner as shown. The monitor ahead of cat. Eye liner ahead of plate. Conditioner behind plate. Plate behind apple. On which location can the apple not be placed? A: 7,B: 4,C: 1,D: 2,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1960_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1960_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1960_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1960_grid1.png"
+    ],
+    "id": 1960
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhere is the pencil placed?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Michelle has 7 toy items: a pencil, a plate, a phone, a tomato, a spoon, a doll, and a shawl. She keeps each toy at a different location of the shelf. She keeps tomato as shown. The shawl behind phone. Tomato ahead of shawl. Pencil ahead of tomato. Phone behind pencil and spoon behind pencil. On which location can the plate not be placed? A: 7,B: 4,C: 1,D: 2,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1988_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1988_grid6.png"
+    ],
+    "id": 1988
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich toy is placed on location 1?",
+        "role": "user"
+      },
+      {
+        "content": "Magnet",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich toy is placed on location 1?",
+        "role": "user"
+      },
+      {
+        "content": "Magnet",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich toy is placed on location 1?",
+        "role": "user"
+      },
+      {
+        "content": "Magnet",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich toy is placed on location 1?",
+        "role": "user"
+      },
+      {
+        "content": "Magnet",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich toy is placed on location 1?",
+        "role": "user"
+      },
+      {
+        "content": "Magnet",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich toy is placed on location 2?",
+        "role": "user"
+      },
+      {
+        "content": "Plate",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich toy is placed on location 2?",
+        "role": "user"
+      },
+      {
+        "content": "Plate",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich toy is placed on location 2?",
+        "role": "user"
+      },
+      {
+        "content": "Plate",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich toy is placed on location 2?",
+        "role": "user"
+      },
+      {
+        "content": "Plate",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich toy is placed on location 2?",
+        "role": "user"
+      },
+      {
+        "content": "Plate",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich toy is placed on location 3?",
+        "role": "user"
+      },
+      {
+        "content": "Bookmark",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich toy is placed on location 3?",
+        "role": "user"
+      },
+      {
+        "content": "Bookmark",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich toy is placed on location 3?",
+        "role": "user"
+      },
+      {
+        "content": "Bookmark",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich toy is placed on location 3?",
+        "role": "user"
+      },
+      {
+        "content": "Bookmark",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich toy is placed on location 3?",
+        "role": "user"
+      },
+      {
+        "content": "Bookmark",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich toy is placed on location 4?",
+        "role": "user"
+      },
+      {
+        "content": "Fridge",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich toy is placed on location 4?",
+        "role": "user"
+      },
+      {
+        "content": "Fridge",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich toy is placed on location 4?",
+        "role": "user"
+      },
+      {
+        "content": "Fridge",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich toy is placed on location 4?",
+        "role": "user"
+      },
+      {
+        "content": "Fridge",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich toy is placed on location 4?",
+        "role": "user"
+      },
+      {
+        "content": "Fridge",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich toy is placed on location 5?",
+        "role": "user"
+      },
+      {
+        "content": "Credit card",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich toy is placed on location 5?",
+        "role": "user"
+      },
+      {
+        "content": "Credit card",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich toy is placed on location 5?",
+        "role": "user"
+      },
+      {
+        "content": "Credit card",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich toy is placed on location 5?",
+        "role": "user"
+      },
+      {
+        "content": "Credit card",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich toy is placed on location 5?",
+        "role": "user"
+      },
+      {
+        "content": "Credit card",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Bruce has 5 toy items: a plate, a fridge, a credit card, a magnet, and a bookmark. He puts each toy at a different location of the shelf. The fridge right of plate and credit card right of plate. Plate left of bookmark. He puts bookmark  as shown. On which location can the fridge not be placed? A: 4,B: 5,C: 3,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1990_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1990_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1990_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1990_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1990_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1990_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1990_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1990_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1990_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1990_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1990_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1990_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1990_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1990_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1990_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1990_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1990_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1990_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1990_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1990_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1990_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1990_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1990_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1990_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1990_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1990_grid1.png"
+    ],
+    "id": 1990
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIf the blouse is in position 6 and the hair tie is in position 5, where can the washing machine be placed?",
+        "role": "user"
+      },
+      {
+        "content": "1, 2, or 3",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhere can the bananas be placed if the washing machine must be to the left of them?",
+        "role": "user"
+      },
+      {
+        "content": "4, 5, or 6",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nConsidering the blouse is in position 6 and the hair tie is in position 5, where can the needle not be placed?",
+        "role": "user"
+      },
+      {
+        "content": "2, 3, 5, 6",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Felicia has 6 toy objects: a needle, a washing machine, bananas, a blouse, a hair tie, and an ice cube tray. She puts each toy at a different location of the shelf. She puts blouse as shown. The hair tie right of needle. Washing machine left of bananas and blouse right of needle. Washing machine left of hair tie. On which location can the needle not be placed? A: 1,B: 5,C: 4,D: 3,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1998_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1998_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1998_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_1998_grid6.png"
+    ],
+    "id": 1998
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhere can the newspaper not be placed?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhere can the lace not be placed?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Charles has 6 toy items: a lace, a remote, a greeting card, a newspaper, clothes, and sun glasses. He keeps each toy at a different location of the shelf. He keeps remote as shown. The clothes left of sun glasses. Lace left of newspaper and remote left of newspaper. Newspaper left of sun glasses. On which location can the clothes not be placed? A: 4,B: 6,C: 5,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_222_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_222_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_222_grid6.png"
+    ],
+    "id": 222
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich items are placed behind the pencil?",
+        "role": "user"
+      },
+      {
+        "content": "button, knife, newspaper",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Nicholas has 5 toy items: a pencil, a tire swing, a newspaper, a button, and a knife. He puts each toy at a different location of the shelf. He puts tire swing as shown. The pencil ahead of newspaper and button behind pencil. Knife behind pencil. On which location can the newspaper not be placed? A: 4,B: 1,C: 2,D: 5,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_257_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_257_grid1.png"
+    ],
+    "id": 257
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nOn which row is the perfume placed?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Robert has 6 toy objects: a perfume, a fork, a pencil, a knife, a car, and socks. He places each toy at a different row of the shelf. The perfume above fork. Knife above car. Pencil below perfume and car below pencil. He places car  as shown. On which row can the fork not be placed? A: 2,B: 6,C: 5,D: 1,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_259_grid11.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_259_grid13.png"
+    ],
+    "id": 259
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIs the photo album placed on row 4?",
+        "role": "user"
+      },
+      {
+        "content": "No",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nIs the photo album placed on row 2?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nIs the photo album placed on row 1?",
+        "role": "user"
+      },
+      {
+        "content": "No",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Kevin has 5 toy objects: a clamp, a needle, a photo album, a deodorant, and nail clippers. He keeps each toy at a different row of the shelf. He keeps deodorant as shown. The photo album higher to clamp and photo album lower to  deodorant. On which row can the clamp not be placed? A: 4,B: 3,C: 2,D: 1,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_261_grid11.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_261_grid11.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_261_grid11.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_261_grid13.png"
+    ],
+    "id": 261
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nOn which row is the paper placed?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nOn which row can the bed be placed?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich row can the purse be placed on?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Frank has 5 toy items: leg warmers, a paper, a bed, a sidewalk, and a purse. He places each toy at a different row of the shelf. He places sidewalk as shown. The leg warmers above sidewalk and paper above bed. Sidewalk below bed. On which row can the paper not be placed? A: 3,B: 1,C: 2,D: 5,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_273_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_273_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_273_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_273_grid8.png"
+    ],
+    "id": 273
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich location does the screw occupy?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich location does the carrots occupy?",
+        "role": "user"
+      },
+      {
+        "content": "6",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich location does the cup occupy?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Nathan has 6 toy items: coasters, a screw, a cup, carrots, a ring, and a checkbook. He places each toy at a different location of the shelf. He places coasters as shown. The checkbook right of coasters and coasters left of ring. Cup left of checkbook and carrots right of coasters. On which location can the cup not be placed? A: 5,B: 3,C: 6,D: 4,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_283_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_283_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_283_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_283_grid6.png"
+    ],
+    "id": 283
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Gina has 5 toy items: a blanket, a mirror, a hair tie, a clamp, and a bed. She puts each toy at a different location of the shelf. She puts clamp as shown. The hair tie ahead of clamp. Mirror ahead of hair tie and blanket ahead of hair tie. On which location can the blanket not be placed? A: 1,B: 4,C: 5,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_286_grid1.png"
+    ],
+    "id": 286
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn what position is the lampshade placed?",
+        "role": "user"
+      },
+      {
+        "content": "Position 6",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Melissa has 7 toy items: a phone, an outlet, a picture frame, a door, a lamp shade, a rubber duck, and a sidewalk. She places each toy at a different location of the shelf. She places lamp shade as shown. The outlet ahead of picture frame and door behind phone. Door behind picture frame and sidewalk behind lamp shade. On which location can the rubber duck not be placed? A: 6,B: 4,C: 2,D: 7,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_322_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_322_grid6.png"
+    ],
+    "id": 322
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Chelsea has 6 toy items: teddies, packing peanuts, a car, lip gloss, a mop, and a soy sauce packet. She places each toy at a different location of the shelf. She places mop as shown. The mop right of car. Packing peanuts left of mop. Teddies left of lip gloss. On which location can the teddies not be placed? A: 1,B: 3,C: 4,D: 5,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_327_grid1.png"
+    ],
+    "id": 327
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nOn which location is the thermostat placed?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nOn which location is the perfume placed?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nOn which location is the pencil placed?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Pamela has 5 toy objects: a pencil, a perfume, a checkbook, a thermostat, and a purse. She keeps each toy at a different location of the shelf. She keeps checkbook as shown. The thermostat behind perfume. Checkbook behind pencil. On which location can the perfume not be placed? A: 5,B: 3,C: 4,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_35_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_35_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_35_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_35_grid1.png"
+    ],
+    "id": 35
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nOn which row is the hanger placed?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nOn which row is the white out placed?",
+        "role": "user"
+      },
+      {
+        "content": "8",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nOn which row is the tissue box placed?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Paul has 8 toy items: a tissue box, a white out, a hanger, video games, a cork, a cell phone, a soy sauce packet, and a balloon. He puts each toy at a different row of the shelf. He puts cell phone as shown. The tissue box lower to  cell phone and cork lower to  balloon. White out lower to  balloon. Video games lower to  cork and video games higher to tissue box. Video games lower to  cell phone. On which row can the white out not be placed? A: 8,B: 3,C: 1,D: 5,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_353_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_353_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_353_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_353_grid5.png"
+    ],
+    "id": 353
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nCan the helmet be placed on the first row?",
+        "role": "user"
+      },
+      {
+        "content": "No",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nOn which row can the pants be placed?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nOn which row can the plastic fork be placed?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Jon has 5 toy objects: a plastic fork, pants, a vase, a helmet, and a brocolli. He keeps each toy at a different row of the shelf. The vase under plastic fork. Brocolli under plastic fork. He keeps vase  as shown. On which row can the plastic fork not be placed? A: 2,B: 3,C: 4,D: 5,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_363_grid9.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_363_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_363_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_363_grid9.png"
+    ],
+    "id": 363
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich row can the packing peanuts be placed if they need to be below the checkbook?",
+        "role": "user"
+      },
+      {
+        "content": "Rows 3, 4, 5, or 6",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich row are the packing peanuts placed on?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Amber has 6 toy objects: a checkbook, fake flowers, packing peanuts, tooth picks, a thermometer, and a bottle. She places each toy at a different row of the shelf. She places thermometer as shown. The checkbook above tooth picks and checkbook above bottle. Checkbook above packing peanuts. On which row can the packing peanuts not be placed? A: 2,B: 4,C: 5,D: 1,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_404_grid13.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_404_grid13.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_404_grid9.png"
+    ],
+    "id": 404
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIs the soy sauce packet at location 5?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nIs the bowl at location 6?",
+        "role": "user"
+      },
+      {
+        "content": "No",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nIs the bowl at location 7?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Tyler has 8 toy objects: a bookmark, a soy sauce packet, an ice cube tray, a boom box, speakers, a newspaper, a bowl, and a twister. She keeps each toy at a different location of the shelf. The soy sauce packet left of bowl and speakers left of newspaper. Boom box left of twister and speakers right of ice cube tray. Bowl right of ice cube tray. She keeps ice cube tray  as shown. On which location can the soy sauce packet not be placed? A: 1,B: 2,C: 4,D: 8,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_416_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_416_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_416_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_416_grid1.png"
+    ],
+    "id": 416
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nOn which location is the wagon placed?",
+        "role": "user"
+      },
+      {
+        "content": "?",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich object is at location 2?",
+        "role": "user"
+      },
+      {
+        "content": "The wagon",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich object is at location 1?",
+        "role": "user"
+      },
+      {
+        "content": "The cookie jar",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Katherine has 5 toy objects: a purse, a cookie jar, a lamp, a helmet, and a wagon. She keeps each toy at a different location of the shelf. The cookie jar left of helmet and helmet right of lamp. She keeps purse  as shown. On which location can the cookie jar not be placed? A: 3,B: 1,C: 4,D: 5,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_435_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_435_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_435_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_435_grid1.png"
+    ],
+    "id": 435
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich item is to the right of the tomato?",
+        "role": "user"
+      },
+      {
+        "content": "There is no item to the right of the tomato",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhere is the tomato placed?",
+        "role": "user"
+      },
+      {
+        "content": "There is no item to the right of the tomato",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhere is the mirror placed?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Joseph has 5 toy objects: a candle, a perfume, a mirror, a food, and a tomato. He places each toy at a different location of the shelf. The mirror left of food and food right of candle. Candle left of mirror. He places food  as shown. On which location can the candle not be placed? A: 3,B: 2,C: 1,D: 4,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_438_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_438_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_438_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_438_grid1.png"
+    ],
+    "id": 438
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nOn which row is the shirt placed?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Karen has 5 toy objects: a brocolli, a USB drive, an eraser, a shirt, and a picture frame. She puts each toy at a different row of the shelf. She puts picture frame as shown. The eraser lower to  picture frame. Brocolli lower to  eraser. Picture frame higher to USB drive. On which row can the USB drive not be placed? A: 2,B: 3,C: 1,D: 5,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_470_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_470_grid9.png"
+    ],
+    "id": 470
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAt which location is the lip gloss placed?",
+        "role": "user"
+      },
+      {
+        "content": "Lip gloss is placed at location 5",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nConsidering that the lip gloss is placed at location 5, which locations are still available for the fork?",
+        "role": "user"
+      },
+      {
+        "content": "1, 2, and 4",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Gabriel has 5 toy items: a fork, lip gloss, stockings, a blanket, and a ring. He places each toy at a different location of the shelf. The fork ahead of blanket. Ring behind stockings. He places stockings  as shown. On which location can the fork not be placed? A: 3,B: 1,C: 5,D: 4,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_479_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_479_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_479_grid1.png"
+    ],
+    "id": 479
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn which location is the broccoli placed?",
+        "role": "user"
+      },
+      {
+        "content": "6",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nIn which location is the lotion placed?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Melissa has 7 toy items: a lotion, canvas, a brocolli, a television, a clamp, a key chain, and a pencil. She keeps each toy at a different location of the shelf. She keeps television as shown. The key chain behind clamp. Key chain behind television. Pencil behind lotion. Pencil behind key chain and key chain behind canvas. On which location can the lotion not be placed? A: 5,B: 7,C: 4,D: 6,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_505_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_505_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_505_grid6.png"
+    ],
+    "id": 505
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhere can the camera be placed?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhere are the teddies located?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhere is the truck located?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Erin has 5 toy items: a truck, a cinder block, teddies, a camera, and coasters. She keeps each toy at a different location of the shelf. She keeps coasters as shown. The cinder block ahead of teddies and camera behind teddies. Truck ahead of camera. On which location can the truck not be placed? A: 1,B: 4,C: 3,D: 2,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_531_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_531_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_531_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_531_grid4.png"
+    ],
+    "id": 531
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAt which position is the cat placed if it is not at position 4?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Catherine has 5 toy objects: a rubber duck, a window, a cat, a toe ring, and a milk. She places each toy at a different location of the shelf. She places toe ring as shown. The rubber duck left of milk and window left of toe ring. On which location can the rubber duck not be placed? A: 1,B: 3,C: 5,D: 2,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_554_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_554_grid1.png"
+    ],
+    "id": 554
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhat item is in position 4?",
+        "role": "user"
+      },
+      {
+        "content": "tree",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhat item is in position 5?",
+        "role": "user"
+      },
+      {
+        "content": "rubber duck",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Karen has 6 toy items: a lotion, a tissue box, a seat belt, a puddle, a tree, and a rubber duck. She keeps each toy at a different location of the shelf. The puddle left of rubber duck. Rubber duck right of tree and tree right of tissue box. Seat belt left of tree. She keeps lotion  as shown. On which location can the puddle not be placed? A: 6,B: 1,C: 5,D: 4,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_559_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_559_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_559_grid6.png"
+    ],
+    "id": 559
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nGiven that the bowl is at position 2, the cinder block is at 3, and the air freshener is at position 4, where can the magnet not be placed?",
+        "role": "user"
+      },
+      {
+        "content": "3 or 4",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nGiven that the bowl is at position 2, the cinder block is at 3, and the air freshener is at position 4, where can the food not be placed?",
+        "role": "user"
+      },
+      {
+        "content": "2, 3, or 4",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nGiven that the bowl is at position 2, the cinder block is at 3, and the air freshener is at position 4, where can the magnet be placed?",
+        "role": "user"
+      },
+      {
+        "content": "1, 5, or 6",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Jon has 6 toy objects: nail clippers, a bowl, a cinder block, a food, a magnet, and an air freshener. He keeps each toy at a different location of the shelf. The bowl left of magnet. Cinder block left of air freshener and air freshener right of bowl. He keeps air freshener  as shown. On which location can the magnet not be placed? A: 4,B: 5,C: 1,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_57_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_57_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_57_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_57_grid1.png"
+    ],
+    "id": 57
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nOn which row is the white out under the flag placed?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nOn which row is the seat belt under the mp3 player placed?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Ariel has 6 toy objects: a bed, a mp3 player, a credit card, a flag, a white out, and a seat belt. He keeps each toy at a different row of the shelf. He keeps flag as shown. The seat belt under mp3 player and white out under flag. Mp3 player above flag. On which row can the seat belt not be placed? A: 4,B: 3,C: 1,D: 2,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_570_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_570_grid11.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_570_grid11.png"
+    ],
+    "id": 570
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Victor has 6 toy items: a picture frame, a USB drive, a sandal, a bowl, a purse, and a chocolate. He keeps each toy at a different location of the shelf. The sandal ahead of purse and purse behind picture frame. Picture frame ahead of chocolate. Chocolate behind bowl. He keeps USB drive  as shown. On which location can the sandal not be placed? A: 4,B: 6,C: 2,D: 3,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_573_grid6.png"
+    ],
+    "id": 573
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich objects are to the right of the sandal?",
+        "role": "user"
+      },
+      {
+        "content": "ice cube tray",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich objects are to the right of the newspaper?",
+        "role": "user"
+      },
+      {
+        "content": "mouse pad, sandal, ice cube tray",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich location is left of both the sandal and the ice cube tray?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: William has 5 toy objects: a newspaper, an ice cube tray, a camera, a mouse pad, and a sandal. He keeps each toy at a different location of the shelf. He keeps camera as shown. The newspaper left of sandal and mouse pad left of sandal. Newspaper left of ice cube tray. On which location can the ice cube tray not be placed? A: 1,B: 3,C: 4,D: 2,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_598_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_598_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_598_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_598_grid4.png"
+    ],
+    "id": 598
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nOn which location can the monitor be placed if the sand paper is at location 3?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich location can the teddies be placed if the monitor is in location 2?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Christopher has 5 toy objects: a monitor, teddies, a sand paper, a rubber band, and lip gloss. He puts each toy at a different location of the shelf. The rubber band right of monitor. Sand paper left of rubber band and rubber band right of teddies. He puts lip gloss  as shown. On which location can the monitor not be placed? A: 4,B: 2,C: 3,D: 1,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_606_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_606_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_606_grid4.png"
+    ],
+    "id": 606
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nOn which row is the vase placed?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nOn which row is the chocolate placed?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Kevin has 5 toy objects: canvas, a chocolate, a mop, a sponge, and a vase. He keeps each toy at a different row of the shelf. The mop under chocolate and mop above sponge. He keeps sponge  as shown. On which row can the chocolate not be placed? A: 5,B: 3,C: 2,D: 1,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_644_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_644_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_644_grid9.png"
+    ],
+    "id": 644
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nCan the newspaper be placed in Position 4 or 5, given that it cannot be in positions 1, 2, and 3?",
+        "role": "user"
+      },
+      {
+        "content": "Yes, the newspaper can be placed in either Position 4 or 5.",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nSince the newspaper can be placed in either Position 4 or 5, where can the chalk be placed given it is behind the newspaper?",
+        "role": "user"
+      },
+      {
+        "content": "Position 5 if the newspaper is in Position 4.",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Mary has 5 toy objects: a newspaper, a mouse pad, a bowl, a chalk, and teddies. She puts each toy at a different location of the shelf. The bowl ahead of teddies. Chalk behind newspaper. She puts chalk  as shown. On which location can the mouse pad not be placed? A: 3,B: 1,C: 2,D: 4,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_673_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_673_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_673_grid1.png"
+    ],
+    "id": 673
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: John has 7 toy items: a pool stick, headphones, an air freshener, a plate, a blouse, a seat belt, and tooth picks. He places each toy at a different location of the shelf. He places headphones as shown. The pool stick left of plate and seat belt right of pool stick. Air freshener left of tooth picks. Tooth picks right of seat belt. Plate left of blouse. On which location can the air freshener not be placed? A: 2,B: 3,C: 7,D: 4,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_677_grid6.png"
+    ],
+    "id": 677
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Albert has 5 toy items: a rubber duck, a paint brush, a needle, a USB drive, and a rug. He places each toy at a different location of the shelf. The paint brush ahead of USB drive. Rug behind rubber duck. He places rug  as shown. On which location can the paint brush not be placed? A: 5,B: 1,C: 4,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_689_grid4.png"
+    ],
+    "id": 689
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Lisa has 6 toy objects: a sand paper, a sofa, a lamp, a charger, a clock, and bananas. She places each toy at a different location of the shelf. The bananas right of lamp. Charger right of sand paper and bananas right of clock. She places sofa  as shown. On which location can the sand paper not be placed? A: 4,B: 3,C: 1,D: 6,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_703_grid1.png"
+    ],
+    "id": 703
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich row is the sidewalk placed on?",
+        "role": "user"
+      },
+      {
+        "content": "Row 1",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Jorge has 5 toy items: a stop sign, a mop, a toothpaste, a sidewalk, and a purse. He places each toy at a different row of the shelf. He places toothpaste as shown. The stop sign above toothpaste and stop sign above purse. Mop below stop sign. On which row can the mop not be placed? A: 2,B: 3,C: 5,D: 1,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_708_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_708_grid6.png"
+    ],
+    "id": 708
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhat is the location where the purse is placed?",
+        "role": "user"
+      },
+      {
+        "content": "Location 2",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhat is the location of the window?",
+        "role": "user"
+      },
+      {
+        "content": "Location 7",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich toy is located at position 5?",
+        "role": "user"
+      },
+      {
+        "content": "Slipper",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Nathan has 7 toy objects: a monitor, a window, a slipper, a sticky note, a thermostat, a purse, and a car. He puts each toy at a different location of the shelf. The car behind sticky note and purse behind sticky note. He puts thermostat  as shown. On which location can the purse not be placed? A: 1,B: 4,C: 6,D: 2,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_713_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_713_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_713_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_713_grid6.png"
+    ],
+    "id": 713
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Dustin has 5 toy objects: a bag, shoes, a window, a zipper, and a nail file. He keeps each toy at a different row of the shelf. He keeps zipper as shown. The shoes above window and bag above window. On which row can the bag not be placed? A: 3,B: 1,C: 4,D: 5,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_722_grid9.png"
+    ],
+    "id": 722
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhere is the button placed?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhere are the tweezers placed?",
+        "role": "user"
+      },
+      {
+        "content": "8",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Stephen has 8 toy objects: a CD, a book, twezzers, a chair, keys, a pencil, a white out, and a button. He puts each toy at a different row of the shelf. The chair above keys and book above chair. CD above white out. White out under keys and keys under CD. Book above twezzers. He puts pencil  as shown. On which row can the twezzers not be placed? A: 7,B: 8,C: 1,D: 6,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_756_grid13.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_756_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_756_grid11.png"
+    ],
+    "id": 756
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich row is above both the doll and knife but below the blouse?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich row is above both the doll and glow stick but below the bag?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich row is above the doll and below the knife?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Charles has 5 toy objects: a bag, a knife, a glow stick, a doll, and a blouse. He puts each toy at a different row of the shelf. He puts glow stick as shown. The knife above blouse and knife above glow stick. Bag above glow stick. On which row can the bag not be placed? A: 2,B: 5,C: 3,D: 4,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_820_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_820_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_820_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_820_grid8.png"
+    ],
+    "id": 820
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich item is placed at location 5?",
+        "role": "user"
+      },
+      {
+        "content": "Door",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich item is placed at location 2?",
+        "role": "user"
+      },
+      {
+        "content": "Deodorant",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich item is placed directly to the left of the zipper?",
+        "role": "user"
+      },
+      {
+        "content": "Glow stick",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Karen has 5 toy items: a door, a deodorant, a zipper, a white out, and a glow stick. She places each toy at a different location of the shelf. The glow stick right of deodorant. White out left of glow stick and deodorant left of zipper. She places white out  as shown. On which location can the zipper not be placed? A: 5,B: 4,C: 2,D: 3,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_826_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_826_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_826_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_826_grid1.png"
+    ],
+    "id": 826
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich row is the window placed on?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nOn which row is the remote placed relative to the ice cube tray?",
+        "role": "user"
+      },
+      {
+        "content": "Above",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nOn which row is the ice cube tray placed relative to the perfume?",
+        "role": "user"
+      },
+      {
+        "content": "Above",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Katherine has 5 toy items: a window, a perfume, a remote, an ice cube tray, and an eye liner. She keeps each toy at a different row of the shelf. She keeps eye liner as shown. The window above remote. Window above perfume and ice cube tray below window. On which row can the perfume not be placed? A: 5,B: 4,C: 1,D: 2,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_83_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_83_grid13.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_83_grid13.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_83_grid6.png"
+    ],
+    "id": 83
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhere does Denise place the knife?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Denise has 7 toy objects: a knife, a mirror, a camera, a playing card, a blanket, a bag, and street lights. She places each toy at a different location of the shelf. She places playing card as shown. The street lights right of playing card. Street lights right of knife and playing card right of mirror. Mirror left of street lights and camera left of playing card. On which location can the knife not be placed? A: 7,B: 5,C: 1,D: 4,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_838_grid12.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_838_grid6.png"
+    ],
+    "id": 838
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich toy is placed at location 1?",
+        "role": "user"
+      },
+      {
+        "content": "mp3 player",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nOn which location is the mp3 player placed?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nOn which location is the floor placed?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Sandra has 5 toy objects: canvas, a mp3 player, a floor, a desk, and a slipper. She places each toy at a different location of the shelf. She places desk as shown. The canvas ahead of slipper and floor behind canvas. Mp3 player ahead of floor. On which location can the mp3 player not be placed? A: 3,B: 2,C: 1,D: 5,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_839_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_839_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_839_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_839_grid5.png"
+    ],
+    "id": 839
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhat is the position of the TV?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhat is the position of the mouse pad relative to the speakers?",
+        "role": "user"
+      },
+      {
+        "content": "Ahead",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhat is the position of the mouse pad?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Mary has 8 toy objects: a mirror, a remote, clothes, a mouse pad, a face wash, a tv, a cup, and speakers. She places each toy at a different location of the shelf. The speakers behind tv. Face wash ahead of speakers. Remote ahead of speakers and mouse pad behind remote. She places face wash  as shown. On which location can the mouse pad not be placed? A: 4,B: 1,C: 5,D: 6,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_843_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_843_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_843_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_843_grid1.png"
+    ],
+    "id": 843
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich location is the wallet placed?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich location is the shampoo placed?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich location is the boom box placed?",
+        "role": "user"
+      },
+      {
+        "content": "7",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Charles has 8 toy items: a wallet, a key chain, a shampoo, a deodorant, a radio, a soy sauce packet, a boom box, and a remote. He puts each toy at a different location of the shelf. He puts deodorant as shown. The radio behind shampoo. Soy sauce packet ahead of remote. Wallet ahead of remote. Key chain behind wallet. Radio behind key chain and radio ahead of boom box. On which location can the soy sauce packet not be placed? A: 5,B: 7,C: 8,D: 6,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_85_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_85_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_85_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_85_grid1.png"
+    ],
+    "id": 85
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Rachel has 5 toy objects: an ipod, a photo album, a white out, a pen, and a shoe lace. She places each toy at a different location of the shelf. The photo album left of shoe lace. Shoe lace right of white out. Ipod left of shoe lace. She places shoe lace  as shown. On which location can the ipod not be placed? A: 4,B: 5,C: 3,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_851_grid4.png"
+    ],
+    "id": 851
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Anthony has 5 toy objects: drill press, a helmet, a chapter book, a sand paper, and a lotion. He keeps each toy at a different location of the shelf. The helmet left of sand paper and lotion right of helmet. Drill press left of sand paper. He keeps lotion  as shown. On which location can the drill press not be placed? A: 5,B: 2,C: 1,D: 4,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_858_grid4.png"
+    ],
+    "id": 858
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich row is the key chain placed on?",
+        "role": "user"
+      },
+      {
+        "content": "TBD",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich row is the speakers placed on?",
+        "role": "user"
+      },
+      {
+        "content": "6",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich row is the key chain placed on?",
+        "role": "user"
+      },
+      {
+        "content": "7",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Justin has 7 toy objects: a pool stick, an eye liner, a screw, a sponge, a key chain, speakers, and a pencil. He puts each toy at a different row of the shelf. He puts pencil as shown. The speakers under pool stick. Sponge above pencil. Screw under eye liner. Pool stick above screw. Pool stick above eye liner. On which row can the speakers not be placed? A: 3,B: 6,C: 7,D: 5,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_88_grid11.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_88_grid13.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_88_grid11.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_88_grid2.png"
+    ],
+    "id": 88
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIs the bag on row 1?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nIs the face wash on row 1?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nIs the eraser on row 6?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Kenneth has 6 toy items: a bag, a face wash, a playing card, glasses, a soap, and an eraser. He keeps each toy at a different row of the shelf. The bag above playing card and eraser below playing card. Face wash above playing card. He keeps playing card  as shown. On which row can the bag not be placed? A: 3,B: 6,C: 2,D: 5,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_888_grid9.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_888_grid9.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_888_grid11.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_888_grid13.png"
+    ],
+    "id": 888
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich location is the cookie jar placed?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Albert has 7 toy items: a paper, a cookie jar, a conditioner, a shoe lace, a blanket, a glow stick, and a bow. He puts each toy at a different location of the shelf. The glow stick behind shoe lace and conditioner ahead of shoe lace. Shoe lace behind paper. Cookie jar ahead of shoe lace. Conditioner ahead of blanket. He puts glow stick  as shown. On which location can the paper not be placed? A: 1,B: 3,C: 2,D: 4,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_895_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_895_grid6.png"
+    ],
+    "id": 895
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich toy is at location 4?",
+        "role": "user"
+      },
+      {
+        "content": "Keyboard",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich toy is at location 5?",
+        "role": "user"
+      },
+      {
+        "content": "Hair brush",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich toy is at location 4?",
+        "role": "user"
+      },
+      {
+        "content": "Keyboard",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Jerry has 5 toy objects: a keyboard, a bottle cap, a hair brush, a bread, and a sponge. He puts each toy at a different location of the shelf. The keyboard ahead of sponge. Hair brush behind keyboard. Bread behind keyboard. He puts sponge  as shown. On which location can the bottle cap not be placed? A: 2,B: 3,C: 5,D: 1,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_910_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_910_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_910_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_910_grid1.png"
+    ],
+    "id": 910
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich row is the toothbrush located on?",
+        "role": "user"
+      },
+      {
+        "content": "7",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich row is the toe ring located on?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Deborah has 7 toy items: a helmet, a toe ring, a glow stick, a toothbrush, a face wash, a sidewalk, and a table. She puts each toy at a different row of the shelf. She puts sidewalk as shown. The glow stick under helmet. Table under toe ring. Helmet above table. Face wash under glow stick. On which row can the toe ring not be placed? A: 4,B: 1,C: 7,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_911_grid11.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_911_grid11.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_911_grid11.png"
+    ],
+    "id": 911
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nOn which row is the coasters placed?",
+        "role": "user"
+      },
+      {
+        "content": "7",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhere must the slipper be placed relative to the CD?",
+        "role": "user"
+      },
+      {
+        "content": "below",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Jasmine has 7 toy objects: a toothpaste, a vase, a CD, a sponge, coasters, a washing machine, and a slipper. She keeps each toy at a different row of the shelf. The coasters above slipper. CD below toothpaste and washing machine below toothpaste. Slipper below CD. She keeps toothpaste  as shown. On which row can the coasters not be placed? A: 5,B: 2,C: 3,D: 7,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_912_grid13.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_912_grid13.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_912_grid2.png"
+    ],
+    "id": 912
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIf the wallet is at location 4, where would the sandal be placed?",
+        "role": "user"
+      },
+      {
+        "content": "Location 5",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nGiven that the wallet can be placed at locations 3 or 4, on which location can the wallet be placed if the sandal must be to the immediate right of it?",
+        "role": "user"
+      },
+      {
+        "content": "Locations 3",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nCan the wallet be at location 4 given that the clothes are at location 5 and sandal should be at the immediate right of wallet?",
+        "role": "user"
+      },
+      {
+        "content": "No",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Joseph has 5 toy items: a camera, clothes, a wallet, a sandal, and a deodorant. He keeps each toy at a different location of the shelf. He keeps clothes as shown. The sandal right of wallet. On which location can the wallet not be placed? A: 1,B: 2,C: 4,D: 3,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_93_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_93_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_93_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_93_grid1.png"
+    ],
+    "id": 93
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nConsidering the white out above coasters, which is the only row the white out can be placed?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nConsidering lace is above the floor, which is the only row the floor can be placed?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich item is placed on row 1?",
+        "role": "user"
+      },
+      {
+        "content": "lace",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Charles has 5 toy items: a lace, a floor, a white out, a car, and coasters. He puts each toy at a different row of the shelf. The white out under lace and white out above coasters. Lace above floor. He puts car  as shown. On which row can the floor not be placed? A: 3,B: 1,C: 2,D: 4,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_954_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_954_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_954_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_954_grid13.png"
+    ],
+    "id": 954
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich location on the shelf is the CD placed?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Kristin has 5 toy items: a CD, a controller, a book, a rubber band, and sun glasses. She puts each toy at a different location of the shelf. The sun glasses behind CD and controller ahead of sun glasses. She puts controller  as shown. On which location can the CD not be placed? A: 3,B: 4,C: 5,D: 1,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_96_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_96_grid5.png"
+    ],
+    "id": 96
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhere should the purse be placed?",
+        "role": "user"
+      },
+      {
+        "content": "Position 1",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Tyler has 6 toy objects: a computer, a purse, a shirt, a conditioner, a thread, and an eye liner. She keeps each toy at a different location of the shelf. She keeps eye liner as shown. The computer left of thread. Eye liner right of computer and shirt left of eye liner. Shirt right of computer. On which location can the thread not be placed? A: 3,B: 2,C: 1,D: 4,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_962_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_962_grid1.png"
+    ],
+    "id": 962
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich toy must be placed directly right of the lip gloss?",
+        "role": "user"
+      },
+      {
+        "content": "Street lights",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nAt which position must the USB drive be placed?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Michael has 5 toy items: carrots, a USB drive, lip gloss, a door, and street lights. He places each toy at a different location of the shelf. The carrots left of door and lip gloss left of street lights. Door left of street lights. He places door  as shown. On which location can the USB drive not be placed? A: 1,B: 4,C: 3,D: 5,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_970_grid12.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_970_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_970_grid1.png"
+    ],
+    "id": 970
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Rachel has 6 toy items: a tv, a paper, a clamp, a milk, a brocolli, and a sandal. She places each toy at a different location of the shelf. The sandal right of brocolli. Milk left of sandal. Tv left of brocolli. Brocolli right of paper. She places paper  as shown. On which location can the milk not be placed? A: 3,B: 4,C: 6,D: 2,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/62/puzzle_62_997_grid1.png"
+    ],
+    "id": 997
+  }
+]

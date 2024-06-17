@@ -1,0 +1,3163 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 18 houses has 6 straight pathways and 6 circular pathways. The map depicts 17 of the houses. On every straight pathway there are 3 houses. On every circular pathway, there are also 3 houses. Where on the map should the 18th house be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_0_grid10.png"
+    ],
+    "id": 0
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A town with 8 condos has 4 straight lanes and 4 round lanes. The drawing illustrates 7 of the condos. On every straight lane there are 2 condos. On every round lane, there are also 2 condos. Which place on the drawing should the 8th condo be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1004_grid7.png"
+    ],
+    "id": 1004
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich apartment intersects both the straight lane that includes A and D and the round lane that includes A and C?",
+        "role": "user"
+      },
+      {
+        "content": "The position corresponding to both straight lane A-D and round lane A-C",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A town with 6 apartments has 3 straight lanes and 3 round lanes. The picture depicts 5 of the apartments. On every straight lane there are 2 apartments. On every round lane, there are also 2 apartments. Which place on the picture should the 6th apartment be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1019_grid11.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1019_grid10.png"
+    ],
+    "id": 1019
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAre there any other round or straight roads with exactly 4 condos?",
+        "role": "user"
+      },
+      {
+        "content": "No, all round and straight roads have either 4 condos or more.",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A small town with 20 condos has 5 straight roads and 5 round roads. The picture illustrates 19 of the condos. On every straight road there are 4 condos. On every round road, there are also 4 condos. Which place on the picture should the 20th condo be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1022_grid12.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1022_grid12.png"
+    ],
+    "id": 1022
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A place with 15 dwellings has 5 straight roads and 5 round roads. The picture shows 14 of the dwellings. On every straight road there are 3 dwellings. On every round road, there are also 3 dwellings. Which place on the picture should the 15th dwelling be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1048_grid11.png"
+    ],
+    "id": 1048
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many dwellings are located at intersections that do not have 4 dwellings along both the straight and circular roads?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A town with 20 dwellings has 5 straight roads and 5 circular roads. The drawing shows 19 of the dwellings. On every straight road there are 4 dwellings. On every circular road, there are also 4 dwellings. Which location on the drawing should the 20th dwelling be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1054_grid10.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1054_grid11.png"
+    ],
+    "id": 1054
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A small town with 6 huts has 3 straight lanes and 3 round lanes. The picture shows 5 of the huts. On every straight lane there are 2 huts. On every round lane, there are also 2 huts. Where on the picture should the 6th hut be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1061_grid5.png"
+    ],
+    "id": 1061
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich specific hut on straight pathway D is missing?",
+        "role": "user"
+      },
+      {
+        "content": "The third hut on straight pathway D is missing.",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 20 huts has 5 straight pathways and 5 circular pathways. The map depicts 19 of the huts. On each straight pathway there are 4 huts. On each circular pathway, there are also 4 huts. Which location on the map should the 20th hut be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1062_grid12.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1062_grid12.png"
+    ],
+    "id": 1062
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A small town with 12 condos has 4 straight pathways and 4 circular pathways. The map illustrates 11 of the condos. On each straight pathway there are 3 condos. On each circular pathway, there are also 3 condos. Which location on the map should the 12th condo be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1085_grid12.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1085_grid9.png"
+    ],
+    "id": 1085
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich intersection between a straight road and a circular road is currently missing a hut?",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 15 huts has 5 straight roads and 5 circular roads. The map depicts 14 of the huts. On each straight road there are 3 huts. On each circular road, there are also 3 huts. Where on the map should the 15th hut be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1092_grid12.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1092_grid13.png"
+    ],
+    "id": 1092
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many condos are missing at intersection locations?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A small town with 12 condos has 4 straight roads and 4 round roads. The drawing depicts 11 of the condos. On every straight road there are 3 condos. On every round road, there are also 3 condos. Which place on the drawing should the 12th condo be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1098_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1098_grid13.png"
+    ],
+    "id": 1098
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhat are the names of the dwellings already on the drawing?",
+        "role": "user"
+      },
+      {
+        "content": "A,B,C,D,E,F,G",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 8 dwellings has 4 straight roads and 4 circular roads. The drawing shows 7 of the dwellings. On every straight road there are 2 dwellings. On every circular road, there are also 2 dwellings. Where on the drawing should the 8th dwelling be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1111_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1111_grid6.png"
+    ],
+    "id": 1111
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A place with 6 apartments has 3 straight pathways and 3 round pathways. The map illustrates 5 of the apartments. On every straight pathway there are 2 apartments. On every round pathway, there are also 2 apartments. Where on the map should the 6th apartment be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1125_grid11.png"
+    ],
+    "id": 1125
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A community with 20 condos has 5 straight lanes and 5 circular lanes. The drawing depicts 19 of the condos. On every straight lane there are 4 condos. On every circular lane, there are also 4 condos. Which place on the drawing should the 20th condo be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1139_grid13.png"
+    ],
+    "id": 1139
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich spots on the map already have condos?",
+        "role": "user"
+      },
+      {
+        "content": "B, C, D, E",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 10 condos has 5 straight roads and 5 circular roads. The map illustrates 9 of the condos. On each straight road there are 2 condos. On each circular road, there are also 2 condos. Which place on the map should the 10th condo be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1147_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1147_grid8.png"
+    ],
+    "id": 1147
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich locations are already occupied by houses on the circular road A?",
+        "role": "user"
+      },
+      {
+        "content": "Empty",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A town with 15 houses has 5 straight roads and 5 circular roads. The drawing illustrates 14 of the houses. On every straight road there are 3 houses. On every circular road, there are also 3 houses. Which location on the drawing should the 15th house be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_116_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_116_grid11.png"
+    ],
+    "id": 116
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich letter on the innermost round lane corresponds to the missing condo?",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 12 condos has 4 straight lanes and 4 round lanes. The map shows 11 of the condos. On every straight lane there are 3 condos. On every round lane, there are also 3 condos. Which place on the map should the 12th condo be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1176_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1176_grid13.png"
+    ],
+    "id": 1176
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many round pathways have fewer than 3 huts?",
+        "role": "user"
+      },
+      {
+        "content": "Need to identify the pathways based on the drawing.",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A small town with 18 huts has 6 straight pathways and 6 round pathways. The drawing depicts 17 of the huts. On each straight pathway there are 3 huts. On each round pathway, there are also 3 huts. Which place on the drawing should the 18th hut be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1182_grid8.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1182_grid3.png"
+    ],
+    "id": 1182
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A community with 12 condos has 4 straight roads and 4 circular roads. The picture shows 11 of the condos. On every straight road there are 3 condos. On every circular road, there are also 3 condos. Which place on the picture should the 12th condo be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1201_grid8.png"
+    ],
+    "id": 1201
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A community with 6 houses has 3 straight lanes and 3 circular lanes. The map depicts 5 of the houses. On each straight lane there are 2 houses. On each circular lane, there are also 2 houses. Which location on the map should the 6th house be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1208_grid10.png"
+    ],
+    "id": 1208
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich pathways still need one more dwelling to reach 3 dwellings each?",
+        "role": "user"
+      },
+      {
+        "content": "The circular pathway around A, the circular pathway around B, and the straight pathway between E and B.",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 15 dwellings has 5 straight pathways and 5 circular pathways. The map illustrates 14 of the dwellings. On every straight pathway there are 3 dwellings. On every circular pathway, there are also 3 dwellings. Where on the map should the 15th dwelling be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1237_grid10.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1237_grid13.png"
+    ],
+    "id": 1237
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich huts are on the 2nd round pathway?",
+        "role": "user"
+      },
+      {
+        "content": "C, D",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A small town with 6 huts has 3 straight pathways and 3 round pathways. The drawing illustrates 5 of the huts. On each straight pathway there are 2 huts. On each round pathway, there are also 2 huts. Which location on the drawing should the 6th hut be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1251_grid2.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1251_grid5.png"
+    ],
+    "id": 1251
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich specific condo on the straight road does the third circular road's vacant spot align with?",
+        "role": "user"
+      },
+      {
+        "content": "The vacant spot aligns with a blue triangle condo on the third circular road.",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A place with 15 condos has 5 straight roads and 5 circular roads. The drawing depicts 14 of the condos. On every straight road there are 3 condos. On every circular road, there are also 3 condos. Which place on the drawing should the 15th condo be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1259_grid2.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1259_grid12.png"
+    ],
+    "id": 1259
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A place with 6 apartments has 3 straight lanes and 3 round lanes. The map illustrates 5 of the apartments. On every straight lane there are 2 apartments. On every round lane, there are also 2 apartments. Where on the map should the 6th apartment be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_127_grid10.png"
+    ],
+    "id": 127
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A community with 10 houses has 5 straight lanes and 5 circular lanes. The drawing illustrates 9 of the houses. On every straight lane there are 2 houses. On every circular lane, there are also 2 houses. Which place on the drawing should the 10th house be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1270_grid8.png"
+    ],
+    "id": 1270
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich round road intersects hut B?",
+        "role": "user"
+      },
+      {
+        "content": "Round Road 2",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A community with 8 huts has 4 straight roads and 4 round roads. The map shows 7 of the huts. On each straight road there are 2 huts. On each round road, there are also 2 huts. Where on the map should the 8th hut be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1273_grid8.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1273_grid13.png"
+    ],
+    "id": 1273
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 12 condos has 4 straight pathways and 4 circular pathways. The map depicts 11 of the condos. On every straight pathway there are 3 condos. On every circular pathway, there are also 3 condos. Which location on the map should the 12th condo be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1290_grid11.png"
+    ],
+    "id": 1290
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A town with 6 dwellings has 3 straight lanes and 3 round lanes. The drawing illustrates 5 of the dwellings. On each straight lane there are 2 dwellings. On each round lane, there are also 2 dwellings. Which place on the drawing should the 6th dwelling be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1304_grid12.png"
+    ],
+    "id": 1304
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 6 huts has 3 straight lanes and 3 circular lanes. The map depicts 5 of the huts. On each straight lane there are 2 huts. On each circular lane, there are also 2 huts. Which place on the map should the 6th hut be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1323_grid11.png"
+    ],
+    "id": 1323
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 24 huts has 6 straight roads and 6 circular roads. The drawing depicts 23 of the huts. On each straight road there are 4 huts. On each circular road, there are also 4 huts. Which location on the drawing should the 24th hut be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1368_grid8.png"
+    ],
+    "id": 1368
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A town with 6 condos has 3 straight lanes and 3 circular lanes. The drawing illustrates 5 of the condos. On each straight lane there are 2 condos. On each circular lane, there are also 2 condos. Where on the drawing should the 6th condo be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1386_grid13.png"
+    ],
+    "id": 1386
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A town with 10 houses has 5 straight paths and 5 circular paths. The map shows 9 of the houses. On every straight path there are 2 houses. On every circular path, there are also 2 houses. Where on the map should the 10th house be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1398_grid13.png"
+    ],
+    "id": 1398
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A small town with 10 condos has 5 straight paths and 5 round paths. The picture shows 9 of the condos. On every straight path there are 2 condos. On every round path, there are also 2 condos. Which location on the picture should the 10th condo be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1405_grid13.png"
+    ],
+    "id": 1405
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich houses are currently on the third circular road?",
+        "role": "user"
+      },
+      {
+        "content": "No house is currently on the third circular road.",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A community with 8 houses has 4 straight roads and 4 circular roads. The map shows 7 of the houses. On every straight road there are 2 houses. On every circular road, there are also 2 houses. Which place on the map should the 8th house be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1415_grid8.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1415_grid13.png"
+    ],
+    "id": 1415
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 15 condos has 5 straight pathways and 5 round pathways. The map shows 14 of the condos. On each straight pathway there are 3 condos. On each round pathway, there are also 3 condos. Which location on the map should the 15th condo be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1423_grid12.png"
+    ],
+    "id": 1423
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many dwellings should be plotted at each of the marked points on the map (A, B, C, D, E) to complete the requirement of 5 dwellings on each round pathway?",
+        "role": "user"
+      },
+      {
+        "content": "{'A': 1, 'B': 1, 'C': 1, 'D': 1, 'E': 1}",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A town with 30 dwellings has 6 straight pathways and 6 round pathways. The map illustrates 29 of the dwellings. On every straight pathway there are 5 dwellings. On every round pathway, there are also 5 dwellings. Where on the map should the 30th dwelling be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_145_grid11.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_145_grid11.png"
+    ],
+    "id": 145
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich dwellings on the drawing are on straight lanes but not on circular lanes?",
+        "role": "user"
+      },
+      {
+        "content": "A, B, C, D, E",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A community with 15 dwellings has 5 straight lanes and 5 circular lanes. The drawing illustrates 14 of the dwellings. On each straight lane there are 3 dwellings. On each circular lane, there are also 3 dwellings. Which location on the drawing should the 15th dwelling be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1455_grid8.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1455_grid13.png"
+    ],
+    "id": 1455
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A small town with 10 huts has 5 straight pathways and 5 round pathways. The picture illustrates 9 of the huts. On each straight pathway there are 2 huts. On each round pathway, there are also 2 huts. Which location on the picture should the 10th hut be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1464_grid11.png"
+    ],
+    "id": 1464
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 6 huts has 3 straight roads and 3 circular roads. The picture shows 5 of the huts. On each straight road there are 2 huts. On each circular road, there are also 2 huts. Where on the picture should the 6th hut be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1481_grid5.png"
+    ],
+    "id": 1481
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich round lane currently only has one condo?",
+        "role": "user"
+      },
+      {
+        "content": "E, D, A, B, C",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A community with 12 condos has 6 straight lanes and 6 round lanes. The drawing shows 11 of the condos. On each straight lane there are 2 condos. On each round lane, there are also 2 condos. Which place on the drawing should the 12th condo be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_15_grid2.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_15_grid10.png"
+    ],
+    "id": 15
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAre there any intersections left without an apartment, aside from the locations A to E?",
+        "role": "user"
+      },
+      {
+        "content": "No",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A community with 20 apartments has 5 straight roads and 5 circular roads. The drawing shows 19 of the apartments. On each straight road there are 4 apartments. On each circular road, there are also 4 apartments. Which location on the drawing should the 20th apartment be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1530_grid13.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1530_grid13.png"
+    ],
+    "id": 1530
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many circular pathways are connected to Point C?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A town with 18 dwellings has 6 straight pathways and 6 circular pathways. The map shows 17 of the dwellings. On every straight pathway there are 3 dwellings. On every circular pathway, there are also 3 dwellings. Which location on the map should the 18th dwelling be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_155_grid8.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_155_grid9.png"
+    ],
+    "id": 155
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich coordinate locations currently have circular roads involving house A?",
+        "role": "user"
+      },
+      {
+        "content": "A-E",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A small town with 6 houses has 3 straight roads and 3 circular roads. The map shows 5 of the houses. On each straight road there are 2 houses. On each circular road, there are also 2 houses. Which location on the map should the 6th house be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1554_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1554_grid13.png"
+    ],
+    "id": 1554
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich pathways (straight or circular) have empty huts?",
+        "role": "user"
+      },
+      {
+        "content": "Straight pathway 2 and circular pathway 4",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A small town with 10 huts has 5 straight pathways and 5 circular pathways. The picture depicts 9 of the huts. On every straight pathway there are 2 huts. On every circular pathway, there are also 2 huts. Which place on the picture should the 10th hut be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1557_grid10.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1557_grid8.png"
+    ],
+    "id": 1557
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich hut is missing on the straight lane passing through E?",
+        "role": "user"
+      },
+      {
+        "content": "The hut at the intersection of the straight lane passing through E and round lane 5.",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 20 huts has 5 straight lanes and 5 round lanes. The drawing illustrates 19 of the huts. On every straight lane there are 4 huts. On every round lane, there are also 4 huts. Where on the drawing should the 20th hut be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1559_grid13.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1559_grid13.png"
+    ],
+    "id": 1559
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich pathways, both round and straight, do not pass through the apartment E?",
+        "role": "user"
+      },
+      {
+        "content": "Green, Orange, Pathway passing through C, A, D",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A place with 12 apartments has 4 straight pathways and 4 round pathways. The drawing depicts 11 of the apartments. On each straight pathway there are 3 apartments. On each round pathway, there are also 3 apartments. Which place on the drawing should the 12th apartment be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_156_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_156_grid6.png"
+    ],
+    "id": 156
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A community with 24 condos has 6 straight paths and 6 round paths. The drawing shows 23 of the condos. On each straight path there are 4 condos. On each round path, there are also 4 condos. Which place on the drawing should the 24th condo be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1566_grid2.png"
+    ],
+    "id": 1566
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A town with 12 houses has 4 straight lanes and 4 circular lanes. The map shows 11 of the houses. On every straight lane there are 3 houses. On every circular lane, there are also 3 houses. Which place on the map should the 12th house be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1568_grid13.png"
+    ],
+    "id": 1568
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich pathway connects apartments B and E within the overall town structure?",
+        "role": "user"
+      },
+      {
+        "content": "Circular pathway",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A small town with 6 apartments has 3 straight pathways and 3 circular pathways. The map shows 5 of the apartments. On every straight pathway there are 2 apartments. On every circular pathway, there are also 2 apartments. Which location on the map should the 6th apartment be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1593_grid8.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1593_grid10.png"
+    ],
+    "id": 1593
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich condos are on the same round pathway as condo D?",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 8 condos has 4 straight pathways and 4 round pathways. The map depicts 7 of the condos. On every straight pathway there are 2 condos. On every round pathway, there are also 2 condos. Which place on the map should the 8th condo be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_160_grid12.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_160_grid7.png"
+    ],
+    "id": 160
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich house is on both a vertical straight road and the outer circular road?",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 6 houses has 3 straight roads and 3 circular roads. The map illustrates 5 of the houses. On every straight road there are 2 houses. On every circular road, there are also 2 houses. Where on the map should the 6th house be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1619_grid2.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1619_grid10.png"
+    ],
+    "id": 1619
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many huts are on the circular lanes D and E?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A town with 12 huts has 6 straight lanes and 6 circular lanes. The picture depicts 11 of the huts. On every straight lane there are 2 huts. On every circular lane, there are also 2 huts. Which location on the picture should the 12th hut be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1625_grid10.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1625_grid11.png"
+    ],
+    "id": 1625
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A community with 6 dwellings has 3 straight roads and 3 circular roads. The map depicts 5 of the dwellings. On each straight road there are 2 dwellings. On each circular road, there are also 2 dwellings. Which place on the map should the 6th dwelling be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1644_grid13.png"
+    ],
+    "id": 1644
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich houses are already occupied on the 4th straight path?",
+        "role": "user"
+      },
+      {
+        "content": "G",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A place with 8 houses has 4 straight paths and 4 circular paths. The map shows 7 of the houses. On each straight path there are 2 houses. On each circular path, there are also 2 houses. Which place on the map should the 8th house be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1672_grid12.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1672_grid7.png"
+    ],
+    "id": 1672
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich round lane are apartments A and F on?",
+        "role": "user"
+      },
+      {
+        "content": "The outermost round lane",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A place with 8 apartments has 4 straight lanes and 4 round lanes. The picture illustrates 7 of the apartments. On every straight lane there are 2 apartments. On every round lane, there are also 2 apartments. Which place on the picture should the 8th apartment be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1673_grid12.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1673_grid8.png"
+    ],
+    "id": 1673
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 20 dwellings has 5 straight roads and 5 round roads. The drawing illustrates 19 of the dwellings. On every straight road there are 4 dwellings. On every round road, there are also 4 dwellings. Which place on the drawing should the 20th dwelling be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1684_grid10.png"
+    ],
+    "id": 1684
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich apartments are directly connected to apartment A?",
+        "role": "user"
+      },
+      {
+        "content": "B, E",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A town with 6 apartments has 3 straight paths and 3 circular paths. The picture illustrates 5 of the apartments. On every straight path there are 2 apartments. On every circular path, there are also 2 apartments. Where on the picture should the 6th apartment be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1686_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1686_grid13.png"
+    ],
+    "id": 1686
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A place with 12 dwellings has 4 straight pathways and 4 round pathways. The map depicts 11 of the dwellings. On every straight pathway there are 3 dwellings. On every round pathway, there are also 3 dwellings. Where on the map should the 12th dwelling be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1697_grid1.png"
+    ],
+    "id": 1697
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich intersection point has no condos along any straight lane?",
+        "role": "user"
+      },
+      {
+        "content": "G",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 8 condos has 4 straight lanes and 4 circular lanes. The drawing illustrates 7 of the condos. On every straight lane there are 2 condos. On every circular lane, there are also 2 condos. Where on the drawing should the 8th condo be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1708_grid2.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1708_grid8.png"
+    ],
+    "id": 1708
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A place with 8 huts has 4 straight pathways and 4 round pathways. The map shows 7 of the huts. On each straight pathway there are 2 huts. On each round pathway, there are also 2 huts. Which location on the map should the 8th hut be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1710_grid11.png"
+    ],
+    "id": 1710
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich round lane passes apartments A and B?",
+        "role": "user"
+      },
+      {
+        "content": "The outermost round lane",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A town with 6 apartments has 3 straight lanes and 3 round lanes. The drawing shows 5 of the apartments. On every straight lane there are 2 apartments. On every round lane, there are also 2 apartments. Where on the drawing should the 6th apartment be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1719_grid8.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1719_grid12.png"
+    ],
+    "id": 1719
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich straight pathway does the apartment opposite to A lie on?",
+        "role": "user"
+      },
+      {
+        "content": "C-D",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A community with 6 apartments has 3 straight pathways and 3 round pathways. The map shows 5 of the apartments. On each straight pathway there are 2 apartments. On each round pathway, there are also 2 apartments. Which location on the map should the 6th apartment be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1720_grid2.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1720_grid5.png"
+    ],
+    "id": 1720
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich specific hut is missing from the circular lane marked 'E'?",
+        "role": "user"
+      },
+      {
+        "content": "The hut on the Green straight lane is missing from the circular lane 'E'",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 24 huts has 6 straight lanes and 6 circular lanes. The drawing shows 23 of the huts. On every straight lane there are 4 huts. On every circular lane, there are also 4 huts. Where on the drawing should the 24th hut be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1733_grid10.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1733_grid10.png"
+    ],
+    "id": 1733
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich of the circular lanes still needs an additional condo?",
+        "role": "user"
+      },
+      {
+        "content": "The innermost circular lane",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A small town with 6 condos has 3 straight lanes and 3 circular lanes. The map shows 5 of the condos. On every straight lane there are 2 condos. On every circular lane, there are also 2 condos. Which place on the map should the 6th condo be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1735_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1735_grid11.png"
+    ],
+    "id": 1735
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich round road has its houses on both the inner and outer circle?",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A community with 8 houses has 4 straight roads and 4 round roads. The drawing illustrates 7 of the houses. On every straight road there are 2 houses. On every round road, there are also 2 houses. Which location on the drawing should the 8th house be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1737_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1737_grid10.png"
+    ],
+    "id": 1737
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A place with 24 houses has 6 straight lanes and 6 circular lanes. The picture illustrates 23 of the houses. On each straight lane there are 4 houses. On each circular lane, there are also 4 houses. Which place on the picture should the 24th house be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1740_grid10.png"
+    ],
+    "id": 1740
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich location on the round lanes A, B, D, and E is already occupied by one dwelling?",
+        "role": "user"
+      },
+      {
+        "content": "Locations A, B, D, and E each have one dwelling already.",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A town with 12 dwellings has 6 straight lanes and 6 round lanes. The picture illustrates 11 of the dwellings. On every straight lane there are 2 dwellings. On every round lane, there are also 2 dwellings. Which location on the picture should the 12th dwelling be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1778_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1778_grid10.png"
+    ],
+    "id": 1778
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIf 4 condos are on each straight road and each circular road depicted in the picture has 4 condos except the innermost circular, which has 3, where should the remaining condo logically be placed?",
+        "role": "user"
+      },
+      {
+        "content": "On the innermost circular road",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A community with 20 condos has 5 straight roads and 5 circular roads. The picture depicts 19 of the condos. On each straight road there are 4 condos. On each circular road, there are also 4 condos. Where on the picture should the 20th condo be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1779_grid10.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1779_grid12.png"
+    ],
+    "id": 1779
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A place with 30 dwellings has 6 straight paths and 6 circular paths. The drawing shows 29 of the dwellings. On each straight path there are 5 dwellings. On each circular path, there are also 5 dwellings. Which place on the drawing should the 30th dwelling be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1789_grid10.png"
+    ],
+    "id": 1789
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich condos are connected by both straight and circular roads?",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A place with 6 condos has 3 straight roads and 3 circular roads. The drawing shows 5 of the condos. On each straight road there are 2 condos. On each circular road, there are also 2 condos. Which location on the drawing should the 6th condo be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1790_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1790_grid12.png"
+    ],
+    "id": 1790
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich point on the circular pathway does not currently have a hut?",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A community with 6 huts has 3 straight pathways and 3 circular pathways. The map depicts 5 of the huts. On every straight pathway there are 2 huts. On every circular pathway, there are also 2 huts. Where on the map should the 6th hut be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1807_grid8.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1807_grid8.png"
+    ],
+    "id": 1807
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A town with 8 condos has 4 straight pathways and 4 circular pathways. The map illustrates 7 of the condos. On each straight pathway there are 2 condos. On each circular pathway, there are also 2 condos. Which place on the map should the 8th condo be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1816_grid13.png"
+    ],
+    "id": 1816
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A small town with 8 condos has 4 straight paths and 4 circular paths. The drawing illustrates 7 of the condos. On every straight path there are 2 condos. On every circular path, there are also 2 condos. Which place on the drawing should the 8th condo be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1827_grid7.png"
+    ],
+    "id": 1827
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A community with 15 huts has 5 straight pathways and 5 circular pathways. The map illustrates 14 of the huts. On each straight pathway there are 3 huts. On each circular pathway, there are also 3 huts. Where on the map should the 15th hut be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1868_grid11.png"
+    ],
+    "id": 1868
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich round pathway intersects with the straight pathway labeled D?",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A community with 20 condos has 5 straight pathways and 5 round pathways. The map illustrates 19 of the condos. On each straight pathway there are 4 condos. On each round pathway, there are also 4 condos. Which place on the map should the 20th condo be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1872_grid8.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1872_grid12.png"
+    ],
+    "id": 1872
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many huts are there at the central point?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A town with 20 huts has 5 straight paths and 5 round paths. The map illustrates 19 of the huts. On each straight path there are 4 huts. On each round path, there are also 4 huts. Which place on the map should the 20th hut be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1873_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1873_grid12.png"
+    ],
+    "id": 1873
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich dwellings or locations are connected to location D by pathways?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 10 dwellings has 5 straight pathways and 5 round pathways. The drawing illustrates 9 of the dwellings. On every straight pathway there are 2 dwellings. On every round pathway, there are also 2 dwellings. Which location on the drawing should the 10th dwelling be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1903_grid8.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1903_grid12.png"
+    ],
+    "id": 1903
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many apartments does each circular pathway connect to?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A town with 10 apartments has 5 straight pathways and 5 circular pathways. The map shows 9 of the apartments. On every straight pathway there are 2 apartments. On every circular pathway, there are also 2 apartments. Where on the map should the 10th apartment be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1913_grid8.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1913_grid12.png"
+    ],
+    "id": 1913
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A town with 8 apartments has 4 straight pathways and 4 circular pathways. The drawing illustrates 7 of the apartments. On each straight pathway there are 2 apartments. On each circular pathway, there are also 2 apartments. Which location on the drawing should the 8th apartment be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1922_grid9.png"
+    ],
+    "id": 1922
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many dwellings are located on lane C?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A place with 12 dwellings has 4 straight lanes and 4 circular lanes. The map depicts 11 of the dwellings. On every straight lane there are 3 dwellings. On every circular lane, there are also 3 dwellings. Which location on the map should the 12th dwelling be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1946_grid11.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1946_grid8.png"
+    ],
+    "id": 1946
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich lane should house F be placed on if it is not one of the straight lanes?",
+        "role": "user"
+      },
+      {
+        "content": "The middle round lane",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A community with 6 houses has 3 straight lanes and 3 round lanes. The drawing illustrates 5 of the houses. On each straight lane there are 2 houses. On each round lane, there are also 2 houses. Which location on the drawing should the 6th house be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1968_grid11.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1968_grid11.png"
+    ],
+    "id": 1968
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A place with 8 dwellings has 4 straight lanes and 4 round lanes. The drawing shows 7 of the dwellings. On each straight lane there are 2 dwellings. On each round lane, there are also 2 dwellings. Which location on the drawing should the 8th dwelling be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_1975_grid11.png"
+    ],
+    "id": 1975
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A place with 6 condos has 3 straight roads and 3 circular roads. The drawing depicts 5 of the condos. On each straight road there are 2 condos. On each circular road, there are also 2 condos. Which location on the drawing should the 6th condo be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_229_grid9.png"
+    ],
+    "id": 229
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich huts are located on Straight Lane 3?",
+        "role": "user"
+      },
+      {
+        "content": "E and F",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A community with 6 huts has 3 straight lanes and 3 round lanes. The map depicts 5 of the huts. On every straight lane there are 2 huts. On every round lane, there are also 2 huts. Which place on the map should the 6th hut be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_235_grid11.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_235_grid11.png"
+    ],
+    "id": 235
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A place with 8 dwellings has 4 straight paths and 4 round paths. The drawing shows 7 of the dwellings. On every straight path there are 2 dwellings. On every round path, there are also 2 dwellings. Which location on the drawing should the 8th dwelling be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_236_grid13.png"
+    ],
+    "id": 236
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 8 apartments has 4 straight lanes and 4 circular lanes. The picture illustrates 7 of the apartments. On each straight lane there are 2 apartments. On each circular lane, there are also 2 apartments. Where on the picture should the 8th apartment be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_237_grid9.png"
+    ],
+    "id": 237
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A place with 10 apartments has 5 straight pathways and 5 round pathways. The picture shows 9 of the apartments. On every straight pathway there are 2 apartments. On every round pathway, there are also 2 apartments. Which place on the picture should the 10th apartment be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_25_grid12.png"
+    ],
+    "id": 25
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich one of the circular roads contains the 12th missing dwelling?",
+        "role": "user"
+      },
+      {
+        "content": "The circular road that contains Orange and Grey is the one missing the dwelling.",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A community with 12 dwellings has 4 straight roads and 4 circular roads. The drawing depicts 11 of the dwellings. On each straight road there are 3 dwellings. On each circular road, there are also 3 dwellings. Which location on the drawing should the 12th dwelling be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_257_grid8.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_257_grid8.png"
+    ],
+    "id": 257
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 12 dwellings has 6 straight roads and 6 round roads. The drawing illustrates 11 of the dwellings. On every straight road there are 2 dwellings. On every round road, there are also 2 dwellings. Where on the drawing should the 12th dwelling be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_26_grid6.png"
+    ],
+    "id": 26
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nOn which circular pathway should the missing apartment be placed considering it intersects with pathway AD on the second position from the center?",
+        "role": "user"
+      },
+      {
+        "content": "The third circular pathway from the center",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A place with 24 apartments has 6 straight pathways and 6 circular pathways. The picture shows 23 of the apartments. On each straight pathway there are 4 apartments. On each circular pathway, there are also 4 apartments. Which place on the picture should the 24th apartment be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_260_grid12.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_260_grid12.png"
+    ],
+    "id": 260
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the dwellings on the central point and the straight paths, which dwelling is missing in the drawing?",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A place with 8 dwellings has 4 straight paths and 4 round paths. The drawing illustrates 7 of the dwellings. On each straight path there are 2 dwellings. On each round path, there are also 2 dwellings. Which location on the drawing should the 8th dwelling be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_271_grid12.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_271_grid12.png"
+    ],
+    "id": 271
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A place with 12 condos has 4 straight roads and 4 circular roads. The map illustrates 11 of the condos. On each straight road there are 3 condos. On each circular road, there are also 3 condos. Which place on the map should the 12th condo be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_297_grid11.png"
+    ],
+    "id": 297
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A small town with 24 huts has 6 straight paths and 6 round paths. The picture depicts 23 of the huts. On every straight path there are 4 huts. On every round path, there are also 4 huts. Where on the picture should the 24th hut be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_303_grid11.png"
+    ],
+    "id": 303
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A place with 6 houses has 3 straight roads and 3 circular roads. The drawing illustrates 5 of the houses. On each straight road there are 2 houses. On each circular road, there are also 2 houses. Which location on the drawing should the 6th house be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_306_grid13.png"
+    ],
+    "id": 306
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many condos are present at each point along the round lane that includes point A?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 15 condos has 5 straight lanes and 5 round lanes. The map shows 14 of the condos. On every straight lane there are 3 condos. On every round lane, there are also 3 condos. Where on the map should the 15th condo be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_31_grid11.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_31_grid11.png"
+    ],
+    "id": 31
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich circular pathway has a single unoccupied position?",
+        "role": "user"
+      },
+      {
+        "content": "The first circular pathway",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A small town with 20 huts has 5 straight pathways and 5 circular pathways. The map illustrates 19 of the huts. On every straight pathway there are 4 huts. On every circular pathway, there are also 4 huts. Which place on the map should the 20th hut be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_318_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_318_grid10.png"
+    ],
+    "id": 318
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich round path does location E belong to?",
+        "role": "user"
+      },
+      {
+        "content": "The round path contacting E and D",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 6 apartments has 3 straight paths and 3 round paths. The picture depicts 5 of the apartments. On every straight path there are 2 apartments. On every round path, there are also 2 apartments. Which location on the picture should the 6th apartment be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_326_grid8.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_326_grid5.png"
+    ],
+    "id": 326
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A town with 20 houses has 5 straight pathways and 5 round pathways. The map depicts 19 of the houses. On every straight pathway there are 4 houses. On every round pathway, there are also 4 houses. Which location on the map should the 20th house be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_327_grid10.png"
+    ],
+    "id": 327
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich unnamed position is on the circular pathway closest to the center?",
+        "role": "user"
+      },
+      {
+        "content": "The brown house on the lower left.",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A small town with 8 houses has 4 straight pathways and 4 circular pathways. The picture depicts 7 of the houses. On each straight pathway there are 2 houses. On each circular pathway, there are also 2 houses. Which place on the picture should the 8th house be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_336_grid2.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_336_grid9.png"
+    ],
+    "id": 336
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich other apartment is in the intersection of the 4th straight lane and 2nd circular lane?",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A place with 12 apartments has 6 straight lanes and 6 circular lanes. The picture illustrates 11 of the apartments. On each straight lane there are 2 apartments. On each circular lane, there are also 2 apartments. Which place on the picture should the 12th apartment be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_350_grid2.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_350_grid2.png"
+    ],
+    "id": 350
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIs the hut at the location A, which is in the intersection of the second round path and the straight path from A to D, actually present in the picture?",
+        "role": "user"
+      },
+      {
+        "content": "No",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A small town with 18 huts has 6 straight paths and 6 round paths. The picture illustrates 17 of the huts. On each straight path there are 3 huts. On each round path, there are also 3 huts. Which location on the picture should the 18th hut be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_383_grid8.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_383_grid12.png"
+    ],
+    "id": 383
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich apartments share the same straight road as the missing apartment?",
+        "role": "user"
+      },
+      {
+        "content": "E-C",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A small town with 6 apartments has 3 straight roads and 3 round roads. The map shows 5 of the apartments. On each straight road there are 2 apartments. On each round road, there are also 2 apartments. Where on the map should the 6th apartment be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_389_grid12.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_389_grid11.png"
+    ],
+    "id": 389
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many apartments are on all intersections (both inner and outer)?",
+        "role": "user"
+      },
+      {
+        "content": "10",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A place with 20 apartments has 5 straight roads and 5 round roads. The picture illustrates 19 of the apartments. On each straight road there are 4 apartments. On each round road, there are also 4 apartments. Where on the picture should the 20th apartment be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_390_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_390_grid12.png"
+    ],
+    "id": 390
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAmong the circular lanes, which other lanes need condos?",
+        "role": "user"
+      },
+      {
+        "content": "Circular lanes B, C, and D each need 2 more condos.",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A place with 12 condos has 4 straight lanes and 4 circular lanes. The map illustrates 11 of the condos. On every straight lane there are 3 condos. On every circular lane, there are also 3 condos. Where on the map should the 12th condo be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_403_grid8.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_403_grid7.png"
+    ],
+    "id": 403
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich house is connected to the missing house by a round path?",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A small town with 6 houses has 3 straight paths and 3 round paths. The drawing depicts 5 of the houses. On every straight path there are 2 houses. On every round path, there are also 2 houses. Which location on the drawing should the 6th house be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_407_grid8.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_407_grid13.png"
+    ],
+    "id": 407
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 12 apartments has 6 straight paths and 6 circular paths. The picture shows 11 of the apartments. On every straight path there are 2 apartments. On every circular path, there are also 2 apartments. Which location on the picture should the 12th apartment be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_416_grid11.png"
+    ],
+    "id": 416
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich segment on the outermost circular lane (lane 6) is missing a condo?",
+        "role": "user"
+      },
+      {
+        "content": "Segment E",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A small town with 24 condos has 6 straight lanes and 6 circular lanes. The map shows 23 of the condos. On each straight lane there are 4 condos. On each circular lane, there are also 4 condos. Where on the map should the 24th condo be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_424_grid12.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_424_grid9.png"
+    ],
+    "id": 424
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A community with 15 condos has 5 straight roads and 5 circular roads. The map depicts 14 of the condos. On each straight road there are 3 condos. On each circular road, there are also 3 condos. Which location on the map should the 15th condo be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_425_grid8.png"
+    ],
+    "id": 425
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A small town with 30 huts has 6 straight pathways and 6 circular pathways. The drawing shows 29 of the huts. On every straight pathway there are 5 huts. On every circular pathway, there are also 5 huts. Where on the drawing should the 30th hut be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_430_grid2.png"
+    ],
+    "id": 430
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich dwelling is missing from circular pathway 4?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A community with 30 dwellings has 6 straight pathways and 6 circular pathways. The map illustrates 29 of the dwellings. On every straight pathway there are 5 dwellings. On every circular pathway, there are also 5 dwellings. Where on the map should the 30th dwelling be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_442_grid10.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_442_grid10.png"
+    ],
+    "id": 442
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 30 dwellings has 6 straight roads and 6 round roads. The picture depicts 29 of the dwellings. On every straight road there are 5 dwellings. On every round road, there are also 5 dwellings. Where on the picture should the 30th dwelling be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_473_grid10.png"
+    ],
+    "id": 473
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich straight road connects 2 huts that do not form a triangle with hut D?",
+        "role": "user"
+      },
+      {
+        "content": "D-E",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A small town with 6 huts has 3 straight roads and 3 circular roads. The map depicts 5 of the huts. On every straight road there are 2 huts. On every circular road, there are also 2 huts. Which location on the map should the 6th hut be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_478_grid13.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_478_grid13.png"
+    ],
+    "id": 478
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich houses are on the straight road that intersects at house A?",
+        "role": "user"
+      },
+      {
+        "content": "A, B, E",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A small town with 6 houses has 3 straight roads and 3 round roads. The drawing illustrates 5 of the houses. On every straight road there are 2 houses. On every round road, there are also 2 houses. Where on the drawing should the 6th house be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_48_grid12.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_48_grid10.png"
+    ],
+    "id": 48
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 12 dwellings has 4 straight roads and 4 round roads. The map illustrates 11 of the dwellings. On each straight road there are 3 dwellings. On each round road, there are also 3 dwellings. Which place on the map should the 12th dwelling be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_526_grid8.png"
+    ],
+    "id": 526
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A small town with 20 condos has 5 straight lanes and 5 circular lanes. The map illustrates 19 of the condos. On every straight lane there are 4 condos. On every circular lane, there are also 4 condos. Which place on the map should the 20th condo be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_531_grid13.png"
+    ],
+    "id": 531
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich straight paths involve a house that hasn't been mentioned in a round path yet?",
+        "role": "user"
+      },
+      {
+        "content": "A and E",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A place with 6 houses has 3 straight paths and 3 round paths. The drawing illustrates 5 of the houses. On every straight path there are 2 houses. On every round path, there are also 2 houses. Which place on the drawing should the 6th house be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_574_grid2.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_574_grid8.png"
+    ],
+    "id": 574
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich apartments are directly connected to the two unconnected roads?",
+        "role": "user"
+      },
+      {
+        "content": "C is connected to B, D is connected to A",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A town with 6 apartments has 3 straight roads and 3 round roads. The map shows 5 of the apartments. On each straight road there are 2 apartments. On each round road, there are also 2 apartments. Which place on the map should the 6th apartment be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_594_grid8.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_594_grid5.png"
+    ],
+    "id": 594
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich location option is adjacent to more overcrowded circular roads?",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A small town with 30 apartments has 6 straight roads and 6 circular roads. The map illustrates 29 of the apartments. On each straight road there are 5 apartments. On each circular road, there are also 5 apartments. Where on the map should the 30th apartment be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_623_grid10.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_623_grid9.png"
+    ],
+    "id": 623
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A place with 12 huts has 6 straight lanes and 6 round lanes. The picture shows 11 of the huts. On each straight lane there are 2 huts. On each round lane, there are also 2 huts. Which place on the picture should the 12th hut be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_630_grid10.png"
+    ],
+    "id": 630
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich hut is along a specific round lane that has only one hut illustrated?",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 6 huts has 3 straight lanes and 3 round lanes. The drawing illustrates 5 of the huts. On every straight lane there are 2 huts. On every round lane, there are also 2 huts. Which location on the drawing should the 6th hut be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_670_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_670_grid5.png"
+    ],
+    "id": 670
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 8 condos has 4 straight pathways and 4 circular pathways. The picture illustrates 7 of the condos. On each straight pathway there are 2 condos. On each circular pathway, there are also 2 condos. Which location on the picture should the 8th condo be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_678_grid9.png"
+    ],
+    "id": 678
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A community with 30 huts has 6 straight paths and 6 circular paths. The map depicts 29 of the huts. On every straight path there are 5 huts. On every circular path, there are also 5 huts. Where on the map should the 30th hut be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_694_grid13.png"
+    ],
+    "id": 694
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nOn which round pathway is the empty pathway near location E?",
+        "role": "user"
+      },
+      {
+        "content": "The 2nd round pathway.",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A place with 30 dwellings has 6 straight pathways and 6 round pathways. The map shows 29 of the dwellings. On each straight pathway there are 5 dwellings. On each round pathway, there are also 5 dwellings. Which place on the map should the 30th dwelling be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_701_grid10.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_701_grid12.png"
+    ],
+    "id": 701
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nCan the 6th condo be placed on the intersection of the top straight lane and the middle round lane?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A town with 6 condos has 3 straight lanes and 3 round lanes. The drawing depicts 5 of the condos. On every straight lane there are 2 condos. On every round lane, there are also 2 condos. Where on the drawing should the 6th condo be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_713_grid2.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_713_grid8.png"
+    ],
+    "id": 713
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A place with 24 dwellings has 6 straight pathways and 6 circular pathways. The picture illustrates 23 of the dwellings. On each straight pathway there are 4 dwellings. On each circular pathway, there are also 4 dwellings. Which location on the picture should the 24th dwelling be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_715_grid9.png"
+    ],
+    "id": 715
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich houses are missing from the round pathways based on the given drawing?",
+        "role": "user"
+      },
+      {
+        "content": "F, G, H, I, J, K, L",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 12 houses has 4 straight pathways and 4 round pathways. The drawing shows 11 of the houses. On each straight pathway there are 3 houses. On each round pathway, there are also 3 houses. Which place on the drawing should the 12th house be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_728_grid2.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_728_grid9.png"
+    ],
+    "id": 728
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich intersections in the outermost circular path already have apartments?",
+        "role": "user"
+      },
+      {
+        "content": "A, B, C, D",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 12 apartments has 4 straight paths and 4 circular paths. The picture shows 11 of the apartments. On each straight path there are 3 apartments. On each circular path, there are also 3 apartments. Where on the picture should the 12th apartment be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_733_grid10.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_733_grid8.png"
+    ],
+    "id": 733
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich straight pathways have only one hut?",
+        "role": "user"
+      },
+      {
+        "content": "The straight pathway with hut D.",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A town with 6 huts has 3 straight pathways and 3 circular pathways. The map shows 5 of the huts. On each straight pathway there are 2 huts. On each circular pathway, there are also 2 huts. Where on the map should the 6th hut be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_749_grid8.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_749_grid13.png"
+    ],
+    "id": 749
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A small town with 12 huts has 4 straight roads and 4 circular roads. The map shows 11 of the huts. On each straight road there are 3 huts. On each circular road, there are also 3 huts. Which location on the map should the 12th hut be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_752_grid9.png"
+    ],
+    "id": 752
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAfter placing house D in the round path containing E, B, and C, how many houses are still needed on round paths to meet the requirement?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 15 houses has 5 straight paths and 5 round paths. The picture depicts 14 of the houses. On every straight path there are 3 houses. On every round path, there are also 3 houses. Which place on the picture should the 15th house be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_755_grid8.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_755_grid11.png"
+    ],
+    "id": 755
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich straight path is missing a dwelling?",
+        "role": "user"
+      },
+      {
+        "content": "The middle straight path",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A community with 6 dwellings has 3 straight paths and 3 circular paths. The picture illustrates 5 of the dwellings. On each straight path there are 2 dwellings. On each circular path, there are also 2 dwellings. Which place on the picture should the 6th dwelling be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_758_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_758_grid11.png"
+    ],
+    "id": 758
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 6 houses has 3 straight pathways and 3 round pathways. The drawing depicts 5 of the houses. On each straight pathway there are 2 houses. On each round pathway, there are also 2 houses. Which place on the drawing should the 6th house be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_759_grid6.png"
+    ],
+    "id": 759
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many positions are there in each round lane?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 30 houses has 6 straight lanes and 6 round lanes. The drawing shows 29 of the houses. On every straight lane there are 5 houses. On every round lane, there are also 5 houses. Which place on the drawing should the 30th house be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_777_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_777_grid10.png"
+    ],
+    "id": 777
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 18 dwellings has 6 straight pathways and 6 round pathways. The map shows 17 of the dwellings. On every straight pathway there are 3 dwellings. On every round pathway, there are also 3 dwellings. Which place on the map should the 18th dwelling be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_78_grid8.png"
+    ],
+    "id": 78
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich house is connected to the 6th house by the round path?",
+        "role": "user"
+      },
+      {
+        "content": "House E",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A small town with 6 houses has 3 straight paths and 3 round paths. The picture depicts 5 of the houses. On every straight path there are 2 houses. On every round path, there are also 2 houses. Which location on the picture should the 6th house be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_800_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_800_grid11.png"
+    ],
+    "id": 800
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich intersection point (position) on the map with labeled letters currently does not have a dwelling?",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A community with 12 dwellings has 4 straight lanes and 4 circular lanes. The map illustrates 11 of the dwellings. On each straight lane there are 3 dwellings. On each circular lane, there are also 3 dwellings. Which place on the map should the 12th dwelling be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_81_grid2.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_81_grid9.png"
+    ],
+    "id": 81
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many huts are uniquely positioned on both straight and circular pathways that intersect at positions A, B, C, D, and E?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A small town with 30 huts has 6 straight pathways and 6 circular pathways. The drawing illustrates 29 of the huts. On every straight pathway there are 5 huts. On every circular pathway, there are also 5 huts. Which location on the drawing should the 30th hut be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_837_grid10.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_837_grid10.png"
+    ],
+    "id": 837
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich round path does not share a house with the third straight path?",
+        "role": "user"
+      },
+      {
+        "content": "The path through B, D",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 6 houses has 3 straight paths and 3 round paths. The picture illustrates 5 of the houses. On each straight path there are 2 houses. On each round path, there are also 2 houses. Where on the picture should the 6th house be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_847_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_847_grid10.png"
+    ],
+    "id": 847
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich houses are directly connected to house F?",
+        "role": "user"
+      },
+      {
+        "content": "B, D",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A town with 6 houses has 3 straight paths and 3 circular paths. The drawing shows 5 of the houses. On each straight path there are 2 houses. On each circular path, there are also 2 houses. Which location on the drawing should the 6th house be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_861_grid5.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_861_grid12.png"
+    ],
+    "id": 861
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 6 condos has 3 straight roads and 3 round roads. The drawing depicts 5 of the condos. On each straight road there are 2 condos. On each round road, there are also 2 condos. Which place on the drawing should the 6th condo be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_880_grid9.png"
+    ],
+    "id": 880
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich hut is missing from the map?",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 6 huts has 3 straight paths and 3 circular paths. The map shows 5 of the huts. On each straight path there are 2 huts. On each circular path, there are also 2 huts. Which location on the map should the 6th hut be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_888_grid2.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_888_grid13.png"
+    ],
+    "id": 888
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many straight pathways have only 2 condos illustrated?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A small town with 15 condos has 5 straight pathways and 5 round pathways. The drawing illustrates 14 of the condos. On each straight pathway there are 3 condos. On each round pathway, there are also 3 condos. Which place on the drawing should the 15th condo be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_903_grid2.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_903_grid8.png"
+    ],
+    "id": 903
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A community with 20 houses has 5 straight lanes and 5 circular lanes. The drawing depicts 19 of the houses. On every straight lane there are 4 houses. On every circular lane, there are also 4 houses. Which location on the drawing should the 20th house be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_924_grid10.png"
+    ],
+    "id": 924
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich straight pathway intersects at point A where the missing hut should be added?",
+        "role": "user"
+      },
+      {
+        "content": "The straight pathway that intersects at point A is the one with the red huts.",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A place with 20 huts has 5 straight pathways and 5 round pathways. The picture illustrates 19 of the huts. On each straight pathway there are 4 huts. On each round pathway, there are also 4 huts. Where on the picture should the 20th hut be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_927_grid8.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_927_grid13.png"
+    ],
+    "id": 927
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 12 houses has 4 straight lanes and 4 round lanes. The drawing illustrates 11 of the houses. On every straight lane there are 3 houses. On every round lane, there are also 3 houses. Where on the drawing should the 12th house be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_93_grid9.png"
+    ],
+    "id": 93
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A town with 12 houses has 4 straight paths and 4 circular paths. The map illustrates 11 of the houses. On each straight path there are 3 houses. On each circular path, there are also 3 houses. Where on the map should the 12th house be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_971_grid9.png"
+    ],
+    "id": 971
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich condo is currently missing on lane B?",
+        "role": "user"
+      },
+      {
+        "content": "The condo on the outer edge",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 12 condos has 4 straight lanes and 4 circular lanes. The map shows 11 of the condos. On each straight lane there are 3 condos. On each circular lane, there are also 3 condos. Which location on the map should the 12th condo be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_978_grid8.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_978_grid9.png"
+    ],
+    "id": 978
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhich houses are on the third straight road?",
+        "role": "user"
+      },
+      {
+        "content": "E-D",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A community with 6 houses has 3 straight roads and 3 round roads. The picture depicts 5 of the houses. On every straight road there are 2 houses. On every round road, there are also 2 houses. Which location on the picture should the 6th house be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_989_grid9.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/73/puzzle_73_989_grid8.png"
+    ],
+    "id": 989
+  }
+]

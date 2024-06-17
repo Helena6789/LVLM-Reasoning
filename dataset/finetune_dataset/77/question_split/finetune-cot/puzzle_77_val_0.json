@@ -1,0 +1,1602 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich picture on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1014.png"
+    ],
+    "id": 1014
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich cartoon on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_103.png"
+    ],
+    "id": 103
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich cartoon matches with the given cartoon on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1045.png"
+    ],
+    "id": 1045
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich figure on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1060.png"
+    ],
+    "id": 1060
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich picture on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1122.png"
+    ],
+    "id": 1122
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich picture matches with the given picture on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1135.png"
+    ],
+    "id": 1135
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich picture on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1143.png"
+    ],
+    "id": 1143
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich figure on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1147.png"
+    ],
+    "id": 1147
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich figure on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1158.png"
+    ],
+    "id": 1158
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich picture matches with the given picture on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1171.png"
+    ],
+    "id": 1171
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich image on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1186.png"
+    ],
+    "id": 1186
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich picture on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1218.png"
+    ],
+    "id": 1218
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich picture on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1250.png"
+    ],
+    "id": 1250
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich picture on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1300.png"
+    ],
+    "id": 1300
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich image matches with the given image on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1321.png"
+    ],
+    "id": 1321
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich image on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1327.png"
+    ],
+    "id": 1327
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich cartoon matches with the given cartoon on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1349.png"
+    ],
+    "id": 1349
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich figure on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1372.png"
+    ],
+    "id": 1372
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich figure matches with the given figure on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1388.png"
+    ],
+    "id": 1388
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich picture on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1398.png"
+    ],
+    "id": 1398
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich image matches with the given image on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1415.png"
+    ],
+    "id": 1415
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich figure on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1438.png"
+    ],
+    "id": 1438
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich drawing matches with the given drawing on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1443.png"
+    ],
+    "id": 1443
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich cartoon on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1445.png"
+    ],
+    "id": 1445
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich drawing on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_146.png"
+    ],
+    "id": 146
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich image matches with the given image on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_150.png"
+    ],
+    "id": 150
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich drawing on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_151.png"
+    ],
+    "id": 151
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich image on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_152.png"
+    ],
+    "id": 152
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich cartoon on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1527.png"
+    ],
+    "id": 1527
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich image on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1595.png"
+    ],
+    "id": 1595
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich image matches with the given image on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_160.png"
+    ],
+    "id": 160
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich cartoon matches with the given cartoon on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1603.png"
+    ],
+    "id": 1603
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich picture on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1626.png"
+    ],
+    "id": 1626
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich image matches with the given image on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1634.png"
+    ],
+    "id": 1634
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich picture on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1655.png"
+    ],
+    "id": 1655
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich picture matches with the given picture on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1681.png"
+    ],
+    "id": 1681
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich drawing on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1683.png"
+    ],
+    "id": 1683
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich drawing on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1692.png"
+    ],
+    "id": 1692
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich picture matches with the given picture on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1702.png"
+    ],
+    "id": 1702
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich cartoon on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1704.png"
+    ],
+    "id": 1704
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich image matches with the given image on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1712.png"
+    ],
+    "id": 1712
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich picture on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1733.png"
+    ],
+    "id": 1733
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich cartoon matches with the given cartoon on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1768.png"
+    ],
+    "id": 1768
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich drawing on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1770.png"
+    ],
+    "id": 1770
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich cartoon on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1776.png"
+    ],
+    "id": 1776
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich image matches with the given image on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1779.png"
+    ],
+    "id": 1779
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich image matches with the given image on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1811.png"
+    ],
+    "id": 1811
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich figure on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1822.png"
+    ],
+    "id": 1822
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich figure matches with the given figure on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1843.png"
+    ],
+    "id": 1843
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich picture matches with the given picture on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_186.png"
+    ],
+    "id": 186
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich picture on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1870.png"
+    ],
+    "id": 1870
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich drawing on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1877.png"
+    ],
+    "id": 1877
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich cartoon on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1882.png"
+    ],
+    "id": 1882
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich cartoon on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1888.png"
+    ],
+    "id": 1888
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich cartoon matches with the given cartoon on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1890.png"
+    ],
+    "id": 1890
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich figure on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1894.png"
+    ],
+    "id": 1894
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich figure on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1906.png"
+    ],
+    "id": 1906
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich cartoon matches with the given cartoon on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1928.png"
+    ],
+    "id": 1928
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich picture matches with the given picture on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1942.png"
+    ],
+    "id": 1942
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich picture on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1948.png"
+    ],
+    "id": 1948
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich drawing on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1967.png"
+    ],
+    "id": 1967
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich image matches with the given image on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1982.png"
+    ],
+    "id": 1982
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich image matches with the given image on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_207.png"
+    ],
+    "id": 207
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich drawing matches with the given drawing on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_225.png"
+    ],
+    "id": 225
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich cartoon on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_229.png"
+    ],
+    "id": 229
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich image on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_253.png"
+    ],
+    "id": 253
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich picture matches with the given picture on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_26.png"
+    ],
+    "id": 26
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich figure matches with the given figure on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_262.png"
+    ],
+    "id": 262
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich cartoon matches with the given cartoon on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_283.png"
+    ],
+    "id": 283
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich cartoon on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_345.png"
+    ],
+    "id": 345
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich drawing matches with the given drawing on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_37.png"
+    ],
+    "id": 37
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich drawing on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_402.png"
+    ],
+    "id": 402
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich image on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_403.png"
+    ],
+    "id": 403
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich figure on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_437.png"
+    ],
+    "id": 437
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich cartoon matches with the given cartoon on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_452.png"
+    ],
+    "id": 452
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich drawing matches with the given drawing on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_463.png"
+    ],
+    "id": 463
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich cartoon matches with the given cartoon on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_469.png"
+    ],
+    "id": 469
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich drawing on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_472.png"
+    ],
+    "id": 472
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich picture matches with the given picture on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_488.png"
+    ],
+    "id": 488
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich picture on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_509.png"
+    ],
+    "id": 509
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich image on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_53.png"
+    ],
+    "id": 53
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich figure matches with the given figure on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_550.png"
+    ],
+    "id": 550
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich figure matches with the given figure on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_586.png"
+    ],
+    "id": 586
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich cartoon on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_623.png"
+    ],
+    "id": 623
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich picture on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_639.png"
+    ],
+    "id": 639
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich figure on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_640.png"
+    ],
+    "id": 640
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich image on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_659.png"
+    ],
+    "id": 659
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich cartoon matches with the given cartoon on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_687.png"
+    ],
+    "id": 687
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich image matches with the given image on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_749.png"
+    ],
+    "id": 749
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich picture matches with the given picture on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_797.png"
+    ],
+    "id": 797
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich figure on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_8.png"
+    ],
+    "id": 8
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich drawing on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_800.png"
+    ],
+    "id": 800
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich picture matches with the given picture on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_821.png"
+    ],
+    "id": 821
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich cartoon matches with the given cartoon on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_877.png"
+    ],
+    "id": 877
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich picture on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_880.png"
+    ],
+    "id": 880
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich drawing on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_896.png"
+    ],
+    "id": 896
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich figure matches with the given figure on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_913.png"
+    ],
+    "id": 913
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich drawing on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_928.png"
+    ],
+    "id": 928
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich picture matches with the given picture on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_954.png"
+    ],
+    "id": 954
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLet's answer the following multiple-choice questions step by step.\nWhich picture on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E\n\nPlease provide detailed reasoning and choose a final answer from the given options. \nFormat your response in pure JSON as follows without the format prefix like ```json.\nIn \"reasoning_steps\", include a description of the logical reasoning that leads to the answer.\nIn \"final_answer\", provide the selected option as a single letter. \n\nFor example:\n\n{\n  \"reasoning_steps\": \"Detailed explanation of how the correct answer was determined.\",\n  \"final_answer\": \"A\"\n}\n\n\n",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_956.png"
+    ],
+    "id": 956
+  }
+]

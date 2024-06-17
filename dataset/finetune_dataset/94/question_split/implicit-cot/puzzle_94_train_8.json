@@ -1,0 +1,27 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhat is the height difference between the peaks of the taller tree and the shorter tree?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: The figure displays two trees. What is the gap between their peaks? A: 3,B: 1,C: 4,D: 8,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/94/puzzle_94_768_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/94/puzzle_94_768_grid6.png"
+    ],
+    "id": 768
+  }
+]

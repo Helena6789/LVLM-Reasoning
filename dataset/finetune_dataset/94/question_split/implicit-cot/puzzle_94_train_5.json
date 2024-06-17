@@ -1,0 +1,282 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: The figure presents two mushrooms. How much is the difference between their peaks? A: 11,B: 4,C: 15,D: 9,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/94/puzzle_94_1003_grid13.png"
+    ],
+    "id": 1003
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhat is the gap between the peaks of the two trees?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: In the image is pictured two trees. How much is the gap between their peaks? A: 8,B: 2,C: 9,D: 5,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/94/puzzle_94_1261_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/94/puzzle_94_1261_grid1.png"
+    ],
+    "id": 1261
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhat is 7 minus 4?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: In the image is displayed two buildings. What is the gap between their elevations? A: 2,B: 0,C: 1,D: 5,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/94/puzzle_94_1287_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/94/puzzle_94_1287_grid8.png"
+    ],
+    "id": 1287
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: In the drawing is shown two trees. How much is the gap between their peaks? A: 2,B: 11,C: 5,D: 6,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/94/puzzle_94_1375_grid6.png"
+    ],
+    "id": 1375
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhat is the result of the calculation using the formula from Step 4?",
+        "role": "user"
+      },
+      {
+        "content": "7 - 4 = 3",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: The cartoon demonstrates two buildings. How much is the gap between their heights? A: 2,B: 4,C: 1,D: 0,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/94/puzzle_94_1550_grid6.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/94/puzzle_94_1550_grid4.png"
+    ],
+    "id": 1550
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: In the image is presented two trees. What is the gap between their peaks? A: 16,B: 13,C: 18,D: 12,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/94/puzzle_94_1693_grid8.png"
+    ],
+    "id": 1693
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: The cartoon pictures two mushrooms. How much is the difference between their elevations? A: 7,B: 8,C: 5,D: 2,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/94/puzzle_94_1909_grid4.png"
+    ],
+    "id": 1909
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: The figure demonstrates two trees. How much is the difference between their elevations? A: 1,B: 5,C: 6,D: 2,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/94/puzzle_94_1992_grid4.png"
+    ],
+    "id": 1992
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: In the cartoon is presented two trees. What is the difference between their heights? A: 9,B: 5,C: 12,D: 18,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/94/puzzle_94_486_grid4.png"
+    ],
+    "id": 486
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: In the figure is shown two mushrooms. What is the gap between their peaks? A: 0,B: 10,C: 1,D: 13,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/94/puzzle_94_532_grid9.png"
+    ],
+    "id": 532
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: In the cartoon is shown two mushrooms. What is the gap between their elevations? A: 10,B: 11,C: 16,D: 0,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/94/puzzle_94_61_grid9.png"
+    ],
+    "id": 61
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhat is the height of the level the shorter tree is on?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhat is the combined height of the shorter tree and the level it is on?",
+        "role": "user"
+      },
+      {
+        "content": "8",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhat is the combined height of the taller tree and the level it is on?",
+        "role": "user"
+      },
+      {
+        "content": "12",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhat is the height difference between the peaks of the taller tree and the shorter tree?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: The figure displays two trees. What is the gap between their peaks? A: 3,B: 1,C: 4,D: 8,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/94/puzzle_94_768_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/94/puzzle_94_768_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/94/puzzle_94_768_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/94/puzzle_94_768_grid4.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/94/puzzle_94_768_grid6.png"
+    ],
+    "id": 768
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhat is 10 minus 5?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: In the image is depicted two mushrooms. How much is the difference between their peaks? A: 2,B: 8,C: 3,D: 1,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/94/puzzle_94_898_grid1.png",
+      "/home/hq/LVLM/LVLM-Reasoning/dataset/clip_images/94/puzzle_94_898_grid4.png"
+    ],
+    "id": 898
+  }
+]
