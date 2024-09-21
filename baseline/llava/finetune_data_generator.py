@@ -18,10 +18,6 @@ logger = logging.getLogger(__name__)
 
 def generate_llama_output(df, minmum_level, prompt_type, data_type, full_image_path, sub_image_path, include_sub_qa):
     output_json_list = []
-    if include_sub_qa:
-        prompt = '<image>\nBased on the previous answered questions, please answer the following questions: {}. You should provide the answer in a single upper case letter, e.g: A'
-    else:
-        prompt = '<image>\nPlease answer the following questions: {}. You should provide the answer in a single upper case letter, e.g: A'
 
     for image_path, group in df.groupby('image_path'):
         messages = []
@@ -33,9 +29,20 @@ def generate_llama_output(df, minmum_level, prompt_type, data_type, full_image_p
                 messages.append({'content': '<image>\n{}'.format(row['sub_question']), 'role': 'user'})
                 messages.append({'content': row['answer'], 'role': 'assistant'})
             elif pd.isna(row['sub_question']):
-                if data_type == 'test' and prompt_type == 'cot':
-                    messages.append({'content': constants.SIMPLE_COT_PROMPT.format(row['origin_question'], constants.SIMPLE_COT_OUTPUT), 'role': 'user'})
+                # For test data we need to provide two different prompt: one for original inference, one for cot inference.
+                if data_type == 'test':
+                    if prompt_type == 'cot':
+                        messages.append({'content': constants.SIMPLE_COT_PROMPT.format(row['origin_question'], constants.SIMPLE_COT_OUTPUT), 'role': 'user'})
+                    else:
+                        prompt = '<image>\nPlease answer the following questions: {}. You should provide the answer in a single upper case letter, e.g: A'
+                        messages.append({'content': prompt.format(row['origin_question']), 'role': 'user'})
                 else:
+                    # if train data need to include the sub questions and answer, add a different prompt to help llm understand the context.
+                    if include_sub_qa:
+                        prompt = '<image>\nBased on the previous answered questions, please answer the following questions: {}. You should provide the answer in a single upper case letter, e.g: A'
+                    else:
+                        prompt = '<image>\n{}'
+
                     messages.append({'content': prompt.format(row['origin_question']), 'role': 'user'})
                 messages.append({'content': row['true_answer'], 'role': 'assistant'})
             
@@ -227,14 +234,6 @@ if __name__ == "__main__":
     input_data_dir = args.input_data
     if not os.path.exists(input_data_dir):
       raise ValueError("input data path {} not exist.".format(input_data_dir))
-
-    smart101_data_root = args.smart101_data_root
-    if not os.path.exists(smart101_data_root):
-      raise ValueError("smart101 data path {} not exist.".format(smart101_data_root))
-
-    clip_image_root = args.clip_image_root
-    if not os.path.exists(clip_image_root):
-      raise ValueError("clip images data path {} not exist.".format(clip_image_root))
 
     output_root = args.output_root
     if not os.path.exists(output_root):
