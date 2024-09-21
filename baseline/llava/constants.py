@@ -196,4 +196,5 @@ In "final_answer", provide the selected option as a single letter.
 For example:
 {}
 
+Ensure the JSON format is strictly followed.
 """

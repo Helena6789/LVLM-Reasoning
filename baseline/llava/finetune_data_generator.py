@@ -16,7 +16,7 @@ from logging.handlers import RotatingFileHandler
 
 logger = logging.getLogger(__name__)
 
-def generate_llama_output(df, minmum_level, prompt_type, full_image_path, sub_image_path, include_sub_qa):
+def generate_llama_output(df, minmum_level, prompt_type, data_type, full_image_path, sub_image_path, include_sub_qa):
     output_json_list = []
     if include_sub_qa:
         prompt = '<image>\nBased on the previous answered questions, please answer the following questions: {}. You should provide the answer in a single upper case letter, e.g: A'
@@ -33,7 +33,7 @@ def generate_llama_output(df, minmum_level, prompt_type, full_image_path, sub_im
                 messages.append({'content': '<image>\n{}'.format(row['sub_question']), 'role': 'user'})
                 messages.append({'content': row['answer'], 'role': 'assistant'})
             elif pd.isna(row['sub_question']):
-                if prompt_type == 'cot':
+                if data_type == 'test' and prompt_type == 'cot':
                     messages.append({'content': constants.SIMPLE_COT_PROMPT.format(row['origin_question'], constants.SIMPLE_COT_OUTPUT), 'role': 'user'})
                 else:
                     messages.append({'content': prompt.format(row['origin_question']), 'role': 'user'})
@@ -82,7 +82,7 @@ def output_json_file(df, output_data_path, split_type, prompt_type, data_type,
     max_split_level = 10 if data_type != 'test' and include_sub_qa else 1
     for minmum_level in range(0, max_split_level, skip_stage_step):
         output_filename = os.path.join(output_data_path, "puzzle_{}_{}_{}.json".format(df['puzzle_id'].unique().tolist()[0], data_type, minmum_level))
-        output_json_list = generate_llama_output(df, minmum_level, prompt_type, full_image_path, sub_image_path, include_sub_qa)
+        output_json_list = generate_llama_output(df, minmum_level, prompt_type, data_type, full_image_path, sub_image_path, include_sub_qa)
 
         if len(output_json_list) == 0:
             continue
@@ -102,12 +102,12 @@ def generate_llava_fune_tune_output(args, train_df, val_df, test_df, output_data
         prompt_type= 'default'
     elif output_data_type == 'pretrain-cot':
         prompt_type = 'cot'
+    # only keep one copy original question finetune.
     elif output_data_type == 'finetune-inference':
         prompt_type= 'default'
         include_train_file = True
     elif output_data_type == 'finetune-cot':
         prompt_type = 'cot'
-        include_train_file = True
     elif output_data_type == 'implicit-cot':
         prompt_type= 'default'
         include_train_file = True
