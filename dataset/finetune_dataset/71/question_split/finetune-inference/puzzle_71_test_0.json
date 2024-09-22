@@ -1,0 +1,4802 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 41 cars, are moving in opposite directions. When car number 27 of one train is opposite car number 27 of the other, which car is opposite car number 18? A: 36,B: 40,C: 12,D: 3,E: 32. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1.png"
+    ],
+    "id": 1
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 39 cars, are passing in opposite directions. When car number 28 of one train is opposite car number 28 of the other, which car is opposite car number 27? A: 30,B: 9,C: 29,D: 32,E: 34. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1012.png"
+    ],
+    "id": 1012
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 43 cabins, are passing in opposite directions. When cabin number 30 of first train is opposite cabin number 30 of the other, which cabin is opposite cabin number 40? A: 35,B: 31,C: 21,D: 36,E: 20. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1016.png"
+    ],
+    "id": 1016
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 27 cars, are passing in opposite directions. When car number 16 of first train is opposite car number 16 of the other, which car is opposite car number 6? A: 26,B: 18,C: 19,D: 17,E: 23. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1017.png"
+    ],
+    "id": 1017
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 21 cars, are passing in opposite directions. When car number 12 of first train is opposite car number 12 of the other, which car is opposite car number 20? A: 4,B: 8,C: 13,D: 5,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1020.png"
+    ],
+    "id": 1020
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 21 cabins, are passing in opposite directions. When cabin with digit 19 of first train is opposite cabin with digit 19 of the other, which cabin is opposite cabin with digit 21? A: 14,B: 1,C: 3,D: 17,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1021.png"
+    ],
+    "id": 1021
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 19 cabins, are moving in opposite directions. When cabin number 11 of first train is opposite cabin number 11 of the other, which cabin is opposite cabin number 14? A: 13,B: 3,C: 11,D: 16,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1025.png"
+    ],
+    "id": 1025
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 45 cars, are traveling in opposite directions. When car with digit 37 of first train is opposite car with digit 37 of the other, which car is opposite car with digit 34? A: 39,B: 43,C: 1,D: 33,E: 40. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1028.png"
+    ],
+    "id": 1028
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 21 cars, are moving in opposite directions. When car with digit 19 of one train is opposite car with digit 19 of the other, which car is opposite car with digit 21? A: 17,B: 3,C: 4,D: 19,E: 18. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1038.png"
+    ],
+    "id": 1038
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 17 cars, are moving in opposite directions. When car with digit 16 of first train is opposite car with digit 16 of the other, which car is opposite car with digit 15? A: 17,B: 8,C: 5,D: 7,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1044.png"
+    ],
+    "id": 1044
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 31 cars, are moving in opposite directions. When car with digit 25 of first train is opposite car with digit 25 of the other, which car is opposite car with digit 27? A: 26,B: 19,C: 23,D: 24,E: 25. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1051.png"
+    ],
+    "id": 1051
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 27 cars, are passing in opposite directions. When car with digit 23 of one train is opposite car with digit 23 of the other, which car is opposite car with digit 26? A: 20,B: 24,C: 22,D: 7,E: 17. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1056.png"
+    ],
+    "id": 1056
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 33 cabins, are traveling in opposite directions. When cabin with digit 26 of first train is opposite cabin with digit 26 of the other, which cabin is opposite cabin with digit 21? A: 31,B: 33,C: 9,D: 26,E: 18. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1059.png"
+    ],
+    "id": 1059
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 25 cabins, are passing in opposite directions. When cabin with digit 22 of one train is opposite cabin with digit 22 of the other, which cabin is opposite cabin with digit 20? A: 4,B: 24,C: 16,D: 19,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1064.png"
+    ],
+    "id": 1064
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 47 cars, are moving in opposite directions. When car with digit 43 of first train is opposite car with digit 43 of the other, which car is opposite car with digit 40? A: 8,B: 46,C: 18,D: 30,E: 40. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1071.png"
+    ],
+    "id": 1071
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 49 cars, are moving in opposite directions. When car with digit 44 of first train is opposite car with digit 44 of the other, which car is opposite car with digit 46? A: 39,B: 17,C: 15,D: 42,E: 23. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1076.png"
+    ],
+    "id": 1076
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 45 cars, are moving in opposite directions. When car number 27 of first train is opposite car number 27 of the other, which car is opposite car number 44? A: 10,B: 4,C: 24,D: 15,E: 44. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1082.png"
+    ],
+    "id": 1082
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 41 cabins, are passing in opposite directions. When cabin with digit 31 of one train is opposite cabin with digit 31 of the other, which cabin is opposite cabin with digit 28? A: 31,B: 34,C: 12,D: 6,E: 25. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1086.png"
+    ],
+    "id": 1086
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 37 cars, are passing in opposite directions. When car with digit 25 of first train is opposite car with digit 25 of the other, which car is opposite car with digit 21? A: 9,B: 19,C: 28,D: 13,E: 29. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1095.png"
+    ],
+    "id": 1095
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 41 cabins, are passing in opposite directions. When cabin number 36 of one train is opposite cabin number 36 of the other, which cabin is opposite cabin number 31? A: 20,B: 41,C: 23,D: 33,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1104.png"
+    ],
+    "id": 1104
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 25 cars, are traveling in opposite directions. When car number 19 of first train is opposite car number 19 of the other, which car is opposite car number 16? A: 23,B: 21,C: 8,D: 22,E: 16. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1109.png"
+    ],
+    "id": 1109
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 17 cars, are traveling in opposite directions. When car number 9 of first train is opposite car number 9 of the other, which car is opposite car number 15? A: 17,B: 3,C: 16,D: 2,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_112.png"
+    ],
+    "id": 112
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 33 cars, are traveling in opposite directions. When car number 27 of one train is opposite car number 27 of the other, which car is opposite car number 22? A: 2,B: 18,C: 11,D: 32,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1123.png"
+    ],
+    "id": 1123
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 31 cabins, are passing in opposite directions. When cabin with digit 25 of first train is opposite cabin with digit 25 of the other, which cabin is opposite cabin with digit 26? A: 24,B: 18,C: 9,D: 13,E: 22. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1126.png"
+    ],
+    "id": 1126
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 47 cars, are moving in opposite directions. When car with digit 36 of one train is opposite car with digit 36 of the other, which car is opposite car with digit 47? A: 22,B: 25,C: 43,D: 38,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1129.png"
+    ],
+    "id": 1129
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 45 cars, are traveling in opposite directions. When car number 38 of one train is opposite car number 38 of the other, which car is opposite car number 42? A: 12,B: 33,C: 31,D: 34,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1130.png"
+    ],
+    "id": 1130
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 19 cars, are moving in opposite directions. When car number 15 of first train is opposite car number 15 of the other, which car is opposite car number 16? A: 12,B: 13,C: 19,D: 14,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1136.png"
+    ],
+    "id": 1136
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 45 cabins, are passing in opposite directions. When cabin number 27 of first train is opposite cabin number 27 of the other, which cabin is opposite cabin number 28? A: 19,B: 26,C: 44,D: 39,E: 41. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1152.png"
+    ],
+    "id": 1152
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 11 cars, are moving in opposite directions. When car with digit 6 of one train is opposite car with digit 6 of the other, which car is opposite car with digit 3? A: 6,B: 2,C: 5,D: 9,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1153.png"
+    ],
+    "id": 1153
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 15 cabins, are passing in opposite directions. When cabin with digit 11 of first train is opposite cabin with digit 11 of the other, which cabin is opposite cabin with digit 9? A: 6,B: 13,C: 12,D: 1,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1154.png"
+    ],
+    "id": 1154
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 47 cars, are passing in opposite directions. When car with digit 42 of first train is opposite car with digit 42 of the other, which car is opposite car with digit 46? A: 14,B: 38,C: 16,D: 30,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1162.png"
+    ],
+    "id": 1162
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 47 cars, are passing in opposite directions. When car number 38 of one train is opposite car number 38 of the other, which car is opposite car number 47? A: 24,B: 38,C: 18,D: 44,E: 29. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1180.png"
+    ],
+    "id": 1180
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 35 cabins, are moving in opposite directions. When cabin with digit 24 of first train is opposite cabin with digit 24 of the other, which cabin is opposite cabin with digit 21? A: 5,B: 27,C: 26,D: 6,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1183.png"
+    ],
+    "id": 1183
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 21 cars, are traveling in opposite directions. When car with digit 17 of one train is opposite car with digit 17 of the other, which car is opposite car with digit 21? A: 6,B: 20,C: 15,D: 12,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1184.png"
+    ],
+    "id": 1184
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 13 cars, are moving in opposite directions. When car with digit 10 of first train is opposite car with digit 10 of the other, which car is opposite car with digit 12? A: 9,B: 3,C: 5,D: 10,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1194.png"
+    ],
+    "id": 1194
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 31 cars, are moving in opposite directions. When car number 16 of first train is opposite car number 16 of the other, which car is opposite car number 4? A: 28,B: 6,C: 22,D: 1,E: 18. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1207.png"
+    ],
+    "id": 1207
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 23 cabins, are moving in opposite directions. When cabin number 17 of one train is opposite cabin number 17 of the other, which cabin is opposite cabin number 19? A: 7,B: 9,C: 17,D: 15,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_121.png"
+    ],
+    "id": 121
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 47 cabins, are traveling in opposite directions. When cabin with digit 33 of one train is opposite cabin with digit 33 of the other, which cabin is opposite cabin with digit 23? A: 43,B: 25,C: 7,D: 37,E: 20. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1215.png"
+    ],
+    "id": 1215
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 13 cabins, are moving in opposite directions. When cabin number 11 of first train is opposite cabin number 11 of the other, which cabin is opposite cabin number 10? A: 13,B: 12,C: 10,D: 7,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_122.png"
+    ],
+    "id": 122
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 35 cars, are moving in opposite directions. When car number 30 of one train is opposite car number 30 of the other, which car is opposite car number 26? A: 16,B: 6,C: 34,D: 13,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1224.png"
+    ],
+    "id": 1224
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 49 cars, are traveling in opposite directions. When car with digit 28 of first train is opposite car with digit 28 of the other, which car is opposite car with digit 9? A: 10,B: 47,C: 22,D: 9,E: 19. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1238.png"
+    ],
+    "id": 1238
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 31 cabins, are moving in opposite directions. When cabin with digit 29 of one train is opposite cabin with digit 29 of the other, which cabin is opposite cabin with digit 30? A: 1,B: 14,C: 27,D: 19,E: 28. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1241.png"
+    ],
+    "id": 1241
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 39 cars, are passing in opposite directions. When car number 33 of first train is opposite car number 33 of the other, which car is opposite car number 35? A: 39,B: 11,C: 31,D: 8,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1248.png"
+    ],
+    "id": 1248
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 45 cars, are moving in opposite directions. When car number 35 of first train is opposite car number 35 of the other, which car is opposite car number 25? A: 28,B: 12,C: 45,D: 1,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1254.png"
+    ],
+    "id": 1254
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 17 cabins, are passing in opposite directions. When cabin number 11 of first train is opposite cabin number 11 of the other, which cabin is opposite cabin number 8? A: 14,B: 13,C: 4,D: 1,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1256.png"
+    ],
+    "id": 1256
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 39 cabins, are passing in opposite directions. When cabin with digit 23 of first train is opposite cabin with digit 23 of the other, which cabin is opposite cabin with digit 28? A: 38,B: 22,C: 14,D: 18,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1257.png"
+    ],
+    "id": 1257
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 39 cars, are passing in opposite directions. When car with digit 34 of first train is opposite car with digit 34 of the other, which car is opposite car with digit 35? A: 26,B: 36,C: 33,D: 13,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1264.png"
+    ],
+    "id": 1264
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 21 cars, are moving in opposite directions. When car number 13 of first train is opposite car number 13 of the other, which car is opposite car number 15? A: 11,B: 21,C: 20,D: 13,E: 19. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1266.png"
+    ],
+    "id": 1266
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 37 cabins, are traveling in opposite directions. When cabin with digit 34 of first train is opposite cabin with digit 34 of the other, which cabin is opposite cabin with digit 36? A: 32,B: 2,C: 23,D: 14,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1267.png"
+    ],
+    "id": 1267
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 25 cabins, are traveling in opposite directions. When cabin number 19 of one train is opposite cabin number 19 of the other, which cabin is opposite cabin number 22? A: 9,B: 16,C: 2,D: 15,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1275.png"
+    ],
+    "id": 1275
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 41 cars, are traveling in opposite directions. When car number 24 of one train is opposite car number 24 of the other, which car is opposite car number 10? A: 24,B: 11,C: 38,D: 8,E: 34. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1282.png"
+    ],
+    "id": 1282
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 13 cabins, are passing in opposite directions. When cabin number 12 of one train is opposite cabin number 12 of the other, which cabin is opposite cabin number 11? A: 8,B: 13,C: 7,D: 9,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1291.png"
+    ],
+    "id": 1291
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 21 cabins, are traveling in opposite directions. When cabin with digit 17 of first train is opposite cabin with digit 17 of the other, which cabin is opposite cabin with digit 14? A: 20,B: 7,C: 1,D: 17,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1294.png"
+    ],
+    "id": 1294
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 39 cars, are traveling in opposite directions. When car with digit 29 of first train is opposite car with digit 29 of the other, which car is opposite car with digit 22? A: 37,B: 24,C: 36,D: 12,E: 18. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1297.png"
+    ],
+    "id": 1297
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 29 cabins, are moving in opposite directions. When cabin number 15 of first train is opposite cabin number 15 of the other, which cabin is opposite cabin number 10? A: 11,B: 10,C: 20,D: 2,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_13.png"
+    ],
+    "id": 13
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 31 cabins, are passing in opposite directions. When cabin number 29 of one train is opposite cabin number 29 of the other, which cabin is opposite cabin number 31? A: 27,B: 4,C: 3,D: 6,E: 25. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_130.png"
+    ],
+    "id": 130
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 43 cars, are passing in opposite directions. When car number 32 of one train is opposite car number 32 of the other, which car is opposite car number 42? A: 11,B: 22,C: 10,D: 13,E: 36. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1306.png"
+    ],
+    "id": 1306
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 17 cars, are traveling in opposite directions. When car number 16 of first train is opposite car number 16 of the other, which car is opposite car number 15? A: 15,B: 11,C: 12,D: 17,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1332.png"
+    ],
+    "id": 1332
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 41 cars, are traveling in opposite directions. When car number 27 of one train is opposite car number 27 of the other, which car is opposite car number 14? A: 22,B: 16,C: 40,D: 28,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1337.png"
+    ],
+    "id": 1337
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 21 cars, are moving in opposite directions. When car with digit 17 of one train is opposite car with digit 17 of the other, which car is opposite car with digit 21? A: 1,B: 16,C: 10,D: 8,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_134.png"
+    ],
+    "id": 134
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 43 cabins, are traveling in opposite directions. When cabin with digit 32 of first train is opposite cabin with digit 32 of the other, which cabin is opposite cabin with digit 43? A: 21,B: 25,C: 15,D: 41,E: 23. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1354.png"
+    ],
+    "id": 1354
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 29 cars, are traveling in opposite directions. When car number 23 of one train is opposite car number 23 of the other, which car is opposite car number 27? A: 17,B: 19,C: 25,D: 23,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1363.png"
+    ],
+    "id": 1363
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 39 cars, are moving in opposite directions. When car with digit 31 of one train is opposite car with digit 31 of the other, which car is opposite car with digit 23? A: 6,B: 36,C: 21,D: 39,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1367.png"
+    ],
+    "id": 1367
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 37 cars, are traveling in opposite directions. When car with digit 30 of one train is opposite car with digit 30 of the other, which car is opposite car with digit 34? A: 20,B: 8,C: 26,D: 31,E: 19. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1369.png"
+    ],
+    "id": 1369
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 47 cars, are passing in opposite directions. When car with digit 27 of one train is opposite car with digit 27 of the other, which car is opposite car with digit 25? A: 13,B: 2,C: 36,D: 28,E: 29. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1371.png"
+    ],
+    "id": 1371
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 27 cabins, are traveling in opposite directions. When cabin with digit 21 of first train is opposite cabin with digit 21 of the other, which cabin is opposite cabin with digit 22? A: 7,B: 23,C: 20,D: 25,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1382.png"
+    ],
+    "id": 1382
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 25 cars, are moving in opposite directions. When car number 17 of first train is opposite car number 17 of the other, which car is opposite car number 19? A: 6,B: 12,C: 7,D: 14,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1390.png"
+    ],
+    "id": 1390
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 41 cars, are passing in opposite directions. When car number 37 of first train is opposite car number 37 of the other, which car is opposite car number 38? A: 26,B: 39,C: 36,D: 7,E: 24. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1396.png"
+    ],
+    "id": 1396
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 31 cars, are traveling in opposite directions. When car with digit 28 of one train is opposite car with digit 28 of the other, which car is opposite car with digit 26? A: 25,B: 3,C: 5,D: 13,E: 30. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1397.png"
+    ],
+    "id": 1397
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 39 cars, are moving in opposite directions. When car with digit 33 of first train is opposite car with digit 33 of the other, which car is opposite car with digit 39? A: 27,B: 22,C: 12,D: 39,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_14.png"
+    ],
+    "id": 14
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 27 cars, are moving in opposite directions. When car with digit 22 of one train is opposite car with digit 22 of the other, which car is opposite car with digit 23? A: 16,B: 17,C: 7,D: 23,E: 21. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1400.png"
+    ],
+    "id": 1400
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 11 cars, are passing in opposite directions. When car number 6 of first train is opposite car number 6 of the other, which car is opposite car number 5? A: 4,B: 7,C: 3,D: 9,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1408.png"
+    ],
+    "id": 1408
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 45 cars, are moving in opposite directions. When car number 41 of first train is opposite car number 41 of the other, which car is opposite car number 43? A: 23,B: 44,C: 25,D: 18,E: 39. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1409.png"
+    ],
+    "id": 1409
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 37 cars, are passing in opposite directions. When car with digit 21 of one train is opposite car with digit 21 of the other, which car is opposite car with digit 23? A: 19,B: 18,C: 9,D: 28,E: 20. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1410.png"
+    ],
+    "id": 1410
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 25 cars, are traveling in opposite directions. When car with digit 21 of first train is opposite car with digit 21 of the other, which car is opposite car with digit 20? A: 14,B: 22,C: 25,D: 12,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1411.png"
+    ],
+    "id": 1411
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 17 cabins, are traveling in opposite directions. When cabin number 16 of first train is opposite cabin number 16 of the other, which cabin is opposite cabin number 15? A: 10,B: 2,C: 17,D: 6,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1413.png"
+    ],
+    "id": 1413
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 31 cars, are moving in opposite directions. When car with digit 26 of one train is opposite car with digit 26 of the other, which car is opposite car with digit 28? A: 28,B: 24,C: 1,D: 18,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1426.png"
+    ],
+    "id": 1426
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 33 cabins, are traveling in opposite directions. When cabin number 21 of one train is opposite cabin number 21 of the other, which cabin is opposite cabin number 9? A: 16,B: 32,C: 15,D: 33,E: 31. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_143.png"
+    ],
+    "id": 143
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 31 cabins, are moving in opposite directions. When cabin number 22 of first train is opposite cabin number 22 of the other, which cabin is opposite cabin number 31? A: 6,B: 24,C: 7,D: 13,E: 29. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1430.png"
+    ],
+    "id": 1430
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 41 cars, are passing in opposite directions. When car with digit 26 of one train is opposite car with digit 26 of the other, which car is opposite car with digit 14? A: 38,B: 28,C: 17,D: 11,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1434.png"
+    ],
+    "id": 1434
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 35 cabins, are moving in opposite directions. When cabin with digit 32 of one train is opposite cabin with digit 32 of the other, which cabin is opposite cabin with digit 30? A: 6,B: 29,C: 19,D: 34,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1437.png"
+    ],
+    "id": 1437
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 19 cars, are moving in opposite directions. When car with digit 14 of one train is opposite car with digit 14 of the other, which car is opposite car with digit 12? A: 13,B: 9,C: 16,D: 7,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1439.png"
+    ],
+    "id": 1439
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 29 cabins, are moving in opposite directions. When cabin number 16 of first train is opposite cabin number 16 of the other, which cabin is opposite cabin number 25? A: 14,B: 25,C: 11,D: 2,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1451.png"
+    ],
+    "id": 1451
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 39 cars, are passing in opposite directions. When car number 23 of one train is opposite car number 23 of the other, which car is opposite car number 30? A: 30,B: 38,C: 7,D: 16,E: 37. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1459.png"
+    ],
+    "id": 1459
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 37 cabins, are moving in opposite directions. When cabin with digit 33 of one train is opposite cabin with digit 33 of the other, which cabin is opposite cabin with digit 30? A: 11,B: 30,C: 3,D: 36,E: 16. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1462.png"
+    ],
+    "id": 1462
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 49 cabins, are traveling in opposite directions. When cabin number 37 of one train is opposite cabin number 37 of the other, which cabin is opposite cabin number 35? A: 20,B: 39,C: 21,D: 40,E: 42. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1478.png"
+    ],
+    "id": 1478
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 39 cabins, are traveling in opposite directions. When cabin number 23 of one train is opposite cabin number 23 of the other, which cabin is opposite cabin number 35? A: 23,B: 34,C: 11,D: 14,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1479.png"
+    ],
+    "id": 1479
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 41 cars, are moving in opposite directions. When car number 34 of first train is opposite car number 34 of the other, which car is opposite car number 36? A: 16,B: 8,C: 40,D: 32,E: 17. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1482.png"
+    ],
+    "id": 1482
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 45 cabins, are passing in opposite directions. When cabin with digit 27 of first train is opposite cabin with digit 27 of the other, which cabin is opposite cabin with digit 26? A: 19,B: 5,C: 7,D: 12,E: 28. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1484.png"
+    ],
+    "id": 1484
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 45 cars, are passing in opposite directions. When car with digit 32 of one train is opposite car with digit 32 of the other, which car is opposite car with digit 24? A: 2,B: 38,C: 40,D: 7,E: 27. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1485.png"
+    ],
+    "id": 1485
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 23 cars, are traveling in opposite directions. When car number 22 of one train is opposite car number 22 of the other, which car is opposite car number 23? A: 15,B: 23,C: 6,D: 21,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1495.png"
+    ],
+    "id": 1495
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 47 cars, are traveling in opposite directions. When car with digit 28 of one train is opposite car with digit 28 of the other, which car is opposite car with digit 42? A: 47,B: 42,C: 8,D: 36,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1496.png"
+    ],
+    "id": 1496
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 11 cabins, are passing in opposite directions. When cabin with digit 6 of one train is opposite cabin with digit 6 of the other, which cabin is opposite cabin with digit 11? A: 2,B: 4,C: 1,D: 11,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1499.png"
+    ],
+    "id": 1499
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 27 cars, are passing in opposite directions. When car with digit 17 of first train is opposite car with digit 17 of the other, which car is opposite car with digit 20? A: 3,B: 14,C: 1,D: 21,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1500.png"
+    ],
+    "id": 1500
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 19 cars, are moving in opposite directions. When car number 16 of one train is opposite car number 16 of the other, which car is opposite car number 15? A: 12,B: 15,C: 17,D: 11,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1508.png"
+    ],
+    "id": 1508
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 21 cabins, are traveling in opposite directions. When cabin with digit 17 of one train is opposite cabin with digit 17 of the other, which cabin is opposite cabin with digit 21? A: 7,B: 21,C: 13,D: 20,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1513.png"
+    ],
+    "id": 1513
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 13 cabins, are passing in opposite directions. When cabin with digit 7 of one train is opposite cabin with digit 7 of the other, which cabin is opposite cabin with digit 11? A: 5,B: 12,C: 3,D: 6,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1515.png"
+    ],
+    "id": 1515
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 23 cars, are moving in opposite directions. When car with digit 21 of first train is opposite car with digit 21 of the other, which car is opposite car with digit 20? A: 15,B: 2,C: 19,D: 6,E: 22. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1520.png"
+    ],
+    "id": 1520
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 21 cars, are traveling in opposite directions. When car number 15 of first train is opposite car number 15 of the other, which car is opposite car number 20? A: 20,B: 2,C: 16,D: 10,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1522.png"
+    ],
+    "id": 1522
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 39 cars, are moving in opposite directions. When car number 26 of first train is opposite car number 26 of the other, which car is opposite car number 24? A: 9,B: 1,C: 30,D: 12,E: 28. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1528.png"
+    ],
+    "id": 1528
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 29 cabins, are traveling in opposite directions. When cabin with digit 22 of first train is opposite cabin with digit 22 of the other, which cabin is opposite cabin with digit 28? A: 16,B: 8,C: 28,D: 23,E: 21. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1529.png"
+    ],
+    "id": 1529
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 25 cars, are moving in opposite directions. When car number 18 of one train is opposite car number 18 of the other, which car is opposite car number 11? A: 13,B: 11,C: 25,D: 22,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1533.png"
+    ],
+    "id": 1533
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 25 cabins, are moving in opposite directions. When cabin number 19 of first train is opposite cabin number 19 of the other, which cabin is opposite cabin number 23? A: 16,B: 1,C: 15,D: 21,E: 23. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1534.png"
+    ],
+    "id": 1534
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 45 cars, are passing in opposite directions. When car with digit 40 of first train is opposite car with digit 40 of the other, which car is opposite car with digit 42? A: 38,B: 43,C: 41,D: 40,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1570.png"
+    ],
+    "id": 1570
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 41 cars, are passing in opposite directions. When car with digit 26 of one train is opposite car with digit 26 of the other, which car is opposite car with digit 23? A: 36,B: 29,C: 5,D: 7,E: 28. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1577.png"
+    ],
+    "id": 1577
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 23 cars, are traveling in opposite directions. When car number 19 of one train is opposite car number 19 of the other, which car is opposite car number 23? A: 20,B: 3,C: 15,D: 8,E: 19. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1579.png"
+    ],
+    "id": 1579
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 45 cabins, are traveling in opposite directions. When cabin number 37 of one train is opposite cabin number 37 of the other, which cabin is opposite cabin number 34? A: 13,B: 33,C: 12,D: 40,E: 41. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1584.png"
+    ],
+    "id": 1584
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 13 cars, are traveling in opposite directions. When car number 9 of first train is opposite car number 9 of the other, which car is opposite car number 12? A: 11,B: 3,C: 8,D: 6,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1585.png"
+    ],
+    "id": 1585
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 17 cars, are passing in opposite directions. When car number 16 of first train is opposite car number 16 of the other, which car is opposite car number 17? A: 4,B: 15,C: 14,D: 5,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1589.png"
+    ],
+    "id": 1589
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 49 cabins, are passing in opposite directions. When cabin with digit 44 of one train is opposite cabin with digit 44 of the other, which cabin is opposite cabin with digit 49? A: 33,B: 41,C: 5,D: 47,E: 39. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1590.png"
+    ],
+    "id": 1590
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 41 cars, are traveling in opposite directions. When car number 29 of first train is opposite car number 29 of the other, which car is opposite car number 38? A: 20,B: 31,C: 10,D: 3,E: 28. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1597.png"
+    ],
+    "id": 1597
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 23 cabins, are traveling in opposite directions. When cabin number 22 of one train is opposite cabin number 22 of the other, which cabin is opposite cabin number 21? A: 4,B: 21,C: 17,D: 23,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1598.png"
+    ],
+    "id": 1598
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 37 cars, are passing in opposite directions. When car with digit 34 of first train is opposite car with digit 34 of the other, which car is opposite car with digit 31? A: 3,B: 5,C: 37,D: 11,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_161.png"
+    ],
+    "id": 161
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 27 cabins, are moving in opposite directions. When cabin with digit 18 of first train is opposite cabin with digit 18 of the other, which cabin is opposite cabin with digit 10? A: 17,B: 15,C: 26,D: 1,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1631.png"
+    ],
+    "id": 1631
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 25 cars, are traveling in opposite directions. When car number 19 of first train is opposite car number 19 of the other, which car is opposite car number 13? A: 19,B: 7,C: 25,D: 8,E: 20. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1633.png"
+    ],
+    "id": 1633
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 27 cars, are moving in opposite directions. When car with digit 17 of one train is opposite car with digit 17 of the other, which car is opposite car with digit 20? A: 20,B: 14,C: 9,D: 19,E: 17. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1636.png"
+    ],
+    "id": 1636
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 35 cabins, are moving in opposite directions. When cabin number 31 of one train is opposite cabin number 31 of the other, which cabin is opposite cabin number 29? A: 8,B: 33,C: 3,D: 9,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1638.png"
+    ],
+    "id": 1638
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 39 cabins, are traveling in opposite directions. When cabin with digit 33 of one train is opposite cabin with digit 33 of the other, which cabin is opposite cabin with digit 36? A: 10,B: 13,C: 36,D: 30,E: 34. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1643.png"
+    ],
+    "id": 1643
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 41 cabins, are moving in opposite directions. When cabin number 29 of first train is opposite cabin number 29 of the other, which cabin is opposite cabin number 41? A: 21,B: 35,C: 1,D: 2,E: 17. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1648.png"
+    ],
+    "id": 1648
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 39 cabins, are passing in opposite directions. When cabin number 31 of first train is opposite cabin number 31 of the other, which cabin is opposite cabin number 36? A: 28,B: 32,C: 26,D: 5,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_166.png"
+    ],
+    "id": 166
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 39 cars, are moving in opposite directions. When car number 27 of first train is opposite car number 27 of the other, which car is opposite car number 29? A: 15,B: 39,C: 25,D: 26,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1661.png"
+    ],
+    "id": 1661
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 27 cars, are moving in opposite directions. When car number 23 of first train is opposite car number 23 of the other, which car is opposite car number 19? A: 11,B: 20,C: 19,D: 17,E: 27. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1663.png"
+    ],
+    "id": 1663
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 49 cars, are moving in opposite directions. When car number 40 of first train is opposite car number 40 of the other, which car is opposite car number 47? A: 47,B: 27,C: 39,D: 41,E: 33. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1678.png"
+    ],
+    "id": 1678
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 49 cabins, are passing in opposite directions. When cabin number 44 of first train is opposite cabin number 44 of the other, which cabin is opposite cabin number 42? A: 42,B: 30,C: 46,D: 23,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1685.png"
+    ],
+    "id": 1685
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 25 cabins, are passing in opposite directions. When cabin with digit 18 of first train is opposite cabin with digit 18 of the other, which cabin is opposite cabin with digit 24? A: 14,B: 6,C: 9,D: 13,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1687.png"
+    ],
+    "id": 1687
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 35 cabins, are moving in opposite directions. When cabin number 24 of one train is opposite cabin number 24 of the other, which cabin is opposite cabin number 18? A: 16,B: 4,C: 33,D: 8,E: 30. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1695.png"
+    ],
+    "id": 1695
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 23 cars, are passing in opposite directions. When car with digit 17 of one train is opposite car with digit 17 of the other, which car is opposite car with digit 19? A: 15,B: 16,C: 14,D: 7,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1698.png"
+    ],
+    "id": 1698
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 27 cabins, are moving in opposite directions. When cabin number 16 of one train is opposite cabin number 16 of the other, which cabin is opposite cabin number 17? A: 15,B: 14,C: 4,D: 3,E: 27. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1700.png"
+    ],
+    "id": 1700
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 45 cabins, are passing in opposite directions. When cabin number 33 of first train is opposite cabin number 33 of the other, which cabin is opposite cabin number 37? A: 12,B: 18,C: 14,D: 3,E: 29. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1705.png"
+    ],
+    "id": 1705
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 33 cabins, are traveling in opposite directions. When cabin number 21 of first train is opposite cabin number 21 of the other, which cabin is opposite cabin number 16? A: 26,B: 20,C: 28,D: 1,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1707.png"
+    ],
+    "id": 1707
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 17 cabins, are moving in opposite directions. When cabin number 15 of one train is opposite cabin number 15 of the other, which cabin is opposite cabin number 17? A: 14,B: 4,C: 3,D: 2,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1714.png"
+    ],
+    "id": 1714
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 43 cars, are moving in opposite directions. When car with digit 36 of one train is opposite car with digit 36 of the other, which car is opposite car with digit 32? A: 27,B: 28,C: 2,D: 40,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1715.png"
+    ],
+    "id": 1715
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 47 cabins, are passing in opposite directions. When cabin with digit 31 of one train is opposite cabin with digit 31 of the other, which cabin is opposite cabin with digit 36? A: 19,B: 37,C: 31,D: 26,E: 35. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1722.png"
+    ],
+    "id": 1722
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 39 cars, are traveling in opposite directions. When car number 35 of first train is opposite car number 35 of the other, which car is opposite car number 34? A: 16,B: 30,C: 28,D: 36,E: 26. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1724.png"
+    ],
+    "id": 1724
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 11 cabins, are passing in opposite directions. When cabin with digit 9 of one train is opposite cabin with digit 9 of the other, which cabin is opposite cabin with digit 8? A: 3,B: 10,C: 8,D: 7,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1725.png"
+    ],
+    "id": 1725
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 27 cabins, are traveling in opposite directions. When cabin number 14 of first train is opposite cabin number 14 of the other, which cabin is opposite cabin number 15? A: 16,B: 1,C: 5,D: 13,E: 17. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1748.png"
+    ],
+    "id": 1748
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 41 cars, are traveling in opposite directions. When car with digit 33 of first train is opposite car with digit 33 of the other, which car is opposite car with digit 35? A: 5,B: 1,C: 20,D: 6,E: 31. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1750.png"
+    ],
+    "id": 1750
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 17 cabins, are traveling in opposite directions. When cabin number 9 of first train is opposite cabin number 9 of the other, which cabin is opposite cabin number 6? A: 4,B: 15,C: 5,D: 14,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1751.png"
+    ],
+    "id": 1751
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 41 cabins, are traveling in opposite directions. When cabin with digit 27 of first train is opposite cabin with digit 27 of the other, which cabin is opposite cabin with digit 19? A: 23,B: 13,C: 35,D: 9,E: 32. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1753.png"
+    ],
+    "id": 1753
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 27 cabins, are passing in opposite directions. When cabin number 25 of first train is opposite cabin number 25 of the other, which cabin is opposite cabin number 23? A: 21,B: 27,C: 19,D: 18,E: 23. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1757.png"
+    ],
+    "id": 1757
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 19 cars, are moving in opposite directions. When car with digit 10 of one train is opposite car with digit 10 of the other, which car is opposite car with digit 6? A: 9,B: 5,C: 2,D: 15,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1758.png"
+    ],
+    "id": 1758
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 13 cabins, are passing in opposite directions. When cabin with digit 10 of one train is opposite cabin with digit 10 of the other, which cabin is opposite cabin with digit 11? A: 7,B: 13,C: 10,D: 2,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1762.png"
+    ],
+    "id": 1762
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 49 cars, are moving in opposite directions. When car number 42 of one train is opposite car number 42 of the other, which car is opposite car number 37? A: 40,B: 3,C: 12,D: 24,E: 47. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1772.png"
+    ],
+    "id": 1772
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 11 cabins, are passing in opposite directions. When cabin with digit 8 of one train is opposite cabin with digit 8 of the other, which cabin is opposite cabin with digit 11? A: 11,B: 5,C: 10,D: 3,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1773.png"
+    ],
+    "id": 1773
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 37 cars, are moving in opposite directions. When car number 33 of first train is opposite car number 33 of the other, which car is opposite car number 36? A: 8,B: 25,C: 24,D: 9,E: 30. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1792.png"
+    ],
+    "id": 1792
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 45 cars, are passing in opposite directions. When car number 36 of one train is opposite car number 36 of the other, which car is opposite car number 41? A: 31,B: 21,C: 3,D: 1,E: 32. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1795.png"
+    ],
+    "id": 1795
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 25 cars, are traveling in opposite directions. When car with digit 20 of first train is opposite car with digit 20 of the other, which car is opposite car with digit 21? A: 18,B: 21,C: 8,D: 19,E: 20. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1796.png"
+    ],
+    "id": 1796
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 13 cabins, are traveling in opposite directions. When cabin number 7 of first train is opposite cabin number 7 of the other, which cabin is opposite cabin number 8? A: 6,B: 8,C: 3,D: 1,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1806.png"
+    ],
+    "id": 1806
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 11 cabins, are traveling in opposite directions. When cabin number 8 of first train is opposite cabin number 8 of the other, which cabin is opposite cabin number 10? A: 7,B: 9,C: 6,D: 5,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1808.png"
+    ],
+    "id": 1808
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 49 cars, are moving in opposite directions. When car with digit 30 of one train is opposite car with digit 30 of the other, which car is opposite car with digit 42? A: 45,B: 29,C: 18,D: 31,E: 36. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1823.png"
+    ],
+    "id": 1823
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 45 cars, are passing in opposite directions. When car with digit 27 of first train is opposite car with digit 27 of the other, which car is opposite car with digit 30? A: 24,B: 2,C: 44,D: 27,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1835.png"
+    ],
+    "id": 1835
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 31 cabins, are moving in opposite directions. When cabin with digit 20 of first train is opposite cabin with digit 20 of the other, which cabin is opposite cabin with digit 14? A: 13,B: 26,C: 20,D: 23,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1836.png"
+    ],
+    "id": 1836
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 13 cabins, are moving in opposite directions. When cabin with digit 8 of one train is opposite cabin with digit 8 of the other, which cabin is opposite cabin with digit 9? A: 1,B: 12,C: 7,D: 8,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1839.png"
+    ],
+    "id": 1839
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 13 cabins, are traveling in opposite directions. When cabin number 7 of first train is opposite cabin number 7 of the other, which cabin is opposite cabin number 10? A: 11,B: 7,C: 4,D: 6,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1841.png"
+    ],
+    "id": 1841
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 33 cabins, are traveling in opposite directions. When cabin with digit 27 of first train is opposite cabin with digit 27 of the other, which cabin is opposite cabin with digit 25? A: 13,B: 32,C: 22,D: 29,E: 20. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1842.png"
+    ],
+    "id": 1842
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 47 cars, are moving in opposite directions. When car number 39 of one train is opposite car number 39 of the other, which car is opposite car number 34? A: 46,B: 44,C: 39,D: 36,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1845.png"
+    ],
+    "id": 1845
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 37 cars, are passing in opposite directions. When car with digit 29 of one train is opposite car with digit 29 of the other, which car is opposite car with digit 22? A: 10,B: 18,C: 1,D: 21,E: 36. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1848.png"
+    ],
+    "id": 1848
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 27 cars, are moving in opposite directions. When car number 18 of one train is opposite car number 18 of the other, which car is opposite car number 11? A: 10,B: 22,C: 25,D: 15,E: 16. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1851.png"
+    ],
+    "id": 1851
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 45 cabins, are passing in opposite directions. When cabin number 34 of one train is opposite cabin number 34 of the other, which cabin is opposite cabin number 41? A: 27,B: 22,C: 23,D: 30,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1862.png"
+    ],
+    "id": 1862
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 43 cars, are passing in opposite directions. When car with digit 23 of first train is opposite car with digit 23 of the other, which car is opposite car with digit 28? A: 7,B: 18,C: 19,D: 13,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1863.png"
+    ],
+    "id": 1863
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 39 cars, are moving in opposite directions. When car number 35 of first train is opposite car number 35 of the other, which car is opposite car number 37? A: 33,B: 24,C: 28,D: 5,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_187.png"
+    ],
+    "id": 187
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 45 cars, are passing in opposite directions. When car number 30 of first train is opposite car number 30 of the other, which car is opposite car number 15? A: 22,B: 26,C: 27,D: 3,E: 45. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1880.png"
+    ],
+    "id": 1880
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 17 cabins, are traveling in opposite directions. When cabin number 11 of first train is opposite cabin number 11 of the other, which cabin is opposite cabin number 10? A: 12,B: 2,C: 9,D: 16,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1885.png"
+    ],
+    "id": 1885
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 31 cabins, are moving in opposite directions. When cabin with digit 21 of first train is opposite cabin with digit 21 of the other, which cabin is opposite cabin with digit 29? A: 22,B: 12,C: 19,D: 13,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1886.png"
+    ],
+    "id": 1886
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 45 cars, are passing in opposite directions. When car with digit 24 of first train is opposite car with digit 24 of the other, which car is opposite car with digit 34? A: 10,B: 14,C: 20,D: 36,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_189.png"
+    ],
+    "id": 189
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 37 cars, are traveling in opposite directions. When car number 23 of one train is opposite car number 23 of the other, which car is opposite car number 36? A: 10,B: 12,C: 24,D: 21,E: 18. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1891.png"
+    ],
+    "id": 1891
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 13 cars, are passing in opposite directions. When car with digit 10 of first train is opposite car with digit 10 of the other, which car is opposite car with digit 8? A: 9,B: 3,C: 4,D: 11,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1895.png"
+    ],
+    "id": 1895
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 43 cars, are moving in opposite directions. When car number 34 of first train is opposite car number 34 of the other, which car is opposite car number 39? A: 29,B: 25,C: 33,D: 8,E: 34. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1899.png"
+    ],
+    "id": 1899
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 33 cars, are moving in opposite directions. When car with digit 28 of first train is opposite car with digit 28 of the other, which car is opposite car with digit 32? A: 30,B: 15,C: 31,D: 24,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1900.png"
+    ],
+    "id": 1900
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 49 cars, are passing in opposite directions. When car number 32 of one train is opposite car number 32 of the other, which car is opposite car number 30? A: 42,B: 34,C: 16,D: 45,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1901.png"
+    ],
+    "id": 1901
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 21 cars, are traveling in opposite directions. When car number 17 of first train is opposite car number 17 of the other, which car is opposite car number 21? A: 20,B: 13,C: 12,D: 18,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1915.png"
+    ],
+    "id": 1915
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 25 cars, are passing in opposite directions. When car with digit 14 of first train is opposite car with digit 14 of the other, which car is opposite car with digit 17? A: 16,B: 11,C: 10,D: 7,E: 25. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1925.png"
+    ],
+    "id": 1925
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 23 cabins, are passing in opposite directions. When cabin number 14 of one train is opposite cabin number 14 of the other, which cabin is opposite cabin number 21? A: 12,B: 5,C: 16,D: 7,E: 22. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1951.png"
+    ],
+    "id": 1951
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 29 cabins, are passing in opposite directions. When cabin with digit 26 of one train is opposite cabin with digit 26 of the other, which cabin is opposite cabin with digit 27? A: 25,B: 5,C: 17,D: 15,E: 23. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1952.png"
+    ],
+    "id": 1952
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 37 cabins, are traveling in opposite directions. When cabin with digit 36 of first train is opposite cabin with digit 36 of the other, which cabin is opposite cabin with digit 35? A: 37,B: 18,C: 29,D: 15,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_197.png"
+    ],
+    "id": 197
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 21 cabins, are moving in opposite directions. When cabin with digit 13 of one train is opposite cabin with digit 13 of the other, which cabin is opposite cabin with digit 17? A: 4,B: 9,C: 10,D: 16,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1970.png"
+    ],
+    "id": 1970
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 15 cars, are moving in opposite directions. When car with digit 13 of one train is opposite car with digit 13 of the other, which car is opposite car with digit 14? A: 1,B: 15,C: 12,D: 2,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1996.png"
+    ],
+    "id": 1996
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 43 cabins, are traveling in opposite directions. When cabin with digit 31 of first train is opposite cabin with digit 31 of the other, which cabin is opposite cabin with digit 39? A: 13,B: 4,C: 23,D: 2,E: 34. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_20.png"
+    ],
+    "id": 20
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 31 cabins, are moving in opposite directions. When cabin number 28 of first train is opposite cabin number 28 of the other, which cabin is opposite cabin number 26? A: 2,B: 20,C: 16,D: 25,E: 30. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_200.png"
+    ],
+    "id": 200
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 21 cars, are passing in opposite directions. When car with digit 15 of first train is opposite car with digit 15 of the other, which car is opposite car with digit 16? A: 14,B: 3,C: 4,D: 16,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_201.png"
+    ],
+    "id": 201
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 31 cabins, are traveling in opposite directions. When cabin number 28 of first train is opposite cabin number 28 of the other, which cabin is opposite cabin number 27? A: 27,B: 11,C: 7,D: 29,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_202.png"
+    ],
+    "id": 202
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 41 cabins, are traveling in opposite directions. When cabin number 39 of one train is opposite cabin number 39 of the other, which cabin is opposite cabin number 40? A: 19,B: 7,C: 38,D: 35,E: 17. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_205.png"
+    ],
+    "id": 205
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 45 cabins, are traveling in opposite directions. When cabin with digit 30 of first train is opposite cabin with digit 30 of the other, which cabin is opposite cabin with digit 34? A: 38,B: 45,C: 28,D: 16,E: 26. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_206.png"
+    ],
+    "id": 206
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 41 cars, are passing in opposite directions. When car with digit 29 of one train is opposite car with digit 29 of the other, which car is opposite car with digit 27? A: 23,B: 25,C: 11,D: 19,E: 31. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_21.png"
+    ],
+    "id": 21
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 19 cabins, are traveling in opposite directions. When cabin with digit 18 of one train is opposite cabin with digit 18 of the other, which cabin is opposite cabin with digit 19? A: 12,B: 3,C: 17,D: 1,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_216.png"
+    ],
+    "id": 216
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 25 cars, are moving in opposite directions. When car number 15 of one train is opposite car number 15 of the other, which car is opposite car number 20? A: 19,B: 25,C: 22,D: 10,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_219.png"
+    ],
+    "id": 219
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 43 cars, are moving in opposite directions. When car with digit 40 of first train is opposite car with digit 40 of the other, which car is opposite car with digit 41? A: 23,B: 39,C: 31,D: 33,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_230.png"
+    ],
+    "id": 230
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 11 cars, are passing in opposite directions. When car with digit 10 of one train is opposite car with digit 10 of the other, which car is opposite car with digit 9? A: 11,B: 2,C: 9,D: 10,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_241.png"
+    ],
+    "id": 241
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 33 cabins, are traveling in opposite directions. When cabin with digit 30 of first train is opposite cabin with digit 30 of the other, which cabin is opposite cabin with digit 28? A: 32,B: 17,C: 2,D: 10,E: 20. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_246.png"
+    ],
+    "id": 246
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 15 cabins, are moving in opposite directions. When cabin number 12 of first train is opposite cabin number 12 of the other, which cabin is opposite cabin number 13? A: 15,B: 2,C: 11,D: 10,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_252.png"
+    ],
+    "id": 252
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 49 cabins, are passing in opposite directions. When cabin number 29 of first train is opposite cabin number 29 of the other, which cabin is opposite cabin number 19? A: 34,B: 39,C: 45,D: 30,E: 40. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_269.png"
+    ],
+    "id": 269
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 31 cars, are moving in opposite directions. When car with digit 28 of first train is opposite car with digit 28 of the other, which car is opposite car with digit 27? A: 6,B: 7,C: 22,D: 29,E: 16. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_276.png"
+    ],
+    "id": 276
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 27 cabins, are moving in opposite directions. When cabin with digit 26 of one train is opposite cabin with digit 26 of the other, which cabin is opposite cabin with digit 27? A: 3,B: 18,C: 25,D: 16,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_279.png"
+    ],
+    "id": 279
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 23 cabins, are traveling in opposite directions. When cabin with digit 14 of one train is opposite cabin with digit 14 of the other, which cabin is opposite cabin with digit 10? A: 4,B: 18,C: 21,D: 16,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_288.png"
+    ],
+    "id": 288
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 39 cars, are traveling in opposite directions. When car with digit 26 of first train is opposite car with digit 26 of the other, which car is opposite car with digit 31? A: 27,B: 8,C: 21,D: 37,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_293.png"
+    ],
+    "id": 293
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 49 cars, are moving in opposite directions. When car with digit 45 of one train is opposite car with digit 45 of the other, which car is opposite car with digit 47? A: 43,B: 23,C: 37,D: 29,E: 16. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_295.png"
+    ],
+    "id": 295
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 49 cabins, are traveling in opposite directions. When cabin with digit 34 of first train is opposite cabin with digit 34 of the other, which cabin is opposite cabin with digit 39? A: 32,B: 35,C: 11,D: 29,E: 17. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_315.png"
+    ],
+    "id": 315
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 45 cars, are traveling in opposite directions. When car with digit 31 of one train is opposite car with digit 31 of the other, which car is opposite car with digit 19? A: 43,B: 2,C: 5,D: 40,E: 26. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_317.png"
+    ],
+    "id": 317
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 13 cars, are passing in opposite directions. When car with digit 7 of first train is opposite car with digit 7 of the other, which car is opposite car with digit 1? A: 12,B: 13,C: 9,D: 5,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_330.png"
+    ],
+    "id": 330
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 27 cars, are moving in opposite directions. When car with digit 23 of first train is opposite car with digit 23 of the other, which car is opposite car with digit 22? A: 5,B: 15,C: 19,D: 24,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_337.png"
+    ],
+    "id": 337
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 19 cabins, are moving in opposite directions. When cabin number 17 of first train is opposite cabin number 17 of the other, which cabin is opposite cabin number 19? A: 15,B: 3,C: 8,D: 9,E: 17. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_34.png"
+    ],
+    "id": 34
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 43 cabins, are moving in opposite directions. When cabin number 23 of first train is opposite cabin number 23 of the other, which cabin is opposite cabin number 5? A: 41,B: 3,C: 18,D: 39,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_343.png"
+    ],
+    "id": 343
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 27 cars, are passing in opposite directions. When car with digit 26 of one train is opposite car with digit 26 of the other, which car is opposite car with digit 27? A: 25,B: 4,C: 1,D: 9,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_378.png"
+    ],
+    "id": 378
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 49 cars, are traveling in opposite directions. When car number 40 of one train is opposite car number 40 of the other, which car is opposite car number 49? A: 10,B: 6,C: 12,D: 2,E: 31. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_379.png"
+    ],
+    "id": 379
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 21 cabins, are moving in opposite directions. When cabin with digit 11 of one train is opposite cabin with digit 11 of the other, which cabin is opposite cabin with digit 2? A: 7,B: 20,C: 9,D: 18,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_384.png"
+    ],
+    "id": 384
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 33 cars, are traveling in opposite directions. When car number 20 of first train is opposite car number 20 of the other, which car is opposite car number 7? A: 14,B: 33,C: 16,D: 17,E: 18. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_385.png"
+    ],
+    "id": 385
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 27 cars, are moving in opposite directions. When car with digit 16 of first train is opposite car with digit 16 of the other, which car is opposite car with digit 25? A: 11,B: 7,C: 15,D: 5,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_387.png"
+    ],
+    "id": 387
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 13 cabins, are moving in opposite directions. When cabin with digit 11 of one train is opposite cabin with digit 11 of the other, which cabin is opposite cabin with digit 12? A: 2,B: 12,C: 10,D: 3,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_391.png"
+    ],
+    "id": 391
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 39 cars, are traveling in opposite directions. When car with digit 24 of first train is opposite car with digit 24 of the other, which car is opposite car with digit 39? A: 7,B: 11,C: 26,D: 5,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_392.png"
+    ],
+    "id": 392
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 25 cabins, are traveling in opposite directions. When cabin number 21 of one train is opposite cabin number 21 of the other, which cabin is opposite cabin number 17? A: 10,B: 9,C: 6,D: 23,E: 25. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_397.png"
+    ],
+    "id": 397
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 15 cabins, are passing in opposite directions. When cabin number 9 of first train is opposite cabin number 9 of the other, which cabin is opposite cabin number 5? A: 12,B: 4,C: 6,D: 13,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_40.png"
+    ],
+    "id": 40
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 23 cabins, are passing in opposite directions. When cabin with digit 22 of one train is opposite cabin with digit 22 of the other, which cabin is opposite cabin with digit 23? A: 10,B: 5,C: 3,D: 1,E: 21. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_400.png"
+    ],
+    "id": 400
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 31 cars, are moving in opposite directions. When car with digit 30 of one train is opposite car with digit 30 of the other, which car is opposite car with digit 31? A: 25,B: 18,C: 3,D: 10,E: 29. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_401.png"
+    ],
+    "id": 401
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 39 cars, are passing in opposite directions. When car with digit 34 of one train is opposite car with digit 34 of the other, which car is opposite car with digit 39? A: 2,B: 38,C: 1,D: 29,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_406.png"
+    ],
+    "id": 406
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 35 cabins, are traveling in opposite directions. When cabin with digit 20 of first train is opposite cabin with digit 20 of the other, which cabin is opposite cabin with digit 11? A: 29,B: 22,C: 21,D: 26,E: 19. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_418.png"
+    ],
+    "id": 418
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 31 cabins, are traveling in opposite directions. When cabin with digit 22 of first train is opposite cabin with digit 22 of the other, which cabin is opposite cabin with digit 25? A: 19,B: 15,C: 24,D: 18,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_441.png"
+    ],
+    "id": 441
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 49 cars, are passing in opposite directions. When car number 38 of first train is opposite car number 38 of the other, which car is opposite car number 44? A: 39,B: 43,C: 18,D: 32,E: 23. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_455.png"
+    ],
+    "id": 455
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 31 cabins, are traveling in opposite directions. When cabin number 17 of one train is opposite cabin number 17 of the other, which cabin is opposite cabin number 24? A: 4,B: 15,C: 22,D: 9,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_459.png"
+    ],
+    "id": 459
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 11 cars, are traveling in opposite directions. When car number 7 of one train is opposite car number 7 of the other, which car is opposite car number 11? A: 5,B: 7,C: 10,D: 6,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_466.png"
+    ],
+    "id": 466
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 37 cars, are moving in opposite directions. When car with digit 32 of one train is opposite car with digit 32 of the other, which car is opposite car with digit 37? A: 18,B: 27,C: 32,D: 35,E: 24. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_474.png"
+    ],
+    "id": 474
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 49 cars, are moving in opposite directions. When car number 41 of one train is opposite car number 41 of the other, which car is opposite car number 34? A: 48,B: 10,C: 36,D: 27,E: 45. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_484.png"
+    ],
+    "id": 484
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 29 cars, are passing in opposite directions. When car with digit 23 of one train is opposite car with digit 23 of the other, which car is opposite car with digit 18? A: 28,B: 1,C: 3,D: 12,E: 24. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_492.png"
+    ],
+    "id": 492
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 29 cars, are moving in opposite directions. When car with digit 18 of first train is opposite car with digit 18 of the other, which car is opposite car with digit 12? A: 16,B: 28,C: 23,D: 14,E: 24. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_502.png"
+    ],
+    "id": 502
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 33 cabins, are traveling in opposite directions. When cabin number 23 of first train is opposite cabin number 23 of the other, which cabin is opposite cabin number 25? A: 29,B: 3,C: 11,D: 21,E: 25. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_508.png"
+    ],
+    "id": 508
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 15 cars, are passing in opposite directions. When car with digit 13 of first train is opposite car with digit 13 of the other, which car is opposite car with digit 14? A: 8,B: 1,C: 12,D: 10,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_510.png"
+    ],
+    "id": 510
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 17 cars, are passing in opposite directions. When car number 10 of first train is opposite car number 10 of the other, which car is opposite car number 17? A: 14,B: 9,C: 11,D: 3,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_520.png"
+    ],
+    "id": 520
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 29 cabins, are passing in opposite directions. When cabin with digit 24 of one train is opposite cabin with digit 24 of the other, which cabin is opposite cabin with digit 25? A: 23,B: 20,C: 18,D: 27,E: 29. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_524.png"
+    ],
+    "id": 524
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 49 cabins, are traveling in opposite directions. When cabin with digit 46 of first train is opposite cabin with digit 46 of the other, which cabin is opposite cabin with digit 43? A: 46,B: 41,C: 22,D: 8,E: 49. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_540.png"
+    ],
+    "id": 540
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 35 cars, are traveling in opposite directions. When car number 20 of one train is opposite car number 20 of the other, which car is opposite car number 5? A: 29,B: 31,C: 25,D: 35,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_556.png"
+    ],
+    "id": 556
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 11 cars, are passing in opposite directions. When car number 9 of one train is opposite car number 9 of the other, which car is opposite car number 10? A: 2,B: 1,C: 8,D: 7,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_562.png"
+    ],
+    "id": 562
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 17 cars, are passing in opposite directions. When car number 12 of one train is opposite car number 12 of the other, which car is opposite car number 10? A: 7,B: 16,C: 10,D: 14,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_563.png"
+    ],
+    "id": 563
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 19 cabins, are moving in opposite directions. When cabin number 13 of first train is opposite cabin number 13 of the other, which cabin is opposite cabin number 8? A: 10,B: 15,C: 18,D: 5,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_564.png"
+    ],
+    "id": 564
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 25 cabins, are moving in opposite directions. When cabin number 22 of one train is opposite cabin number 22 of the other, which cabin is opposite cabin number 24? A: 15,B: 20,C: 22,D: 8,E: 19. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_565.png"
+    ],
+    "id": 565
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 29 cars, are moving in opposite directions. When car with digit 24 of first train is opposite car with digit 24 of the other, which car is opposite car with digit 29? A: 24,B: 11,C: 19,D: 1,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_577.png"
+    ],
+    "id": 577
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 33 cabins, are traveling in opposite directions. When cabin with digit 28 of first train is opposite cabin with digit 28 of the other, which cabin is opposite cabin with digit 30? A: 3,B: 26,C: 19,D: 20,E: 25. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_592.png"
+    ],
+    "id": 592
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 31 cars, are traveling in opposite directions. When car with digit 25 of one train is opposite car with digit 25 of the other, which car is opposite car with digit 20? A: 30,B: 3,C: 25,D: 5,E: 29. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_600.png"
+    ],
+    "id": 600
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 39 cars, are moving in opposite directions. When car with digit 24 of first train is opposite car with digit 24 of the other, which car is opposite car with digit 36? A: 39,B: 35,C: 25,D: 11,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_608.png"
+    ],
+    "id": 608
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 35 cabins, are traveling in opposite directions. When cabin with digit 18 of one train is opposite cabin with digit 18 of the other, which cabin is opposite cabin with digit 23? A: 5,B: 25,C: 24,D: 13,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_612.png"
+    ],
+    "id": 612
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 13 cars, are passing in opposite directions. When car number 9 of first train is opposite car number 9 of the other, which car is opposite car number 10? A: 12,B: 4,C: 7,D: 8,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_627.png"
+    ],
+    "id": 627
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 41 cabins, are traveling in opposite directions. When cabin with digit 21 of first train is opposite cabin with digit 21 of the other, which cabin is opposite cabin with digit 18? A: 24,B: 15,C: 38,D: 35,E: 29. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_632.png"
+    ],
+    "id": 632
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 39 cars, are passing in opposite directions. When car with digit 35 of first train is opposite car with digit 35 of the other, which car is opposite car with digit 31? A: 29,B: 27,C: 24,D: 4,E: 39. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_64.png"
+    ],
+    "id": 64
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 39 cars, are passing in opposite directions. When car with digit 23 of first train is opposite car with digit 23 of the other, which car is opposite car with digit 12? A: 7,B: 34,C: 6,D: 15,E: 39. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_641.png"
+    ],
+    "id": 641
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 19 cabins, are passing in opposite directions. When cabin number 12 of first train is opposite cabin number 12 of the other, which cabin is opposite cabin number 10? A: 18,B: 14,C: 1,D: 13,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_642.png"
+    ],
+    "id": 642
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 15 cars, are traveling in opposite directions. When car number 11 of one train is opposite car number 11 of the other, which car is opposite car number 15? A: 9,B: 5,C: 11,D: 7,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_645.png"
+    ],
+    "id": 645
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 37 cabins, are moving in opposite directions. When cabin with digit 23 of first train is opposite cabin with digit 23 of the other, which cabin is opposite cabin with digit 27? A: 37,B: 25,C: 4,D: 19,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_646.png"
+    ],
+    "id": 646
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 33 cabins, are traveling in opposite directions. When cabin with digit 24 of one train is opposite cabin with digit 24 of the other, which cabin is opposite cabin with digit 28? A: 20,B: 7,C: 26,D: 16,E: 32. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_647.png"
+    ],
+    "id": 647
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 15 cabins, are moving in opposite directions. When cabin with digit 14 of one train is opposite cabin with digit 14 of the other, which cabin is opposite cabin with digit 15? A: 8,B: 9,C: 15,D: 4,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_648.png"
+    ],
+    "id": 648
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 41 cabins, are traveling in opposite directions. When cabin number 21 of one train is opposite cabin number 21 of the other, which cabin is opposite cabin number 39? A: 9,B: 39,C: 35,D: 3,E: 23. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_663.png"
+    ],
+    "id": 663
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 47 cabins, are moving in opposite directions. When cabin number 29 of one train is opposite cabin number 29 of the other, which cabin is opposite cabin number 32? A: 7,B: 36,C: 41,D: 26,E: 28. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_681.png"
+    ],
+    "id": 681
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 15 cabins, are traveling in opposite directions. When cabin with digit 11 of one train is opposite cabin with digit 11 of the other, which cabin is opposite cabin with digit 14? A: 6,B: 7,C: 4,D: 8,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_683.png"
+    ],
+    "id": 683
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 33 cabins, are passing in opposite directions. When cabin with digit 21 of one train is opposite cabin with digit 21 of the other, which cabin is opposite cabin with digit 29? A: 5,B: 7,C: 16,D: 22,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_686.png"
+    ],
+    "id": 686
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 15 cabins, are traveling in opposite directions. When cabin number 12 of one train is opposite cabin number 12 of the other, which cabin is opposite cabin number 11? A: 13,B: 4,C: 12,D: 6,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_698.png"
+    ],
+    "id": 698
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 39 cabins, are traveling in opposite directions. When cabin with digit 33 of first train is opposite cabin with digit 33 of the other, which cabin is opposite cabin with digit 34? A: 32,B: 2,C: 9,D: 11,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_699.png"
+    ],
+    "id": 699
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 27 cabins, are moving in opposite directions. When cabin number 19 of first train is opposite cabin number 19 of the other, which cabin is opposite cabin number 25? A: 10,B: 12,C: 19,D: 13,E: 20. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_702.png"
+    ],
+    "id": 702
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 49 cars, are moving in opposite directions. When car number 29 of one train is opposite car number 29 of the other, which car is opposite car number 14? A: 36,B: 7,C: 31,D: 44,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_709.png"
+    ],
+    "id": 709
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 43 cars, are moving in opposite directions. When car number 41 of first train is opposite car number 41 of the other, which car is opposite car number 39? A: 17,B: 43,C: 2,D: 20,E: 34. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_719.png"
+    ],
+    "id": 719
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 21 cars, are moving in opposite directions. When car number 15 of first train is opposite car number 15 of the other, which car is opposite car number 11? A: 12,B: 11,C: 19,D: 21,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_725.png"
+    ],
+    "id": 725
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 37 cars, are passing in opposite directions. When car with digit 26 of one train is opposite car with digit 26 of the other, which car is opposite car with digit 18? A: 13,B: 5,C: 3,D: 25,E: 34. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_729.png"
+    ],
+    "id": 729
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 29 cabins, are traveling in opposite directions. When cabin with digit 15 of first train is opposite cabin with digit 15 of the other, which cabin is opposite cabin with digit 26? A: 9,B: 6,C: 28,D: 4,E: 17. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_742.png"
+    ],
+    "id": 742
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 27 cars, are passing in opposite directions. When car number 14 of first train is opposite car number 14 of the other, which car is opposite car number 7? A: 2,B: 12,C: 21,D: 14,E: 18. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_747.png"
+    ],
+    "id": 747
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 35 cabins, are passing in opposite directions. When cabin with digit 24 of first train is opposite cabin with digit 24 of the other, which cabin is opposite cabin with digit 28? A: 6,B: 20,C: 30,D: 4,E: 16. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_748.png"
+    ],
+    "id": 748
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 23 cabins, are traveling in opposite directions. When cabin with digit 17 of first train is opposite cabin with digit 17 of the other, which cabin is opposite cabin with digit 20? A: 5,B: 7,C: 12,D: 6,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_751.png"
+    ],
+    "id": 751
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 11 cars, are moving in opposite directions. When car with digit 7 of first train is opposite car with digit 7 of the other, which car is opposite car with digit 8? A: 3,B: 8,C: 5,D: 6,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_763.png"
+    ],
+    "id": 763
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 15 cabins, are moving in opposite directions. When cabin with digit 12 of one train is opposite cabin with digit 12 of the other, which cabin is opposite cabin with digit 13? A: 11,B: 2,C: 10,D: 13,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_766.png"
+    ],
+    "id": 766
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 17 cabins, are passing in opposite directions. When cabin number 9 of first train is opposite cabin number 9 of the other, which cabin is opposite cabin number 10? A: 14,B: 6,C: 8,D: 9,E: 16. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_769.png"
+    ],
+    "id": 769
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 21 cabins, are traveling in opposite directions. When cabin number 11 of one train is opposite cabin number 11 of the other, which cabin is opposite cabin number 4? A: 7,B: 20,C: 1,D: 18,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_775.png"
+    ],
+    "id": 775
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 37 cars, are passing in opposite directions. When car number 28 of first train is opposite car number 28 of the other, which car is opposite car number 30? A: 4,B: 26,C: 35,D: 32,E: 19. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_776.png"
+    ],
+    "id": 776
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 29 cars, are passing in opposite directions. When car with digit 21 of one train is opposite car with digit 21 of the other, which car is opposite car with digit 20? A: 17,B: 16,C: 23,D: 18,E: 22. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_779.png"
+    ],
+    "id": 779
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 23 cabins, are traveling in opposite directions. When cabin number 19 of one train is opposite cabin number 19 of the other, which cabin is opposite cabin number 22? A: 10,B: 21,C: 16,D: 7,E: 22. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_791.png"
+    ],
+    "id": 791
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 21 cabins, are passing in opposite directions. When cabin with digit 17 of one train is opposite cabin with digit 17 of the other, which cabin is opposite cabin with digit 16? A: 21,B: 11,C: 5,D: 8,E: 18. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_794.png"
+    ],
+    "id": 794
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 33 cabins, are moving in opposite directions. When cabin number 27 of one train is opposite cabin number 27 of the other, which cabin is opposite cabin number 33? A: 11,B: 16,C: 21,D: 22,E: 26. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_795.png"
+    ],
+    "id": 795
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 49 cabins, are passing in opposite directions. When cabin with digit 27 of one train is opposite cabin with digit 27 of the other, which cabin is opposite cabin with digit 8? A: 32,B: 46,C: 12,D: 35,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_804.png"
+    ],
+    "id": 804
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 23 cabins, are traveling in opposite directions. When cabin number 14 of first train is opposite cabin number 14 of the other, which cabin is opposite cabin number 10? A: 17,B: 21,C: 18,D: 20,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_805.png"
+    ],
+    "id": 805
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 49 cars, are traveling in opposite directions. When car with digit 36 of one train is opposite car with digit 36 of the other, which car is opposite car with digit 37? A: 7,B: 14,C: 46,D: 49,E: 35. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_815.png"
+    ],
+    "id": 815
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 29 cars, are passing in opposite directions. When car number 16 of one train is opposite car number 16 of the other, which car is opposite car number 25? A: 17,B: 4,C: 7,D: 9,E: 16. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_831.png"
+    ],
+    "id": 831
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 47 cars, are traveling in opposite directions. When car with digit 30 of first train is opposite car with digit 30 of the other, which car is opposite car with digit 38? A: 8,B: 21,C: 38,D: 22,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_835.png"
+    ],
+    "id": 835
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 11 cabins, are moving in opposite directions. When cabin number 10 of one train is opposite cabin number 10 of the other, which cabin is opposite cabin number 11? A: 7,B: 5,C: 9,D: 6,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_840.png"
+    ],
+    "id": 840
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 25 cabins, are moving in opposite directions. When cabin number 16 of one train is opposite cabin number 16 of the other, which cabin is opposite cabin number 21? A: 18,B: 12,C: 11,D: 9,E: 23. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_854.png"
+    ],
+    "id": 854
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 35 cars, are passing in opposite directions. When car number 18 of first train is opposite car number 18 of the other, which car is opposite car number 35? A: 25,B: 5,C: 14,D: 1,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_856.png"
+    ],
+    "id": 856
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 11 cabins, are passing in opposite directions. When cabin number 9 of first train is opposite cabin number 9 of the other, which cabin is opposite cabin number 8? A: 2,B: 11,C: 5,D: 6,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_860.png"
+    ],
+    "id": 860
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 25 cars, are traveling in opposite directions. When car number 24 of one train is opposite car number 24 of the other, which car is opposite car number 25? A: 10,B: 17,C: 20,D: 9,E: 23. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_863.png"
+    ],
+    "id": 863
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 33 cabins, are traveling in opposite directions. When cabin number 28 of first train is opposite cabin number 28 of the other, which cabin is opposite cabin number 24? A: 8,B: 13,C: 32,D: 22,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_87.png"
+    ],
+    "id": 87
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 49 cabins, are traveling in opposite directions. When cabin with digit 28 of first train is opposite cabin with digit 28 of the other, which cabin is opposite cabin with digit 30? A: 29,B: 5,C: 40,D: 26,E: 32. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_870.png"
+    ],
+    "id": 870
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 37 cabins, are moving in opposite directions. When cabin with digit 27 of first train is opposite cabin with digit 27 of the other, which cabin is opposite cabin with digit 22? A: 34,B: 13,C: 32,D: 5,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_871.png"
+    ],
+    "id": 871
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 29 cabins, are moving in opposite directions. When cabin with digit 17 of first train is opposite cabin with digit 17 of the other, which cabin is opposite cabin with digit 24? A: 8,B: 26,C: 10,D: 25,E: 27. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_878.png"
+    ],
+    "id": 878
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 11 cars, are passing in opposite directions. When car with digit 8 of one train is opposite car with digit 8 of the other, which car is opposite car with digit 11? A: 7,B: 9,C: 6,D: 5,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_883.png"
+    ],
+    "id": 883
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 37 cabins, are moving in opposite directions. When cabin number 30 of one train is opposite cabin number 30 of the other, which cabin is opposite cabin number 27? A: 28,B: 33,C: 20,D: 3,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_891.png"
+    ],
+    "id": 891
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 31 cars, are passing in opposite directions. When car number 19 of one train is opposite car number 19 of the other, which car is opposite car number 20? A: 5,B: 29,C: 2,D: 3,E: 18. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_897.png"
+    ],
+    "id": 897
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 25 cabins, are moving in opposite directions. When cabin number 14 of one train is opposite cabin number 14 of the other, which cabin is opposite cabin number 4? A: 1,B: 3,C: 24,D: 7,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_91.png"
+    ],
+    "id": 91
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 19 cars, are traveling in opposite directions. When car number 11 of first train is opposite car number 11 of the other, which car is opposite car number 8? A: 16,B: 7,C: 8,D: 14,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_929.png"
+    ],
+    "id": 929
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 27 cars, are passing in opposite directions. When car with digit 18 of first train is opposite car with digit 18 of the other, which car is opposite car with digit 21? A: 18,B: 15,C: 22,D: 27,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_95.png"
+    ],
+    "id": 95
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 37 cars, are moving in opposite directions. When car number 27 of one train is opposite car number 27 of the other, which car is opposite car number 33? A: 21,B: 32,C: 16,D: 37,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_951.png"
+    ],
+    "id": 951
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 15 cars, are traveling in opposite directions. When car number 10 of one train is opposite car number 10 of the other, which car is opposite car number 12? A: 10,B: 1,C: 9,D: 11,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_955.png"
+    ],
+    "id": 955
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 37 cabins, are traveling in opposite directions. When cabin number 26 of one train is opposite cabin number 26 of the other, which cabin is opposite cabin number 27? A: 36,B: 25,C: 28,D: 3,E: 35. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_957.png"
+    ],
+    "id": 957
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 13 cabins, are moving in opposite directions. When cabin with digit 9 of first train is opposite cabin with digit 9 of the other, which cabin is opposite cabin with digit 13? A: 1,B: 3,C: 5,D: 9,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_960.png"
+    ],
+    "id": 960
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 43 cars, are moving in opposite directions. When car number 33 of one train is opposite car number 33 of the other, which car is opposite car number 38? A: 28,B: 43,C: 38,D: 18,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_972.png"
+    ],
+    "id": 972
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two identical trains, each with 31 cars, are passing in opposite directions. When car with digit 30 of first train is opposite car with digit 30 of the other, which car is opposite car with digit 31? A: 29,B: 20,C: 15,D: 6,E: 24. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_975.png"
+    ],
+    "id": 975
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two similar trains, each with 49 cabins, are moving in opposite directions. When cabin with digit 39 of first train is opposite cabin with digit 39 of the other, which cabin is opposite cabin with digit 34? A: 22,B: 44,C: 29,D: 23,E: 48. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_98.png"
+    ],
+    "id": 98
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 47 cars, are moving in opposite directions. When car with digit 46 of one train is opposite car with digit 46 of the other, which car is opposite car with digit 45? A: 21,B: 12,C: 47,D: 38,E: 42. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_981.png"
+    ],
+    "id": 981
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Two exactly similar trains, each with 11 cars, are passing in opposite directions. When car with digit 6 of first train is opposite car with digit 6 of the other, which car is opposite car with digit 10? A: 11,B: 8,C: 2,D: 6,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_995.png"
+    ],
+    "id": 995
+  }
+]

@@ -18,6 +18,8 @@ logger = logging.getLogger(__name__)
 
 def generate_llama_output(df, minmum_level, prompt_type, data_type, full_image_path, sub_image_path, include_sub_qa):
     output_json_list = []
+    
+    use_sub_image = include_sub_qa and len(sub_image_path) !=0
 
     for image_path, group in df.groupby('image_path'):
         messages = []
@@ -26,7 +28,10 @@ def generate_llama_output(df, minmum_level, prompt_type, data_type, full_image_p
             if int(row['level']) < minmum_level:
                 continue
             if pd.notna(row['sub_question']) and pd.notna(row['answer']) and include_sub_qa:
-                messages.append({'content': '<image>\n{}'.format(row['sub_question']), 'role': 'user'})
+                if use_sub_image:
+                    messages.append({'content': '<image>\n{}'.format(row['sub_question']), 'role': 'user'})
+                else:
+                    messages.append({'content': '{}'.format(row['sub_question']), 'role': 'user'})
                 messages.append({'content': row['answer'], 'role': 'assistant'})
             elif pd.isna(row['sub_question']):
                 # For test data we need to provide two different prompt: one for original inference, one for cot inference.
@@ -42,7 +47,7 @@ def generate_llama_output(df, minmum_level, prompt_type, data_type, full_image_p
                         prompt = '<image>\nBased on the previous answered questions, please answer the following questions: {}. You should provide the answer in a single upper case letter, e.g: A'
                     else:
                         prompt = '<image>\n{}'
-
+                    
                     messages.append({'content': prompt.format(row['origin_question']), 'role': 'user'})
                 messages.append({'content': row['true_answer'], 'role': 'assistant'})
             
@@ -52,7 +57,7 @@ def generate_llama_output(df, minmum_level, prompt_type, data_type, full_image_p
         if messages:
             output_json_list.append({
                 'messages': messages,
-                'images': subimage_paths if include_sub_qa else [os.path.join(full_image_path, image_path)],
+                'images': subimage_paths if use_sub_image else [os.path.join(full_image_path, image_path)],
                 'id': row['sub_puzzle_id']
             })
     return output_json_list
@@ -200,7 +205,6 @@ if __name__ == "__main__":
     parser.add_argument(
         "--clip-image-root",
         type=str,
-        required=True,
         help="The path saved all the clip images.",
     )
     parser.add_argument(
