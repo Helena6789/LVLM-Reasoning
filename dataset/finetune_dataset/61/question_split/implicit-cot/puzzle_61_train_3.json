@@ -848,14 +848,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many cakes are there in one tray of the circle tray?",
-        "role": "user"
-      },
-      {
-        "content": "10",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhat is the ratio of total cakes in the circle tray to the ellipse tray?",
         "role": "user"
       },
@@ -902,7 +894,6 @@
       "dataset/clip_images/61/puzzle_61_1047_grid6.png",
       "dataset/clip_images/61/puzzle_61_1047_grid6.png",
       "dataset/clip_images/61/puzzle_61_1047_grid6.png",
-      "dataset/clip_images/61/puzzle_61_1047_grid6.png",
       "dataset/clip_images/61/puzzle_61_1047_grid6.png"
     ],
     "id": 1047
@@ -918,187 +909,11 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many lego blocks are in one rectangular tray?",
-        "role": "user"
-      },
-      {
-        "content": "8",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego blocks are in one rectangular tray?",
-        "role": "user"
-      },
-      {
-        "content": "8",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego blocks are in one rectangular tray?",
-        "role": "user"
-      },
-      {
-        "content": "8",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego blocks are in one rectangular tray?",
-        "role": "user"
-      },
-      {
-        "content": "8",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego blocks are in the ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "44",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego blocks are in the ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "44",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego blocks are in the ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "44",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego blocks are in the ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "44",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego blocks are in the ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "44",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego blocks are required in total to create a plate like the ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "44",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego blocks are required in total to create a plate like the ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "44",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego blocks are required in total to create a plate like the ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "44",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego blocks are required in total to create a plate like the ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "44",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego blocks are required in total to create a plate like the ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "44",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nHow many lego blocks are needed from rectangle trays to fill the ellipse tray?",
         "role": "user"
       },
       {
         "content": "44",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego blocks are needed from rectangle trays to fill the ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "44",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego blocks are needed from rectangle trays to fill the ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "44",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego blocks are needed from rectangle trays to fill the ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "44",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego blocks are needed from rectangle trays to fill the ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "44",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the smallest number of trays of lego blocks required to make a plate like the ellipse tray shown below?",
-        "role": "user"
-      },
-      {
-        "content": "6",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the smallest number of trays of lego blocks required to make a plate like the ellipse tray shown below?",
-        "role": "user"
-      },
-      {
-        "content": "6",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the smallest number of trays of lego blocks required to make a plate like the ellipse tray shown below?",
-        "role": "user"
-      },
-      {
-        "content": "6",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the smallest number of trays of lego blocks required to make a plate like the ellipse tray shown below?",
-        "role": "user"
-      },
-      {
-        "content": "6",
         "role": "assistant"
       },
       {
@@ -1121,29 +936,7 @@
     "images": [
       "dataset/clip_images/61/puzzle_61_1049_grid3.png",
       "dataset/clip_images/61/puzzle_61_1049_grid3.png",
-      "dataset/clip_images/61/puzzle_61_1049_grid6.png",
       "dataset/clip_images/61/puzzle_61_1049_grid3.png",
-      "dataset/clip_images/61/puzzle_61_1049_grid6.png",
-      "dataset/clip_images/61/puzzle_61_1049_grid3.png",
-      "dataset/clip_images/61/puzzle_61_1049_grid3.png",
-      "dataset/clip_images/61/puzzle_61_1049_grid6.png",
-      "dataset/clip_images/61/puzzle_61_1049_grid3.png",
-      "dataset/clip_images/61/puzzle_61_1049_grid6.png",
-      "dataset/clip_images/61/puzzle_61_1049_grid3.png",
-      "dataset/clip_images/61/puzzle_61_1049_grid3.png",
-      "dataset/clip_images/61/puzzle_61_1049_grid6.png",
-      "dataset/clip_images/61/puzzle_61_1049_grid3.png",
-      "dataset/clip_images/61/puzzle_61_1049_grid6.png",
-      "dataset/clip_images/61/puzzle_61_1049_grid3.png",
-      "dataset/clip_images/61/puzzle_61_1049_grid3.png",
-      "dataset/clip_images/61/puzzle_61_1049_grid6.png",
-      "dataset/clip_images/61/puzzle_61_1049_grid3.png",
-      "dataset/clip_images/61/puzzle_61_1049_grid6.png",
-      "dataset/clip_images/61/puzzle_61_1049_grid3.png",
-      "dataset/clip_images/61/puzzle_61_1049_grid3.png",
-      "dataset/clip_images/61/puzzle_61_1049_grid6.png",
-      "dataset/clip_images/61/puzzle_61_1049_grid3.png",
-      "dataset/clip_images/61/puzzle_61_1049_grid6.png",
       "dataset/clip_images/61/puzzle_61_1049_grid9.png"
     ],
     "id": 1049
@@ -1185,126 +978,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many cakes are shown on one polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "7",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are shown on one polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "7",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are shown on one polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "7",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are shown on one polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "7",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are shown on one ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "42",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are shown on one ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "42",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are shown on one ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "42",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are shown on one ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "42",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are required to make a plate like the ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "42",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are required to make a plate like the ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "42",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are required to make a plate like the ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "42",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are required to make a plate like the ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "42",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number of polygon trays required to match the number of cakes on one ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "6",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number of polygon trays required to match the number of cakes on one ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "6",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number of polygon trays required to match the number of cakes on one ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "6",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhat is the number of polygon trays required to match the number of cakes on one ellipse tray?",
         "role": "user"
       },
@@ -1322,21 +995,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1052_grid11.png",
-      "dataset/clip_images/61/puzzle_61_1052_grid11.png",
-      "dataset/clip_images/61/puzzle_61_1052_grid11.png",
-      "dataset/clip_images/61/puzzle_61_1052_grid11.png",
-      "dataset/clip_images/61/puzzle_61_1052_grid11.png",
-      "dataset/clip_images/61/puzzle_61_1052_grid11.png",
-      "dataset/clip_images/61/puzzle_61_1052_grid11.png",
-      "dataset/clip_images/61/puzzle_61_1052_grid11.png",
-      "dataset/clip_images/61/puzzle_61_1052_grid11.png",
-      "dataset/clip_images/61/puzzle_61_1052_grid11.png",
-      "dataset/clip_images/61/puzzle_61_1052_grid11.png",
-      "dataset/clip_images/61/puzzle_61_1052_grid11.png",
-      "dataset/clip_images/61/puzzle_61_1052_grid11.png",
-      "dataset/clip_images/61/puzzle_61_1052_grid11.png",
-      "dataset/clip_images/61/puzzle_61_1052_grid11.png",
       "dataset/clip_images/61/puzzle_61_1052_grid11.png",
       "dataset/clip_images/61/puzzle_61_1052_grid9.png"
     ],
@@ -1526,30 +1184,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many biscuits are in one ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many biscuits are in one ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many ellipse trays are needed to get at least 20 biscuits?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nHow many ellipse trays are needed to get at least 20 biscuits?",
         "role": "user"
       },
@@ -1568,9 +1202,6 @@
     ],
     "images": [
       "dataset/clip_images/61/puzzle_61_1060_grid11.png",
-      "dataset/clip_images/61/puzzle_61_1060_grid6.png",
-      "dataset/clip_images/61/puzzle_61_1060_grid11.png",
-      "dataset/clip_images/61/puzzle_61_1060_grid6.png",
       "dataset/clip_images/61/puzzle_61_1060_grid1.png"
     ],
     "id": 1060
@@ -2059,14 +1690,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many balls are required to fill one polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Each kid in a bowling event bowls one tray of balls like the polygon tray shown. What is the lowest number of trays of balls required to make a plate like the square tray shown below? Ignore the size differences between the balls in the two trays. A: 4,B: 3,C: 5,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -2080,7 +1703,6 @@
       "dataset/clip_images/61/puzzle_61_1092_grid6.png",
       "dataset/clip_images/61/puzzle_61_1092_grid6.png",
       "dataset/clip_images/61/puzzle_61_1092_grid5.png",
-      "dataset/clip_images/61/puzzle_61_1092_grid6.png",
       "dataset/clip_images/61/puzzle_61_1092_grid13.png"
     ],
     "id": 1092
@@ -2101,14 +1723,6 @@
       },
       {
         "content": "9",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes fit in one rectangle tray?",
-        "role": "user"
-      },
-      {
-        "content": "6",
         "role": "assistant"
       },
       {
@@ -2147,7 +1761,6 @@
     "images": [
       "dataset/clip_images/61/puzzle_61_1093_grid6.png",
       "dataset/clip_images/61/puzzle_61_1093_grid6.png",
-      "dataset/clip_images/61/puzzle_61_1093_grid11.png",
       "dataset/clip_images/61/puzzle_61_1093_grid11.png",
       "dataset/clip_images/61/puzzle_61_1093_grid5.png",
       "dataset/clip_images/61/puzzle_61_1093_grid11.png",
@@ -4504,22 +4117,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the total number of flowers in the circle tray?",
-        "role": "user"
-      },
-      {
-        "content": "6",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the total number of flowers in the polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "8",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhat is the total number of flowers in the polygon tray?",
         "role": "user"
       },
@@ -4546,9 +4143,7 @@
     ],
     "images": [
       "dataset/clip_images/61/puzzle_61_1272_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1272_grid6.png",
       "dataset/clip_images/61/puzzle_61_1272_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1272_grid6.png",
       "dataset/clip_images/61/puzzle_61_1272_grid4.png",
       "dataset/clip_images/61/puzzle_61_1272_grid10.png"
     ],
@@ -4987,6 +4582,14 @@
   {
     "messages": [
       {
+        "content": "<image>\nHow many biscuits are on a circle tray?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      },
+      {
         "content": "<image>\nHow many biscuits are needed to fill a plate like the rectangle tray?",
         "role": "user"
       },
@@ -5020,6 +4623,7 @@
       }
     ],
     "images": [
+      "dataset/clip_images/61/puzzle_61_1312_grid9.png",
       "dataset/clip_images/61/puzzle_61_1312_grid4.png",
       "dataset/clip_images/61/puzzle_61_1312_grid4.png",
       "dataset/clip_images/61/puzzle_61_1312_grid4.png",
@@ -5637,187 +5241,11 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many shapes are in one polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "7",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many shapes are in one polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "7",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many shapes are in one polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "7",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many shapes are in one polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "7",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nHow many shapes are in one circle tray?",
         "role": "user"
       },
       {
         "content": "35",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many shapes are in one circle tray?",
-        "role": "user"
-      },
-      {
-        "content": "35",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many shapes are in one circle tray?",
-        "role": "user"
-      },
-      {
-        "content": "35",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many shapes are in one circle tray?",
-        "role": "user"
-      },
-      {
-        "content": "35",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many shapes are in one circle tray?",
-        "role": "user"
-      },
-      {
-        "content": "35",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many more shapes does the circle tray have compared to the polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "28",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many more shapes does the circle tray have compared to the polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "28",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many more shapes does the circle tray have compared to the polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "28",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many more shapes does the circle tray have compared to the polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "28",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many more shapes does the circle tray have compared to the polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "28",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many shapes are needed from the polygon tray to match the same amount as the circle tray?",
-        "role": "user"
-      },
-      {
-        "content": "35",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many shapes are needed from the polygon tray to match the same amount as the circle tray?",
-        "role": "user"
-      },
-      {
-        "content": "35",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many shapes are needed from the polygon tray to match the same amount as the circle tray?",
-        "role": "user"
-      },
-      {
-        "content": "35",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many shapes are needed from the polygon tray to match the same amount as the circle tray?",
-        "role": "user"
-      },
-      {
-        "content": "35",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many shapes are needed from the polygon tray to match the same amount as the circle tray?",
-        "role": "user"
-      },
-      {
-        "content": "35",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many polygon trays are needed to match the amount in one circle tray?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many polygon trays are needed to match the amount in one circle tray?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many polygon trays are needed to match the amount in one circle tray?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many polygon trays are needed to match the amount in one circle tray?",
-        "role": "user"
-      },
-      {
-        "content": "5",
         "role": "assistant"
       },
       {
@@ -5839,28 +5267,6 @@
     ],
     "images": [
       "dataset/clip_images/61/puzzle_61_1351_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1351_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1351_grid6.png",
-      "dataset/clip_images/61/puzzle_61_1351_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1351_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1351_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1351_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1351_grid6.png",
-      "dataset/clip_images/61/puzzle_61_1351_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1351_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1351_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1351_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1351_grid6.png",
-      "dataset/clip_images/61/puzzle_61_1351_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1351_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1351_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1351_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1351_grid6.png",
-      "dataset/clip_images/61/puzzle_61_1351_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1351_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1351_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1351_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1351_grid6.png",
       "dataset/clip_images/61/puzzle_61_1351_grid4.png",
       "dataset/clip_images/61/puzzle_61_1351_grid4.png",
       "dataset/clip_images/61/puzzle_61_1351_grid4.png",
@@ -5895,390 +5301,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many lego pieces are there in one circle tray?",
-        "role": "user"
-      },
-      {
-        "content": "8",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego pieces are there in one circle tray?",
-        "role": "user"
-      },
-      {
-        "content": "8",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego pieces are there in one circle tray?",
-        "role": "user"
-      },
-      {
-        "content": "8",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego pieces are there in one circle tray?",
-        "role": "user"
-      },
-      {
-        "content": "8",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego pieces are there in one circle tray?",
-        "role": "user"
-      },
-      {
-        "content": "8",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego pieces are there in one circle tray?",
-        "role": "user"
-      },
-      {
-        "content": "8",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego pieces are there in one circle tray?",
-        "role": "user"
-      },
-      {
-        "content": "8",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego pieces are there in one ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "48",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego pieces are there in one ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "48",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego pieces are there in one ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "48",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego pieces are there in one ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "48",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego pieces are there in one ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "48",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego pieces are there in one ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "48",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego pieces are there in one ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "48",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego pieces in total do the participators need to build a plate like the ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "48",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego pieces in total do the participators need to build a plate like the ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "48",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego pieces in total do the participators need to build a plate like the ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "48",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego pieces in total do the participators need to build a plate like the ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "48",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego pieces in total do the participators need to build a plate like the ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "48",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego pieces in total do the participators need to build a plate like the ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "48",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego pieces in total do the participators need to build a plate like the ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "48",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego pieces from the circle tray are needed to match the number of pieces in one ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "48",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego pieces from the circle tray are needed to match the number of pieces in one ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "48",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego pieces from the circle tray are needed to match the number of pieces in one ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "48",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego pieces from the circle tray are needed to match the number of pieces in one ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "48",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego pieces from the circle tray are needed to match the number of pieces in one ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "48",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego pieces from the circle tray are needed to match the number of pieces in one ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "48",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego pieces from the circle tray are needed to match the number of pieces in one ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "48",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego pieces from the circle tray are needed to make one ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "48",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego pieces from the circle tray are needed to make one ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "48",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego pieces from the circle tray are needed to make one ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "48",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego pieces from the circle tray are needed to make one ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "48",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego pieces from the circle tray are needed to make one ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "48",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego pieces from the circle tray are needed to make one ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "48",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego pieces from the circle tray are needed to make one ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "48",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the total number of lego pieces needed to make a plate like the ellipse tray using circle trays?",
-        "role": "user"
-      },
-      {
-        "content": "48",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the total number of lego pieces needed to make a plate like the ellipse tray using circle trays?",
-        "role": "user"
-      },
-      {
-        "content": "48",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the total number of lego pieces needed to make a plate like the ellipse tray using circle trays?",
-        "role": "user"
-      },
-      {
-        "content": "48",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the total number of lego pieces needed to make a plate like the ellipse tray using circle trays?",
-        "role": "user"
-      },
-      {
-        "content": "48",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the total number of lego pieces needed to make a plate like the ellipse tray using circle trays?",
-        "role": "user"
-      },
-      {
-        "content": "48",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the total number of lego pieces needed to make a plate like the ellipse tray using circle trays?",
-        "role": "user"
-      },
-      {
-        "content": "48",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the total number of lego pieces needed to make a plate like the ellipse tray using circle trays?",
-        "role": "user"
-      },
-      {
-        "content": "48",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nIf 8 lego pieces are in one circle tray, how many such trays are needed to obtain 48 lego pieces?",
-        "role": "user"
-      },
-      {
-        "content": "6",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nIf 8 lego pieces are in one circle tray, how many such trays are needed to obtain 48 lego pieces?",
-        "role": "user"
-      },
-      {
-        "content": "6",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nIf 8 lego pieces are in one circle tray, how many such trays are needed to obtain 48 lego pieces?",
-        "role": "user"
-      },
-      {
-        "content": "6",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nIf 8 lego pieces are in one circle tray, how many such trays are needed to obtain 48 lego pieces?",
-        "role": "user"
-      },
-      {
-        "content": "6",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nIf 8 lego pieces are in one circle tray, how many such trays are needed to obtain 48 lego pieces?",
-        "role": "user"
-      },
-      {
-        "content": "6",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nIf 8 lego pieces are in one circle tray, how many such trays are needed to obtain 48 lego pieces?",
-        "role": "user"
-      },
-      {
-        "content": "6",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nIf 8 lego pieces are in one circle tray, how many such trays are needed to obtain 48 lego pieces?",
         "role": "user"
       },
@@ -6296,54 +5318,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1355_grid6.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid3.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid5.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid6.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid3.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid3.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid5.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid6.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid3.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid3.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid5.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid6.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid3.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid3.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid5.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid6.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid3.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid3.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid5.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid6.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid3.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid3.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid5.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid6.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid3.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid3.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1355_grid5.png",
       "dataset/clip_images/61/puzzle_61_1355_grid6.png",
       "dataset/clip_images/61/puzzle_61_1355_grid4.png",
       "dataset/clip_images/61/puzzle_61_1355_grid4.png",
@@ -6492,14 +5466,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many balls are needed to make a polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "60",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Each participant in a bowling competition bowls one tray of balls like the rectangle tray shown. What is the smallest number of trays of balls required to make a plate like the polygon tray shown below? Ignore the size differences between the balls in the two trays. A: 4,B: 2,C: 5,D: 1,E: 3. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -6510,7 +5476,6 @@
     ],
     "images": [
       "dataset/clip_images/61/puzzle_61_1362_grid13.png",
-      "dataset/clip_images/61/puzzle_61_1362_grid6.png",
       "dataset/clip_images/61/puzzle_61_1362_grid8.png"
     ],
     "id": 1362
@@ -7377,22 +6342,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many lego block clusters are in one polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "29",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego block clusters are in one circle tray?",
-        "role": "user"
-      },
-      {
-        "content": "7",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nIf a circle tray has 7 lego blocks and a polygon tray has 29 lego blocks, how many circle trays are required to get at least 29 lego blocks?",
         "role": "user"
       },
@@ -7410,8 +6359,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1419_grid11.png",
-      "dataset/clip_images/61/puzzle_61_1419_grid11.png",
       "dataset/clip_images/61/puzzle_61_1419_grid11.png",
       "dataset/clip_images/61/puzzle_61_1419_grid11.png",
       "dataset/clip_images/61/puzzle_61_1419_grid10.png"
@@ -8053,126 +7000,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many cakes are on the rectangular tray?",
-        "role": "user"
-      },
-      {
-        "content": "42",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are on the rectangular tray?",
-        "role": "user"
-      },
-      {
-        "content": "42",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are on the rectangular tray?",
-        "role": "user"
-      },
-      {
-        "content": "42",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are on the rectangular tray?",
-        "role": "user"
-      },
-      {
-        "content": "42",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are on the elliptical tray?",
-        "role": "user"
-      },
-      {
-        "content": "7",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are on the elliptical tray?",
-        "role": "user"
-      },
-      {
-        "content": "7",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are on the elliptical tray?",
-        "role": "user"
-      },
-      {
-        "content": "7",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are on the elliptical tray?",
-        "role": "user"
-      },
-      {
-        "content": "7",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are in one elliptical tray?",
-        "role": "user"
-      },
-      {
-        "content": "7",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are in one elliptical tray?",
-        "role": "user"
-      },
-      {
-        "content": "7",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are in one elliptical tray?",
-        "role": "user"
-      },
-      {
-        "content": "7",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are in one elliptical tray?",
-        "role": "user"
-      },
-      {
-        "content": "7",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nIf each person cooks one tray of cakes like the elliptical tray, how many cakes does one person cook?",
-        "role": "user"
-      },
-      {
-        "content": "7",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nIf each person cooks one tray of cakes like the elliptical tray, how many cakes does one person cook?",
-        "role": "user"
-      },
-      {
-        "content": "7",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nIf each person cooks one tray of cakes like the elliptical tray, how many cakes does one person cook?",
-        "role": "user"
-      },
-      {
-        "content": "7",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nIf each person cooks one tray of cakes like the elliptical tray, how many cakes does one person cook?",
         "role": "user"
       },
@@ -8214,21 +7041,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1467_grid11.png",
-      "dataset/clip_images/61/puzzle_61_1467_grid8.png",
-      "dataset/clip_images/61/puzzle_61_1467_grid8.png",
-      "dataset/clip_images/61/puzzle_61_1467_grid11.png",
-      "dataset/clip_images/61/puzzle_61_1467_grid11.png",
-      "dataset/clip_images/61/puzzle_61_1467_grid8.png",
-      "dataset/clip_images/61/puzzle_61_1467_grid8.png",
-      "dataset/clip_images/61/puzzle_61_1467_grid11.png",
-      "dataset/clip_images/61/puzzle_61_1467_grid11.png",
-      "dataset/clip_images/61/puzzle_61_1467_grid8.png",
-      "dataset/clip_images/61/puzzle_61_1467_grid8.png",
-      "dataset/clip_images/61/puzzle_61_1467_grid11.png",
-      "dataset/clip_images/61/puzzle_61_1467_grid11.png",
-      "dataset/clip_images/61/puzzle_61_1467_grid8.png",
-      "dataset/clip_images/61/puzzle_61_1467_grid8.png",
       "dataset/clip_images/61/puzzle_61_1467_grid11.png",
       "dataset/clip_images/61/puzzle_61_1467_grid11.png",
       "dataset/clip_images/61/puzzle_61_1467_grid11.png",
@@ -8563,14 +7375,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many cakes are in the square tray?",
-        "role": "user"
-      },
-      {
-        "content": "12",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nHow many cakes are needed to fill one square tray, if each person cooks a tray of cakes like the circle tray?",
         "role": "user"
       },
@@ -8597,7 +7401,6 @@
     ],
     "images": [
       "dataset/clip_images/61/puzzle_61_150_grid4.png",
-      "dataset/clip_images/61/puzzle_61_150_grid6.png",
       "dataset/clip_images/61/puzzle_61_150_grid6.png",
       "dataset/clip_images/61/puzzle_61_150_grid4.png",
       "dataset/clip_images/61/puzzle_61_150_grid10.png"
@@ -9010,14 +7813,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many cakes does each player cook in one tray for the cooking event?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Each player in a cooking event cooks one tray of cakes like the ellipse tray shown. What is the minimum number of trays of cakes needed to make a plate like the square tray shown below? Ignore the size differences between the cakes in the two trays. A: 5,B: 4,C: 3,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -9029,7 +7824,6 @@
     "images": [
       "dataset/clip_images/61/puzzle_61_1527_grid8.png",
       "dataset/clip_images/61/puzzle_61_1527_grid6.png",
-      "dataset/clip_images/61/puzzle_61_1527_grid8.png",
       "dataset/clip_images/61/puzzle_61_1527_grid8.png"
     ],
     "id": 1527
@@ -9225,14 +8019,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many biscuits are in the rectangular tray?",
-        "role": "user"
-      },
-      {
-        "content": "?",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nHow many biscuits are needed to fill a plate like the rectangle tray?",
         "role": "user"
       },
@@ -9258,7 +8044,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1545_grid7.png",
       "dataset/clip_images/61/puzzle_61_1545_grid13.png",
       "dataset/clip_images/61/puzzle_61_1545_grid10.png",
       "dataset/clip_images/61/puzzle_61_1545_grid3.png"
@@ -9960,6 +8745,14 @@
   {
     "messages": [
       {
+        "content": "<image>\nWhat is the number of square trays needed to match the number of lego blocks in one circle tray?",
+        "role": "user"
+      },
+      {
+        "content": "25 / 4 = 6.25",
+        "role": "assistant"
+      },
+      {
         "content": "<image>\nWhat is the smallest whole number of square trays needed to match or exceed the number of lego blocks in one circle tray?",
         "role": "user"
       },
@@ -9977,6 +8770,7 @@
       }
     ],
     "images": [
+      "dataset/clip_images/61/puzzle_61_1578_grid6.png",
       "dataset/clip_images/61/puzzle_61_1578_grid6.png",
       "dataset/clip_images/61/puzzle_61_1578_grid11.png"
     ],
@@ -10094,126 +8888,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many biscuits are on each rectangular tray?",
-        "role": "user"
-      },
-      {
-        "content": "9",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many biscuits are on each rectangular tray?",
-        "role": "user"
-      },
-      {
-        "content": "9",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many biscuits are on each rectangular tray?",
-        "role": "user"
-      },
-      {
-        "content": "9",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many biscuits are on each rectangular tray?",
-        "role": "user"
-      },
-      {
-        "content": "9",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many biscuits are on the elliptical tray?",
-        "role": "user"
-      },
-      {
-        "content": "Use the image to count the biscuits on the elliptical tray.",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many biscuits are on the elliptical tray?",
-        "role": "user"
-      },
-      {
-        "content": "Use the image to count the biscuits on the elliptical tray.",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many biscuits are on the elliptical tray?",
-        "role": "user"
-      },
-      {
-        "content": "Use the image to count the biscuits on the elliptical tray.",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many biscuits are on the elliptical tray?",
-        "role": "user"
-      },
-      {
-        "content": "Use the image to count the biscuits on the elliptical tray.",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many biscuits are on the elliptical tray?",
-        "role": "user"
-      },
-      {
-        "content": "13",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many biscuits are on the elliptical tray?",
-        "role": "user"
-      },
-      {
-        "content": "13",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many biscuits are on the elliptical tray?",
-        "role": "user"
-      },
-      {
-        "content": "13",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many biscuits are on the elliptical tray?",
-        "role": "user"
-      },
-      {
-        "content": "13",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many biscuits are needed in total to make a plate like the elliptical tray?",
-        "role": "user"
-      },
-      {
-        "content": "13",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many biscuits are needed in total to make a plate like the elliptical tray?",
-        "role": "user"
-      },
-      {
-        "content": "13",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many biscuits are needed in total to make a plate like the elliptical tray?",
-        "role": "user"
-      },
-      {
-        "content": "13",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nHow many biscuits are needed in total to make a plate like the elliptical tray?",
         "role": "user"
       },
@@ -10248,21 +8922,6 @@
     ],
     "images": [
       "dataset/clip_images/61/puzzle_61_1595_grid10.png",
-      "dataset/clip_images/61/puzzle_61_1595_grid10.png",
-      "dataset/clip_images/61/puzzle_61_1595_grid1.png",
-      "dataset/clip_images/61/puzzle_61_1595_grid6.png",
-      "dataset/clip_images/61/puzzle_61_1595_grid10.png",
-      "dataset/clip_images/61/puzzle_61_1595_grid10.png",
-      "dataset/clip_images/61/puzzle_61_1595_grid1.png",
-      "dataset/clip_images/61/puzzle_61_1595_grid6.png",
-      "dataset/clip_images/61/puzzle_61_1595_grid10.png",
-      "dataset/clip_images/61/puzzle_61_1595_grid10.png",
-      "dataset/clip_images/61/puzzle_61_1595_grid1.png",
-      "dataset/clip_images/61/puzzle_61_1595_grid6.png",
-      "dataset/clip_images/61/puzzle_61_1595_grid10.png",
-      "dataset/clip_images/61/puzzle_61_1595_grid10.png",
-      "dataset/clip_images/61/puzzle_61_1595_grid1.png",
-      "dataset/clip_images/61/puzzle_61_1595_grid6.png",
       "dataset/clip_images/61/puzzle_61_1595_grid10.png",
       "dataset/clip_images/61/puzzle_61_1595_grid10.png",
       "dataset/clip_images/61/puzzle_61_1595_grid7.png"
@@ -10661,14 +9320,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many cakes are there in one circle tray?",
-        "role": "user"
-      },
-      {
-        "content": "25",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nHow many cakes do 4 ellipse trays contain?",
         "role": "user"
       },
@@ -10694,7 +9345,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1626_grid6.png",
       "dataset/clip_images/61/puzzle_61_1626_grid6.png",
       "dataset/clip_images/61/puzzle_61_1626_grid6.png",
       "dataset/clip_images/61/puzzle_61_1626_grid2.png"
@@ -10876,6 +9526,14 @@
   {
     "messages": [
       {
+        "content": "<image>\nHow many balls are needed to fill one square tray?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      },
+      {
         "content": "<image>\nHow many balls are there in one square tray?",
         "role": "user"
       },
@@ -10917,6 +9575,7 @@
       }
     ],
     "images": [
+      "dataset/clip_images/61/puzzle_61_1641_grid6.png",
       "dataset/clip_images/61/puzzle_61_1641_grid4.png",
       "dataset/clip_images/61/puzzle_61_1641_grid4.png",
       "dataset/clip_images/61/puzzle_61_1641_grid5.png",
@@ -11023,14 +9682,6 @@
         "role": "user"
       },
       {
-        "content": "Count the total number of biscuits in the rectangle tray in the image.",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many biscuits are in the rectangle tray?",
-        "role": "user"
-      },
-      {
         "content": "23",
         "role": "assistant"
       },
@@ -11048,7 +9699,6 @@
       "dataset/clip_images/61/puzzle_61_1650_grid9.png",
       "dataset/clip_images/61/puzzle_61_1650_grid13.png",
       "dataset/clip_images/61/puzzle_61_1650_grid9.png",
-      "dataset/clip_images/61/puzzle_61_1650_grid13.png",
       "dataset/clip_images/61/puzzle_61_1650_grid13.png",
       "dataset/clip_images/61/puzzle_61_1650_grid9.png"
     ],
@@ -11525,30 +10175,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many balls are needed in total to make a plate like the square tray?",
-        "role": "user"
-      },
-      {
-        "content": "16",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many balls are in one rectangular tray?",
-        "role": "user"
-      },
-      {
-        "content": "6",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many balls are in one rectangular tray?",
-        "role": "user"
-      },
-      {
-        "content": "6",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nHow many balls are needed to make a tray like the rectangle is given in step 4?",
         "role": "user"
       },
@@ -11574,9 +10200,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_169_grid6.png",
-      "dataset/clip_images/61/puzzle_61_169_grid6.png",
-      "dataset/clip_images/61/puzzle_61_169_grid6.png",
       "dataset/clip_images/61/puzzle_61_169_grid6.png",
       "dataset/clip_images/61/puzzle_61_169_grid6.png",
       "dataset/clip_images/61/puzzle_61_169_grid6.png",
@@ -13635,22 +12258,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many balls are needed to make a plate like the square tray?",
-        "role": "user"
-      },
-      {
-        "content": "32",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many balls are in one circle tray?",
-        "role": "user"
-      },
-      {
-        "content": "8",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nHow many balls are in one square tray?",
         "role": "user"
       },
@@ -13668,8 +12275,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1817_grid4.png",
-      "dataset/clip_images/61/puzzle_61_1817_grid4.png",
       "dataset/clip_images/61/puzzle_61_1817_grid13.png",
       "dataset/clip_images/61/puzzle_61_1817_grid13.png"
     ],
@@ -14210,14 +12815,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many segments does the polygon tray have?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nHow many cakes are there in one polygon tray?",
         "role": "user"
       },
@@ -14243,7 +12840,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1864_grid6.png",
       "dataset/clip_images/61/puzzle_61_1864_grid4.png",
       "dataset/clip_images/61/puzzle_61_1864_grid6.png",
       "dataset/clip_images/61/puzzle_61_1864_grid6.png"
@@ -14534,126 +13130,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many lego blocks are in one polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "6",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego blocks are in one polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "6",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego blocks are in one polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "6",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego blocks are in one polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "6",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego blocks are in the ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "30",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego blocks are in the ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "30",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego blocks are in the ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "30",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego blocks are in the ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "30",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego blocks are required to make a plate like the ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "30",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego blocks are required to make a plate like the ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "30",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego blocks are required to make a plate like the ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "30",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego blocks are required to make a plate like the ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "30",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego blocks are required to make one polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "6",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego blocks are required to make one polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "6",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many lego blocks are required to make one polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "6",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nHow many lego blocks are required to make one polygon tray?",
         "role": "user"
       },
@@ -14704,21 +13180,6 @@
     ],
     "images": [
       "dataset/clip_images/61/puzzle_61_188_grid13.png",
-      "dataset/clip_images/61/puzzle_61_188_grid13.png",
-      "dataset/clip_images/61/puzzle_61_188_grid6.png",
-      "dataset/clip_images/61/puzzle_61_188_grid12.png",
-      "dataset/clip_images/61/puzzle_61_188_grid13.png",
-      "dataset/clip_images/61/puzzle_61_188_grid13.png",
-      "dataset/clip_images/61/puzzle_61_188_grid6.png",
-      "dataset/clip_images/61/puzzle_61_188_grid12.png",
-      "dataset/clip_images/61/puzzle_61_188_grid13.png",
-      "dataset/clip_images/61/puzzle_61_188_grid13.png",
-      "dataset/clip_images/61/puzzle_61_188_grid6.png",
-      "dataset/clip_images/61/puzzle_61_188_grid12.png",
-      "dataset/clip_images/61/puzzle_61_188_grid13.png",
-      "dataset/clip_images/61/puzzle_61_188_grid13.png",
-      "dataset/clip_images/61/puzzle_61_188_grid6.png",
-      "dataset/clip_images/61/puzzle_61_188_grid12.png",
       "dataset/clip_images/61/puzzle_61_188_grid13.png",
       "dataset/clip_images/61/puzzle_61_188_grid13.png",
       "dataset/clip_images/61/puzzle_61_188_grid3.png",
@@ -14773,6 +13234,14 @@
   {
     "messages": [
       {
+        "content": "<image>\nHow many balls are in one rectangle tray?",
+        "role": "user"
+      },
+      {
+        "content": "15",
+        "role": "assistant"
+      },
+      {
         "content": "<image>\nHow many times does the number of balls in one rectangle tray divide the number of balls needed to fill one ellipse tray?",
         "role": "user"
       },
@@ -14790,6 +13259,7 @@
       }
     ],
     "images": [
+      "dataset/clip_images/61/puzzle_61_1887_grid5.png",
       "dataset/clip_images/61/puzzle_61_1887_grid4.png",
       "dataset/clip_images/61/puzzle_61_1887_grid9.png"
     ],
@@ -15536,14 +14006,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many polygon trays are required to make one square tray?",
-        "role": "user"
-      },
-      {
-        "content": "6",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nHow many square trays can be made using 6 polygon trays?",
         "role": "user"
       },
@@ -15561,7 +14023,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1928_grid6.png",
       "dataset/clip_images/61/puzzle_61_1928_grid6.png",
       "dataset/clip_images/61/puzzle_61_1928_grid6.png",
       "dataset/clip_images/61/puzzle_61_1928_grid4.png",
@@ -15769,30 +14230,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many cakes are there in the ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "Count the cakes in the ellipse tray to find the number.",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are there in the ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "Count the cakes in the ellipse tray to find the number.",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are there in the ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "18",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Each participator in a cooking game cooks one tray of cakes like the polygon tray shown. What is the lowest number of trays of cakes required to make a plate like the ellipse tray shown below? Ignore the size differences between the cakes in the two trays. A: 3,B: 1,C: 6,D: 2,E: 4. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -15802,9 +14239,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1941_grid13.png",
-      "dataset/clip_images/61/puzzle_61_1941_grid13.png",
-      "dataset/clip_images/61/puzzle_61_1941_grid13.png",
       "dataset/clip_images/61/puzzle_61_1941_grid4.png"
     ],
     "id": 1941
@@ -16647,14 +15081,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many flowers are on each tray in the square arrangement?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nHow many trays of flowers are needed to match the number of flowers in the polygon tray?",
         "role": "user"
       },
@@ -16672,7 +15098,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1990_grid6.png",
       "dataset/clip_images/61/puzzle_61_1990_grid6.png",
       "dataset/clip_images/61/puzzle_61_1990_grid9.png"
     ],
@@ -17084,126 +15509,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many balls are in one circular tray?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many balls are in one circular tray?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many balls are in one circular tray?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many balls are in one circular tray?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many balls are in the polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "19",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many balls are in the polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "19",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many balls are in the polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "19",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many balls are in the polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "19",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many balls does one kid bowl with one circular tray?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many balls does one kid bowl with one circular tray?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many balls does one kid bowl with one circular tray?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many balls does one kid bowl with one circular tray?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many balls are needed to make a plate like the polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "19",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many balls are needed to make a plate like the polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "19",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many balls are needed to make a plate like the polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "19",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nHow many balls are needed to make a plate like the polygon tray?",
         "role": "user"
       },
@@ -17222,21 +15527,6 @@
     ],
     "images": [
       "dataset/clip_images/61/puzzle_61_222_grid4.png",
-      "dataset/clip_images/61/puzzle_61_222_grid6.png",
-      "dataset/clip_images/61/puzzle_61_222_grid4.png",
-      "dataset/clip_images/61/puzzle_61_222_grid6.png",
-      "dataset/clip_images/61/puzzle_61_222_grid4.png",
-      "dataset/clip_images/61/puzzle_61_222_grid6.png",
-      "dataset/clip_images/61/puzzle_61_222_grid4.png",
-      "dataset/clip_images/61/puzzle_61_222_grid6.png",
-      "dataset/clip_images/61/puzzle_61_222_grid4.png",
-      "dataset/clip_images/61/puzzle_61_222_grid6.png",
-      "dataset/clip_images/61/puzzle_61_222_grid4.png",
-      "dataset/clip_images/61/puzzle_61_222_grid6.png",
-      "dataset/clip_images/61/puzzle_61_222_grid4.png",
-      "dataset/clip_images/61/puzzle_61_222_grid6.png",
-      "dataset/clip_images/61/puzzle_61_222_grid4.png",
-      "dataset/clip_images/61/puzzle_61_222_grid6.png",
       "dataset/clip_images/61/puzzle_61_222_grid10.png"
     ],
     "id": 222
@@ -17470,14 +15760,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many biscuits are in one polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "7",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Each participant in a buscuit event cooks one tray of buiscuit like the polygon tray shown. What is the smallest number of trays of buiscuit required to make a plate like the ellipse tray shown below? Ignore the size differences between the buiscuit in the two trays. A: 1,B: 5,C: 4,D: 5,E: 6. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -17487,7 +15769,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_23_grid5.png",
       "dataset/clip_images/61/puzzle_61_23_grid6.png"
     ],
     "id": 23
@@ -17896,14 +16177,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many flowers are on the circle tray?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nHow many flowers does the circle tray have compared to the ellipse tray?",
         "role": "user"
       },
@@ -17924,7 +16197,6 @@
       "dataset/clip_images/61/puzzle_61_255_grid3.png",
       "dataset/clip_images/61/puzzle_61_255_grid10.png",
       "dataset/clip_images/61/puzzle_61_255_grid10.png",
-      "dataset/clip_images/61/puzzle_61_255_grid4.png",
       "dataset/clip_images/61/puzzle_61_255_grid4.png",
       "dataset/clip_images/61/puzzle_61_255_grid4.png",
       "dataset/clip_images/61/puzzle_61_255_grid8.png"
@@ -20148,14 +18420,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many biscuits are on each tray?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nHow many trays does each participant cook?",
         "role": "user"
       },
@@ -20174,7 +18438,6 @@
     ],
     "images": [
       "dataset/clip_images/61/puzzle_61_426_grid13.png",
-      "dataset/clip_images/61/puzzle_61_426_grid7.png",
       "dataset/clip_images/61/puzzle_61_426_grid7.png",
       "dataset/clip_images/61/puzzle_61_426_grid9.png"
     ],
@@ -20643,126 +18906,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many biscuits are on one circle tray?",
-        "role": "user"
-      },
-      {
-        "content": "8",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many biscuits are on one circle tray?",
-        "role": "user"
-      },
-      {
-        "content": "8",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many biscuits are on one circle tray?",
-        "role": "user"
-      },
-      {
-        "content": "8",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many biscuits are on one circle tray?",
-        "role": "user"
-      },
-      {
-        "content": "8",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many biscuits are on the polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "56",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many biscuits are on the polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "56",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many biscuits are on the polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "56",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many biscuits are on the polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "56",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many biscuits are needed to fill one polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "56",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many biscuits are needed to fill one polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "56",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many biscuits are needed to fill one polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "56",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many biscuits are needed to fill one polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "56",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many circle trays are needed to match the number of biscuits on one polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "7",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many circle trays are needed to match the number of biscuits on one polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "7",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many circle trays are needed to match the number of biscuits on one polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "7",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nHow many circle trays are needed to match the number of biscuits on one polygon tray?",
         "role": "user"
       },
@@ -20780,21 +18923,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_451_grid4.png",
-      "dataset/clip_images/61/puzzle_61_451_grid6.png",
-      "dataset/clip_images/61/puzzle_61_451_grid13.png",
-      "dataset/clip_images/61/puzzle_61_451_grid4.png",
-      "dataset/clip_images/61/puzzle_61_451_grid4.png",
-      "dataset/clip_images/61/puzzle_61_451_grid6.png",
-      "dataset/clip_images/61/puzzle_61_451_grid13.png",
-      "dataset/clip_images/61/puzzle_61_451_grid4.png",
-      "dataset/clip_images/61/puzzle_61_451_grid4.png",
-      "dataset/clip_images/61/puzzle_61_451_grid6.png",
-      "dataset/clip_images/61/puzzle_61_451_grid13.png",
-      "dataset/clip_images/61/puzzle_61_451_grid4.png",
-      "dataset/clip_images/61/puzzle_61_451_grid4.png",
-      "dataset/clip_images/61/puzzle_61_451_grid6.png",
-      "dataset/clip_images/61/puzzle_61_451_grid13.png",
       "dataset/clip_images/61/puzzle_61_451_grid4.png",
       "dataset/clip_images/61/puzzle_61_451_grid9.png"
     ],
@@ -20980,6 +19108,14 @@
   {
     "messages": [
       {
+        "content": "<image>\nHow many additional cakes are needed to make a plate like the square tray if you have one ellipse tray?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
         "content": "<image>\nHow many cakes are there in two ellipse trays?",
         "role": "user"
       },
@@ -21029,6 +19165,7 @@
       }
     ],
     "images": [
+      "dataset/clip_images/61/puzzle_61_469_grid10.png",
       "dataset/clip_images/61/puzzle_61_469_grid10.png",
       "dataset/clip_images/61/puzzle_61_469_grid1.png",
       "dataset/clip_images/61/puzzle_61_469_grid6.png",
@@ -21950,30 +20087,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many balls in total are needed to achieve the same number as in the rectangle tray if each polygon tray contains 7 balls?",
-        "role": "user"
-      },
-      {
-        "content": "40",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many balls in total are needed to achieve the same number as in the rectangle tray if each polygon tray contains 7 balls?",
-        "role": "user"
-      },
-      {
-        "content": "40",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nIf each polygon tray has 7 balls, how many polygon trays are needed to make up the total number of balls in the rectangle tray?",
-        "role": "user"
-      },
-      {
-        "content": "6",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nIf each polygon tray has 7 balls, how many polygon trays are needed to make up the total number of balls in the rectangle tray?",
         "role": "user"
       },
@@ -22015,9 +20128,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_531_grid4.png",
-      "dataset/clip_images/61/puzzle_61_531_grid4.png",
-      "dataset/clip_images/61/puzzle_61_531_grid4.png",
       "dataset/clip_images/61/puzzle_61_531_grid4.png",
       "dataset/clip_images/61/puzzle_61_531_grid4.png",
       "dataset/clip_images/61/puzzle_61_531_grid4.png",
@@ -22534,6 +20644,14 @@
   {
     "messages": [
       {
+        "content": "<image>\nHow many biscuits are needed to fill the plate?",
+        "role": "user"
+      },
+      {
+        "content": "24",
+        "role": "assistant"
+      },
+      {
         "content": "<image>\nHow many biscuits do two trays like the polygon tray contain?",
         "role": "user"
       },
@@ -22567,6 +20685,7 @@
       }
     ],
     "images": [
+      "dataset/clip_images/61/puzzle_61_57_grid13.png",
       "dataset/clip_images/61/puzzle_61_57_grid4.png",
       "dataset/clip_images/61/puzzle_61_57_grid13.png",
       "dataset/clip_images/61/puzzle_61_57_grid13.png",
@@ -23682,38 +21801,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many cakes are on one rectangular tray?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are on one rectangular tray?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are on the elliptical plate?",
-        "role": "user"
-      },
-      {
-        "content": "This would be determined by counting the cakes in the image.",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are on the elliptical plate?",
-        "role": "user"
-      },
-      {
-        "content": "This would be determined by counting the cakes in the image.",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nHow many cakes are on the elliptical plate in total?",
         "role": "user"
       },
@@ -23747,10 +21834,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_66_grid10.png",
-      "dataset/clip_images/61/puzzle_61_66_grid5.png",
-      "dataset/clip_images/61/puzzle_61_66_grid10.png",
-      "dataset/clip_images/61/puzzle_61_66_grid5.png",
       "dataset/clip_images/61/puzzle_61_66_grid5.png",
       "dataset/clip_images/61/puzzle_61_66_grid3.png",
       "dataset/clip_images/61/puzzle_61_66_grid10.png",
@@ -24612,22 +22695,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many cakes are in one tray like the rectangle tray?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are needed to make a plate like the polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "6",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Each person in a cooking tournament cooks one tray of cakes like the rectangle tray shown. What is the lowest number of trays of cakes required to make a plate like the polygon tray shown below? Ignore the size differences between the cakes in the two trays. A: 5,B: 3,C: 4,D: 1,E: 2. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -24637,8 +22704,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_752_grid6.png",
-      "dataset/clip_images/61/puzzle_61_752_grid6.png",
       "dataset/clip_images/61/puzzle_61_752_grid6.png",
       "dataset/clip_images/61/puzzle_61_752_grid6.png",
       "dataset/clip_images/61/puzzle_61_752_grid6.png",
@@ -24894,126 +22959,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many cakes are on the circle tray?",
-        "role": "user"
-      },
-      {
-        "content": "8",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are on the circle tray?",
-        "role": "user"
-      },
-      {
-        "content": "8",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are on the circle tray?",
-        "role": "user"
-      },
-      {
-        "content": "8",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are on the circle tray?",
-        "role": "user"
-      },
-      {
-        "content": "8",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are on the polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "unknown",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are on the polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "unknown",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are on the polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "unknown",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are on the polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "unknown",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are on the polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "unknown",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are on the polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "unknown",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are on the polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "unknown",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are on the polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "unknown",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nCan you count the exact number of cakes on the polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "Yes",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nCan you count the exact number of cakes on the polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "Yes",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nCan you count the exact number of cakes on the polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "Yes",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nCan you count the exact number of cakes on the polygon tray?",
         "role": "user"
       },
@@ -25030,22 +22975,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many cakes are on one tray in the circle configuration?",
-        "role": "user"
-      },
-      {
-        "content": "8",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are on one tray in the circle configuration?",
-        "role": "user"
-      },
-      {
-        "content": "8",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Each person in a cooking event cooks one tray of cakes like the circle tray shown. What is the smallest number of trays of cakes needed to make a plate like the polygon tray shown below? Ignore the size differences between the cakes in the two trays. A: 3,B: 4,C: 2,D: 6,E: 1. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -25057,23 +22986,6 @@
     "images": [
       "dataset/clip_images/61/puzzle_61_771_grid13.png",
       "dataset/clip_images/61/puzzle_61_771_grid13.png",
-      "dataset/clip_images/61/puzzle_61_771_grid13.png",
-      "dataset/clip_images/61/puzzle_61_771_grid13.png",
-      "dataset/clip_images/61/puzzle_61_771_grid13.png",
-      "dataset/clip_images/61/puzzle_61_771_grid13.png",
-      "dataset/clip_images/61/puzzle_61_771_grid13.png",
-      "dataset/clip_images/61/puzzle_61_771_grid13.png",
-      "dataset/clip_images/61/puzzle_61_771_grid13.png",
-      "dataset/clip_images/61/puzzle_61_771_grid13.png",
-      "dataset/clip_images/61/puzzle_61_771_grid13.png",
-      "dataset/clip_images/61/puzzle_61_771_grid13.png",
-      "dataset/clip_images/61/puzzle_61_771_grid13.png",
-      "dataset/clip_images/61/puzzle_61_771_grid13.png",
-      "dataset/clip_images/61/puzzle_61_771_grid13.png",
-      "dataset/clip_images/61/puzzle_61_771_grid13.png",
-      "dataset/clip_images/61/puzzle_61_771_grid13.png",
-      "dataset/clip_images/61/puzzle_61_771_grid4.png",
-      "dataset/clip_images/61/puzzle_61_771_grid4.png",
       "dataset/clip_images/61/puzzle_61_771_grid13.png"
     ],
     "id": 771
@@ -25666,62 +23578,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many flowers are needed to fill the polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "20",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many flowers are needed to fill the polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "20",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many flowers are in one circular tray?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many flowers are in one circular tray?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many flowers are in one circular tray?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many circular trays are required to get 20 flowers?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many circular trays are required to get 20 flowers?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nHow many circular trays are required to get 20 flowers?",
         "role": "user"
       },
@@ -25741,14 +23597,7 @@
     "images": [
       "dataset/clip_images/61/puzzle_61_818_grid6.png",
       "dataset/clip_images/61/puzzle_61_818_grid6.png",
-      "dataset/clip_images/61/puzzle_61_818_grid4.png",
-      "dataset/clip_images/61/puzzle_61_818_grid4.png",
       "dataset/clip_images/61/puzzle_61_818_grid6.png",
-      "dataset/clip_images/61/puzzle_61_818_grid4.png",
-      "dataset/clip_images/61/puzzle_61_818_grid4.png",
-      "dataset/clip_images/61/puzzle_61_818_grid6.png",
-      "dataset/clip_images/61/puzzle_61_818_grid4.png",
-      "dataset/clip_images/61/puzzle_61_818_grid4.png",
       "dataset/clip_images/61/puzzle_61_818_grid12.png"
     ],
     "id": 818
@@ -25780,115 +23629,11 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many biscuits are needed in total to fill one circular tray?",
-        "role": "user"
-      },
-      {
-        "content": "20",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many biscuits are needed in total to fill one circular tray?",
-        "role": "user"
-      },
-      {
-        "content": "20",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many biscuits are needed in total to fill one circular tray?",
-        "role": "user"
-      },
-      {
-        "content": "20",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nHow many biscuits can fit in one rectangular tray?",
         "role": "user"
       },
       {
         "content": "7",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many biscuits can fit in one rectangular tray?",
-        "role": "user"
-      },
-      {
-        "content": "7",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many biscuits can fit in one rectangular tray?",
-        "role": "user"
-      },
-      {
-        "content": "7",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many biscuits can fit in one rectangular tray?",
-        "role": "user"
-      },
-      {
-        "content": "7",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many biscuits can be made in total with two rectangular trays?",
-        "role": "user"
-      },
-      {
-        "content": "14",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many biscuits can be made in total with two rectangular trays?",
-        "role": "user"
-      },
-      {
-        "content": "14",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many biscuits can be made in total with two rectangular trays?",
-        "role": "user"
-      },
-      {
-        "content": "14",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many biscuits can be made in total with two rectangular trays?",
-        "role": "user"
-      },
-      {
-        "content": "14",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the smallest number of rectangular trays required to fill the circular tray?",
-        "role": "user"
-      },
-      {
-        "content": "3",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the smallest number of rectangular trays required to fill the circular tray?",
-        "role": "user"
-      },
-      {
-        "content": "3",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the smallest number of rectangular trays required to fill the circular tray?",
-        "role": "user"
-      },
-      {
-        "content": "3",
         "role": "assistant"
       },
       {
@@ -25912,20 +23657,7 @@
       "dataset/clip_images/61/puzzle_61_823_grid6.png",
       "dataset/clip_images/61/puzzle_61_823_grid12.png",
       "dataset/clip_images/61/puzzle_61_823_grid6.png",
-      "dataset/clip_images/61/puzzle_61_823_grid12.png",
-      "dataset/clip_images/61/puzzle_61_823_grid12.png",
       "dataset/clip_images/61/puzzle_61_823_grid6.png",
-      "dataset/clip_images/61/puzzle_61_823_grid6.png",
-      "dataset/clip_images/61/puzzle_61_823_grid12.png",
-      "dataset/clip_images/61/puzzle_61_823_grid12.png",
-      "dataset/clip_images/61/puzzle_61_823_grid6.png",
-      "dataset/clip_images/61/puzzle_61_823_grid6.png",
-      "dataset/clip_images/61/puzzle_61_823_grid12.png",
-      "dataset/clip_images/61/puzzle_61_823_grid12.png",
-      "dataset/clip_images/61/puzzle_61_823_grid6.png",
-      "dataset/clip_images/61/puzzle_61_823_grid6.png",
-      "dataset/clip_images/61/puzzle_61_823_grid12.png",
-      "dataset/clip_images/61/puzzle_61_823_grid12.png",
       "dataset/clip_images/61/puzzle_61_823_grid6.png",
       "dataset/clip_images/61/puzzle_61_823_grid9.png"
     ],
@@ -26455,22 +24187,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many cakes are needed in total to make a tray like the ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "30",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many cakes are needed to fill one square tray?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nHow many cakes are needed to fill one square tray?",
         "role": "user"
       },
@@ -26514,9 +24230,7 @@
     "images": [
       "dataset/clip_images/61/puzzle_61_882_grid13.png",
       "dataset/clip_images/61/puzzle_61_882_grid13.png",
-      "dataset/clip_images/61/puzzle_61_882_grid10.png",
       "dataset/clip_images/61/puzzle_61_882_grid13.png",
-      "dataset/clip_images/61/puzzle_61_882_grid10.png",
       "dataset/clip_images/61/puzzle_61_882_grid13.png",
       "dataset/clip_images/61/puzzle_61_882_grid13.png",
       "dataset/clip_images/61/puzzle_61_882_grid6.png",
@@ -26719,14 +24433,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many biscuits are in one rectangle tray?",
-        "role": "user"
-      },
-      {
-        "content": "10",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nHow many biscuits are needed to make a plate like the square tray?",
         "role": "user"
       },
@@ -26752,7 +24458,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_888_grid13.png",
       "dataset/clip_images/61/puzzle_61_888_grid6.png",
       "dataset/clip_images/61/puzzle_61_888_grid6.png",
       "dataset/clip_images/61/puzzle_61_888_grid7.png"
@@ -27138,14 +24843,6 @@
         "role": "user"
       },
       {
-        "content": "Let's count the representation in the image",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many biscuits are needed to fill the circular plate as shown?",
-        "role": "user"
-      },
-      {
         "content": "Let's count the representation in the image.",
         "role": "assistant"
       },
@@ -27159,7 +24856,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_916_grid6.png",
       "dataset/clip_images/61/puzzle_61_916_grid6.png",
       "dataset/clip_images/61/puzzle_61_916_grid6.png",
       "dataset/clip_images/61/puzzle_61_916_grid6.png",
@@ -27230,14 +24926,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many times does a tray like the circle tray fit along one side of the square tray?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nHow many trays of flowers are in the circular tray?",
         "role": "user"
       },
@@ -27279,7 +24967,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_920_grid6.png",
       "dataset/clip_images/61/puzzle_61_920_grid6.png",
       "dataset/clip_images/61/puzzle_61_920_grid5.png",
       "dataset/clip_images/61/puzzle_61_920_grid6.png",
@@ -27931,14 +25618,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many balls are in one square tray?",
-        "role": "user"
-      },
-      {
-        "content": "16",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Each player in a bowling game bowls one tray of balls like the square tray shown. What is the lowest number of trays of balls required to make a plate like the rectangle tray shown below? Ignore the size differences between the balls in the two trays. A: 5,B: 4,C: 2,D: 3,E: 1. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -27948,7 +25627,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_967_grid4.png",
       "dataset/clip_images/61/puzzle_61_967_grid4.png",
       "dataset/clip_images/61/puzzle_61_967_grid4.png",
       "dataset/clip_images/61/puzzle_61_967_grid8.png"
@@ -27974,14 +25652,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many cakes are needed to make a plate like the polygon tray?",
-        "role": "user"
-      },
-      {
-        "content": "10",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nHow many cakes in total would you have if you combined one polygon tray of cakes and one ellipse tray of cakes?",
         "role": "user"
       },
@@ -28000,7 +25670,6 @@
     ],
     "images": [
       "dataset/clip_images/61/puzzle_61_97_grid5.png",
-      "dataset/clip_images/61/puzzle_61_97_grid6.png",
       "dataset/clip_images/61/puzzle_61_97_grid6.png",
       "dataset/clip_images/61/puzzle_61_97_grid6.png",
       "dataset/clip_images/61/puzzle_61_97_grid1.png"

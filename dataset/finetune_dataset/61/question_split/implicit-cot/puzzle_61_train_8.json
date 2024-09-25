@@ -116,14 +116,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nIf each ellipse tray has 8 cakes, how many ellipse trays are needed to reach at least 10 cakes?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Each member in a cooking event cooks one tray of cakes like the ellipse tray shown. What is the smallest number of trays of cakes required to make a plate like the circle tray shown below? Ignore the size differences between the cakes in the two trays. A: 4,B: 5,C: 3,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -133,7 +125,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1047_grid6.png",
       "dataset/clip_images/61/puzzle_61_1047_grid6.png"
     ],
     "id": 1047
@@ -191,30 +182,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Each kid in a bowling event bowls one tray of balls like the polygon tray shown. What is the lowest number of trays of balls required to make a plate like the square tray shown below? Ignore the size differences between the balls in the two trays. A: 4,B: 3,C: 5,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "E",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/61/puzzle_61_1092_grid13.png"
-    ],
-    "id": 1092
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nHow many cakes are needed to match the cakes in one rectangle tray?",
-        "role": "user"
-      },
-      {
-        "content": "6",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Each participator in a cooking contest cooks one tray of cakes like the rectangle tray shown. What is the smallest number of trays of cakes needed to make a plate like the square tray shown below? Ignore the size differences between the cakes in the two trays. A: 2,B: 1,C: 4,D: 3,E: 5. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -224,7 +191,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1093_grid11.png",
       "dataset/clip_images/61/puzzle_61_1093_grid8.png"
     ],
     "id": 1093
@@ -984,13 +950,21 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many biscuits are in the rectangle tray?",
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Each kid in a bowling tournament bowls one tray of balls like the square tray shown. What is the smallest number of trays of balls required to make a plate like the ellipse tray shown below? Ignore the size differences between the balls in the two trays. A: 3,B: 2,C: 5,D: 4,E: 1. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
       {
-        "content": "23",
+        "content": "D",
         "role": "assistant"
-      },
+      }
+    ],
+    "images": [
+      "dataset/clip_images/61/puzzle_61_1641_grid8.png"
+    ],
+    "id": 1641
+  },
+  {
+    "messages": [
       {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Each member in a buscuit contest cooks one tray of buiscuit like the ellipse tray shown. What is the lowest number of trays of buiscuit needed to make a plate like the rectangle tray shown below? Ignore the size differences between the buiscuit in the two trays. A: 4,B: 2,C: 3,D: 1,E: 5. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
@@ -1001,7 +975,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1650_grid13.png",
       "dataset/clip_images/61/puzzle_61_1650_grid9.png"
     ],
     "id": 1650
@@ -1745,14 +1718,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many flowers does the circle tray have compared to the ellipse tray?",
-        "role": "user"
-      },
-      {
-        "content": "The circle tray has the same number of flowers as the ellipse tray, which is 5.",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Each participant in a flowering game place one tray of flowers like the circle tray shown. What is the lowest number of trays of flowers needed to make a plate like the ellipse tray shown below? Ignore the size differences between the flowers in the two trays. A: 2,B: 5,C: 4,D: 3,E: 1. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -1762,7 +1727,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_255_grid4.png",
       "dataset/clip_images/61/puzzle_61_255_grid8.png"
     ],
     "id": 255
@@ -1909,6 +1873,14 @@
   {
     "messages": [
       {
+        "content": "<image>\nHow many cakes are there in two square trays?",
+        "role": "user"
+      },
+      {
+        "content": "8",
+        "role": "assistant"
+      },
+      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Each kid in a cooking event cooks one tray of cakes like the ellipse tray shown. What is the lowest number of trays of cakes needed to make a plate like the square tray shown below? Ignore the size differences between the cakes in the two trays. A: 1,B: 5,C: 2,D: 3,E: 4. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -1918,6 +1890,7 @@
       }
     ],
     "images": [
+      "dataset/clip_images/61/puzzle_61_469_grid6.png",
       "dataset/clip_images/61/puzzle_61_469_grid4.png"
     ],
     "id": 469
@@ -2210,22 +2183,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Each person in a cooking tournament cooks one tray of cakes like the rectangle tray shown. What is the lowest number of trays of cakes required to make a plate like the polygon tray shown below? Ignore the size differences between the cakes in the two trays. A: 5,B: 3,C: 4,D: 1,E: 2. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "E",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/61/puzzle_61_752_grid9.png"
-    ],
-    "id": 752
-  },
-  {
-    "messages": [
-      {
         "content": "<image>\nCan you count the number of flower arrangements in the square tray?",
         "role": "user"
       },
@@ -2263,6 +2220,22 @@
       "dataset/clip_images/61/puzzle_61_814_grid12.png"
     ],
     "id": 814
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Each participant in a buscuit game cooks one tray of buiscuit like the rectangle tray shown. What is the smallest number of trays of buiscuit required to make a plate like the circle tray shown below? Ignore the size differences between the buiscuit in the two trays. A: 3,B: 1,C: 5,D: 4,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/clip_images/61/puzzle_61_823_grid9.png"
+    ],
+    "id": 823
   },
   {
     "messages": [
@@ -2324,6 +2297,14 @@
   {
     "messages": [
       {
+        "content": "<image>\nHow many cakes are needed from square trays to match the number of cakes on one ellipse tray?",
+        "role": "user"
+      },
+      {
+        "content": "6 trays of square cakes (5 cakes per tray) are needed.",
+        "role": "assistant"
+      },
+      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Each member in a cooking game cooks one tray of cakes like the square tray shown. What is the lowest number of trays of cakes needed to make a plate like the ellipse tray shown below? Ignore the size differences between the cakes in the two trays. A: 6,B: 2,C: 4,D: 1,E: 3. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -2333,6 +2314,7 @@
       }
     ],
     "images": [
+      "dataset/clip_images/61/puzzle_61_882_grid6.png",
       "dataset/clip_images/61/puzzle_61_882_grid3.png"
     ],
     "id": 882
@@ -2406,14 +2388,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many biscuits are needed to fill the circular plate as shown?",
-        "role": "user"
-      },
-      {
-        "content": "Let's count the representation in the image.",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Each kid in a buscuit competition cooks one tray of buiscuit like the rectangle tray shown. What is the smallest number of trays of buiscuit required to make a plate like the circle tray shown below? Ignore the size differences between the buiscuit in the two trays. A: 1,B: 3,C: 2,D: 6,E: 4. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -2423,21 +2397,12 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_916_grid6.png",
       "dataset/clip_images/61/puzzle_61_916_grid4.png"
     ],
     "id": 916
   },
   {
     "messages": [
-      {
-        "content": "<image>\nGiven the circular tray fits along both sides of the square tray 4 times, how many total trays are needed for the square?",
-        "role": "user"
-      },
-      {
-        "content": "16",
-        "role": "assistant"
-      },
       {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Each participator in a flowering contest place one tray of flowers like the circle tray shown. What is the smallest number of trays of flowers needed to make a plate like the square tray shown below? Ignore the size differences between the flowers in the two trays. A: 2,B: 3,C: 4,D: 1,E: 5. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
@@ -2448,7 +2413,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_920_grid6.png",
       "dataset/clip_images/61/puzzle_61_920_grid12.png"
     ],
     "id": 920

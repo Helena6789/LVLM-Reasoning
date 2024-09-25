@@ -2,22 +2,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Five polygon cards are stacked on a table as shown. Each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. The possible order the cards are removed is: A: 1-3-4-5-2,B: 2-1-5-3-4,C: 2-5-3-1-4,D: 2-4-1-3-5,E: 5-3-2-1-4. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "E",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/18/puzzle_18_e_1_grid4.png"
-    ],
-    "id": 1
-  },
-  {
-    "messages": [
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Five polygon cards are stacked on a table as shown. Each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. The possible order the cards are removed is: A: 3-2-5-1-4,B: 5-2-1-4-3,C: 1-5-2-3-4,D: 4-2-5-1-3,E: 3-5-1-4-2. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -66,21 +50,13 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Five polygon cards are stacked on a table as shown. Each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. In what possible order are the cards removed? A: 5-4-2-1-3,B: 1-5-2-4-3,C: 4-3-2-1-5,D: 1-4-3-2-5,E: 4-2-1-3-5. You should provide the answer in a single upper case letter, e.g: A",
+        "content": "<image>\nWhat color is the fifth card?",
         "role": "user"
       },
       {
-        "content": "E",
+        "content": "purple",
         "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/18/puzzle_18_e_1044_grid4.png"
-    ],
-    "id": 1044
-  },
-  {
-    "messages": [
+      },
       {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Five polygon cards are stacked on a table as shown, and each card is numbered according to the color shown at the bottom. If we remove the cards one by one from the top of the stack, what is the possible order of the cards being removed? A: 3-4-1-2-5,B: 5-2-3-4-1,C: 4-5-2-3-1,D: 1-2-5-3-4,E: 2-4-1-5-3. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
@@ -91,6 +67,7 @@
       }
     ],
     "images": [
+      "dataset/clip_images/18/puzzle_18_e_1156_grid8.png",
       "dataset/clip_images/18/puzzle_18_e_1156_grid1.png"
     ],
     "id": 1156
@@ -514,6 +491,31 @@
   {
     "messages": [
       {
+        "content": "<image>\nWhat is the color of the fifth card from the top?",
+        "role": "user"
+      },
+      {
+        "content": "Blue",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: On a table, five polygon cards are stacked as shown. Each card is numbered according to the color shown at the bottom. If we remove the cards one by one from the top of the stack, in what possible order are the cards removed? A: 3-4-2-1-5,B: 2-5-4-3-1,C: 4-1-5-3-2,D: 4-1-2-5-3,E: 3-5-2-1-4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/clip_images/18/puzzle_18_e_1724_grid7.png",
+      "dataset/clip_images/18/puzzle_18_e_1724_grid2.png"
+    ],
+    "id": 1724
+  },
+  {
+    "messages": [
+      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Five polygon cards are stacked on a table as shown. Each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. The possible order the cards are removed is: A: 4-1-5-3-2,B: 3-2-5-1-4,C: 5-1-2-3-4,D: 5-4-2-3-1,E: 3-1-4-5-2. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -542,22 +544,6 @@
       "dataset/clip_images/18/puzzle_18_e_1731_grid2.png"
     ],
     "id": 1731
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Five polygon cards are stacked on a table as shown. Each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. In what possible order are the cards removed? A: 5-1-2-4-3,B: 3-4-1-5-2,C: 5-4-2-3-1,D: 2-4-3-1-5,E: 2-3-5-4-1. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "B",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/18/puzzle_18_e_1738_grid6.png"
-    ],
-    "id": 1738
   },
   {
     "messages": [
@@ -594,22 +580,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Five polygon cards are stacked on a table as shown. Each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. In what possible order are the cards removed? A: 2-3-4-5-1,B: 5-1-4-3-2,C: 4-3-1-5-2,D: 2-4-1-5-3,E: 3-4-2-1-5. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/18/puzzle_18_e_1769_grid2.png"
-    ],
-    "id": 1769
-  },
-  {
-    "messages": [
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: On a table, five polygon cards are stacked as shown. Each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. The possible order the cards are removed is: A: 5-4-2-3-1,B: 4-5-3-1-2,C: 5-4-2-1-3,D: 4-5-3-2-1,E: 2-4-5-1-3. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -642,22 +612,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Five polygon cards are stacked on a table as shown. Each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. In what possible order are the cards removed? A: 1-2-4-3-5,B: 3-5-4-1-2,C: 5-3-2-1-4,D: 2-4-3-1-5,E: 1-2-5-4-3. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "B",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/18/puzzle_18_e_1911_grid2.png"
-    ],
-    "id": 1911
-  },
-  {
-    "messages": [
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Five polygon cards are stacked on a table as shown. Each card is numbered according to the color shown at the bottom. If we remove the cards one by one from the top of the stack, in what possible order are the cards removed? A: 4-1-3-2-5,B: 4-3-5-1-2,C: 5-4-2-3-1,D: 1-2-3-5-4,E: 1-2-4-5-3. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -670,22 +624,6 @@
       "dataset/clip_images/18/puzzle_18_e_193_grid2.png"
     ],
     "id": 193
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: On a table, five polygon cards are stacked as shown. Each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. The possible order the cards are removed is: A: 1-2-5-4-3,B: 4-2-5-3-1,C: 2-1-3-4-5,D: 4-5-3-1-2,E: 2-1-5-4-3. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "E",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/18/puzzle_18_e_195_grid9.png"
-    ],
-    "id": 195
   },
   {
     "messages": [
@@ -786,38 +724,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Five polygon cards are stacked on a table as shown, and each card is numbered according to the color shown at the bottom. If we remove the cards one by one from the top of the stack, what is the possible order of the cards being removed? A: 5-2-4-3-1,B: 4-5-3-1-2,C: 3-2-4-1-5,D: 5-3-1-2-4,E: 4-1-3-5-2. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "E",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/18/puzzle_18_e_26_grid4.png"
-    ],
-    "id": 26
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: On a table, five polygon cards are stacked as shown. Each card is numbered according to the color shown at the bottom. If we remove the cards one by one from the top of the stack, in what possible order are the cards removed? A: 2-5-4-3-1,B: 1-5-3-2-4,C: 2-3-1-5-4,D: 2-1-3-5-4,E: 5-3-1-4-2. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "A",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/18/puzzle_18_e_262_grid3.png"
-    ],
-    "id": 262
-  },
-  {
-    "messages": [
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Five polygon cards are stacked on a table as shown. Each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. In what possible order are the cards removed? A: 4-2-5-1-3,B: 2-5-1-3-4,C: 5-1-3-4-2,D: 2-3-4-5-1,E: 4-3-2-1-5. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -882,22 +788,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: On a table, five polygon cards are stacked as shown. Each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. In what possible order are the cards removed? A: 4-3-2-1-5,B: 5-4-3-2-1,C: 2-1-5-4-3,D: 4-3-5-1-2,E: 3-2-4-5-1. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "A",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/18/puzzle_18_e_313_grid8.png"
-    ],
-    "id": 313
-  },
-  {
-    "messages": [
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: On a table, five polygon cards are stacked as shown. Each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. In what possible order are the cards removed? A: 3-2-1-4-5,B: 5-1-3-2-4,C: 3-2-5-1-4,D: 1-2-5-4-3,E: 1-5-2-3-4. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -910,22 +800,6 @@
       "dataset/clip_images/18/puzzle_18_e_321_grid7.png"
     ],
     "id": 321
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: On a table, five polygon cards are stacked as shown. Each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. In what possible order are the cards removed? A: 5-3-1-2-4,B: 3-2-5-1-4,C: 4-5-2-1-3,D: 4-3-1-2-5,E: 1-3-2-4-5. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "A",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/18/puzzle_18_e_323_grid2.png"
-    ],
-    "id": 323
   },
   {
     "messages": [
@@ -1042,22 +916,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Five polygon cards are stacked on a table as shown. Each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. In what possible order are the cards removed? A: 1-5-3-4-2,B: 3-1-4-2-5,C: 1-4-3-2-5,D: 1-5-4-2-3,E: 5-2-1-4-3. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/18/puzzle_18_e_400_grid2.png"
-    ],
-    "id": 400
-  },
-  {
-    "messages": [
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Five polygon cards are stacked on a table as shown. Each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. The possible order the cards are removed is: A: 1-5-4-2-3,B: 4-2-1-3-5,C: 2-1-4-5-3,D: 4-1-5-2-3,E: 3-5-4-1-2. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -1150,22 +1008,6 @@
       "dataset/clip_images/18/puzzle_18_e_631_grid2.png"
     ],
     "id": 631
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: On a table, five polygon cards are stacked as shown. Each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. The possible order the cards are removed is: A: 2-5-1-4-3,B: 4-5-3-2-1,C: 1-5-4-2-3,D: 2-3-1-5-4,E: 3-4-5-1-2. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/18/puzzle_18_e_71_grid6.png"
-    ],
-    "id": 71
   },
   {
     "messages": [
@@ -1474,6 +1316,14 @@
   {
     "messages": [
       {
+        "content": "<image>\nWhat color is the fifth card from the top?",
+        "role": "user"
+      },
+      {
+        "content": "Blue",
+        "role": "assistant"
+      },
+      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: On a table, five polygon cards are stacked as shown, and each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. What is the possible order of the cards being removed? A: 5-4-3-1-2,B: 4-1-5-3-2,C: 1-5-2-3-4,D: 5-4-2-1-3,E: 3-2-5-4-1. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -1483,6 +1333,7 @@
       }
     ],
     "images": [
+      "dataset/clip_images/18/puzzle_18_e_988_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_988_grid3.png"
     ],
     "id": 988

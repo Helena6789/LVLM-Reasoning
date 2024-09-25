@@ -922,14 +922,6 @@
   {
     "messages": [
       {
-        "content": "If car 36 of the first train is opposite car 36 of the second train, which car in the second train is opposite car 33 of the first train?",
-        "role": "user"
-      },
-      {
-        "content": "39",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Two exactly similar trains, each with 37 cars, are moving in opposite directions. When car with digit 36 of first train is opposite car with digit 36 of the other, which car is opposite car with digit 35? A: 28,B: 33,C: 37,D: 34,E: 2. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -1175,14 +1167,6 @@
       },
       {
         "content": "7",
-        "role": "assistant"
-      },
-      {
-        "content": "When cabin number 21 of one train is opposite cabin number 21 of the other, which cabin is opposite cabin number 1?",
-        "role": "user"
-      },
-      {
-        "content": "39",
         "role": "assistant"
       },
       {
@@ -1519,22 +1503,6 @@
       },
       {
         "content": "25",
-        "role": "assistant"
-      },
-      {
-        "content": "When cabin 1 of the first train is opposite cabin 1 of the second train, which cabin is opposite cabin 25 of the first train?",
-        "role": "user"
-      },
-      {
-        "content": "25",
-        "role": "assistant"
-      },
-      {
-        "content": "When cabin 25 of the first train is opposite cabin 25 of the second train, which cabin is opposite cabin 17 of the first train?",
-        "role": "user"
-      },
-      {
-        "content": "31",
         "role": "assistant"
       },
       {
@@ -2033,6 +2001,14 @@
   },
   {
     "messages": [
+      {
+        "content": "How can we calculate the opposite cabin number for another cabin, using the previous alignment result?",
+        "role": "user"
+      },
+      {
+        "content": "Since cabin 23 aligns with cabin 23, and there are 35 cabins, the opposite cabin of 32 would be calculated as 35 - (32 - 23) = 26 in the opposite train.",
+        "role": "assistant"
+      },
       {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Two identical trains, each with 35 cabins, are passing in opposite directions. When cabin with digit 23 of first train is opposite cabin with digit 23 of the other, which cabin is opposite cabin with digit 32? A: 33,B: 6,C: 15,D: 14,E: 9. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
@@ -2554,6 +2530,30 @@
   {
     "messages": [
       {
+        "content": "How many cabins are between cabin 26 and cabin 15 of the first train?",
+        "role": "user"
+      },
+      {
+        "content": "11",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Two similar trains, each with 41 cabins, are traveling in opposite directions. When cabin with digit 26 of first train is opposite cabin with digit 26 of the other, which cabin is opposite cabin with digit 37? A: 39,B: 15,C: 36,D: 18,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1764.png"
+    ],
+    "id": 1764
+  },
+  {
+    "messages": [
+      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Two similar trains, each with 37 cabins, are passing in opposite directions. When cabin number 34 of first train is opposite cabin number 34 of the other, which cabin is opposite cabin number 37? A: 4,B: 3,C: 22,D: 30,E: 31. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -2658,62 +2658,6 @@
   {
     "messages": [
       {
-        "content": "What is the position of car 16 from the front in the second train?",
-        "role": "user"
-      },
-      {
-        "content": "16",
-        "role": "assistant"
-      },
-      {
-        "content": "What is the position of car 16 from the front in the second train?",
-        "role": "user"
-      },
-      {
-        "content": "16",
-        "role": "assistant"
-      },
-      {
-        "content": "What is the position of car 16 from the front in the second train?",
-        "role": "user"
-      },
-      {
-        "content": "16",
-        "role": "assistant"
-      },
-      {
-        "content": "What is the position of car 16 from the front in the second train?",
-        "role": "user"
-      },
-      {
-        "content": "16",
-        "role": "assistant"
-      },
-      {
-        "content": "What is the position of car 21 from the back in the second train?",
-        "role": "user"
-      },
-      {
-        "content": "13",
-        "role": "assistant"
-      },
-      {
-        "content": "What is the position of car 21 from the back in the second train?",
-        "role": "user"
-      },
-      {
-        "content": "13",
-        "role": "assistant"
-      },
-      {
-        "content": "What is the position of car 21 from the back in the second train?",
-        "role": "user"
-      },
-      {
-        "content": "13",
-        "role": "assistant"
-      },
-      {
         "content": "What is the position of car 21 from the back in the second train?",
         "role": "user"
       },
@@ -2727,54 +2671,6 @@
       },
       {
         "content": "21",
-        "role": "assistant"
-      },
-      {
-        "content": "What is the position of car 21 from the front in the second train?",
-        "role": "user"
-      },
-      {
-        "content": "21",
-        "role": "assistant"
-      },
-      {
-        "content": "What is the position of car 21 from the front in the second train?",
-        "role": "user"
-      },
-      {
-        "content": "21",
-        "role": "assistant"
-      },
-      {
-        "content": "What is the position of car 21 from the front in the second train?",
-        "role": "user"
-      },
-      {
-        "content": "21",
-        "role": "assistant"
-      },
-      {
-        "content": "If car 21 of the first train is opposite to car 21 of the second train, what is the car number opposite to car 16 of the first train?",
-        "role": "user"
-      },
-      {
-        "content": "18",
-        "role": "assistant"
-      },
-      {
-        "content": "If car 21 of the first train is opposite to car 21 of the second train, what is the car number opposite to car 16 of the first train?",
-        "role": "user"
-      },
-      {
-        "content": "18",
-        "role": "assistant"
-      },
-      {
-        "content": "If car 21 of the first train is opposite to car 21 of the second train, what is the car number opposite to car 16 of the first train?",
-        "role": "user"
-      },
-      {
-        "content": "18",
         "role": "assistant"
       },
       {
@@ -2838,22 +2734,6 @@
       "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1793.png"
     ],
     "id": 1793
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Two similar trains, each with 17 cars, are traveling in opposite directions. When car number 9 of one train is opposite car number 9 of the other, which car is opposite car number 4? A: 2,B: 8,C: 15,D: 14,E: 3. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "D",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_1797.png"
-    ],
-    "id": 1797
   },
   {
     "messages": [
@@ -3233,6 +3113,14 @@
   },
   {
     "messages": [
+      {
+        "content": "When cabin 20 of the first train is opposite cabin 20 of the second train, what is the position of cabin 24 of the first train in relation to cabin 20 of the second train?",
+        "role": "user"
+      },
+      {
+        "content": "4 cabins behind cabin 20 of the second train.",
+        "role": "assistant"
+      },
       {
         "content": "When cabin 21 of the first train is opposite cabin 19 of the second train, which cabin of the second train is opposite cabin 24 of the first train?",
         "role": "user"
@@ -3738,6 +3626,22 @@
   {
     "messages": [
       {
+        "content": "What is the position of the first car in train 2 when car number 32 of train 1 is opposite car number 34 of train 2?",
+        "role": "user"
+      },
+      {
+        "content": "13",
+        "role": "assistant"
+      },
+      {
+        "content": "What is the position of the first car in train 2 when car number 32 of train 1 is opposite car number 35 of train 2?",
+        "role": "user"
+      },
+      {
+        "content": "12",
+        "role": "assistant"
+      },
+      {
         "content": "What is the position of the first car in train 2 when car number 32 of train 1 is opposite car number 36 of train 2?",
         "role": "user"
       },
@@ -3978,6 +3882,14 @@
   {
     "messages": [
       {
+        "content": "When cabin number 4 of one train is opposite which cabin number of the other train?",
+        "role": "user"
+      },
+      {
+        "content": "Cabin number 34",
+        "role": "assistant"
+      },
+      {
         "content": "When cabin number 5 of one train is opposite which cabin number of the other train?",
         "role": "user"
       },
@@ -4210,14 +4122,6 @@
         "role": "assistant"
       },
       {
-        "content": "Which car of the other train is opposite car number 13 of the first train?",
-        "role": "user"
-      },
-      {
-        "content": "9",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Two identical trains, each with 15 cars, are passing in opposite directions. When car number 11 of first train is opposite car number 11 of the other, which car is opposite car number 12? A: 12,B: 5,C: 10,D: 1,E: 8. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -4386,14 +4290,6 @@
   {
     "messages": [
       {
-        "content": "When car 28 of the first train is opposite car 28 of the other train, which car of the first train is opposite car 39 of the other train?",
-        "role": "user"
-      },
-      {
-        "content": "17",
-        "role": "assistant"
-      },
-      {
         "content": "If car 28 of the first train is opposite car 29 of the other train, how many total cars are there between car 28 of the first train and car 1 of the other train?",
         "role": "user"
       },
@@ -4414,6 +4310,22 @@
       "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_440.png"
     ],
     "id": 440
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Two identical trains, each with 49 cabins, are passing in opposite directions. When cabin with digit 27 of one train is opposite cabin with digit 27 of the other, which cabin is opposite cabin with digit 15? A: 16,B: 39,C: 42,D: 32,E: 38. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_442.png"
+    ],
+    "id": 442
   },
   {
     "messages": [
@@ -5977,14 +5889,6 @@
   },
   {
     "messages": [
-      {
-        "content": "When car with digit 1 of the first train is opposite car with digit 25 of the other train, which car of the first train would be opposite to car digit 1 of the other train?",
-        "role": "user"
-      },
-      {
-        "content": "25",
-        "role": "assistant"
-      },
       {
         "content": "When car with digit 1 of the first train is opposite car with digit 25 of the other train, which car of the other train would be opposite to car digit 8 of the first train?",
         "role": "user"

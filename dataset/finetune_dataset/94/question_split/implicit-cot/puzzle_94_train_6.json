@@ -18,22 +18,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: In the image is displayed two buildings. What is the gap between their elevations? A: 2,B: 0,C: 1,D: 5,E: 3. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "E",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/94/puzzle_94_1287_grid8.png"
-    ],
-    "id": 1287
-  },
-  {
-    "messages": [
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: The cartoon demonstrates two buildings. How much is the gap between their heights? A: 2,B: 4,C: 1,D: 0,E: 3. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },

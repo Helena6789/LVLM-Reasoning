@@ -114,22 +114,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Christine has 5 toy items: a tire swing, a bread, a controller, a toothpaste, and a spring. She puts each toy at a different location of the shelf. The toothpaste behind bread and controller behind tire swing. She puts toothpaste  as shown. On which location can the tire swing not be placed? A: 4,B: 1,C: 2,D: 3,E: 5. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "A",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/62/puzzle_62_1135_grid4.png"
-    ],
-    "id": 1135
-  },
-  {
-    "messages": [
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Michael has 7 toy objects: a doll, a conditioner, teddies, a checkbook, a sharpie, a bag, and a watch. He places each toy at a different location of the shelf. The conditioner ahead of teddies. Doll ahead of checkbook and teddies behind doll. Checkbook ahead of sharpie. Doll ahead of sharpie. He places sharpie  as shown. On which location can the conditioner not be placed? A: 6,B: 2,C: 4,D: 7,E: 3. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -194,22 +178,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Katherine has 7 toy objects: sun glasses, a cup, a clay pot, an ice cube tray, a helmet, a vase, and a phone. She places each toy at a different location of the shelf. She places vase as shown. The clay pot ahead of ice cube tray and sun glasses ahead of phone. Phone behind vase. Clay pot ahead of vase. On which location can the sun glasses not be placed? A: 2,B: 1,C: 7,D: 5,E: 4. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/62/puzzle_62_1293_grid6.png"
-    ],
-    "id": 1293
-  },
-  {
-    "messages": [
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Rachel has 7 toy items: a shoe lace, a lace, teddies, a toe ring, a bow, a key chain, and a needle. She keeps each toy at a different row of the shelf. The shoe lace above teddies and lace above bow. Bow below teddies and needle below shoe lace. Bow below toe ring. She keeps key chain  as shown. On which row can the lace not be placed? A: 3,B: 5,C: 2,D: 7,E: 4. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -254,22 +222,6 @@
       "dataset/clip_images/62/puzzle_62_1389_grid1.png"
     ],
     "id": 1389
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Charles has 5 toy items: a zipper, a controller, a vase, a buckle, and a puddle. He keeps each toy at a different location of the shelf. He keeps vase as shown. The vase ahead of puddle. Zipper ahead of vase. On which location can the zipper not be placed? A: 2,B: 3,C: 4,D: 5,E: 1. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "D",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/62/puzzle_62_1399_grid1.png"
-    ],
-    "id": 1399
   },
   {
     "messages": [
@@ -354,54 +306,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Rachel has 6 toy objects: a plastic fork, a lamp shade, a chair, a hair brush, a remote, and a mirror. She places each toy at a different row of the shelf. The hair brush higher to plastic fork. Chair lower to  mirror. Chair higher to plastic fork. She places plastic fork  as shown. On which row can the hair brush not be placed? A: 5,B: 6,C: 1,D: 4,E: 2. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/62/puzzle_62_1910_grid6.png"
-    ],
-    "id": 1910
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Sandra has 6 toy items: video games, an apple, shoes, a knife, a chapter book, and a cinder block. She keeps each toy at a different row of the shelf. She keeps knife as shown. The video games above chapter book and chapter book below apple. Video games above knife. On which row can the video games not be placed? A: 1,B: 6,C: 5,D: 4,E: 2. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/62/puzzle_62_1943_grid11.png"
-    ],
-    "id": 1943
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Charles has 6 toy objects: carrots, a lotion, a bracelet, a truck, a soy sauce packet, and an ipod. He places each toy at a different row of the shelf. The ipod under lotion and carrots above lotion. Truck under carrots. Ipod under bracelet. He places bracelet  as shown. On which row can the soy sauce packet not be placed? A: 1,B: 6,C: 3,D: 5,E: 2. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "B",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/62/puzzle_62_1958_grid11.png"
-    ],
-    "id": 1958
-  },
-  {
-    "messages": [
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: John has 8 toy objects: a balloon, a sharpie, a lotion, a cookie jar, a bag, a lace, a water bottle, and a keyboard. He puts each toy at a different location of the shelf. The bag left of water bottle. Sharpie right of balloon. Water bottle right of cookie jar. Keyboard right of cookie jar. Keyboard right of sharpie. Sharpie left of lace. He puts balloon  as shown. On which location can the bag not be placed? A: 6,B: 7,C: 5,D: 8,E: 2. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -414,22 +318,6 @@
       "dataset/clip_images/62/puzzle_62_1959_grid1.png"
     ],
     "id": 1959
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Tina has 8 toy objects: an apple, an eye liner, a plate, a boom box, a monitor, a cat, a conditioner, and a rubber band. She puts each toy at a different location of the shelf. She puts conditioner as shown. The monitor ahead of cat. Eye liner ahead of plate. Conditioner behind plate. Plate behind apple. On which location can the apple not be placed? A: 7,B: 4,C: 1,D: 2,E: 6. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "A",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/62/puzzle_62_1960_grid1.png"
-    ],
-    "id": 1960
   },
   {
     "messages": [
@@ -498,38 +386,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Pamela has 5 toy objects: a pencil, a perfume, a checkbook, a thermostat, and a purse. She keeps each toy at a different location of the shelf. She keeps checkbook as shown. The thermostat behind perfume. Checkbook behind pencil. On which location can the perfume not be placed? A: 5,B: 3,C: 4,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/62/puzzle_62_35_grid1.png"
-    ],
-    "id": 35
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Paul has 8 toy items: a tissue box, a white out, a hanger, video games, a cork, a cell phone, a soy sauce packet, and a balloon. He puts each toy at a different row of the shelf. He puts cell phone as shown. The tissue box lower to  cell phone and cork lower to  balloon. White out lower to  balloon. Video games lower to  cork and video games higher to tissue box. Video games lower to  cell phone. On which row can the white out not be placed? A: 8,B: 3,C: 1,D: 5,E: 7. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "A",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/62/puzzle_62_353_grid5.png"
-    ],
-    "id": 353
-  },
-  {
-    "messages": [
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Jon has 5 toy objects: a plastic fork, pants, a vase, a helmet, and a brocolli. He keeps each toy at a different row of the shelf. The vase under plastic fork. Brocolli under plastic fork. He keeps vase  as shown. On which row can the plastic fork not be placed? A: 2,B: 3,C: 4,D: 5,E: 1. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -574,22 +430,6 @@
       "dataset/clip_images/62/puzzle_62_435_grid1.png"
     ],
     "id": 435
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Joseph has 5 toy objects: a candle, a perfume, a mirror, a food, and a tomato. He places each toy at a different location of the shelf. The mirror left of food and food right of candle. Candle left of mirror. He places food  as shown. On which location can the candle not be placed? A: 3,B: 2,C: 1,D: 4,E: 5. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "D",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/62/puzzle_62_438_grid1.png"
-    ],
-    "id": 438
   },
   {
     "messages": [
@@ -670,22 +510,6 @@
       "dataset/clip_images/62/puzzle_62_820_grid8.png"
     ],
     "id": 820
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Karen has 5 toy items: a door, a deodorant, a zipper, a white out, and a glow stick. She places each toy at a different location of the shelf. The glow stick right of deodorant. White out left of glow stick and deodorant left of zipper. She places white out  as shown. On which location can the zipper not be placed? A: 5,B: 4,C: 2,D: 3,E: 1. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/62/puzzle_62_826_grid1.png"
-    ],
-    "id": 826
   },
   {
     "messages": [
@@ -782,22 +606,6 @@
       "dataset/clip_images/62/puzzle_62_888_grid13.png"
     ],
     "id": 888
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Jerry has 5 toy objects: a keyboard, a bottle cap, a hair brush, a bread, and a sponge. He puts each toy at a different location of the shelf. The keyboard ahead of sponge. Hair brush behind keyboard. Bread behind keyboard. He puts sponge  as shown. On which location can the bottle cap not be placed? A: 2,B: 3,C: 5,D: 1,E: 4. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "D",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/62/puzzle_62_910_grid1.png"
-    ],
-    "id": 910
   },
   {
     "messages": [

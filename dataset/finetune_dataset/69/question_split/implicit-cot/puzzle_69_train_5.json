@@ -564,22 +564,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Rachel has two cards of the same size. Card 1 has four holes cut out. Rachel keeps card 1 directly on top of card 2. What does Rachel see? A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "B",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/69/puzzle_69_1103_grid1.png"
-    ],
-    "id": 1103
-  },
-  {
-    "messages": [
-      {
         "content": "<image>\nWhat position does the hole that aligns between card 1 and card 2 occupy?",
         "role": "user"
       },
@@ -2227,6 +2211,14 @@
   {
     "messages": [
       {
+        "content": "<image>\nDo the holes on Card 1 cover up any holes on Card 2?",
+        "role": "user"
+      },
+      {
+        "content": "No",
+        "role": "assistant"
+      },
+      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Carl has two cards of the same size. Card 1 has four holes cut out. Carl keeps card 1 directly on top of card 2. What does Carl see? A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -2236,6 +2228,7 @@
       }
     ],
     "images": [
+      "dataset/clip_images/69/puzzle_69_1374_grid4.png",
       "dataset/clip_images/69/puzzle_69_1374_grid4.png"
     ],
     "id": 1374
@@ -3589,6 +3582,14 @@
   {
     "messages": [
       {
+        "content": "<image>\nConsidering the alignment and the overlap, what other distinct holes does Victor see besides the overlapping hole?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      },
+      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Victor has two cards of the same size. Card 1 has three holes created. Victor holds card 1 directly on top of card 2. What does Victor see? A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -3598,6 +3599,7 @@
       }
     ],
     "images": [
+      "dataset/clip_images/69/puzzle_69_1613_grid6.png",
       "dataset/clip_images/69/puzzle_69_1613_grid10.png"
     ],
     "id": 1613
@@ -4198,14 +4200,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many holes on Card 3 align with the holes on Card 1 and Card 2?",
-        "role": "user"
-      },
-      {
-        "content": "0",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nHow many holes on Card 1 align with the holes on Card 3?",
         "role": "user"
       },
@@ -4223,7 +4217,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_1732_grid4.png",
       "dataset/clip_images/69/puzzle_69_1732_grid4.png",
       "dataset/clip_images/69/puzzle_69_1732_grid10.png"
     ],
@@ -6543,6 +6536,14 @@
   {
     "messages": [
       {
+        "content": "<image>\nHow many holes are visible when card 1 is placed on top of card 2?",
+        "role": "user"
+      },
+      {
+        "content": "8",
+        "role": "assistant"
+      },
+      {
         "content": "<image>\nAre some holes on card 1 covering some holes on card 2 when card 1 is placed on top of card 2?",
         "role": "user"
       },
@@ -6560,6 +6561,7 @@
       }
     ],
     "images": [
+      "dataset/clip_images/69/puzzle_69_253_grid4.png",
       "dataset/clip_images/69/puzzle_69_253_grid4.png",
       "dataset/clip_images/69/puzzle_69_253_grid10.png"
     ],
@@ -7505,22 +7507,13 @@
       {
         "content": "C",
         "role": "assistant"
-      },
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: John has two cards of the same size. Card 1 has three holes drilled. John places card 1 directly on top of card 2. What does John see? A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
       }
     ],
     "images": [
       "dataset/clip_images/69/puzzle_69_4_grid5.png",
       "dataset/clip_images/69/puzzle_69_4_grid5.png",
       "dataset/clip_images/69/puzzle_69_4_grid4.png",
-      "dataset/clip_images/69/puzzle_69_4_grid11.png",
-      "dataset/clip_images/69/puzzle_69_8_grid10.png"
+      "dataset/clip_images/69/puzzle_69_4_grid11.png"
     ],
     "id": 4
   },
@@ -8449,6 +8442,14 @@
   {
     "messages": [
       {
+        "content": "<image>\nHow many holes are visible when Card 1 is placed on top of Card 2?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      },
+      {
         "content": "<image>\nWhat is the relative position of the holes in Card C?",
         "role": "user"
       },
@@ -8482,6 +8483,7 @@
       }
     ],
     "images": [
+      "dataset/clip_images/69/puzzle_69_53_grid6.png",
       "dataset/clip_images/69/puzzle_69_53_grid5.png",
       "dataset/clip_images/69/puzzle_69_53_grid6.png",
       "dataset/clip_images/69/puzzle_69_53_grid6.png",
@@ -9212,14 +9214,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nAre any of the holes on Card 2 hidden when Card 1 is placed on top?",
-        "role": "user"
-      },
-      {
-        "content": "No",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Lisa has two cards of the same size. Card 1 has three holes cut out. Lisa places card 1 directly on top of card 2. What does Lisa see? A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -9229,7 +9223,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_664_grid6.png",
       "dataset/clip_images/69/puzzle_69_664_grid10.png"
     ],
     "id": 664
@@ -10267,59 +10260,11 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the position of the red hole in card 2?",
-        "role": "user"
-      },
-      {
-        "content": "Left",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the position of the red hole in card 2?",
-        "role": "user"
-      },
-      {
-        "content": "Left",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhat is the position of the green hole in card 2?",
         "role": "user"
       },
       {
         "content": "Middle",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the position of the green hole in card 2?",
-        "role": "user"
-      },
-      {
-        "content": "Middle",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the position of the green hole in card 2?",
-        "role": "user"
-      },
-      {
-        "content": "Middle",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the position of the blue hole in card 2?",
-        "role": "user"
-      },
-      {
-        "content": "Right",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the position of the blue hole in card 2?",
-        "role": "user"
-      },
-      {
-        "content": "Right",
         "role": "assistant"
       },
       {
@@ -10340,12 +10285,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_828_grid6.png",
-      "dataset/clip_images/69/puzzle_69_828_grid6.png",
-      "dataset/clip_images/69/puzzle_69_828_grid6.png",
-      "dataset/clip_images/69/puzzle_69_828_grid6.png",
-      "dataset/clip_images/69/puzzle_69_828_grid6.png",
-      "dataset/clip_images/69/puzzle_69_828_grid6.png",
       "dataset/clip_images/69/puzzle_69_828_grid6.png",
       "dataset/clip_images/69/puzzle_69_828_grid6.png",
       "dataset/clip_images/69/puzzle_69_828_grid6.png",

@@ -106,30 +106,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many footballs are in the second pot?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many baseballs are in the first pot?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many baseballs are in the second pot?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nHow many baseballs and footballs are needed to balance each pot?",
         "role": "user"
       },
@@ -147,9 +123,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1007_grid13.png",
-      "dataset/clip_images/99/puzzle_99_1007_grid6.png",
-      "dataset/clip_images/99/puzzle_99_1007_grid6.png",
       "dataset/clip_images/99/puzzle_99_1007_grid6.png",
       "dataset/clip_images/99/puzzle_99_1007_grid11.png"
     ],
@@ -2231,14 +2204,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many soccer balls are in the second bag?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Daniel has two bags with balls, as depicted. He gets additional balls and lays them in the bags. Afterwards, each bag has an equal count of each kind of ball. What is the lowest count of balls he should buy? A: 2,B: 4,C: 5,D: 3,E: 1. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -2251,7 +2216,6 @@
       "dataset/clip_images/99/puzzle_99_1217_grid4.png",
       "dataset/clip_images/99/puzzle_99_1217_grid13.png",
       "dataset/clip_images/99/puzzle_99_1217_grid11.png",
-      "dataset/clip_images/99/puzzle_99_1217_grid13.png",
       "dataset/clip_images/99/puzzle_99_1217_grid13.png",
       "dataset/clip_images/99/puzzle_99_1217_grid8.png"
     ],
@@ -2550,13 +2514,22 @@
       {
         "content": "2",
         "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Albert has two baskets with balls, as demonstrated. He puts the balls exactly as shown. He gets extra balls and lays them in the baskets. Succeeding which, each basket has a balanced count of each kind of ball. What is the minimum count of balls he should buy? A: 1,B: 2,C: 4,D: 5,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
       }
     ],
     "images": [
       "dataset/clip_images/99/puzzle_99_1237_grid5.png",
       "dataset/clip_images/99/puzzle_99_1237_grid5.png",
       "dataset/clip_images/99/puzzle_99_1237_grid5.png",
-      "dataset/clip_images/99/puzzle_99_1237_grid5.png"
+      "dataset/clip_images/99/puzzle_99_1237_grid5.png",
+      "dataset/clip_images/99/puzzle_99_1237_grid3.png"
     ],
     "id": 1237
   },
@@ -3251,14 +3224,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many baseballs are in the second bag currently?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Daniel has two bags with balls, as depicted. He keeps the balls exactly as shown. He gets extra balls and lays them in the bags. Succeeding which, each bag has a balanced count of each kind of ball. What is the lowest count of balls he needs to buy? A: 5,B: 3,C: 2,D: 4,E: 1. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -3271,7 +3236,6 @@
       "dataset/clip_images/99/puzzle_99_1301_grid12.png",
       "dataset/clip_images/99/puzzle_99_1301_grid5.png",
       "dataset/clip_images/99/puzzle_99_1301_grid12.png",
-      "dataset/clip_images/99/puzzle_99_1301_grid6.png",
       "dataset/clip_images/99/puzzle_99_1301_grid6.png",
       "dataset/clip_images/99/puzzle_99_1301_grid4.png"
     ],
@@ -3819,11 +3783,20 @@
       {
         "content": "1",
         "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Jeff has two pots with balls, as depicted. He gets additional balls and sets them in the pots so as to make an equivalent number of each type of balls in each pot. What is the minimum number of balls he need to purchase? A: 1,B: 4,C: 2,D: 5,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
       }
     ],
     "images": [
       "dataset/clip_images/99/puzzle_99_1362_grid2.png",
-      "dataset/clip_images/99/puzzle_99_1362_grid4.png"
+      "dataset/clip_images/99/puzzle_99_1362_grid4.png",
+      "dataset/clip_images/99/puzzle_99_1362_grid3.png"
     ],
     "id": 1362
   },
@@ -5822,6 +5795,14 @@
       {
         "content": "1",
         "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Brenda has two baskets with balls, as shown. She puts the balls exactly as shown. She buys additional balls and puts them in the baskets to have each basket has the same count of each type of ball. What is the minimum count of balls she needs to buy? A: 3,B: 4,C: 2,D: 1,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
       }
     ],
     "images": [
@@ -5829,6 +5810,7 @@
       "dataset/clip_images/99/puzzle_99_156_grid6.png",
       "dataset/clip_images/99/puzzle_99_156_grid1.png",
       "dataset/clip_images/99/puzzle_99_156_grid10.png",
+      "dataset/clip_images/99/puzzle_99_156_grid1.png",
       "dataset/clip_images/99/puzzle_99_156_grid1.png"
     ],
     "id": 156
@@ -7449,11 +7431,20 @@
       {
         "content": "1 rose, 2 daisies, 1 tulip",
         "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: John has two baskets with flowers, as displayed. He buys extra flowers and lays them in the baskets. Subsequently, each basket has the same count of each variant of flower. What is the lowest count of flowers he need to get? A: 2,B: 4,C: 1,D: 6,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
       }
     ],
     "images": [
       "dataset/clip_images/99/puzzle_99_173_grid5.png",
-      "dataset/clip_images/99/puzzle_99_173_grid6.png"
+      "dataset/clip_images/99/puzzle_99_173_grid6.png",
+      "dataset/clip_images/99/puzzle_99_173_grid7.png"
     ],
     "id": 173
   },
@@ -8856,6 +8847,30 @@
   {
     "messages": [
       {
+        "content": "<image>\nHow many types of balls are in the first bag?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nHow many types of balls are in the second bag?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nHow many snow globes are in the first bag?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
         "content": "<image>\nHow many snow globes are in the second bag?",
         "role": "user"
       },
@@ -8897,6 +8912,9 @@
       }
     ],
     "images": [
+      "dataset/clip_images/99/puzzle_99_1902_grid10.png",
+      "dataset/clip_images/99/puzzle_99_1902_grid10.png",
+      "dataset/clip_images/99/puzzle_99_1902_grid12.png",
       "dataset/clip_images/99/puzzle_99_1902_grid12.png",
       "dataset/clip_images/99/puzzle_99_1902_grid5.png",
       "dataset/clip_images/99/puzzle_99_1902_grid5.png",
@@ -9539,6 +9557,14 @@
   {
     "messages": [
       {
+        "content": "<image>\nHow many additional footballs are needed in the first bucket?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
         "content": "<image>\nHow many additional billiard balls are needed in the first bucket?",
         "role": "user"
       },
@@ -9572,6 +9598,7 @@
       }
     ],
     "images": [
+      "dataset/clip_images/99/puzzle_99_1974_grid6.png",
       "dataset/clip_images/99/puzzle_99_1974_grid13.png",
       "dataset/clip_images/99/puzzle_99_1974_grid6.png",
       "dataset/clip_images/99/puzzle_99_1974_grid13.png",
@@ -10793,59 +10820,11 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the current count of basketballs in each bucket?",
-        "role": "user"
-      },
-      {
-        "content": "1 in the left bucket, 1 in the right bucket",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the current count of basketballs in each bucket?",
-        "role": "user"
-      },
-      {
-        "content": "1 in the left bucket, 1 in the right bucket",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhat is the current count of footballs in each bucket?",
         "role": "user"
       },
       {
         "content": "2 in the left bucket, 2 in the right bucket",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the current count of footballs in each bucket?",
-        "role": "user"
-      },
-      {
-        "content": "2 in the left bucket, 2 in the right bucket",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the current count of footballs in each bucket?",
-        "role": "user"
-      },
-      {
-        "content": "2 in the left bucket, 2 in the right bucket",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat should be the count of each type of ball in each bucket to achieve balance?",
-        "role": "user"
-      },
-      {
-        "content": "2 basketballs and 2 footballs in each bucket",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat should be the count of each type of ball in each bucket to achieve balance?",
-        "role": "user"
-      },
-      {
-        "content": "2 basketballs and 2 footballs in each bucket",
         "role": "assistant"
       },
       {
@@ -10870,13 +10849,7 @@
       "dataset/clip_images/99/puzzle_99_275_grid5.png",
       "dataset/clip_images/99/puzzle_99_275_grid6.png",
       "dataset/clip_images/99/puzzle_99_275_grid5.png",
-      "dataset/clip_images/99/puzzle_99_275_grid4.png",
       "dataset/clip_images/99/puzzle_99_275_grid5.png",
-      "dataset/clip_images/99/puzzle_99_275_grid5.png",
-      "dataset/clip_images/99/puzzle_99_275_grid4.png",
-      "dataset/clip_images/99/puzzle_99_275_grid5.png",
-      "dataset/clip_images/99/puzzle_99_275_grid5.png",
-      "dataset/clip_images/99/puzzle_99_275_grid4.png",
       "dataset/clip_images/99/puzzle_99_275_grid5.png",
       "dataset/clip_images/99/puzzle_99_275_grid11.png"
     ],
@@ -11221,22 +11194,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many volleyballs are in the left pot?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many volleyballs are in the right pot?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nHow many volleyballs are in the right pot?",
         "role": "user"
       },
@@ -11278,8 +11235,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_311_grid6.png",
-      "dataset/clip_images/99/puzzle_99_311_grid6.png",
       "dataset/clip_images/99/puzzle_99_311_grid6.png",
       "dataset/clip_images/99/puzzle_99_311_grid6.png",
       "dataset/clip_images/99/puzzle_99_311_grid6.png",
@@ -11625,12 +11580,21 @@
       {
         "content": "5 baseballs and 5 basketballs are in each bag.",
         "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Ariel has two bags with balls, as presented. He purchases additional balls and adds them in the bags. Afterwards, each bag has an equal count of each type of ball. What is the minimum count of balls he need to have? A: 5,B: 4,C: 2,D: 1,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
       }
     ],
     "images": [
       "dataset/clip_images/99/puzzle_99_362_grid11.png",
       "dataset/clip_images/99/puzzle_99_362_grid11.png",
-      "dataset/clip_images/99/puzzle_99_362_grid6.png"
+      "dataset/clip_images/99/puzzle_99_362_grid6.png",
+      "dataset/clip_images/99/puzzle_99_362_grid12.png"
     ],
     "id": 362
   },
@@ -11727,6 +11691,14 @@
       {
         "content": "2",
         "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Cristina has two pots with balls, as presented. She gets additional balls and lays them in the pots. Subsequently, each pot has an equivalent number of each variety of ball. What is the lowest number of balls she need to get? A: 3,B: 2,C: 1,D: 4,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
       }
     ],
     "images": [
@@ -11734,7 +11706,8 @@
       "dataset/clip_images/99/puzzle_99_375_grid4.png",
       "dataset/clip_images/99/puzzle_99_375_grid10.png",
       "dataset/clip_images/99/puzzle_99_375_grid4.png",
-      "dataset/clip_images/99/puzzle_99_375_grid11.png"
+      "dataset/clip_images/99/puzzle_99_375_grid11.png",
+      "dataset/clip_images/99/puzzle_99_375_grid3.png"
     ],
     "id": 375
   },
@@ -13948,46 +13921,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many footballs are in the first basket?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many baseballs are in the second basket?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many baseballs are in the second basket?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many footballs are in the second basket?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many footballs are in the second basket?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Brian has two baskets with balls, as pictured. He buys extra balls and lays them in the baskets so as to make an identical count of each category of balls in each basket. What is the lowest count of balls he need to get? A: 3,B: 1,C: 5,D: 2,E: 4. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -13998,11 +13931,6 @@
     ],
     "images": [
       "dataset/clip_images/99/puzzle_99_656_grid6.png",
-      "dataset/clip_images/99/puzzle_99_656_grid6.png",
-      "dataset/clip_images/99/puzzle_99_656_grid6.png",
-      "dataset/clip_images/99/puzzle_99_656_grid4.png",
-      "dataset/clip_images/99/puzzle_99_656_grid6.png",
-      "dataset/clip_images/99/puzzle_99_656_grid4.png",
       "dataset/clip_images/99/puzzle_99_656_grid6.png",
       "dataset/clip_images/99/puzzle_99_656_grid3.png"
     ],
@@ -14972,123 +14900,11 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many pink flowers are in the first basket?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many pink flowers are in the first basket?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many pink flowers are in the first basket?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many pink flowers are in the second basket?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many pink flowers are in the second basket?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many pink flowers are in the second basket?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many pink flowers are in the second basket?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nHow many yellow flowers are in the first basket?",
         "role": "user"
       },
       {
         "content": "1",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many yellow flowers are in the first basket?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many yellow flowers are in the first basket?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many yellow flowers are in the first basket?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many yellow flowers are in the second basket?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many yellow flowers are in the second basket?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many yellow flowers are in the second basket?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many yellow flowers are in the second basket?",
-        "role": "user"
-      },
-      {
-        "content": "5",
         "role": "assistant"
       },
       {
@@ -15122,26 +14938,28 @@
       "dataset/clip_images/99/puzzle_99_732_grid6.png",
       "dataset/clip_images/99/puzzle_99_732_grid6.png",
       "dataset/clip_images/99/puzzle_99_732_grid6.png",
-      "dataset/clip_images/99/puzzle_99_732_grid6.png",
-      "dataset/clip_images/99/puzzle_99_732_grid6.png",
-      "dataset/clip_images/99/puzzle_99_732_grid6.png",
-      "dataset/clip_images/99/puzzle_99_732_grid6.png",
-      "dataset/clip_images/99/puzzle_99_732_grid6.png",
-      "dataset/clip_images/99/puzzle_99_732_grid6.png",
-      "dataset/clip_images/99/puzzle_99_732_grid6.png",
-      "dataset/clip_images/99/puzzle_99_732_grid6.png",
-      "dataset/clip_images/99/puzzle_99_732_grid6.png",
-      "dataset/clip_images/99/puzzle_99_732_grid6.png",
-      "dataset/clip_images/99/puzzle_99_732_grid6.png",
-      "dataset/clip_images/99/puzzle_99_732_grid6.png",
-      "dataset/clip_images/99/puzzle_99_732_grid6.png",
-      "dataset/clip_images/99/puzzle_99_732_grid6.png",
       "dataset/clip_images/99/puzzle_99_732_grid11.png"
     ],
     "id": 732
   },
   {
     "messages": [
+      {
+        "content": "<image>\nHow many flowers of the first type are in the second bag?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nHow many flowers of the third type are in the first bag?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
       {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: John has two bags with flowers, as shown. He buys more flowers and puts them in the bags so as to make the same count of each category of flowers in each bag. What is the lowest count of flowers he need to have? A: 2,B: 6,C: 3,D: 1,E: 4. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
@@ -15152,6 +14970,8 @@
       }
     ],
     "images": [
+      "dataset/clip_images/99/puzzle_99_738_grid13.png",
+      "dataset/clip_images/99/puzzle_99_738_grid4.png",
       "dataset/clip_images/99/puzzle_99_738_grid6.png"
     ],
     "id": 738
@@ -15942,6 +15762,14 @@
   {
     "messages": [
       {
+        "content": "<image>\nHow many flowers of each type are in the blue basket?",
+        "role": "user"
+      },
+      {
+        "content": "1 Toucan, 1 Rose, 1 Daisy, 1 Sunflower, 2 Hibiscus",
+        "role": "assistant"
+      },
+      {
         "content": "<image>\nWhat is the total count of each type of flower required for the baskets to be equivalent?",
         "role": "user"
       },
@@ -15975,6 +15803,7 @@
       }
     ],
     "images": [
+      "dataset/clip_images/99/puzzle_99_834_grid10.png",
       "dataset/clip_images/99/puzzle_99_834_grid5.png",
       "dataset/clip_images/99/puzzle_99_834_grid10.png",
       "dataset/clip_images/99/puzzle_99_834_grid5.png",
@@ -16089,6 +15918,22 @@
   {
     "messages": [
       {
+        "content": "<image>\nHow many baseballs are in the first basket?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nHow many baseballs are in the second basket?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      },
+      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Katherine has two baskets with balls, as displayed. She buys more balls and adds them in the baskets. After that, each basket has an identical number of each variant of ball. What is the lowest number of balls she needs to buy? A: 5,B: 2,C: 4,D: 3,E: 1. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -16098,6 +15943,8 @@
       }
     ],
     "images": [
+      "dataset/clip_images/99/puzzle_99_85_grid6.png",
+      "dataset/clip_images/99/puzzle_99_85_grid6.png",
       "dataset/clip_images/99/puzzle_99_85_grid10.png"
     ],
     "id": 85
@@ -16363,6 +16210,14 @@
   {
     "messages": [
       {
+        "content": "<image>\nHow many flowers are in the first pot for each variety after Danielle purchases extra flowers?",
+        "role": "user"
+      },
+      {
+        "content": "6 of the first variety, 6 of the second variety, 6 of the third variety",
+        "role": "assistant"
+      },
+      {
         "content": "<image>\nHow many flowers are in the second pot for each variety after Danielle purchases extra flowers?",
         "role": "user"
       },
@@ -16396,6 +16251,7 @@
       }
     ],
     "images": [
+      "dataset/clip_images/99/puzzle_99_900_grid11.png",
       "dataset/clip_images/99/puzzle_99_900_grid11.png",
       "dataset/clip_images/99/puzzle_99_900_grid11.png",
       "dataset/clip_images/99/puzzle_99_900_grid11.png",
@@ -16529,13 +16385,22 @@
       {
         "content": "2",
         "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Paul has two buckets with flowers, as depicted. He puts the flowers exactly where they are. He purchases additional flowers and lays them in the buckets to have each bucket has an equal number of each variety of flower. What is the smallest number of flowers he should buy? A: 5,B: 4,C: 1,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
       }
     ],
     "images": [
       "dataset/clip_images/99/puzzle_99_92_grid5.png",
       "dataset/clip_images/99/puzzle_99_92_grid5.png",
       "dataset/clip_images/99/puzzle_99_92_grid5.png",
-      "dataset/clip_images/99/puzzle_99_92_grid5.png"
+      "dataset/clip_images/99/puzzle_99_92_grid5.png",
+      "dataset/clip_images/99/puzzle_99_92_grid6.png"
     ],
     "id": 92
   },
@@ -16968,13 +16833,22 @@
       {
         "content": "1",
         "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Charles has two pots with balls, as displayed. He purchases additional balls and sets them in the pots so as to make an equal count of each kind of balls in each pot. What is the lowest count of balls he should purchase? A: 4,B: 3,C: 5,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
       }
     ],
     "images": [
       "dataset/clip_images/99/puzzle_99_96_grid13.png",
       "dataset/clip_images/99/puzzle_99_96_grid7.png",
       "dataset/clip_images/99/puzzle_99_96_grid4.png",
-      "dataset/clip_images/99/puzzle_99_96_grid5.png"
+      "dataset/clip_images/99/puzzle_99_96_grid5.png",
+      "dataset/clip_images/99/puzzle_99_96_grid7.png"
     ],
     "id": 96
   },
@@ -17266,22 +17140,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many of each class of flower are in the first bucket?",
-        "role": "user"
-      },
-      {
-        "content": "3 sunflowers, 2 pink flowers, 2 yellow flowers",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many of each class of flower are in the second bucket?",
-        "role": "user"
-      },
-      {
-        "content": "2 sunflowers, 2 pink flowers, 2 yellow flowers",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nHow many of each class of flower are in the second bucket?",
         "role": "user"
       },
@@ -17323,8 +17181,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_983_grid10.png",
-      "dataset/clip_images/99/puzzle_99_983_grid10.png",
       "dataset/clip_images/99/puzzle_99_983_grid10.png",
       "dataset/clip_images/99/puzzle_99_983_grid10.png",
       "dataset/clip_images/99/puzzle_99_983_grid10.png",

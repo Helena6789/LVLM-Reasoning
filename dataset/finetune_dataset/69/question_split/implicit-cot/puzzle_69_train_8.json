@@ -1082,19 +1082,10 @@
       {
         "content": "C",
         "role": "assistant"
-      },
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: John has two cards of the same size. Card 1 has three holes drilled. John places card 1 directly on top of card 2. What does John see? A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_4_grid11.png",
-      "dataset/clip_images/69/puzzle_69_8_grid10.png"
+      "dataset/clip_images/69/puzzle_69_4_grid11.png"
     ],
     "id": 4
   },
@@ -1224,6 +1215,14 @@
   {
     "messages": [
       {
+        "content": "<image>\nWhat does Christian see when Card 1 is placed on top of Card 2?",
+        "role": "user"
+      },
+      {
+        "content": "4 holes in a square pattern, evenly spaced",
+        "role": "assistant"
+      },
+      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Christian has two cards of the same size. Card 1 has four holes drilled. Christian keeps card 1 directly on top of card 2. What does Christian see? A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -1233,6 +1232,7 @@
       }
     ],
     "images": [
+      "dataset/clip_images/69/puzzle_69_53_grid6.png",
       "dataset/clip_images/69/puzzle_69_53_grid6.png"
     ],
     "id": 53
@@ -1429,6 +1429,22 @@
   {
     "messages": [
       {
+        "content": "<image>\nWhat is the position of the green hole in card 2?",
+        "role": "user"
+      },
+      {
+        "content": "Middle",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhat is the position of the blue hole in card 2?",
+        "role": "user"
+      },
+      {
+        "content": "Right",
+        "role": "assistant"
+      },
+      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Daniel has two cards of the same size. Card 1 has three holes created. Daniel holds card 1 directly on top of card 2. What does Daniel see? A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -1438,6 +1454,8 @@
       }
     ],
     "images": [
+      "dataset/clip_images/69/puzzle_69_828_grid6.png",
+      "dataset/clip_images/69/puzzle_69_828_grid6.png",
       "dataset/clip_images/69/puzzle_69_828_grid11.png"
     ],
     "id": 828

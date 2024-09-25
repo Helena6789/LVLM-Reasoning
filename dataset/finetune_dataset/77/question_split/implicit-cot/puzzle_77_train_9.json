@@ -162,6 +162,14 @@
   {
     "messages": [
       {
+        "content": "<image>\nWhat is the background color of the inverted image of figure E?",
+        "role": "user"
+      },
+      {
+        "content": "Blue",
+        "role": "assistant"
+      },
+      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which figure on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -171,25 +179,10 @@
       }
     ],
     "images": [
+      "dataset/clip_images/77/puzzle_77_1230_grid6.png",
       "dataset/clip_images/77/puzzle_77_1230_grid8.png"
     ],
     "id": 1230
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which drawing matches with the given drawing on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "D",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/77/puzzle_77_1265_grid1.png"
-    ],
-    "id": 1265
   },
   {
     "messages": [
@@ -238,22 +231,6 @@
       "dataset/clip_images/77/puzzle_77_1326_grid9.png"
     ],
     "id": 1326
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which figure on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/77/puzzle_77_1328_grid8.png"
-    ],
-    "id": 1328
   },
   {
     "messages": [
@@ -450,22 +427,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which image on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/77/puzzle_77_1610_grid9.png"
-    ],
-    "id": 1610
-  },
-  {
-    "messages": [
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which drawing on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -510,22 +471,6 @@
       "dataset/clip_images/77/puzzle_77_1653_grid10.png"
     ],
     "id": 1653
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which image on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "A",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/77/puzzle_77_1672_grid10.png"
-    ],
-    "id": 1672
   },
   {
     "messages": [
@@ -610,6 +555,14 @@
   {
     "messages": [
       {
+        "content": "<image>\nWhat is the color of the background if we invert the purple color?",
+        "role": "user"
+      },
+      {
+        "content": "Green",
+        "role": "assistant"
+      },
+      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which image matches with the given image on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -619,6 +572,7 @@
       }
     ],
     "images": [
+      "dataset/clip_images/77/puzzle_77_177_grid5.png",
       "dataset/clip_images/77/puzzle_77_177_grid6.png"
     ],
     "id": 177
@@ -658,6 +612,14 @@
   {
     "messages": [
       {
+        "content": "<image>\nWhat color does the brown background of drawing E become when inverted?",
+        "role": "user"
+      },
+      {
+        "content": "Blue",
+        "role": "assistant"
+      },
+      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which drawing on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -667,6 +629,7 @@
       }
     ],
     "images": [
+      "dataset/clip_images/77/puzzle_77_1812_grid6.png",
       "dataset/clip_images/77/puzzle_77_1812_grid6.png"
     ],
     "id": 1812
@@ -686,22 +649,6 @@
       "dataset/clip_images/77/puzzle_77_1813_grid9.png"
     ],
     "id": 1813
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which picture on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "B",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/77/puzzle_77_1833_grid2.png"
-    ],
-    "id": 1833
   },
   {
     "messages": [
@@ -946,6 +893,14 @@
   {
     "messages": [
       {
+        "content": "<image>\nWhat is the main figure color of Figure D?",
+        "role": "user"
+      },
+      {
+        "content": "Yellow",
+        "role": "assistant"
+      },
+      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which figure matches with the given figure on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -955,6 +910,8 @@
       }
     ],
     "images": [
+      "dataset/clip_images/77/puzzle_77_357_grid3.png",
+      "dataset/clip_images/77/puzzle_77_357_grid3.png",
       "dataset/clip_images/77/puzzle_77_357_grid7.png"
     ],
     "id": 357
@@ -974,6 +931,22 @@
       "dataset/clip_images/77/puzzle_77_358_grid1.png"
     ],
     "id": 358
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which image on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/clip_images/77/puzzle_77_394_grid9.png"
+    ],
+    "id": 394
   },
   {
     "messages": [
@@ -1026,22 +999,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which figure on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "A",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/77/puzzle_77_461_grid1.png"
-    ],
-    "id": 461
-  },
-  {
-    "messages": [
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which image on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -1086,22 +1043,6 @@
       "dataset/clip_images/77/puzzle_77_546_grid1.png"
     ],
     "id": 546
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which picture matches with the given picture on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/77/puzzle_77_548_grid2.png"
-    ],
-    "id": 548
   },
   {
     "messages": [
@@ -1170,6 +1111,22 @@
   {
     "messages": [
       {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which drawing on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/clip_images/77/puzzle_77_60_grid9.png"
+    ],
+    "id": 60
+  },
+  {
+    "messages": [
+      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which picture matches with the given picture on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -1234,22 +1191,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which image matches with the given image on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/77/puzzle_77_711_grid9.png"
-    ],
-    "id": 711
-  },
-  {
-    "messages": [
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which drawing on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -1282,6 +1223,39 @@
   {
     "messages": [
       {
+        "content": "<image>\nWhich drawing on the right has a green background?",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which drawing on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/clip_images/77/puzzle_77_761_grid5.png",
+      "dataset/clip_images/77/puzzle_77_761_grid7.png"
+    ],
+    "id": 761
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhat is the inverted color of yellow?",
+        "role": "user"
+      },
+      {
+        "content": "blue",
+        "role": "assistant"
+      },
+      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which figure on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -1291,6 +1265,7 @@
       }
     ],
     "images": [
+      "dataset/clip_images/77/puzzle_77_764_grid4.png",
       "dataset/clip_images/77/puzzle_77_764_grid7.png"
     ],
     "id": 764
@@ -1342,22 +1317,6 @@
       "dataset/clip_images/77/puzzle_77_847_grid6.png"
     ],
     "id": 847
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which image on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "B",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/77/puzzle_77_867_grid2.png"
-    ],
-    "id": 867
   },
   {
     "messages": [

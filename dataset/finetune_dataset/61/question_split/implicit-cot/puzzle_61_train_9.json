@@ -34,22 +34,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Each member in a cooking event cooks one tray of cakes like the ellipse tray shown. What is the smallest number of trays of cakes required to make a plate like the circle tray shown below? Ignore the size differences between the cakes in the two trays. A: 4,B: 5,C: 3,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/61/puzzle_61_1047_grid6.png"
-    ],
-    "id": 1047
-  },
-  {
-    "messages": [
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Each person in a bowling competition bowls one tray of balls like the polygon tray shown. What is the minimum number of trays of balls needed to make a plate like the rectangle tray shown below? Ignore the size differences between the balls in the two trays. A: 3,B: 4,C: 1,D: 2,E: 5. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -78,22 +62,6 @@
       "dataset/clip_images/61/puzzle_61_1062_grid8.png"
     ],
     "id": 1062
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Each participator in a cooking contest cooks one tray of cakes like the rectangle tray shown. What is the smallest number of trays of cakes needed to make a plate like the square tray shown below? Ignore the size differences between the cakes in the two trays. A: 2,B: 1,C: 4,D: 3,E: 5. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "A",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/61/puzzle_61_1093_grid8.png"
-    ],
-    "id": 1093
   },
   {
     "messages": [
@@ -354,22 +322,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Each member in a buscuit contest cooks one tray of buiscuit like the ellipse tray shown. What is the lowest number of trays of buiscuit needed to make a plate like the rectangle tray shown below? Ignore the size differences between the buiscuit in the two trays. A: 4,B: 2,C: 3,D: 1,E: 5. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/61/puzzle_61_1650_grid9.png"
-    ],
-    "id": 1650
-  },
-  {
-    "messages": [
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Each kid in a flowering competition place one tray of flowers like the circle tray shown. What is the lowest number of trays of flowers needed to make a plate like the polygon tray shown below? Ignore the size differences between the flowers in the two trays. A: 5,B: 1,C: 4,D: 2,E: 3. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -626,22 +578,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Each participant in a flowering game place one tray of flowers like the circle tray shown. What is the lowest number of trays of flowers needed to make a plate like the ellipse tray shown below? Ignore the size differences between the flowers in the two trays. A: 2,B: 5,C: 4,D: 3,E: 1. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "E",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/61/puzzle_61_255_grid8.png"
-    ],
-    "id": 255
-  },
-  {
-    "messages": [
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Each participator in a cooking game cooks one tray of cakes like the circle tray shown. What is the minimum number of trays of cakes required to make a plate like the square tray shown below? Ignore the size differences between the cakes in the two trays. A: 4,B: 5,C: 3,D: 1,E: 2. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -686,6 +622,22 @@
       "dataset/clip_images/61/puzzle_61_396_grid9.png"
     ],
     "id": 396
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Each kid in a cooking event cooks one tray of cakes like the ellipse tray shown. What is the lowest number of trays of cakes needed to make a plate like the square tray shown below? Ignore the size differences between the cakes in the two trays. A: 1,B: 5,C: 2,D: 3,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/clip_images/61/puzzle_61_469_grid4.png"
+    ],
+    "id": 469
   },
   {
     "messages": [
@@ -802,6 +754,22 @@
   {
     "messages": [
       {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Each member in a cooking game cooks one tray of cakes like the square tray shown. What is the lowest number of trays of cakes needed to make a plate like the ellipse tray shown below? Ignore the size differences between the cakes in the two trays. A: 6,B: 2,C: 4,D: 1,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/clip_images/61/puzzle_61_882_grid3.png"
+    ],
+    "id": 882
+  },
+  {
+    "messages": [
+      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Each participator in a flowering contest place one tray of flowers like the circle tray shown. What is the lowest number of trays of flowers required to make a plate like the rectangle tray shown below? Ignore the size differences between the flowers in the two trays. A: 3,B: 1,C: 4,D: 5,E: 2. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -830,38 +798,6 @@
       "dataset/clip_images/61/puzzle_61_887_grid12.png"
     ],
     "id": 887
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Each kid in a buscuit competition cooks one tray of buiscuit like the rectangle tray shown. What is the smallest number of trays of buiscuit required to make a plate like the circle tray shown below? Ignore the size differences between the buiscuit in the two trays. A: 1,B: 3,C: 2,D: 6,E: 4. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "D",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/61/puzzle_61_916_grid4.png"
-    ],
-    "id": 916
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Each participator in a flowering contest place one tray of flowers like the circle tray shown. What is the smallest number of trays of flowers needed to make a plate like the square tray shown below? Ignore the size differences between the flowers in the two trays. A: 2,B: 3,C: 4,D: 1,E: 5. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/61/puzzle_61_920_grid12.png"
-    ],
-    "id": 920
   },
   {
     "messages": [

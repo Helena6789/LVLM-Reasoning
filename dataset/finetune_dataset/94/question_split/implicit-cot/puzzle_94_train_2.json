@@ -91,70 +91,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the mathematical operation needed to find the difference between the peak heights of the mushrooms?",
-        "role": "user"
-      },
-      {
-        "content": "Subtraction",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the mathematical operation needed to find the difference between the peak heights of the mushrooms?",
-        "role": "user"
-      },
-      {
-        "content": "Subtraction",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the peak height of the taller mushroom?",
-        "role": "user"
-      },
-      {
-        "content": "16",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the peak height of the taller mushroom?",
-        "role": "user"
-      },
-      {
-        "content": "16",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the peak height of the taller mushroom?",
-        "role": "user"
-      },
-      {
-        "content": "16",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the peak height of the shorter mushroom?",
-        "role": "user"
-      },
-      {
-        "content": "7",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the peak height of the shorter mushroom?",
-        "role": "user"
-      },
-      {
-        "content": "7",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the peak height of the shorter mushroom?",
-        "role": "user"
-      },
-      {
-        "content": "7",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhat is the result of subtracting the peak height of the shorter mushroom from the peak height of the taller mushroom?",
         "role": "user"
       },
@@ -172,14 +108,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/94/puzzle_94_1003_grid4.png",
-      "dataset/clip_images/94/puzzle_94_1003_grid4.png",
-      "dataset/clip_images/94/puzzle_94_1003_grid4.png",
-      "dataset/clip_images/94/puzzle_94_1003_grid4.png",
-      "dataset/clip_images/94/puzzle_94_1003_grid4.png",
-      "dataset/clip_images/94/puzzle_94_1003_grid4.png",
-      "dataset/clip_images/94/puzzle_94_1003_grid4.png",
-      "dataset/clip_images/94/puzzle_94_1003_grid4.png",
       "dataset/clip_images/94/puzzle_94_1003_grid4.png",
       "dataset/clip_images/94/puzzle_94_1003_grid4.png",
       "dataset/clip_images/94/puzzle_94_1003_grid4.png",
@@ -1436,6 +1364,14 @@
   {
     "messages": [
       {
+        "content": "<image>\nWhat is the height of the shorter tree?",
+        "role": "user"
+      },
+      {
+        "content": "6",
+        "role": "assistant"
+      },
+      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: The image displays two trees. What is the gap between their peaks? A: 5,B: 0,C: 1,D: 4,E: 3. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -1445,6 +1381,7 @@
       }
     ],
     "images": [
+      "dataset/clip_images/94/puzzle_94_1079_grid4.png",
       "dataset/clip_images/94/puzzle_94_1079_grid8.png"
     ],
     "id": 1079
@@ -4534,22 +4471,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the elevation of the taller building?",
-        "role": "user"
-      },
-      {
-        "content": "7",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the elevation of the shorter building?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhat is 7 minus 4?",
         "role": "user"
       },
@@ -4568,8 +4489,6 @@
     ],
     "images": [
       "dataset/clip_images/94/puzzle_94_1287_grid8.png",
-      "dataset/clip_images/94/puzzle_94_1287_grid4.png",
-      "dataset/clip_images/94/puzzle_94_1287_grid4.png",
       "dataset/clip_images/94/puzzle_94_1287_grid6.png",
       "dataset/clip_images/94/puzzle_94_1287_grid8.png"
     ],
@@ -16517,6 +16436,14 @@
   {
     "messages": [
       {
+        "content": "<image>\nWhat is the height of the shorter tree?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      },
+      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: In the drawing is displayed two trees. How much is the gap between their peaks? A: 2,B: 7,C: 0,D: 3,E: 8. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -16526,6 +16453,7 @@
       }
     ],
     "images": [
+      "dataset/clip_images/94/puzzle_94_243_grid5.png",
       "dataset/clip_images/94/puzzle_94_243_grid5.png"
     ],
     "id": 243
@@ -17706,6 +17634,22 @@
   {
     "messages": [
       {
+        "content": "<image>\nWhat is the elevation of the shorter building?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhat is the gap between the elevations of the two buildings?",
+        "role": "user"
+      },
+      {
+        "content": "13",
+        "role": "assistant"
+      },
+      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: The image pictures two buildings. How much is the gap between their elevations? A: 3,B: 13,C: 4,D: 15,E: 6. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -17715,6 +17659,8 @@
       }
     ],
     "images": [
+      "dataset/clip_images/94/puzzle_94_314_grid6.png",
+      "dataset/clip_images/94/puzzle_94_314_grid6.png",
       "dataset/clip_images/94/puzzle_94_314_grid6.png"
     ],
     "id": 314
@@ -26636,6 +26582,14 @@
   {
     "messages": [
       {
+        "content": "<image>\nWhat is the elevation of the smaller mushroom?",
+        "role": "user"
+      },
+      {
+        "content": "6",
+        "role": "assistant"
+      },
+      {
         "content": "<image>\nWhat is the difference in elevation between the larger and smaller mushroom?",
         "role": "user"
       },
@@ -26653,6 +26607,7 @@
       }
     ],
     "images": [
+      "dataset/clip_images/94/puzzle_94_880_grid4.png",
       "dataset/clip_images/94/puzzle_94_880_grid4.png",
       "dataset/clip_images/94/puzzle_94_880_grid6.png"
     ],

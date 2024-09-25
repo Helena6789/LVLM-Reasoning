@@ -2,14 +2,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the number corresponding to Beige?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Five polygon cards are stacked on a table as shown. Each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. The possible order the cards are removed is: A: 1-3-4-5-2,B: 2-1-5-3-4,C: 2-5-3-1-4,D: 2-4-1-3-5,E: 5-3-2-1-4. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -19,7 +11,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1_grid4.png"
     ],
     "id": 1
@@ -118,14 +109,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat number is at the bottom of the purple card?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Five polygon cards are stacked on a table as shown. Each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. In what possible order are the cards removed? A: 5-4-2-1-3,B: 1-5-2-4-3,C: 4-3-2-1-5,D: 1-4-3-2-5,E: 4-2-1-3-5. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -135,42 +118,9 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1044_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1044_grid4.png"
     ],
     "id": 1044
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Five polygon cards are stacked on a table as shown, and each card is numbered according to the color shown at the bottom. If we remove the cards one by one from the top of the stack, what is the possible order of the cards being removed? A: 2-5-4-3-1,B: 1-4-5-3-2,C: 4-5-2-3-1,D: 2-5-4-1-3,E: 2-3-1-5-4. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "D",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/18/puzzle_18_e_1079_grid4.png"
-    ],
-    "id": 1079
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: On a table, five polygon cards are stacked as shown, and each card is numbered according to the color shown at the bottom. If we remove the cards one by one from the top of the stack, what is the possible order of the cards being removed? A: 1-5-3-2-4,B: 1-3-2-4-5,C: 4-2-1-3-5,D: 1-2-3-5-4,E: 5-4-2-3-1. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "E",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/18/puzzle_18_e_1121_grid6.png"
-    ],
-    "id": 1121
   },
   {
     "messages": [
@@ -199,22 +149,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the number of the fifth card in the stack?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat color is the fifth card?",
-        "role": "user"
-      },
-      {
-        "content": "purple",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhat color is the fifth card?",
         "role": "user"
       },
@@ -233,9 +167,7 @@
     ],
     "images": [
       "dataset/clip_images/18/puzzle_18_e_1156_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_1156_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1156_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_1156_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1156_grid1.png"
     ],
     "id": 1156
@@ -1053,6 +985,22 @@
   {
     "messages": [
       {
+        "content": "<image>\nWhat is the number on the fifth card from the top?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhat is the color of the fifth card from the top?",
+        "role": "user"
+      },
+      {
+        "content": "Blue",
+        "role": "assistant"
+      },
+      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: On a table, five polygon cards are stacked as shown. Each card is numbered according to the color shown at the bottom. If we remove the cards one by one from the top of the stack, in what possible order are the cards removed? A: 3-4-2-1-5,B: 2-5-4-3-1,C: 4-1-5-3-2,D: 4-1-2-5-3,E: 3-5-2-1-4. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -1062,6 +1010,8 @@
       }
     ],
     "images": [
+      "dataset/clip_images/18/puzzle_18_e_1724_grid7.png",
+      "dataset/clip_images/18/puzzle_18_e_1724_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1724_grid2.png"
     ],
     "id": 1724
@@ -1094,22 +1044,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Five polygon cards are stacked on a table as shown. Each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. In what possible order are the cards removed? A: 5-2-3-4-1,B: 3-2-5-4-1,C: 2-3-5-4-1,D: 3-2-4-5-1,E: 5-3-4-1-2. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/18/puzzle_18_e_1729_grid6.png"
-    ],
-    "id": 1729
-  },
-  {
-    "messages": [
-      {
         "content": "<image>\nWhat color is the card with number 3?",
         "role": "user"
       },
@@ -1135,14 +1069,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich card is in the third position from the top of the stack?",
-        "role": "user"
-      },
-      {
-        "content": "blue",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Five polygon cards are stacked on a table as shown. Each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. In what possible order are the cards removed? A: 5-1-2-4-3,B: 3-4-1-5-2,C: 5-4-2-3-1,D: 2-4-3-1-5,E: 2-3-5-4-1. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -1152,7 +1078,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1738_grid8.png",
       "dataset/clip_images/18/puzzle_18_e_1738_grid6.png"
     ],
     "id": 1738
@@ -1206,31 +1131,6 @@
       "dataset/clip_images/18/puzzle_18_e_1761_grid7.png"
     ],
     "id": 1761
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nWhat is the color of the card that is at the top of the stack?",
-        "role": "user"
-      },
-      {
-        "content": "Green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Five polygon cards are stacked on a table as shown. Each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. In what possible order are the cards removed? A: 2-3-4-5-1,B: 5-1-4-3-2,C: 4-3-1-5-2,D: 2-4-1-5-3,E: 3-4-2-1-5. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/18/puzzle_18_e_1769_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_1769_grid2.png"
-    ],
-    "id": 1769
   },
   {
     "messages": [
@@ -1365,14 +1265,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the color at the bottom of the card numbered 5?",
-        "role": "user"
-      },
-      {
-        "content": "Green",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Five polygon cards are stacked on a table as shown. Each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. In what possible order are the cards removed? A: 1-2-4-3-5,B: 3-5-4-1-2,C: 5-3-2-1-4,D: 2-4-3-1-5,E: 1-2-5-4-3. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -1382,7 +1274,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1911_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1911_grid2.png"
     ],
     "id": 1911
@@ -1415,14 +1306,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat color is associated with the number 5?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: On a table, five polygon cards are stacked as shown. Each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. The possible order the cards are removed is: A: 1-2-5-4-3,B: 4-2-5-3-1,C: 2-1-3-4-5,D: 4-5-3-1-2,E: 2-1-5-4-3. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -1432,7 +1315,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_195_grid8.png",
       "dataset/clip_images/18/puzzle_18_e_195_grid9.png"
     ],
     "id": 195
@@ -1670,14 +1552,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat number is the card below the blue card?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Five polygon cards are stacked on a table as shown, and each card is numbered according to the color shown at the bottom. If we remove the cards one by one from the top of the stack, what is the possible order of the cards being removed? A: 5-2-4-3-1,B: 4-5-3-1-2,C: 3-2-4-1-5,D: 5-3-1-2-4,E: 4-1-3-5-2. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -1687,21 +1561,12 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_26_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_26_grid4.png"
     ],
     "id": 26
   },
   {
     "messages": [
-      {
-        "content": "<image>\nWhat is the color and number of the card directly above the dark blue (number 2) card?",
-        "role": "user"
-      },
-      {
-        "content": "Blue, 2",
-        "role": "assistant"
-      },
       {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: On a table, five polygon cards are stacked as shown. Each card is numbered according to the color shown at the bottom. If we remove the cards one by one from the top of the stack, in what possible order are the cards removed? A: 2-5-4-3-1,B: 1-5-3-2-4,C: 2-3-1-5-4,D: 2-1-3-5-4,E: 5-3-1-4-2. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
@@ -1712,7 +1577,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_262_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_262_grid3.png"
     ],
     "id": 262
@@ -1820,31 +1684,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the number of the card directly beneath the card numbered 1?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: On a table, five polygon cards are stacked as shown. Each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. In what possible order are the cards removed? A: 4-3-2-1-5,B: 5-4-3-2-1,C: 2-1-5-4-3,D: 4-3-5-1-2,E: 3-2-4-5-1. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "A",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/18/puzzle_18_e_313_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_313_grid8.png"
-    ],
-    "id": 313
-  },
-  {
-    "messages": [
-      {
         "content": "<image>\nWhat number is two cards below the purple card?",
         "role": "user"
       },
@@ -1870,14 +1709,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich card is in the middle of the stack?",
-        "role": "user"
-      },
-      {
-        "content": "Purple",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: On a table, five polygon cards are stacked as shown. Each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. In what possible order are the cards removed? A: 5-3-1-2-4,B: 3-2-5-1-4,C: 4-5-2-1-3,D: 4-3-1-2-5,E: 1-3-2-4-5. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -1887,26 +1718,9 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_323_grid8.png",
       "dataset/clip_images/18/puzzle_18_e_323_grid2.png"
     ],
     "id": 323
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Five polygon cards are stacked on a table as shown, and each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. What is the possible order of the cards being removed? A: 4-1-3-5-2,B: 2-4-3-1-5,C: 4-5-2-3-1,D: 2-5-3-1-4,E: 2-1-3-5-4. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/18/puzzle_18_e_325_grid6.png"
-    ],
-    "id": 325
   },
   {
     "messages": [
@@ -2150,14 +1964,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich card is below the card with the number 1?",
-        "role": "user"
-      },
-      {
-        "content": "Not Applicable (1 is at the bottom)",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Five polygon cards are stacked on a table as shown. Each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. In what possible order are the cards removed? A: 1-5-3-4-2,B: 3-1-4-2-5,C: 1-4-3-2-5,D: 1-5-4-2-3,E: 5-2-1-4-3. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -2167,7 +1973,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_400_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_400_grid2.png"
     ],
     "id": 400
@@ -2253,6 +2058,22 @@
       "dataset/clip_images/18/puzzle_18_e_492_grid6.png"
     ],
     "id": 492
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: On a table, five polygon cards are stacked as shown. Each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. In what possible order are the cards removed? A: 1-3-5-4-2,B: 5-4-2-3-1,C: 1-3-2-4-5,D: 1-2-3-4-5,E: 4-2-1-5-3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/clip_images/18/puzzle_18_e_513_grid4.png"
+    ],
+    "id": 513
   },
   {
     "messages": [
@@ -2433,31 +2254,6 @@
       "dataset/clip_images/18/puzzle_18_e_69_grid1.png"
     ],
     "id": 69
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nWhich number is on the light purple polygon?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: On a table, five polygon cards are stacked as shown. Each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. The possible order the cards are removed is: A: 2-5-1-4-3,B: 4-5-3-2-1,C: 1-5-4-2-3,D: 2-3-1-5-4,E: 3-4-5-1-2. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/18/puzzle_18_e_71_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_71_grid6.png"
-    ],
-    "id": 71
   },
   {
     "messages": [
@@ -3089,22 +2885,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the number of the fifth card from the top?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat color is the fifth card from the top?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhat color is the fifth card from the top?",
         "role": "user"
       },
@@ -3122,8 +2902,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_988_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_988_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_988_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_988_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_988_grid3.png"

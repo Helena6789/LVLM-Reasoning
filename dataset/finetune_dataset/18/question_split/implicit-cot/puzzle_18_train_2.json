@@ -34,14 +34,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the color corresponding to 1?",
-        "role": "user"
-      },
-      {
-        "content": "Green",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhat is the number corresponding to Purple?",
         "role": "user"
       },
@@ -67,7 +59,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1_grid7.png",
@@ -694,14 +685,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat number is at the bottom of the purple card?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Five polygon cards are stacked on a table as shown. Each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. In what possible order are the cards removed? A: 5-4-2-1-3,B: 1-5-2-4-3,C: 4-3-2-1-5,D: 1-4-3-2-5,E: 4-2-1-3-5. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -717,7 +700,6 @@
       "dataset/clip_images/18/puzzle_18_e_1044_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1044_grid8.png",
       "dataset/clip_images/18/puzzle_18_e_1044_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_1044_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1044_grid4.png"
     ],
     "id": 1044
@@ -749,14 +731,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the color of the card numbered 1?",
-        "role": "user"
-      },
-      {
-        "content": "purple",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Five polygon cards are stacked on a table as shown, and each card is numbered according to the color shown at the bottom. If we remove the cards one by one from the top of the stack, what is the possible order of the cards being removed? A: 1-4-2-3-5,B: 1-4-5-3-2,C: 1-5-3-4-2,D: 5-1-2-4-3,E: 4-5-1-2-3. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -767,7 +741,6 @@
     ],
     "images": [
       "dataset/clip_images/18/puzzle_18_e_105_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_105_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_105_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_105_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_105_grid2.png"
@@ -943,14 +916,6 @@
         "role": "user"
       },
       {
-        "content": "Green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card with number 5?",
-        "role": "user"
-      },
-      {
         "content": "Blue",
         "role": "assistant"
       },
@@ -964,7 +929,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1079_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1079_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1079_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1079_grid7.png",
@@ -1319,22 +1283,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat color is the card numbered 2?",
-        "role": "user"
-      },
-      {
-        "content": "Dark Green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat color is the card numbered 5?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: On a table, five polygon cards are stacked as shown, and each card is numbered according to the color shown at the bottom. If we remove the cards one by one from the top of the stack, what is the possible order of the cards being removed? A: 1-5-3-2-4,B: 1-3-2-4-5,C: 4-2-1-3-5,D: 1-2-3-5-4,E: 5-4-2-3-1. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -1344,8 +1292,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1121_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1121_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1121_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1121_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1121_grid7.png",
@@ -1648,22 +1594,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the number of the fifth card in the stack?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat color is the fifth card?",
-        "role": "user"
-      },
-      {
-        "content": "purple",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhat color is the fifth card?",
         "role": "user"
       },
@@ -1688,9 +1618,7 @@
       "dataset/clip_images/18/puzzle_18_e_1156_grid8.png",
       "dataset/clip_images/18/puzzle_18_e_1156_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1156_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_1156_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1156_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_1156_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1156_grid1.png"
     ],
     "id": 1156
@@ -2407,198 +2335,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the number shown at the bottom of the purple card?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number shown at the bottom of the purple card?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number shown at the bottom of the purple card?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number shown at the bottom of the purple card?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number shown at the bottom of the purple card?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number shown at the bottom of the red card?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number shown at the bottom of the red card?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number shown at the bottom of the red card?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number shown at the bottom of the red card?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number shown at the bottom of the red card?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number shown at the bottom of the green card?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number shown at the bottom of the green card?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number shown at the bottom of the green card?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number shown at the bottom of the green card?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number shown at the bottom of the green card?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number shown at the bottom of the grey card?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number shown at the bottom of the grey card?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number shown at the bottom of the grey card?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number shown at the bottom of the grey card?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number shown at the bottom of the grey card?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number shown at the bottom of the blue card?",
-        "role": "user"
-      },
-      {
-        "content": "3",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number shown at the bottom of the blue card?",
-        "role": "user"
-      },
-      {
-        "content": "3",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number shown at the bottom of the blue card?",
-        "role": "user"
-      },
-      {
-        "content": "3",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number shown at the bottom of the blue card?",
-        "role": "user"
-      },
-      {
-        "content": "3",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhat is the number shown at the bottom of the blue card?",
         "role": "user"
       },
@@ -2627,30 +2363,6 @@
       "dataset/clip_images/18/puzzle_18_e_1238_grid8.png",
       "dataset/clip_images/18/puzzle_18_e_1238_grid8.png",
       "dataset/clip_images/18/puzzle_18_e_1238_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1238_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_1238_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_1238_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_1238_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_1238_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1238_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_1238_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_1238_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_1238_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_1238_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1238_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_1238_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_1238_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_1238_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_1238_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1238_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_1238_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_1238_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_1238_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_1238_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1238_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_1238_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_1238_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_1238_grid8.png",
       "dataset/clip_images/18/puzzle_18_e_1238_grid8.png",
       "dataset/clip_images/18/puzzle_18_e_1238_grid1.png"
     ],
@@ -5942,126 +5654,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the number on the card with the green color at the bottom?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the card with the green color at the bottom?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the card with the green color at the bottom?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the card with the green color at the bottom?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the card with the blue color at the bottom?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the card with the blue color at the bottom?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the card with the blue color at the bottom?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the card with the blue color at the bottom?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the card with the pink color at the bottom?",
-        "role": "user"
-      },
-      {
-        "content": "3",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the card with the pink color at the bottom?",
-        "role": "user"
-      },
-      {
-        "content": "3",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the card with the pink color at the bottom?",
-        "role": "user"
-      },
-      {
-        "content": "3",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the card with the pink color at the bottom?",
-        "role": "user"
-      },
-      {
-        "content": "3",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the card with the light green color at the bottom?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the card with the light green color at the bottom?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the card with the light green color at the bottom?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhat is the number on the card with the light green color at the bottom?",
         "role": "user"
       },
@@ -6087,21 +5679,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1476_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1476_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1476_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1476_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1476_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1476_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1476_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1476_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1476_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1476_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1476_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1476_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1476_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1476_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1476_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1476_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1476_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1476_grid7.png",
@@ -9195,22 +8772,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the number on the third card from the top?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the third card from the top?",
-        "role": "user"
-      },
-      {
-        "content": "Purple",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhat is the color of the third card from the top?",
         "role": "user"
       },
@@ -9243,22 +8804,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the number on the fifth card from the top?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the fifth card from the top?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhat is the color of the fifth card from the top?",
         "role": "user"
       },
@@ -9276,10 +8821,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1724_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1724_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1724_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1724_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1724_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1724_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1724_grid7.png",
@@ -9406,518 +8947,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the color of the card numbered 3?",
-        "role": "user"
-      },
-      {
-        "content": "Black",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 1?",
-        "role": "user"
-      },
-      {
-        "content": "Pink",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 1?",
-        "role": "user"
-      },
-      {
-        "content": "Pink",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 1?",
-        "role": "user"
-      },
-      {
-        "content": "Pink",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 1?",
-        "role": "user"
-      },
-      {
-        "content": "Pink",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 1?",
-        "role": "user"
-      },
-      {
-        "content": "Pink",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 1?",
-        "role": "user"
-      },
-      {
-        "content": "Pink",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 1?",
-        "role": "user"
-      },
-      {
-        "content": "Pink",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 1?",
-        "role": "user"
-      },
-      {
-        "content": "Pink",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 2?",
-        "role": "user"
-      },
-      {
-        "content": "Green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 2?",
-        "role": "user"
-      },
-      {
-        "content": "Green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 2?",
-        "role": "user"
-      },
-      {
-        "content": "Green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 2?",
-        "role": "user"
-      },
-      {
-        "content": "Green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 2?",
-        "role": "user"
-      },
-      {
-        "content": "Green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 2?",
-        "role": "user"
-      },
-      {
-        "content": "Green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 2?",
-        "role": "user"
-      },
-      {
-        "content": "Green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 2?",
-        "role": "user"
-      },
-      {
-        "content": "Green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 3?",
-        "role": "user"
-      },
-      {
-        "content": "Black",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 3?",
-        "role": "user"
-      },
-      {
-        "content": "Black",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 3?",
-        "role": "user"
-      },
-      {
-        "content": "Black",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 3?",
-        "role": "user"
-      },
-      {
-        "content": "Black",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 3?",
-        "role": "user"
-      },
-      {
-        "content": "Black",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 3?",
-        "role": "user"
-      },
-      {
-        "content": "Black",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 3?",
-        "role": "user"
-      },
-      {
-        "content": "Black",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 3?",
-        "role": "user"
-      },
-      {
-        "content": "Black",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 4?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 4?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 4?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 4?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 4?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 4?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 4?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 4?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 5?",
-        "role": "user"
-      },
-      {
-        "content": "Light blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 5?",
-        "role": "user"
-      },
-      {
-        "content": "Light blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 5?",
-        "role": "user"
-      },
-      {
-        "content": "Light blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 5?",
-        "role": "user"
-      },
-      {
-        "content": "Light blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 5?",
-        "role": "user"
-      },
-      {
-        "content": "Light blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 5?",
-        "role": "user"
-      },
-      {
-        "content": "Light blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 5?",
-        "role": "user"
-      },
-      {
-        "content": "Light blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 5?",
-        "role": "user"
-      },
-      {
-        "content": "Light blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card color is on top of the stack?",
-        "role": "user"
-      },
-      {
-        "content": "Green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card color is on top of the stack?",
-        "role": "user"
-      },
-      {
-        "content": "Green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card color is on top of the stack?",
-        "role": "user"
-      },
-      {
-        "content": "Green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card color is on top of the stack?",
-        "role": "user"
-      },
-      {
-        "content": "Green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card color is on top of the stack?",
-        "role": "user"
-      },
-      {
-        "content": "Green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card color is on top of the stack?",
-        "role": "user"
-      },
-      {
-        "content": "Green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card color is on top of the stack?",
-        "role": "user"
-      },
-      {
-        "content": "Green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card color is on top of the stack?",
-        "role": "user"
-      },
-      {
-        "content": "Green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 3?",
-        "role": "user"
-      },
-      {
-        "content": "Black",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 3?",
-        "role": "user"
-      },
-      {
-        "content": "Black",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 3?",
-        "role": "user"
-      },
-      {
-        "content": "Black",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 3?",
-        "role": "user"
-      },
-      {
-        "content": "Black",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 3?",
-        "role": "user"
-      },
-      {
-        "content": "Black",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 3?",
-        "role": "user"
-      },
-      {
-        "content": "Black",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 3?",
-        "role": "user"
-      },
-      {
-        "content": "Black",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 3?",
-        "role": "user"
-      },
-      {
-        "content": "Black",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card color is the second from the top?",
-        "role": "user"
-      },
-      {
-        "content": "Light blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card color is the second from the top?",
-        "role": "user"
-      },
-      {
-        "content": "Light blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card color is the second from the top?",
-        "role": "user"
-      },
-      {
-        "content": "Light blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card color is the second from the top?",
-        "role": "user"
-      },
-      {
-        "content": "Light blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card color is the second from the top?",
-        "role": "user"
-      },
-      {
-        "content": "Light blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card color is the second from the top?",
-        "role": "user"
-      },
-      {
-        "content": "Light blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card color is the second from the top?",
-        "role": "user"
-      },
-      {
-        "content": "Light blue",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhich card color is the second from the top?",
         "role": "user"
       },
@@ -9935,70 +8964,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1729_grid7.png",
@@ -10122,14 +9087,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the color associated with card number 5?",
-        "role": "user"
-      },
-      {
-        "content": "magenta",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhich card is in the second position from the top of the stack?",
         "role": "user"
       },
@@ -10159,7 +9116,6 @@
       "dataset/clip_images/18/puzzle_18_e_1738_grid8.png",
       "dataset/clip_images/18/puzzle_18_e_1738_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1738_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_1738_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1738_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1738_grid8.png",
       "dataset/clip_images/18/puzzle_18_e_1738_grid6.png"
@@ -10662,22 +9618,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat number is displayed on the cyan card?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat number is displayed on the cyan card?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhat is the color of the card that is positioned third from the top in the stack?",
         "role": "user"
       },
@@ -10711,8 +9651,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1769_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1769_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1769_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1769_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1769_grid7.png",
@@ -11200,198 +10138,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhich card is directly under the top card?",
-        "role": "user"
-      },
-      {
-        "content": "2 (Brown)",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card is directly under the top card?",
-        "role": "user"
-      },
-      {
-        "content": "2 (Brown)",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card is directly under the top card?",
-        "role": "user"
-      },
-      {
-        "content": "2 (Brown)",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card is directly under the top card?",
-        "role": "user"
-      },
-      {
-        "content": "2 (Brown)",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card is directly under the top card?",
-        "role": "user"
-      },
-      {
-        "content": "2 (Brown)",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card is directly above the bottom card?",
-        "role": "user"
-      },
-      {
-        "content": "3 (Blue)",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card is directly above the bottom card?",
-        "role": "user"
-      },
-      {
-        "content": "3 (Blue)",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card is directly above the bottom card?",
-        "role": "user"
-      },
-      {
-        "content": "3 (Blue)",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card is directly above the bottom card?",
-        "role": "user"
-      },
-      {
-        "content": "3 (Blue)",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card is directly above the bottom card?",
-        "role": "user"
-      },
-      {
-        "content": "3 (Blue)",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card is directly under the card numbered 3 (Blue)?",
-        "role": "user"
-      },
-      {
-        "content": "5 (Green)",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card is directly under the card numbered 3 (Blue)?",
-        "role": "user"
-      },
-      {
-        "content": "5 (Green)",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card is directly under the card numbered 3 (Blue)?",
-        "role": "user"
-      },
-      {
-        "content": "5 (Green)",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card is directly under the card numbered 3 (Blue)?",
-        "role": "user"
-      },
-      {
-        "content": "5 (Green)",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card is directly under the card numbered 3 (Blue)?",
-        "role": "user"
-      },
-      {
-        "content": "5 (Green)",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card is directly above the card numbered 5 (Green)?",
-        "role": "user"
-      },
-      {
-        "content": "3 (Blue)",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card is directly above the card numbered 5 (Green)?",
-        "role": "user"
-      },
-      {
-        "content": "3 (Blue)",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card is directly above the card numbered 5 (Green)?",
-        "role": "user"
-      },
-      {
-        "content": "3 (Blue)",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card is directly above the card numbered 5 (Green)?",
-        "role": "user"
-      },
-      {
-        "content": "3 (Blue)",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card is directly above the card numbered 5 (Green)?",
-        "role": "user"
-      },
-      {
-        "content": "3 (Blue)",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card is directly above the card numbered 2 (Brown)?",
-        "role": "user"
-      },
-      {
-        "content": "4 (Yellow)",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card is directly above the card numbered 2 (Brown)?",
-        "role": "user"
-      },
-      {
-        "content": "4 (Yellow)",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card is directly above the card numbered 2 (Brown)?",
-        "role": "user"
-      },
-      {
-        "content": "4 (Yellow)",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card is directly above the card numbered 2 (Brown)?",
-        "role": "user"
-      },
-      {
-        "content": "4 (Yellow)",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhich card is directly above the card numbered 2 (Brown)?",
         "role": "user"
       },
@@ -11417,30 +10163,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1801_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_1801_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_1801_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1801_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1801_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_1801_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_1801_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1801_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1801_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1801_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_1801_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_1801_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1801_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1801_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1801_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_1801_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_1801_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1801_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1801_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1801_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_1801_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_1801_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1801_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1801_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1801_grid8.png",
       "dataset/clip_images/18/puzzle_18_e_1801_grid8.png",
       "dataset/clip_images/18/puzzle_18_e_1801_grid7.png",
@@ -12360,142 +11082,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the color of the card numbered 2?",
-        "role": "user"
-      },
-      {
-        "content": "Yellow",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 2?",
-        "role": "user"
-      },
-      {
-        "content": "Yellow",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 2?",
-        "role": "user"
-      },
-      {
-        "content": "Yellow",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 2?",
-        "role": "user"
-      },
-      {
-        "content": "Yellow",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 3?",
-        "role": "user"
-      },
-      {
-        "content": "Pink",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 3?",
-        "role": "user"
-      },
-      {
-        "content": "Pink",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 3?",
-        "role": "user"
-      },
-      {
-        "content": "Pink",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 3?",
-        "role": "user"
-      },
-      {
-        "content": "Pink",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 4?",
-        "role": "user"
-      },
-      {
-        "content": "Purple",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 4?",
-        "role": "user"
-      },
-      {
-        "content": "Purple",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 4?",
-        "role": "user"
-      },
-      {
-        "content": "Purple",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 4?",
-        "role": "user"
-      },
-      {
-        "content": "Purple",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 5?",
-        "role": "user"
-      },
-      {
-        "content": "Cyan",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 5?",
-        "role": "user"
-      },
-      {
-        "content": "Cyan",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 5?",
-        "role": "user"
-      },
-      {
-        "content": "Cyan",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 5?",
-        "role": "user"
-      },
-      {
-        "content": "Cyan",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 1?",
-        "role": "user"
-      },
-      {
-        "content": "Red",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Five polygon cards are stacked on a table as shown, and each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. What is the possible order of the cards being removed? A: 4-5-1-2-3,B: 2-5-4-1-3,C: 1-5-3-2-4,D: 2-4-5-3-1,E: 1-3-2-5-4. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -12505,23 +11091,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1877_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1877_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1877_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1877_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1877_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1877_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1877_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1877_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1877_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1877_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1877_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1877_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1877_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1877_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1877_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1877_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1877_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1877_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1877_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1877_grid7.png",
@@ -12763,14 +11332,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the number on the card with the brown color at the bottom?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhat is the number on the card with the green color at the bottom?",
         "role": "user"
       },
@@ -12796,7 +11357,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1911_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1911_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1911_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_1911_grid7.png",
@@ -13229,14 +11789,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat color is associated with the number 5?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: On a table, five polygon cards are stacked as shown. Each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. The possible order the cards are removed is: A: 1-2-5-4-3,B: 4-2-5-3-1,C: 2-1-3-4-5,D: 4-5-3-1-2,E: 2-1-5-4-3. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -13251,7 +11803,6 @@
       "dataset/clip_images/18/puzzle_18_e_195_grid8.png",
       "dataset/clip_images/18/puzzle_18_e_195_grid8.png",
       "dataset/clip_images/18/puzzle_18_e_195_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_195_grid8.png",
       "dataset/clip_images/18/puzzle_18_e_195_grid8.png",
       "dataset/clip_images/18/puzzle_18_e_195_grid9.png"
     ],
@@ -14391,126 +12942,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the number on the green card?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the green card?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the green card?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the green card?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the pink card?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the pink card?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the pink card?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the pink card?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the brown card?",
-        "role": "user"
-      },
-      {
-        "content": "3",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the brown card?",
-        "role": "user"
-      },
-      {
-        "content": "3",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the brown card?",
-        "role": "user"
-      },
-      {
-        "content": "3",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the brown card?",
-        "role": "user"
-      },
-      {
-        "content": "3",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the card that is removed first?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the card that is removed first?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the card that is removed first?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhat is the number on the card that is removed first?",
         "role": "user"
       },
@@ -14527,14 +12958,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the number on the green card?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Five polygon cards are stacked on a table as shown. Each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. The possible order the cards are removed is: A: 4-2-1-5-3,B: 4-1-2-3-5,C: 5-4-2-3-1,D: 3-2-4-5-1,E: 1-4-2-3-5. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -14546,22 +12969,6 @@
     "images": [
       "dataset/clip_images/18/puzzle_18_e_222_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_222_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_222_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_222_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_222_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_222_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_222_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_222_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_222_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_222_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_222_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_222_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_222_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_222_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_222_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_222_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_222_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_222_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_222_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_222_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_222_grid6.png"
@@ -14993,14 +13400,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat number is the pink card?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhat number is the card below the blue card?",
         "role": "user"
       },
@@ -15020,7 +13419,6 @@
     "images": [
       "dataset/clip_images/18/puzzle_18_e_26_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_26_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_26_grid8.png",
       "dataset/clip_images/18/puzzle_18_e_26_grid8.png",
       "dataset/clip_images/18/puzzle_18_e_26_grid8.png",
       "dataset/clip_images/18/puzzle_18_e_26_grid8.png",
@@ -15133,14 +13531,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the color and number of the card directly below the green (number 5) card?",
-        "role": "user"
-      },
-      {
-        "content": "Light green, 4",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhat is the color and number of the card directly above the dark blue (number 2) card?",
         "role": "user"
       },
@@ -15163,7 +13553,6 @@
       "dataset/clip_images/18/puzzle_18_e_262_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_262_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_262_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_262_grid8.png",
       "dataset/clip_images/18/puzzle_18_e_262_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_262_grid3.png"
     ],
@@ -16028,22 +14417,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the number of the card directly beneath the card numbered 5?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number of the card directly beneath the card numbered 1?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: On a table, five polygon cards are stacked as shown. Each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. In what possible order are the cards removed? A: 4-3-2-1-5,B: 5-4-3-2-1,C: 2-1-5-4-3,D: 4-3-5-1-2,E: 3-2-4-5-1. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -16053,8 +14426,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_313_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_313_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_313_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_313_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_313_grid7.png",
@@ -16170,14 +14541,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the color of the card numbered 4?",
-        "role": "user"
-      },
-      {
-        "content": "Orange",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhich card is on top of the stack?",
         "role": "user"
       },
@@ -16216,7 +14579,6 @@
       "dataset/clip_images/18/puzzle_18_e_323_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_323_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_323_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_323_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_323_grid8.png",
       "dataset/clip_images/18/puzzle_18_e_323_grid2.png"
     ],
@@ -16249,30 +14611,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the color of card number 4?",
-        "role": "user"
-      },
-      {
-        "content": "Green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of card number 5?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of card number 1?",
-        "role": "user"
-      },
-      {
-        "content": "Purple",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Five polygon cards are stacked on a table as shown, and each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. What is the possible order of the cards being removed? A: 4-1-3-5-2,B: 2-4-3-1-5,C: 4-5-2-3-1,D: 2-5-3-1-4,E: 2-1-3-5-4. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -16285,9 +14623,6 @@
       "dataset/clip_images/18/puzzle_18_e_325_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_325_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_325_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_325_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_325_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_325_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_325_grid6.png"
     ],
     "id": 325
@@ -17788,14 +16123,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhich card is above the card with the number 3?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhich card is below the card with the number 1?",
         "role": "user"
       },
@@ -17816,7 +16143,6 @@
       "dataset/clip_images/18/puzzle_18_e_400_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_400_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_400_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_400_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_400_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_400_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_400_grid7.png",
@@ -18152,206 +16478,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the color of the card numbered 3?",
-        "role": "user"
-      },
-      {
-        "content": "Light green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 3?",
-        "role": "user"
-      },
-      {
-        "content": "Light green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 3?",
-        "role": "user"
-      },
-      {
-        "content": "Light green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 3?",
-        "role": "user"
-      },
-      {
-        "content": "Light green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 3?",
-        "role": "user"
-      },
-      {
-        "content": "Light green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 2?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 2?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 2?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 2?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 2?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 5?",
-        "role": "user"
-      },
-      {
-        "content": "Pink",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 5?",
-        "role": "user"
-      },
-      {
-        "content": "Pink",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 5?",
-        "role": "user"
-      },
-      {
-        "content": "Pink",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 5?",
-        "role": "user"
-      },
-      {
-        "content": "Pink",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 5?",
-        "role": "user"
-      },
-      {
-        "content": "Pink",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 4?",
-        "role": "user"
-      },
-      {
-        "content": "Light green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 4?",
-        "role": "user"
-      },
-      {
-        "content": "Light green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 4?",
-        "role": "user"
-      },
-      {
-        "content": "Light green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 4?",
-        "role": "user"
-      },
-      {
-        "content": "Light green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 4?",
-        "role": "user"
-      },
-      {
-        "content": "Light green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 1?",
-        "role": "user"
-      },
-      {
-        "content": "Pink",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 1?",
-        "role": "user"
-      },
-      {
-        "content": "Pink",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 1?",
-        "role": "user"
-      },
-      {
-        "content": "Pink",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 1?",
-        "role": "user"
-      },
-      {
-        "content": "Pink",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card numbered 1?",
-        "role": "user"
-      },
-      {
-        "content": "Pink",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: On a table, five polygon cards are stacked as shown. Each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. In what possible order are the cards removed? A: 4-5-2-1-3,B: 5-4-1-2-3,C: 2-3-4-5-1,D: 1-2-5-4-3,E: 3-4-2-5-1. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -18361,31 +16487,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_447_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_447_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_447_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_447_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_447_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_447_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_447_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_447_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_447_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_447_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_447_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_447_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_447_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_447_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_447_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_447_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_447_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_447_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_447_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_447_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_447_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_447_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_447_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_447_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_447_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_447_grid8.png",
       "dataset/clip_images/18/puzzle_18_e_447_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_447_grid8.png",
@@ -19463,62 +17564,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat color is the card numbered 5?",
-        "role": "user"
-      },
-      {
-        "content": "Purple",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat color is the card numbered 5?",
-        "role": "user"
-      },
-      {
-        "content": "Purple",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat color is the card numbered 5?",
-        "role": "user"
-      },
-      {
-        "content": "Purple",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat color is the card numbered 5?",
-        "role": "user"
-      },
-      {
-        "content": "Purple",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich color card is at the top?",
-        "role": "user"
-      },
-      {
-        "content": "Purple",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich color card is at the top?",
-        "role": "user"
-      },
-      {
-        "content": "Purple",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich color card is at the top?",
-        "role": "user"
-      },
-      {
-        "content": "Purple",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhich color card is at the top?",
         "role": "user"
       },
@@ -19532,54 +17577,6 @@
       },
       {
         "content": "Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich color card is directly below the purple card?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich color card is directly below the purple card?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich color card is directly below the purple card?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich color card is directly below the blue card?",
-        "role": "user"
-      },
-      {
-        "content": "Black",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich color card is directly below the blue card?",
-        "role": "user"
-      },
-      {
-        "content": "Black",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich color card is directly below the blue card?",
-        "role": "user"
-      },
-      {
-        "content": "Black",
         "role": "assistant"
       },
       {
@@ -19606,19 +17603,6 @@
       "dataset/clip_images/18/puzzle_18_e_513_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_513_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_513_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_513_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_513_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_513_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_513_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_513_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_513_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_513_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_513_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_513_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_513_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_513_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_513_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_513_grid8.png",
       "dataset/clip_images/18/puzzle_18_e_513_grid4.png"
     ],
     "id": 513
@@ -20499,206 +18483,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the number on the light-blue-colored card?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the light-blue-colored card?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the light-blue-colored card?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the light-blue-colored card?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the green-colored card?",
-        "role": "user"
-      },
-      {
-        "content": "3",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the green-colored card?",
-        "role": "user"
-      },
-      {
-        "content": "3",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the green-colored card?",
-        "role": "user"
-      },
-      {
-        "content": "3",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the green-colored card?",
-        "role": "user"
-      },
-      {
-        "content": "3",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the green-colored card?",
-        "role": "user"
-      },
-      {
-        "content": "3",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the pink-colored card?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the pink-colored card?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the pink-colored card?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the pink-colored card?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the pink-colored card?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the black-colored card?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the black-colored card?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the black-colored card?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the black-colored card?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the black-colored card?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the yellow-colored card?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the yellow-colored card?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the yellow-colored card?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the yellow-colored card?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the yellow-colored card?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the green-colored card?",
-        "role": "user"
-      },
-      {
-        "content": "3",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Five polygon cards are stacked on a table as shown, and each card is numbered according to the color shown at the bottom. If we remove the cards one by one from the top of the stack, what is the possible order of the cards being removed? A: 4-5-3-2-1,B: 4-2-1-3-5,C: 1-3-2-4-5,D: 1-4-2-3-5,E: 4-2-5-1-3. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -20708,31 +18492,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_588_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_588_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_588_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_588_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_588_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_588_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_588_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_588_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_588_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_588_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_588_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_588_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_588_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_588_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_588_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_588_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_588_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_588_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_588_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_588_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_588_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_588_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_588_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_588_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_588_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_588_grid8.png",
       "dataset/clip_images/18/puzzle_18_e_588_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_588_grid7.png",
@@ -21047,22 +18806,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the number on the top card in the stack?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the number on the card below the top card in the stack?",
-        "role": "user"
-      },
-      {
-        "content": "3",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhat is the number on the card below the top card in the stack?",
         "role": "user"
       },
@@ -21096,8 +18839,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_615_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_615_grid8.png",
       "dataset/clip_images/18/puzzle_18_e_615_grid8.png",
       "dataset/clip_images/18/puzzle_18_e_615_grid8.png",
       "dataset/clip_images/18/puzzle_18_e_615_grid8.png",
@@ -22087,22 +19828,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhich number is on the pink polygon?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich number is on the light purple polygon?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: On a table, five polygon cards are stacked as shown. Each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. The possible order the cards are removed is: A: 2-5-1-4-3,B: 4-5-3-2-1,C: 1-5-4-2-3,D: 2-3-1-5-4,E: 3-4-5-1-2. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -22117,8 +19842,6 @@
       "dataset/clip_images/18/puzzle_18_e_71_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_71_grid8.png",
       "dataset/clip_images/18/puzzle_18_e_71_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_71_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_71_grid8.png",
       "dataset/clip_images/18/puzzle_18_e_71_grid6.png"
     ],
     "id": 71
@@ -23538,14 +21261,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the number at the bottom of the green card?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhat is the number at the bottom of the dark blue card?",
         "role": "user"
       },
@@ -23564,7 +21279,6 @@
     ],
     "images": [
       "dataset/clip_images/18/puzzle_18_e_823_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_823_grid8.png",
       "dataset/clip_images/18/puzzle_18_e_823_grid8.png",
       "dataset/clip_images/18/puzzle_18_e_823_grid8.png",
       "dataset/clip_images/18/puzzle_18_e_823_grid7.png",
@@ -24967,126 +22681,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the color of the card with the number 2?",
-        "role": "user"
-      },
-      {
-        "content": "Purple",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card with the number 2?",
-        "role": "user"
-      },
-      {
-        "content": "Purple",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card with the number 2?",
-        "role": "user"
-      },
-      {
-        "content": "Purple",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card with the number 2?",
-        "role": "user"
-      },
-      {
-        "content": "Purple",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card with the number 5?",
-        "role": "user"
-      },
-      {
-        "content": "Pink",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card with the number 5?",
-        "role": "user"
-      },
-      {
-        "content": "Pink",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card with the number 5?",
-        "role": "user"
-      },
-      {
-        "content": "Pink",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the card with the number 5?",
-        "role": "user"
-      },
-      {
-        "content": "Pink",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card is at the top of the stack?",
-        "role": "user"
-      },
-      {
-        "content": "Pink",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card is at the top of the stack?",
-        "role": "user"
-      },
-      {
-        "content": "Pink",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card is at the top of the stack?",
-        "role": "user"
-      },
-      {
-        "content": "Pink",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card is at the top of the stack?",
-        "role": "user"
-      },
-      {
-        "content": "Pink",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card is at the bottom of the stack?",
-        "role": "user"
-      },
-      {
-        "content": "Yellow",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card is at the bottom of the stack?",
-        "role": "user"
-      },
-      {
-        "content": "Yellow",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich card is at the bottom of the stack?",
-        "role": "user"
-      },
-      {
-        "content": "Yellow",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhich card is at the bottom of the stack?",
         "role": "user"
       },
@@ -25105,21 +22699,6 @@
     ],
     "images": [
       "dataset/clip_images/18/puzzle_18_e_908_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_908_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_908_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_908_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_908_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_908_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_908_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_908_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_908_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_908_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_908_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_908_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_908_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_908_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_908_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_908_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_908_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_908_grid8.png",
       "dataset/clip_images/18/puzzle_18_e_908_grid8.png",
@@ -26647,22 +24226,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the number of the fifth card from the top?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat color is the fifth card from the top?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhat color is the fifth card from the top?",
         "role": "user"
       },
@@ -26680,8 +24243,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_988_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_988_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_988_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_988_grid7.png",
       "dataset/clip_images/18/puzzle_18_e_988_grid7.png",

@@ -466,6 +466,22 @@
   {
     "messages": [
       {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Christian has two cards of the same size. Card 1 has four holes drilled. Christian keeps card 1 directly on top of card 2. What does Christian see? A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/clip_images/69/puzzle_69_53_grid6.png"
+    ],
+    "id": 53
+  },
+  {
+    "messages": [
+      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Wayne has two cards of the same size. Card 1 has four holes cut out. Wayne holds card 1 directly on top of card 2. What does Wayne see? A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -542,6 +558,31 @@
       "dataset/clip_images/69/puzzle_69_822_grid10.png"
     ],
     "id": 822
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWhat is the position of the blue hole in card 2?",
+        "role": "user"
+      },
+      {
+        "content": "Right",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Daniel has two cards of the same size. Card 1 has three holes created. Daniel holds card 1 directly on top of card 2. What does Daniel see? A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/clip_images/69/puzzle_69_828_grid6.png",
+      "dataset/clip_images/69/puzzle_69_828_grid11.png"
+    ],
+    "id": 828
   },
   {
     "messages": [

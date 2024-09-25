@@ -282,30 +282,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich round lane is Hut F on?",
-        "role": "user"
-      },
-      {
-        "content": "Innermost round lane",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich round lane is Hut F on?",
-        "role": "user"
-      },
-      {
-        "content": "Innermost round lane",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich straight lane is Hut F on?",
-        "role": "user"
-      },
-      {
-        "content": "Lane with C",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhich straight lane is Hut F on?",
         "role": "user"
       },
@@ -331,9 +307,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1061_grid6.png",
-      "dataset/clip_images/73/puzzle_73_1061_grid6.png",
-      "dataset/clip_images/73/puzzle_73_1061_grid6.png",
       "dataset/clip_images/73/puzzle_73_1061_grid6.png",
       "dataset/clip_images/73/puzzle_73_1061_grid12.png",
       "dataset/clip_images/73/puzzle_73_1061_grid5.png"
@@ -2986,70 +2959,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many houses are currently located on the intersection A?",
-        "role": "user"
-      },
-      {
-        "content": "0",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many houses are currently located on the intersection A?",
-        "role": "user"
-      },
-      {
-        "content": "0",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many houses are currently located on the intersection A?",
-        "role": "user"
-      },
-      {
-        "content": "0",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many houses are currently located on the intersection A?",
-        "role": "user"
-      },
-      {
-        "content": "0",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many houses are currently located on the intersection B?",
-        "role": "user"
-      },
-      {
-        "content": "0",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many houses are currently located on the intersection B?",
-        "role": "user"
-      },
-      {
-        "content": "0",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many houses are currently located on the intersection B?",
-        "role": "user"
-      },
-      {
-        "content": "0",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many houses are currently located on the intersection B?",
-        "role": "user"
-      },
-      {
-        "content": "0",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nHow many houses are currently located on the intersection B?",
         "role": "user"
       },
@@ -3066,103 +2975,7 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many houses are currently located on the intersection C?",
-        "role": "user"
-      },
-      {
-        "content": "0",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many houses are currently located on the intersection C?",
-        "role": "user"
-      },
-      {
-        "content": "0",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many houses are currently located on the intersection C?",
-        "role": "user"
-      },
-      {
-        "content": "0",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many houses are currently located on the intersection C?",
-        "role": "user"
-      },
-      {
-        "content": "0",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nHow many houses are currently located on the intersection D?",
-        "role": "user"
-      },
-      {
-        "content": "0",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many houses are currently located on the intersection D?",
-        "role": "user"
-      },
-      {
-        "content": "0",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many houses are currently located on the intersection D?",
-        "role": "user"
-      },
-      {
-        "content": "0",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many houses are currently located on the intersection D?",
-        "role": "user"
-      },
-      {
-        "content": "0",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many houses are currently located on the intersection D?",
-        "role": "user"
-      },
-      {
-        "content": "0",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many houses are currently located on the intersection E?",
-        "role": "user"
-      },
-      {
-        "content": "0",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many houses are currently located on the intersection E?",
-        "role": "user"
-      },
-      {
-        "content": "0",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many houses are currently located on the intersection E?",
-        "role": "user"
-      },
-      {
-        "content": "0",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many houses are currently located on the intersection E?",
         "role": "user"
       },
       {
@@ -3188,26 +3001,6 @@
     ],
     "images": [
       "dataset/clip_images/73/puzzle_73_1740_grid4.png",
-      "dataset/clip_images/73/puzzle_73_1740_grid10.png",
-      "dataset/clip_images/73/puzzle_73_1740_grid10.png",
-      "dataset/clip_images/73/puzzle_73_1740_grid10.png",
-      "dataset/clip_images/73/puzzle_73_1740_grid10.png",
-      "dataset/clip_images/73/puzzle_73_1740_grid10.png",
-      "dataset/clip_images/73/puzzle_73_1740_grid10.png",
-      "dataset/clip_images/73/puzzle_73_1740_grid10.png",
-      "dataset/clip_images/73/puzzle_73_1740_grid10.png",
-      "dataset/clip_images/73/puzzle_73_1740_grid10.png",
-      "dataset/clip_images/73/puzzle_73_1740_grid10.png",
-      "dataset/clip_images/73/puzzle_73_1740_grid10.png",
-      "dataset/clip_images/73/puzzle_73_1740_grid10.png",
-      "dataset/clip_images/73/puzzle_73_1740_grid10.png",
-      "dataset/clip_images/73/puzzle_73_1740_grid10.png",
-      "dataset/clip_images/73/puzzle_73_1740_grid10.png",
-      "dataset/clip_images/73/puzzle_73_1740_grid10.png",
-      "dataset/clip_images/73/puzzle_73_1740_grid10.png",
-      "dataset/clip_images/73/puzzle_73_1740_grid10.png",
-      "dataset/clip_images/73/puzzle_73_1740_grid10.png",
-      "dataset/clip_images/73/puzzle_73_1740_grid10.png",
       "dataset/clip_images/73/puzzle_73_1740_grid10.png",
       "dataset/clip_images/73/puzzle_73_1740_grid10.png",
       "dataset/clip_images/73/puzzle_73_1740_grid10.png",
@@ -4075,22 +3868,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A town with 15 condos has 5 straight roads and 5 circular roads. The picture illustrates 14 of the condos. On each straight road there are 3 condos. On each circular road, there are also 3 condos. Where on the picture should the 15th condo be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "D",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/73/puzzle_73_209_grid8.png"
-    ],
-    "id": 209
-  },
-  {
-    "messages": [
-      {
         "content": "<image>\nAre there any other locations that could be connected by the third straight road besides D-E?",
         "role": "user"
       },
@@ -4516,22 +4293,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nName the radial line segments from A to E.",
-        "role": "user"
-      },
-      {
-        "content": "A, B, C, D, E",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nIdentify the radial lines with missing huts based on the names provided, A to E.",
-        "role": "user"
-      },
-      {
-        "content": "D",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nIdentify the radial lines with missing huts based on the names provided, A to E.",
         "role": "user"
       },
@@ -4549,8 +4310,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_303_grid2.png",
-      "dataset/clip_images/73/puzzle_73_303_grid2.png",
       "dataset/clip_images/73/puzzle_73_303_grid2.png",
       "dataset/clip_images/73/puzzle_73_303_grid2.png",
       "dataset/clip_images/73/puzzle_73_303_grid2.png",
@@ -5871,6 +5630,22 @@
   {
     "messages": [
       {
+        "content": "<image>\nHow many empty round pathways are there currently?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich straight pathway has the fewest dwellings?",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      },
+      {
         "content": "<image>\nIs the empty round pathway near the labeled location E?",
         "role": "user"
       },
@@ -5904,6 +5679,8 @@
       }
     ],
     "images": [
+      "dataset/clip_images/73/puzzle_73_701_grid8.png",
+      "dataset/clip_images/73/puzzle_73_701_grid10.png",
       "dataset/clip_images/73/puzzle_73_701_grid8.png",
       "dataset/clip_images/73/puzzle_73_701_grid10.png",
       "dataset/clip_images/73/puzzle_73_701_grid10.png",
@@ -6381,6 +6158,30 @@
   {
     "messages": [
       {
+        "content": "<image>\nDo all the intersections of straight and round pathways already have apartments?",
+        "role": "user"
+      },
+      {
+        "content": "No",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich intersections of the straight and round pathways do not have apartments?",
+        "role": "user"
+      },
+      {
+        "content": "There are no intersections without apartments.",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nHow many intersections are there between the straight and round pathways?",
+        "role": "user"
+      },
+      {
+        "content": "16",
+        "role": "assistant"
+      },
+      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: A town with 12 apartments has 4 straight pathways and 4 round pathways. The map depicts 11 of the apartments. On each straight pathway there are 3 apartments. On each round pathway, there are also 3 apartments. Where on the map should the 12th apartment be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -6390,6 +6191,9 @@
       }
     ],
     "images": [
+      "dataset/clip_images/73/puzzle_73_772_grid8.png",
+      "dataset/clip_images/73/puzzle_73_772_grid8.png",
+      "dataset/clip_images/73/puzzle_73_772_grid8.png",
       "dataset/clip_images/73/puzzle_73_772_grid8.png",
       "dataset/clip_images/73/puzzle_73_772_grid11.png"
     ],
@@ -6467,30 +6271,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich pathways already have huts on them?",
-        "role": "user"
-      },
-      {
-        "content": "The straight pathways from the top to bottom, and the left to right. The round pathways through A and E, and through B and C.",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich pathways already have huts on them?",
-        "role": "user"
-      },
-      {
-        "content": "The straight pathways from the top to bottom, and the left to right. The round pathways through A and E, and through B and C.",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhere is the 8th hut most likely to be placed considering missing huts in all pathways?",
-        "role": "user"
-      },
-      {
-        "content": "The 8th hut should be placed at D.",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhere is the 8th hut most likely to be placed considering missing huts in all pathways?",
         "role": "user"
       },
@@ -6508,9 +6288,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_787_grid5.png",
-      "dataset/clip_images/73/puzzle_73_787_grid5.png",
-      "dataset/clip_images/73/puzzle_73_787_grid5.png",
       "dataset/clip_images/73/puzzle_73_787_grid5.png",
       "dataset/clip_images/73/puzzle_73_787_grid11.png"
     ],
@@ -6587,14 +6364,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich locations on the map currently have dwellings?",
-        "role": "user"
-      },
-      {
-        "content": "['A', 'B', 'C', 'D', 'E', 'others']",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhich circular lane does not have any dwellings on it?",
         "role": "user"
       },
@@ -6620,7 +6389,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_81_grid10.png",
       "dataset/clip_images/73/puzzle_73_81_grid2.png",
       "dataset/clip_images/73/puzzle_73_81_grid2.png",
       "dataset/clip_images/73/puzzle_73_81_grid9.png"
@@ -6629,22 +6397,6 @@
   },
   {
     "messages": [
-      {
-        "content": "<image>\nHow many huts are positioned on both straight and circular pathways?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nHow many huts are uniquely positioned on straight pathways?",
-        "role": "user"
-      },
-      {
-        "content": "Unknown",
-        "role": "assistant"
-      },
       {
         "content": "<image>\nHow many huts are uniquely positioned on both straight and circular pathways that intersect at positions A, B, C, D, and E?",
         "role": "user"
@@ -6663,8 +6415,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_837_grid10.png",
-      "dataset/clip_images/73/puzzle_73_837_grid10.png",
       "dataset/clip_images/73/puzzle_73_837_grid10.png",
       "dataset/clip_images/73/puzzle_73_837_grid10.png"
     ],
@@ -7131,6 +6881,22 @@
   {
     "messages": [
       {
+        "content": "<image>\nWhich intersection is labeled as having dwellings on the straight roads but not on the circular roads?",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich dwelling is missing from the map on the circular road that intersects with 'B'?",
+        "role": "user"
+      },
+      {
+        "content": "The dwelling on the intersection of circular road and the straight road passing near B.",
+        "role": "assistant"
+      },
+      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: A town with 15 dwellings has 5 straight roads and 5 circular roads. The map illustrates 14 of the dwellings. On every straight road there are 3 dwellings. On every circular road, there are also 3 dwellings. Which location on the map should the 15th dwelling be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -7140,6 +6906,8 @@
       }
     ],
     "images": [
+      "dataset/clip_images/73/puzzle_73_944_grid6.png",
+      "dataset/clip_images/73/puzzle_73_944_grid6.png",
       "dataset/clip_images/73/puzzle_73_944_grid8.png"
     ],
     "id": 944
@@ -7232,179 +7000,11 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhich houses are on the first straight road?",
-        "role": "user"
-      },
-      {
-        "content": "A-B",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the first straight road?",
-        "role": "user"
-      },
-      {
-        "content": "A-B",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the first straight road?",
-        "role": "user"
-      },
-      {
-        "content": "A-B",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the first straight road?",
-        "role": "user"
-      },
-      {
-        "content": "A-B",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the first straight road?",
-        "role": "user"
-      },
-      {
-        "content": "A-B",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the first straight road?",
-        "role": "user"
-      },
-      {
-        "content": "A-B",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the first straight road?",
-        "role": "user"
-      },
-      {
-        "content": "A-B",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhich houses are on the second straight road?",
         "role": "user"
       },
       {
         "content": "C-D",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the second straight road?",
-        "role": "user"
-      },
-      {
-        "content": "C-D",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the second straight road?",
-        "role": "user"
-      },
-      {
-        "content": "C-D",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the second straight road?",
-        "role": "user"
-      },
-      {
-        "content": "C-D",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the second straight road?",
-        "role": "user"
-      },
-      {
-        "content": "C-D",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the second straight road?",
-        "role": "user"
-      },
-      {
-        "content": "C-D",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the second straight road?",
-        "role": "user"
-      },
-      {
-        "content": "C-D",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the second straight road?",
-        "role": "user"
-      },
-      {
-        "content": "C-D",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the third straight road?",
-        "role": "user"
-      },
-      {
-        "content": "E-D",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the third straight road?",
-        "role": "user"
-      },
-      {
-        "content": "E-D",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the third straight road?",
-        "role": "user"
-      },
-      {
-        "content": "E-D",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the third straight road?",
-        "role": "user"
-      },
-      {
-        "content": "E-D",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the third straight road?",
-        "role": "user"
-      },
-      {
-        "content": "E-D",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the third straight road?",
-        "role": "user"
-      },
-      {
-        "content": "E-D",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the third straight road?",
-        "role": "user"
-      },
-      {
-        "content": "E-D",
         "role": "assistant"
       },
       {
@@ -7424,118 +7024,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhich houses are on the first round road?",
-        "role": "user"
-      },
-      {
-        "content": "A-D",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the first round road?",
-        "role": "user"
-      },
-      {
-        "content": "A-D",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the first round road?",
-        "role": "user"
-      },
-      {
-        "content": "A-D",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the first round road?",
-        "role": "user"
-      },
-      {
-        "content": "A-D",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the first round road?",
-        "role": "user"
-      },
-      {
-        "content": "A-D",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the first round road?",
-        "role": "user"
-      },
-      {
-        "content": "A-D",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the first round road?",
-        "role": "user"
-      },
-      {
-        "content": "A-D",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the second round road?",
-        "role": "user"
-      },
-      {
-        "content": "B-E",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the second round road?",
-        "role": "user"
-      },
-      {
-        "content": "B-E",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the second round road?",
-        "role": "user"
-      },
-      {
-        "content": "B-E",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the second round road?",
-        "role": "user"
-      },
-      {
-        "content": "B-E",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the second round road?",
-        "role": "user"
-      },
-      {
-        "content": "B-E",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the second round road?",
-        "role": "user"
-      },
-      {
-        "content": "B-E",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the second round road?",
-        "role": "user"
-      },
-      {
-        "content": "B-E",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhich houses are on the second round road?",
         "role": "user"
       },
@@ -7549,190 +7037,6 @@
       },
       {
         "content": "C-E",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the third round road?",
-        "role": "user"
-      },
-      {
-        "content": "C-E",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the third round road?",
-        "role": "user"
-      },
-      {
-        "content": "C-E",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the third round road?",
-        "role": "user"
-      },
-      {
-        "content": "C-E",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the third round road?",
-        "role": "user"
-      },
-      {
-        "content": "C-E",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the third round road?",
-        "role": "user"
-      },
-      {
-        "content": "C-E",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the third round road?",
-        "role": "user"
-      },
-      {
-        "content": "C-E",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the third round road?",
-        "role": "user"
-      },
-      {
-        "content": "C-E",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are connected to house F?",
-        "role": "user"
-      },
-      {
-        "content": "Unknown",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are connected to house F?",
-        "role": "user"
-      },
-      {
-        "content": "Unknown",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are connected to house F?",
-        "role": "user"
-      },
-      {
-        "content": "Unknown",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are connected to house F?",
-        "role": "user"
-      },
-      {
-        "content": "Unknown",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are connected to house F?",
-        "role": "user"
-      },
-      {
-        "content": "Unknown",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are connected to house F?",
-        "role": "user"
-      },
-      {
-        "content": "Unknown",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are connected to house F?",
-        "role": "user"
-      },
-      {
-        "content": "Unknown",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are connected to house F?",
-        "role": "user"
-      },
-      {
-        "content": "Unknown",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nAre there any restrictions on where house F can be placed?",
-        "role": "user"
-      },
-      {
-        "content": "No restrictions mentioned.",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nAre there any restrictions on where house F can be placed?",
-        "role": "user"
-      },
-      {
-        "content": "No restrictions mentioned.",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nAre there any restrictions on where house F can be placed?",
-        "role": "user"
-      },
-      {
-        "content": "No restrictions mentioned.",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nAre there any restrictions on where house F can be placed?",
-        "role": "user"
-      },
-      {
-        "content": "No restrictions mentioned.",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nAre there any restrictions on where house F can be placed?",
-        "role": "user"
-      },
-      {
-        "content": "No restrictions mentioned.",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nAre there any restrictions on where house F can be placed?",
-        "role": "user"
-      },
-      {
-        "content": "No restrictions mentioned.",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nAre there any restrictions on where house F can be placed?",
-        "role": "user"
-      },
-      {
-        "content": "No restrictions mentioned.",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nAre there any restrictions on where house F can be placed?",
-        "role": "user"
-      },
-      {
-        "content": "No restrictions mentioned.",
         "role": "assistant"
       },
       {
@@ -7741,14 +7045,6 @@
       },
       {
         "content": "5",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich houses are on the third straight road?",
-        "role": "user"
-      },
-      {
-        "content": "E-D",
         "role": "assistant"
       },
       {
@@ -7762,71 +7058,12 @@
     ],
     "images": [
       "dataset/clip_images/73/puzzle_73_989_grid9.png",
-      "dataset/clip_images/73/puzzle_73_989_grid8.png",
       "dataset/clip_images/73/puzzle_73_989_grid9.png",
-      "dataset/clip_images/73/puzzle_73_989_grid6.png",
       "dataset/clip_images/73/puzzle_73_989_grid9.png",
-      "dataset/clip_images/73/puzzle_73_989_grid8.png",
-      "dataset/clip_images/73/puzzle_73_989_grid8.png",
-      "dataset/clip_images/73/puzzle_73_989_grid8.png",
+      "dataset/clip_images/73/puzzle_73_989_grid9.png",
+      "dataset/clip_images/73/puzzle_73_989_grid9.png",
       "dataset/clip_images/73/puzzle_73_989_grid9.png",
       "dataset/clip_images/73/puzzle_73_989_grid8.png",
-      "dataset/clip_images/73/puzzle_73_989_grid9.png",
-      "dataset/clip_images/73/puzzle_73_989_grid6.png",
-      "dataset/clip_images/73/puzzle_73_989_grid9.png",
-      "dataset/clip_images/73/puzzle_73_989_grid8.png",
-      "dataset/clip_images/73/puzzle_73_989_grid8.png",
-      "dataset/clip_images/73/puzzle_73_989_grid8.png",
-      "dataset/clip_images/73/puzzle_73_989_grid9.png",
-      "dataset/clip_images/73/puzzle_73_989_grid8.png",
-      "dataset/clip_images/73/puzzle_73_989_grid9.png",
-      "dataset/clip_images/73/puzzle_73_989_grid6.png",
-      "dataset/clip_images/73/puzzle_73_989_grid9.png",
-      "dataset/clip_images/73/puzzle_73_989_grid8.png",
-      "dataset/clip_images/73/puzzle_73_989_grid8.png",
-      "dataset/clip_images/73/puzzle_73_989_grid8.png",
-      "dataset/clip_images/73/puzzle_73_989_grid9.png",
-      "dataset/clip_images/73/puzzle_73_989_grid8.png",
-      "dataset/clip_images/73/puzzle_73_989_grid9.png",
-      "dataset/clip_images/73/puzzle_73_989_grid6.png",
-      "dataset/clip_images/73/puzzle_73_989_grid9.png",
-      "dataset/clip_images/73/puzzle_73_989_grid8.png",
-      "dataset/clip_images/73/puzzle_73_989_grid8.png",
-      "dataset/clip_images/73/puzzle_73_989_grid8.png",
-      "dataset/clip_images/73/puzzle_73_989_grid9.png",
-      "dataset/clip_images/73/puzzle_73_989_grid8.png",
-      "dataset/clip_images/73/puzzle_73_989_grid9.png",
-      "dataset/clip_images/73/puzzle_73_989_grid6.png",
-      "dataset/clip_images/73/puzzle_73_989_grid9.png",
-      "dataset/clip_images/73/puzzle_73_989_grid8.png",
-      "dataset/clip_images/73/puzzle_73_989_grid8.png",
-      "dataset/clip_images/73/puzzle_73_989_grid8.png",
-      "dataset/clip_images/73/puzzle_73_989_grid9.png",
-      "dataset/clip_images/73/puzzle_73_989_grid8.png",
-      "dataset/clip_images/73/puzzle_73_989_grid9.png",
-      "dataset/clip_images/73/puzzle_73_989_grid6.png",
-      "dataset/clip_images/73/puzzle_73_989_grid9.png",
-      "dataset/clip_images/73/puzzle_73_989_grid8.png",
-      "dataset/clip_images/73/puzzle_73_989_grid8.png",
-      "dataset/clip_images/73/puzzle_73_989_grid8.png",
-      "dataset/clip_images/73/puzzle_73_989_grid9.png",
-      "dataset/clip_images/73/puzzle_73_989_grid8.png",
-      "dataset/clip_images/73/puzzle_73_989_grid9.png",
-      "dataset/clip_images/73/puzzle_73_989_grid6.png",
-      "dataset/clip_images/73/puzzle_73_989_grid9.png",
-      "dataset/clip_images/73/puzzle_73_989_grid8.png",
-      "dataset/clip_images/73/puzzle_73_989_grid8.png",
-      "dataset/clip_images/73/puzzle_73_989_grid8.png",
-      "dataset/clip_images/73/puzzle_73_989_grid9.png",
-      "dataset/clip_images/73/puzzle_73_989_grid8.png",
-      "dataset/clip_images/73/puzzle_73_989_grid9.png",
-      "dataset/clip_images/73/puzzle_73_989_grid6.png",
-      "dataset/clip_images/73/puzzle_73_989_grid9.png",
-      "dataset/clip_images/73/puzzle_73_989_grid8.png",
-      "dataset/clip_images/73/puzzle_73_989_grid8.png",
-      "dataset/clip_images/73/puzzle_73_989_grid8.png",
-      "dataset/clip_images/73/puzzle_73_989_grid8.png",
-      "dataset/clip_images/73/puzzle_73_989_grid9.png",
       "dataset/clip_images/73/puzzle_73_989_grid8.png"
     ],
     "id": 989

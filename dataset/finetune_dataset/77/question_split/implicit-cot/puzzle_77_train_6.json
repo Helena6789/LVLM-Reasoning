@@ -1493,22 +1493,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the background color of figure E?",
-        "role": "user"
-      },
-      {
-        "content": "Beige",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the background color of the inverted image of figure E?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhat is the background color of the inverted image of figure E?",
         "role": "user"
       },
@@ -1527,8 +1511,6 @@
     ],
     "images": [
       "dataset/clip_images/77/puzzle_77_1230_grid12.png",
-      "dataset/clip_images/77/puzzle_77_1230_grid6.png",
-      "dataset/clip_images/77/puzzle_77_1230_grid6.png",
       "dataset/clip_images/77/puzzle_77_1230_grid6.png",
       "dataset/clip_images/77/puzzle_77_1230_grid6.png",
       "dataset/clip_images/77/puzzle_77_1230_grid6.png",
@@ -1723,14 +1705,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the inverted background color of the given drawing on the left?",
-        "role": "user"
-      },
-      {
-        "content": "gray",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which drawing matches with the given drawing on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -1742,7 +1716,6 @@
     "images": [
       "dataset/clip_images/77/puzzle_77_1265_grid6.png",
       "dataset/clip_images/77/puzzle_77_1265_grid5.png",
-      "dataset/clip_images/77/puzzle_77_1265_grid6.png",
       "dataset/clip_images/77/puzzle_77_1265_grid1.png"
     ],
     "id": 1265
@@ -2153,14 +2126,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhich figure on the right has a predominantly green background?",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhat does the dark brown color in figure B turn into when it is inverted?",
         "role": "user"
       },
@@ -2179,7 +2144,6 @@
     ],
     "images": [
       "dataset/clip_images/77/puzzle_77_1328_grid5.png",
-      "dataset/clip_images/77/puzzle_77_1328_grid4.png",
       "dataset/clip_images/77/puzzle_77_1328_grid6.png",
       "dataset/clip_images/77/puzzle_77_1328_grid8.png"
     ],
@@ -3287,6 +3251,31 @@
   {
     "messages": [
       {
+        "content": "<image>\nWhich drawing contains magenta, cyan, and yellow circles on a purple background?",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which drawing matches with the given drawing on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/clip_images/77/puzzle_77_155_grid5.png",
+      "dataset/clip_images/77/puzzle_77_155_grid5.png"
+    ],
+    "id": 155
+  },
+  {
+    "messages": [
+      {
         "content": "<image>\nWhich option has the color circles with the same positions as the given picture on the left?",
         "role": "user"
       },
@@ -3682,14 +3671,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhich image on the right has the dominant background color of cyan?",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which image on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -3700,7 +3681,6 @@
     ],
     "images": [
       "dataset/clip_images/77/puzzle_77_1610_grid6.png",
-      "dataset/clip_images/77/puzzle_77_1610_grid5.png",
       "dataset/clip_images/77/puzzle_77_1610_grid5.png",
       "dataset/clip_images/77/puzzle_77_1610_grid9.png"
     ],
@@ -4013,14 +3993,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the background color of the inverted leftmost image?",
-        "role": "user"
-      },
-      {
-        "content": "Dark Blue",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which image on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -4030,7 +4002,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1672_grid5.png",
       "dataset/clip_images/77/puzzle_77_1672_grid5.png",
       "dataset/clip_images/77/puzzle_77_1672_grid5.png",
       "dataset/clip_images/77/puzzle_77_1672_grid10.png"
@@ -4577,22 +4548,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the background color of image D?",
-        "role": "user"
-      },
-      {
-        "content": "Purple",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the color of the background if we invert the purple color?",
-        "role": "user"
-      },
-      {
-        "content": "Green",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhat is the color of the background if we invert the purple color?",
         "role": "user"
       },
@@ -4613,9 +4568,7 @@
       "dataset/clip_images/77/puzzle_77_177_grid5.png",
       "dataset/clip_images/77/puzzle_77_177_grid6.png",
       "dataset/clip_images/77/puzzle_77_177_grid5.png",
-      "dataset/clip_images/77/puzzle_77_177_grid8.png",
       "dataset/clip_images/77/puzzle_77_177_grid5.png",
-      "dataset/clip_images/77/puzzle_77_177_grid8.png",
       "dataset/clip_images/77/puzzle_77_177_grid6.png"
     ],
     "id": 177
@@ -5017,22 +4970,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat color is the background of drawing E?",
-        "role": "user"
-      },
-      {
-        "content": "Brown",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat color does the brown background of drawing E become when inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhat color does the brown background of drawing E become when inverted?",
         "role": "user"
       },
@@ -5052,8 +4989,6 @@
     "images": [
       "dataset/clip_images/77/puzzle_77_1812_grid5.png",
       "dataset/clip_images/77/puzzle_77_1812_grid8.png",
-      "dataset/clip_images/77/puzzle_77_1812_grid6.png",
-      "dataset/clip_images/77/puzzle_77_1812_grid6.png",
       "dataset/clip_images/77/puzzle_77_1812_grid6.png",
       "dataset/clip_images/77/puzzle_77_1812_grid6.png",
       "dataset/clip_images/77/puzzle_77_1812_grid6.png"
@@ -5122,14 +5057,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the color of the inverted image for pink?",
-        "role": "user"
-      },
-      {
-        "content": "Green",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhat is the primary color in the provided left image?",
         "role": "user"
       },
@@ -5148,7 +5075,6 @@
     ],
     "images": [
       "dataset/clip_images/77/puzzle_77_1833_grid5.png",
-      "dataset/clip_images/77/puzzle_77_1833_grid6.png",
       "dataset/clip_images/77/puzzle_77_1833_grid4.png",
       "dataset/clip_images/77/puzzle_77_1833_grid2.png"
     ],
@@ -5471,22 +5397,6 @@
       "dataset/clip_images/77/puzzle_77_1892_grid2.png"
     ],
     "id": 1892
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which drawing on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/77/puzzle_77_1896_grid1.png"
-    ],
-    "id": 1896
   },
   {
     "messages": [
@@ -5977,70 +5887,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the inverted color of green?",
-        "role": "user"
-      },
-      {
-        "content": "Magenta",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the inverted color of green?",
-        "role": "user"
-      },
-      {
-        "content": "Magenta",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the inverted color of green?",
-        "role": "user"
-      },
-      {
-        "content": "Magenta",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat colors would purple and red invert to?",
-        "role": "user"
-      },
-      {
-        "content": "Yellow and cyan",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat colors would purple and red invert to?",
-        "role": "user"
-      },
-      {
-        "content": "Yellow and cyan",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat colors would purple and red invert to?",
-        "role": "user"
-      },
-      {
-        "content": "Yellow and cyan",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nBased on the inverted colors of the left circle, which right circle's background is magenta?",
-        "role": "user"
-      },
-      {
-        "content": "B",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nBased on the inverted colors of the left circle, which right circle's background is magenta?",
-        "role": "user"
-      },
-      {
-        "content": "B",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the inverted colors of the left circle, which right circle's background is magenta?",
         "role": "user"
       },
@@ -6066,14 +5912,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1990_grid6.png",
-      "dataset/clip_images/77/puzzle_77_1990_grid6.png",
-      "dataset/clip_images/77/puzzle_77_1990_grid6.png",
-      "dataset/clip_images/77/puzzle_77_1990_grid6.png",
-      "dataset/clip_images/77/puzzle_77_1990_grid6.png",
-      "dataset/clip_images/77/puzzle_77_1990_grid6.png",
-      "dataset/clip_images/77/puzzle_77_1990_grid6.png",
-      "dataset/clip_images/77/puzzle_77_1990_grid6.png",
       "dataset/clip_images/77/puzzle_77_1990_grid6.png",
       "dataset/clip_images/77/puzzle_77_1990_grid6.png",
       "dataset/clip_images/77/puzzle_77_1990_grid1.png"
@@ -6684,14 +6522,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich drawing on the right has a purple background?",
-        "role": "user"
-      },
-      {
-        "content": "D",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which drawing on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -6701,7 +6531,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_268_grid5.png",
       "dataset/clip_images/77/puzzle_77_268_grid9.png"
     ],
     "id": 268
@@ -6836,6 +6665,22 @@
   {
     "messages": [
       {
+        "content": "<image>\nWhat is the main color of D when colors are inverted?",
+        "role": "user"
+      },
+      {
+        "content": "Yellow",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhat is the main color of E when colors are inverted?",
+        "role": "user"
+      },
+      {
+        "content": "Red",
+        "role": "assistant"
+      },
+      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which cartoon on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -6845,6 +6690,8 @@
       }
     ],
     "images": [
+      "dataset/clip_images/77/puzzle_77_278_grid5.png",
+      "dataset/clip_images/77/puzzle_77_278_grid5.png",
       "dataset/clip_images/77/puzzle_77_278_grid8.png"
     ],
     "id": 278
@@ -7128,510 +6975,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat happens to the color purple when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color purple when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color purple when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color purple when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color purple when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color purple when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color purple when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color purple when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color cyan when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Red",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color cyan when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Red",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color cyan when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Red",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color cyan when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Red",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color cyan when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Red",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color cyan when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Red",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color cyan when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Red",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color cyan when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Red",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color blue when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Yellow",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color blue when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Yellow",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color blue when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Yellow",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color blue when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Yellow",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color blue when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Yellow",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color blue when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Yellow",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color blue when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Yellow",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color blue when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Yellow",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color red when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Cyan",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color red when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Cyan",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color red when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Cyan",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color red when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Cyan",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color red when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Cyan",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color red when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Cyan",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color red when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Cyan",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color red when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Cyan",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color green when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Purple",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color green when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Purple",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color green when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Purple",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color green when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Purple",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color green when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Purple",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color green when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Purple",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color green when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Purple",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color green when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Purple",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color black when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "White",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color black when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "White",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color black when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "White",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color black when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "White",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color black when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "White",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color black when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "White",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color black when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "White",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color black when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "White",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color yellow when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color yellow when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color yellow when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color yellow when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color yellow when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color yellow when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color yellow when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color yellow when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color white when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Black",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color white when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Black",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color white when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Black",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color white when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Black",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color white when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Black",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color white when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Black",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat happens to the color white when it is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Black",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhat happens to the color white when it is inverted?",
         "role": "user"
       },
@@ -7649,69 +6992,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid4.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid4.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid4.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid4.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid4.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid4.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid4.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid4.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid4.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid4.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid4.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid4.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid4.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid4.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid4.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid4.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
-      "dataset/clip_images/77/puzzle_77_332_grid6.png",
       "dataset/clip_images/77/puzzle_77_332_grid6.png",
       "dataset/clip_images/77/puzzle_77_332_grid6.png",
       "dataset/clip_images/77/puzzle_77_332_grid1.png"
@@ -7922,22 +7202,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the main figure color of Figure D?",
-        "role": "user"
-      },
-      {
-        "content": "Yellow",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the main figure color of Figure D?",
-        "role": "user"
-      },
-      {
-        "content": "Yellow",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which figure matches with the given figure on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -7950,14 +7214,8 @@
       "dataset/clip_images/77/puzzle_77_357_grid6.png",
       "dataset/clip_images/77/puzzle_77_357_grid3.png",
       "dataset/clip_images/77/puzzle_77_357_grid3.png",
-      "dataset/clip_images/77/puzzle_77_357_grid5.png",
-      "dataset/clip_images/77/puzzle_77_357_grid6.png",
       "dataset/clip_images/77/puzzle_77_357_grid3.png",
-      "dataset/clip_images/77/puzzle_77_357_grid5.png",
-      "dataset/clip_images/77/puzzle_77_357_grid6.png",
       "dataset/clip_images/77/puzzle_77_357_grid3.png",
-      "dataset/clip_images/77/puzzle_77_357_grid5.png",
-      "dataset/clip_images/77/puzzle_77_357_grid6.png",
       "dataset/clip_images/77/puzzle_77_357_grid7.png"
     ],
     "id": 357
@@ -8263,6 +7521,14 @@
   {
     "messages": [
       {
+        "content": "<image>\nWhich image on the right contains blue background?",
+        "role": "user"
+      },
+      {
+        "content": "Option D image",
+        "role": "assistant"
+      },
+      {
         "content": "<image>\nDoes the left image contain any blue color elements before inverting?",
         "role": "user"
       },
@@ -8280,6 +7546,7 @@
       }
     ],
     "images": [
+      "dataset/clip_images/77/puzzle_77_394_grid4.png",
       "dataset/clip_images/77/puzzle_77_394_grid6.png",
       "dataset/clip_images/77/puzzle_77_394_grid5.png",
       "dataset/clip_images/77/puzzle_77_394_grid9.png"
@@ -8774,14 +8041,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhich figure on the right has gray shapes on a multi-colored background?",
-        "role": "user"
-      },
-      {
-        "content": "A",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which figure on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -8793,7 +8052,6 @@
     "images": [
       "dataset/clip_images/77/puzzle_77_461_grid4.png",
       "dataset/clip_images/77/puzzle_77_461_grid6.png",
-      "dataset/clip_images/77/puzzle_77_461_grid4.png",
       "dataset/clip_images/77/puzzle_77_461_grid1.png"
     ],
     "id": 461
@@ -9444,30 +8702,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the background color of answer choice D?",
-        "role": "user"
-      },
-      {
-        "content": "Dark Green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the background color of the given picture on the left?",
-        "role": "user"
-      },
-      {
-        "content": "Brown",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the background color of the given picture on the left if we invert colors?",
-        "role": "user"
-      },
-      {
-        "content": "Teal",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which picture matches with the given picture on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -9477,9 +8711,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_548_grid6.png",
-      "dataset/clip_images/77/puzzle_77_548_grid6.png",
-      "dataset/clip_images/77/puzzle_77_548_grid6.png",
       "dataset/clip_images/77/puzzle_77_548_grid2.png"
     ],
     "id": 548
@@ -9822,14 +9053,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the main background color when the green color is inverted?",
-        "role": "user"
-      },
-      {
-        "content": "purple",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which cartoon matches with the given cartoon on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -9839,7 +9062,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_584_grid6.png",
       "dataset/clip_images/77/puzzle_77_584_grid6.png",
       "dataset/clip_images/77/puzzle_77_584_grid6.png"
     ],
@@ -9967,59 +9189,11 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nGiven the previous steps of questions and answers: What is the primary color of the circle on the left?",
-        "role": "user"
-      },
-      {
-        "content": "Light green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nGiven the previous steps of questions and answers: What is the primary color of the circle on the left?",
-        "role": "user"
-      },
-      {
-        "content": "Light green",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhat is the inverted color of light green?",
         "role": "user"
       },
       {
         "content": "Purple",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the inverted color of light green?",
-        "role": "user"
-      },
-      {
-        "content": "Purple",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the inverted color of light green?",
-        "role": "user"
-      },
-      {
-        "content": "Purple",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich option has a primary color of dark purple?",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich option has a primary color of dark purple?",
-        "role": "user"
-      },
-      {
-        "content": "C",
         "role": "assistant"
       },
       {
@@ -10041,14 +9215,8 @@
     ],
     "images": [
       "dataset/clip_images/77/puzzle_77_60_grid10.png",
-      "dataset/clip_images/77/puzzle_77_60_grid4.png",
-      "dataset/clip_images/77/puzzle_77_60_grid5.png",
       "dataset/clip_images/77/puzzle_77_60_grid10.png",
-      "dataset/clip_images/77/puzzle_77_60_grid4.png",
-      "dataset/clip_images/77/puzzle_77_60_grid5.png",
       "dataset/clip_images/77/puzzle_77_60_grid10.png",
-      "dataset/clip_images/77/puzzle_77_60_grid4.png",
-      "dataset/clip_images/77/puzzle_77_60_grid5.png",
       "dataset/clip_images/77/puzzle_77_60_grid9.png"
     ],
     "id": 60
@@ -10656,14 +9824,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhich option has a dark purple background color?",
-        "role": "user"
-      },
-      {
-        "content": "A",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which image matches with the given image on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -10674,7 +9834,6 @@
     ],
     "images": [
       "dataset/clip_images/77/puzzle_77_711_grid6.png",
-      "dataset/clip_images/77/puzzle_77_711_grid5.png",
       "dataset/clip_images/77/puzzle_77_711_grid5.png",
       "dataset/clip_images/77/puzzle_77_711_grid9.png"
     ],
@@ -10936,59 +10095,11 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the background color of the drawing in option E?",
-        "role": "user"
-      },
-      {
-        "content": "brown",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the background color of the drawing in option E?",
-        "role": "user"
-      },
-      {
-        "content": "brown",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhat is the background color of the drawing when inverted from brown?",
         "role": "user"
       },
       {
         "content": "blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the background color of the drawing when inverted from brown?",
-        "role": "user"
-      },
-      {
-        "content": "blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the background color of the drawing when inverted from brown?",
-        "role": "user"
-      },
-      {
-        "content": "blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich drawing on the right has a blue background?",
-        "role": "user"
-      },
-      {
-        "content": "D",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich drawing on the right has a blue background?",
-        "role": "user"
-      },
-      {
-        "content": "D",
         "role": "assistant"
       },
       {
@@ -11019,13 +10130,7 @@
     "images": [
       "dataset/clip_images/77/puzzle_77_761_grid6.png",
       "dataset/clip_images/77/puzzle_77_761_grid6.png",
-      "dataset/clip_images/77/puzzle_77_761_grid5.png",
       "dataset/clip_images/77/puzzle_77_761_grid6.png",
-      "dataset/clip_images/77/puzzle_77_761_grid6.png",
-      "dataset/clip_images/77/puzzle_77_761_grid5.png",
-      "dataset/clip_images/77/puzzle_77_761_grid6.png",
-      "dataset/clip_images/77/puzzle_77_761_grid6.png",
-      "dataset/clip_images/77/puzzle_77_761_grid5.png",
       "dataset/clip_images/77/puzzle_77_761_grid5.png",
       "dataset/clip_images/77/puzzle_77_761_grid7.png"
     ],
@@ -11058,22 +10163,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the primary background color of figure C?",
-        "role": "user"
-      },
-      {
-        "content": "yellow",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the inverted color of yellow?",
-        "role": "user"
-      },
-      {
-        "content": "blue",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhat is the inverted color of yellow?",
         "role": "user"
       },
@@ -11094,9 +10183,7 @@
       "dataset/clip_images/77/puzzle_77_764_grid6.png",
       "dataset/clip_images/77/puzzle_77_764_grid5.png",
       "dataset/clip_images/77/puzzle_77_764_grid4.png",
-      "dataset/clip_images/77/puzzle_77_764_grid5.png",
       "dataset/clip_images/77/puzzle_77_764_grid4.png",
-      "dataset/clip_images/77/puzzle_77_764_grid5.png",
       "dataset/clip_images/77/puzzle_77_764_grid7.png"
     ],
     "id": 764
@@ -11253,398 +10340,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the primary color of the given figure on the left?",
-        "role": "user"
-      },
-      {
-        "content": "Beige",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of the given figure on the left?",
-        "role": "user"
-      },
-      {
-        "content": "Beige",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of the given figure on the left?",
-        "role": "user"
-      },
-      {
-        "content": "Beige",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of the given figure on the left?",
-        "role": "user"
-      },
-      {
-        "content": "Beige",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of the given figure on the left?",
-        "role": "user"
-      },
-      {
-        "content": "Beige",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of the given figure on the left?",
-        "role": "user"
-      },
-      {
-        "content": "Beige",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of the given figure on the left?",
-        "role": "user"
-      },
-      {
-        "content": "Beige",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of Figure A?",
-        "role": "user"
-      },
-      {
-        "content": "Light Yellow",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of Figure A?",
-        "role": "user"
-      },
-      {
-        "content": "Light Yellow",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of Figure A?",
-        "role": "user"
-      },
-      {
-        "content": "Light Yellow",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of Figure A?",
-        "role": "user"
-      },
-      {
-        "content": "Light Yellow",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of Figure A?",
-        "role": "user"
-      },
-      {
-        "content": "Light Yellow",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of Figure A?",
-        "role": "user"
-      },
-      {
-        "content": "Light Yellow",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of Figure A?",
-        "role": "user"
-      },
-      {
-        "content": "Light Yellow",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of the given figure on the left if colors are inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Dark Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of the given figure on the left if colors are inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Dark Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of the given figure on the left if colors are inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Dark Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of the given figure on the left if colors are inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Dark Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of the given figure on the left if colors are inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Dark Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of the given figure on the left if colors are inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Dark Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of the given figure on the left if colors are inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Dark Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of Figure B?",
-        "role": "user"
-      },
-      {
-        "content": "Dark Gray",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of Figure B?",
-        "role": "user"
-      },
-      {
-        "content": "Dark Gray",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of Figure B?",
-        "role": "user"
-      },
-      {
-        "content": "Dark Gray",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of Figure B?",
-        "role": "user"
-      },
-      {
-        "content": "Dark Gray",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of Figure B?",
-        "role": "user"
-      },
-      {
-        "content": "Dark Gray",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of Figure B?",
-        "role": "user"
-      },
-      {
-        "content": "Dark Gray",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of Figure B?",
-        "role": "user"
-      },
-      {
-        "content": "Dark Gray",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of Figure C?",
-        "role": "user"
-      },
-      {
-        "content": "Olive Green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of Figure C?",
-        "role": "user"
-      },
-      {
-        "content": "Olive Green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of Figure C?",
-        "role": "user"
-      },
-      {
-        "content": "Olive Green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of Figure C?",
-        "role": "user"
-      },
-      {
-        "content": "Olive Green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of Figure C?",
-        "role": "user"
-      },
-      {
-        "content": "Olive Green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of Figure C?",
-        "role": "user"
-      },
-      {
-        "content": "Olive Green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of Figure C?",
-        "role": "user"
-      },
-      {
-        "content": "Olive Green",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of Figure D?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of Figure D?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of Figure D?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of Figure D?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of Figure D?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of Figure D?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of Figure D?",
-        "role": "user"
-      },
-      {
-        "content": "Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of Figure E?",
-        "role": "user"
-      },
-      {
-        "content": "Dark Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of Figure E?",
-        "role": "user"
-      },
-      {
-        "content": "Dark Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of Figure E?",
-        "role": "user"
-      },
-      {
-        "content": "Dark Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of Figure E?",
-        "role": "user"
-      },
-      {
-        "content": "Dark Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of Figure E?",
-        "role": "user"
-      },
-      {
-        "content": "Dark Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of Figure E?",
-        "role": "user"
-      },
-      {
-        "content": "Dark Blue",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the primary color of Figure E?",
-        "role": "user"
-      },
-      {
-        "content": "Dark Blue",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which figure matches with the given figure on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -11654,55 +10349,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_781_grid6.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid6.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid6.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid6.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid6.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid6.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid6.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
-      "dataset/clip_images/77/puzzle_77_781_grid5.png",
       "dataset/clip_images/77/puzzle_77_781_grid6.png",
       "dataset/clip_images/77/puzzle_77_781_grid1.png"
     ],
@@ -12361,14 +11007,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the background color of the left image?",
-        "role": "user"
-      },
-      {
-        "content": "light green",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which image on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -12380,7 +11018,6 @@
     "images": [
       "dataset/clip_images/77/puzzle_77_867_grid5.png",
       "dataset/clip_images/77/puzzle_77_867_grid5.png",
-      "dataset/clip_images/77/puzzle_77_867_grid6.png",
       "dataset/clip_images/77/puzzle_77_867_grid2.png"
     ],
     "id": 867

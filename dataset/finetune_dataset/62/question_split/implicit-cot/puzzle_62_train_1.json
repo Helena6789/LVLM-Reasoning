@@ -895,14 +895,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nAt which location is the controller placed?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhat is the location of the bread?",
         "role": "user"
       },
@@ -940,7 +932,6 @@
       "dataset/clip_images/62/puzzle_62_1135_grid4.png",
       "dataset/clip_images/62/puzzle_62_1135_grid4.png",
       "dataset/clip_images/62/puzzle_62_1135_grid5.png",
-      "dataset/clip_images/62/puzzle_62_1135_grid4.png",
       "dataset/clip_images/62/puzzle_62_1135_grid6.png",
       "dataset/clip_images/62/puzzle_62_1135_grid4.png",
       "dataset/clip_images/62/puzzle_62_1135_grid5.png",
@@ -1868,14 +1859,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhich row is the house placed on?",
-        "role": "user"
-      },
-      {
-        "content": "3",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Johnny has 6 toy objects: socks, a phone, a lamp, packing peanuts, a drawer, and a house. He puts each toy at a different row of the shelf. He puts phone as shown. The drawer lower to  house. Lamp higher to phone. House higher to lamp. On which row can the lamp not be placed? A: 2,B: 4,C: 6,D: 1,E: 3. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -1885,7 +1868,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1203_grid11.png",
       "dataset/clip_images/62/puzzle_62_1203_grid11.png",
       "dataset/clip_images/62/puzzle_62_1203_grid11.png",
       "dataset/clip_images/62/puzzle_62_1203_grid11.png",
@@ -2147,46 +2129,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nAt which location is the vase placed?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nAt which location is the vase placed?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nAt which location is the cup placed?",
-        "role": "user"
-      },
-      {
-        "content": "7",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nAt which location is the cup placed?",
-        "role": "user"
-      },
-      {
-        "content": "7",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nAt which location is the phone placed?",
-        "role": "user"
-      },
-      {
-        "content": "6",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Katherine has 7 toy objects: sun glasses, a cup, a clay pot, an ice cube tray, a helmet, a vase, and a phone. She places each toy at a different location of the shelf. She places vase as shown. The clay pot ahead of ice cube tray and sun glasses ahead of phone. Phone behind vase. Clay pot ahead of vase. On which location can the sun glasses not be placed? A: 2,B: 1,C: 7,D: 5,E: 4. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -2202,11 +2144,6 @@
       "dataset/clip_images/62/puzzle_62_1293_grid6.png",
       "dataset/clip_images/62/puzzle_62_1293_grid6.png",
       "dataset/clip_images/62/puzzle_62_1293_grid5.png",
-      "dataset/clip_images/62/puzzle_62_1293_grid5.png",
-      "dataset/clip_images/62/puzzle_62_1293_grid5.png",
-      "dataset/clip_images/62/puzzle_62_1293_grid5.png",
-      "dataset/clip_images/62/puzzle_62_1293_grid5.png",
-      "dataset/clip_images/62/puzzle_62_1293_grid6.png",
       "dataset/clip_images/62/puzzle_62_1293_grid6.png"
     ],
     "id": 1293
@@ -2877,14 +2814,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhich item is ahead of the controller?",
-        "role": "user"
-      },
-      {
-        "content": "buckle",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Charles has 5 toy items: a zipper, a controller, a vase, a buckle, and a puddle. He keeps each toy at a different location of the shelf. He keeps vase as shown. The vase ahead of puddle. Zipper ahead of vase. On which location can the zipper not be placed? A: 2,B: 3,C: 4,D: 5,E: 1. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -2898,9 +2827,6 @@
       "dataset/clip_images/62/puzzle_62_1399_grid4.png",
       "dataset/clip_images/62/puzzle_62_1399_grid4.png",
       "dataset/clip_images/62/puzzle_62_1399_grid5.png",
-      "dataset/clip_images/62/puzzle_62_1399_grid5.png",
-      "dataset/clip_images/62/puzzle_62_1399_grid5.png",
-      "dataset/clip_images/62/puzzle_62_1399_grid4.png",
       "dataset/clip_images/62/puzzle_62_1399_grid5.png",
       "dataset/clip_images/62/puzzle_62_1399_grid1.png"
     ],
@@ -3108,14 +3034,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nOn which row is the sofa placed?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Joseph has 6 toy objects: a sofa, a sidewalk, street lights, a pillow, a knife, and glass. He keeps each toy at a different row of the shelf. He keeps glass as shown. The street lights lower to  pillow and sofa lower to  sidewalk. Knife higher to pillow. On which row can the sofa not be placed? A: 1,B: 2,C: 5,D: 3,E: 6. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -3129,7 +3047,6 @@
       "dataset/clip_images/62/puzzle_62_1428_grid13.png",
       "dataset/clip_images/62/puzzle_62_1428_grid11.png",
       "dataset/clip_images/62/puzzle_62_1428_grid11.png",
-      "dataset/clip_images/62/puzzle_62_1428_grid13.png",
       "dataset/clip_images/62/puzzle_62_1428_grid13.png",
       "dataset/clip_images/62/puzzle_62_1428_grid11.png"
     ],
@@ -3228,14 +3145,6 @@
         "role": "user"
       },
       {
-        "content": "TBD",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhere is the house placed on the shelf?",
-        "role": "user"
-      },
-      {
         "content": "2",
         "role": "assistant"
       },
@@ -3257,7 +3166,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1489_grid4.png",
       "dataset/clip_images/62/puzzle_62_1489_grid4.png",
       "dataset/clip_images/62/puzzle_62_1489_grid4.png",
       "dataset/clip_images/62/puzzle_62_1489_grid4.png",
@@ -5020,30 +4928,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhere is the mp3 player placed?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhere is the outlet placed?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhere is the purse placed?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Kathryn has 5 toy items: a mp3 player, a food, a purse, a desk, and an outlet. She keeps each toy at a different location of the shelf. She keeps desk as shown. The purse right of mp3 player. Purse left of desk. Purse right of food. On which location can the mp3 player not be placed? A: 1,B: 2,C: 5,D: 4,E: 3. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -5053,9 +4937,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1905_grid6.png",
-      "dataset/clip_images/62/puzzle_62_1905_grid6.png",
-      "dataset/clip_images/62/puzzle_62_1905_grid6.png",
       "dataset/clip_images/62/puzzle_62_1905_grid6.png",
       "dataset/clip_images/62/puzzle_62_1905_grid6.png",
       "dataset/clip_images/62/puzzle_62_1905_grid6.png",
@@ -5186,14 +5067,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is higher than the plastic fork?",
-        "role": "user"
-      },
-      {
-        "content": "hair brush",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhat is higher than the remote?",
         "role": "user"
       },
@@ -5223,7 +5096,6 @@
       "dataset/clip_images/62/puzzle_62_1910_grid11.png",
       "dataset/clip_images/62/puzzle_62_1910_grid13.png",
       "dataset/clip_images/62/puzzle_62_1910_grid2.png",
-      "dataset/clip_images/62/puzzle_62_1910_grid11.png",
       "dataset/clip_images/62/puzzle_62_1910_grid11.png",
       "dataset/clip_images/62/puzzle_62_1910_grid13.png",
       "dataset/clip_images/62/puzzle_62_1910_grid11.png",
@@ -5774,14 +5646,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nOn which row can the cinder block be placed?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nOn which row can the chapter book be placed?",
         "role": "user"
       },
@@ -5805,7 +5669,6 @@
       "dataset/clip_images/62/puzzle_62_1943_grid13.png",
       "dataset/clip_images/62/puzzle_62_1943_grid13.png",
       "dataset/clip_images/62/puzzle_62_1943_grid11.png",
-      "dataset/clip_images/62/puzzle_62_1943_grid13.png",
       "dataset/clip_images/62/puzzle_62_1943_grid11.png",
       "dataset/clip_images/62/puzzle_62_1943_grid11.png"
     ],
@@ -5932,14 +5795,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhere should the truck be placed?",
-        "role": "user"
-      },
-      {
-        "content": "Below the carrots, which are on row 3.",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhere should the iPod be placed?",
         "role": "user"
       },
@@ -5963,7 +5818,6 @@
       "dataset/clip_images/62/puzzle_62_1958_grid11.png",
       "dataset/clip_images/62/puzzle_62_1958_grid13.png",
       "dataset/clip_images/62/puzzle_62_1958_grid11.png",
-      "dataset/clip_images/62/puzzle_62_1958_grid13.png",
       "dataset/clip_images/62/puzzle_62_1958_grid11.png",
       "dataset/clip_images/62/puzzle_62_1958_grid11.png"
     ],
@@ -6116,14 +5970,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nAt which location is the apple placed?",
-        "role": "user"
-      },
-      {
-        "content": "6",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Tina has 8 toy objects: an apple, an eye liner, a plate, a boom box, a monitor, a cat, a conditioner, and a rubber band. She puts each toy at a different location of the shelf. She puts conditioner as shown. The monitor ahead of cat. Eye liner ahead of plate. Conditioner behind plate. Plate behind apple. On which location can the apple not be placed? A: 7,B: 4,C: 1,D: 2,E: 6. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -6139,7 +5985,6 @@
       "dataset/clip_images/62/puzzle_62_1960_grid4.png",
       "dataset/clip_images/62/puzzle_62_1960_grid4.png",
       "dataset/clip_images/62/puzzle_62_1960_grid6.png",
-      "dataset/clip_images/62/puzzle_62_1960_grid4.png",
       "dataset/clip_images/62/puzzle_62_1960_grid4.png",
       "dataset/clip_images/62/puzzle_62_1960_grid1.png"
     ],
@@ -6250,214 +6095,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhich toy is placed on location 2?",
-        "role": "user"
-      },
-      {
-        "content": "Plate",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich toy is placed on location 1?",
-        "role": "user"
-      },
-      {
-        "content": "Magnet",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich toy is placed on location 1?",
-        "role": "user"
-      },
-      {
-        "content": "Magnet",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich toy is placed on location 1?",
-        "role": "user"
-      },
-      {
-        "content": "Magnet",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich toy is placed on location 1?",
-        "role": "user"
-      },
-      {
-        "content": "Magnet",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich toy is placed on location 1?",
-        "role": "user"
-      },
-      {
-        "content": "Magnet",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich toy is placed on location 2?",
-        "role": "user"
-      },
-      {
-        "content": "Plate",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich toy is placed on location 2?",
-        "role": "user"
-      },
-      {
-        "content": "Plate",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich toy is placed on location 2?",
-        "role": "user"
-      },
-      {
-        "content": "Plate",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich toy is placed on location 2?",
-        "role": "user"
-      },
-      {
-        "content": "Plate",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich toy is placed on location 2?",
-        "role": "user"
-      },
-      {
-        "content": "Plate",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich toy is placed on location 3?",
-        "role": "user"
-      },
-      {
-        "content": "Bookmark",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich toy is placed on location 3?",
-        "role": "user"
-      },
-      {
-        "content": "Bookmark",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich toy is placed on location 3?",
-        "role": "user"
-      },
-      {
-        "content": "Bookmark",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich toy is placed on location 3?",
-        "role": "user"
-      },
-      {
-        "content": "Bookmark",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich toy is placed on location 3?",
-        "role": "user"
-      },
-      {
-        "content": "Bookmark",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich toy is placed on location 4?",
-        "role": "user"
-      },
-      {
-        "content": "Fridge",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich toy is placed on location 4?",
-        "role": "user"
-      },
-      {
-        "content": "Fridge",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich toy is placed on location 4?",
-        "role": "user"
-      },
-      {
-        "content": "Fridge",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich toy is placed on location 4?",
-        "role": "user"
-      },
-      {
-        "content": "Fridge",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich toy is placed on location 4?",
-        "role": "user"
-      },
-      {
-        "content": "Fridge",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich toy is placed on location 5?",
-        "role": "user"
-      },
-      {
-        "content": "Credit card",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich toy is placed on location 5?",
-        "role": "user"
-      },
-      {
-        "content": "Credit card",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich toy is placed on location 5?",
-        "role": "user"
-      },
-      {
-        "content": "Credit card",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich toy is placed on location 5?",
-        "role": "user"
-      },
-      {
-        "content": "Credit card",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhich toy is placed on location 5?",
-        "role": "user"
-      },
-      {
-        "content": "Credit card",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Bruce has 5 toy items: a plate, a fridge, a credit card, a magnet, and a bookmark. He puts each toy at a different location of the shelf. The fridge right of plate and credit card right of plate. Plate left of bookmark. He puts bookmark  as shown. On which location can the fridge not be placed? A: 4,B: 5,C: 3,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -6467,32 +6104,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1990_grid6.png",
-      "dataset/clip_images/62/puzzle_62_1990_grid4.png",
-      "dataset/clip_images/62/puzzle_62_1990_grid4.png",
-      "dataset/clip_images/62/puzzle_62_1990_grid4.png",
-      "dataset/clip_images/62/puzzle_62_1990_grid6.png",
-      "dataset/clip_images/62/puzzle_62_1990_grid4.png",
-      "dataset/clip_images/62/puzzle_62_1990_grid6.png",
-      "dataset/clip_images/62/puzzle_62_1990_grid4.png",
-      "dataset/clip_images/62/puzzle_62_1990_grid4.png",
-      "dataset/clip_images/62/puzzle_62_1990_grid4.png",
-      "dataset/clip_images/62/puzzle_62_1990_grid4.png",
-      "dataset/clip_images/62/puzzle_62_1990_grid6.png",
-      "dataset/clip_images/62/puzzle_62_1990_grid4.png",
-      "dataset/clip_images/62/puzzle_62_1990_grid4.png",
-      "dataset/clip_images/62/puzzle_62_1990_grid4.png",
-      "dataset/clip_images/62/puzzle_62_1990_grid4.png",
-      "dataset/clip_images/62/puzzle_62_1990_grid6.png",
-      "dataset/clip_images/62/puzzle_62_1990_grid4.png",
-      "dataset/clip_images/62/puzzle_62_1990_grid4.png",
-      "dataset/clip_images/62/puzzle_62_1990_grid4.png",
-      "dataset/clip_images/62/puzzle_62_1990_grid4.png",
-      "dataset/clip_images/62/puzzle_62_1990_grid6.png",
-      "dataset/clip_images/62/puzzle_62_1990_grid4.png",
-      "dataset/clip_images/62/puzzle_62_1990_grid4.png",
-      "dataset/clip_images/62/puzzle_62_1990_grid4.png",
-      "dataset/clip_images/62/puzzle_62_1990_grid4.png",
       "dataset/clip_images/62/puzzle_62_1990_grid6.png",
       "dataset/clip_images/62/puzzle_62_1990_grid4.png",
       "dataset/clip_images/62/puzzle_62_1990_grid4.png",
@@ -6833,14 +6444,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nOn which row is the perfume placed?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Robert has 6 toy objects: a perfume, a fork, a pencil, a knife, a car, and socks. He places each toy at a different row of the shelf. The perfume above fork. Knife above car. Pencil below perfume and car below pencil. He places car  as shown. On which row can the fork not be placed? A: 2,B: 6,C: 5,D: 1,E: 3. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -6855,7 +6458,6 @@
       "dataset/clip_images/62/puzzle_62_259_grid11.png",
       "dataset/clip_images/62/puzzle_62_259_grid13.png",
       "dataset/clip_images/62/puzzle_62_259_grid13.png",
-      "dataset/clip_images/62/puzzle_62_259_grid11.png",
       "dataset/clip_images/62/puzzle_62_259_grid13.png"
     ],
     "id": 259
@@ -7351,14 +6953,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nOn which location is the purse placed?",
-        "role": "user"
-      },
-      {
-        "content": "?",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nOn which location is the thermostat placed?",
         "role": "user"
       },
@@ -7375,14 +6969,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nOn which location is the pencil placed?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Pamela has 5 toy objects: a pencil, a perfume, a checkbook, a thermostat, and a purse. She keeps each toy at a different location of the shelf. She keeps checkbook as shown. The thermostat behind perfume. Checkbook behind pencil. On which location can the perfume not be placed? A: 5,B: 3,C: 4,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -7396,10 +6982,8 @@
       "dataset/clip_images/62/puzzle_62_35_grid6.png",
       "dataset/clip_images/62/puzzle_62_35_grid4.png",
       "dataset/clip_images/62/puzzle_62_35_grid4.png",
-      "dataset/clip_images/62/puzzle_62_35_grid4.png",
       "dataset/clip_images/62/puzzle_62_35_grid6.png",
       "dataset/clip_images/62/puzzle_62_35_grid4.png",
-      "dataset/clip_images/62/puzzle_62_35_grid5.png",
       "dataset/clip_images/62/puzzle_62_35_grid1.png"
     ],
     "id": 35
@@ -7463,14 +7047,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nOn which row is the tissue box placed?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Paul has 8 toy items: a tissue box, a white out, a hanger, video games, a cork, a cell phone, a soy sauce packet, and a balloon. He puts each toy at a different row of the shelf. He puts cell phone as shown. The tissue box lower to  cell phone and cork lower to  balloon. White out lower to  balloon. Video games lower to  cork and video games higher to tissue box. Video games lower to  cell phone. On which row can the white out not be placed? A: 8,B: 3,C: 1,D: 5,E: 7. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -7484,7 +7060,6 @@
       "dataset/clip_images/62/puzzle_62_353_grid5.png",
       "dataset/clip_images/62/puzzle_62_353_grid5.png",
       "dataset/clip_images/62/puzzle_62_353_grid11.png",
-      "dataset/clip_images/62/puzzle_62_353_grid5.png",
       "dataset/clip_images/62/puzzle_62_353_grid5.png",
       "dataset/clip_images/62/puzzle_62_353_grid5.png",
       "dataset/clip_images/62/puzzle_62_353_grid5.png",
@@ -7894,14 +7469,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhere is the mirror placed?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Joseph has 5 toy objects: a candle, a perfume, a mirror, a food, and a tomato. He places each toy at a different location of the shelf. The mirror left of food and food right of candle. Candle left of mirror. He places food  as shown. On which location can the candle not be placed? A: 3,B: 2,C: 1,D: 4,E: 5. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -7918,7 +7485,6 @@
       "dataset/clip_images/62/puzzle_62_438_grid5.png",
       "dataset/clip_images/62/puzzle_62_438_grid6.png",
       "dataset/clip_images/62/puzzle_62_438_grid6.png",
-      "dataset/clip_images/62/puzzle_62_438_grid5.png",
       "dataset/clip_images/62/puzzle_62_438_grid1.png"
     ],
     "id": 438
@@ -9605,14 +9171,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhich item is placed at location 2?",
-        "role": "user"
-      },
-      {
-        "content": "Deodorant",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhich item is placed directly to the left of the zipper?",
         "role": "user"
       },
@@ -9635,7 +9193,6 @@
       "dataset/clip_images/62/puzzle_62_826_grid5.png",
       "dataset/clip_images/62/puzzle_62_826_grid4.png",
       "dataset/clip_images/62/puzzle_62_826_grid5.png",
-      "dataset/clip_images/62/puzzle_62_826_grid4.png",
       "dataset/clip_images/62/puzzle_62_826_grid4.png",
       "dataset/clip_images/62/puzzle_62_826_grid5.png",
       "dataset/clip_images/62/puzzle_62_826_grid1.png"
@@ -10595,14 +10152,6 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhich toy is at location 4?",
-        "role": "user"
-      },
-      {
-        "content": "Keyboard",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Jerry has 5 toy objects: a keyboard, a bottle cap, a hair brush, a bread, and a sponge. He puts each toy at a different location of the shelf. The keyboard ahead of sponge. Hair brush behind keyboard. Bread behind keyboard. He puts sponge  as shown. On which location can the bottle cap not be placed? A: 2,B: 3,C: 5,D: 1,E: 4. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -10619,7 +10168,6 @@
       "dataset/clip_images/62/puzzle_62_910_grid6.png",
       "dataset/clip_images/62/puzzle_62_910_grid5.png",
       "dataset/clip_images/62/puzzle_62_910_grid4.png",
-      "dataset/clip_images/62/puzzle_62_910_grid5.png",
       "dataset/clip_images/62/puzzle_62_910_grid1.png"
     ],
     "id": 910

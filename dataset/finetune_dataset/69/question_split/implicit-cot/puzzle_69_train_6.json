@@ -1125,6 +1125,22 @@
   {
     "messages": [
       {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Carl has two cards of the same size. Card 1 has four holes cut out. Carl keeps card 1 directly on top of card 2. What does Carl see? A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/clip_images/69/puzzle_69_1374_grid4.png"
+    ],
+    "id": 1374
+  },
+  {
+    "messages": [
+      {
         "content": "<image>\nBetween options A, B, and C, which one most precisely matches the specific pattern formed by aligning the three holes in card 1 with the marks on card 2?",
         "role": "user"
       },
@@ -1913,6 +1929,22 @@
   {
     "messages": [
       {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Victor has two cards of the same size. Card 1 has three holes created. Victor holds card 1 directly on top of card 2. What does Victor see? A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/clip_images/69/puzzle_69_1613_grid10.png"
+    ],
+    "id": 1613
+  },
+  {
+    "messages": [
+      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Paige has two cards of the same size. Card 1 has three holes created. Paige holds card 1 directly on top of card 2. What does Paige see? A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -2229,14 +2261,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many holes on Card 1 align with the holes on Card 3?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Sandra has two cards of the same size. Card 1 has three holes drilled. Sandra keeps card 1 directly on top of card 2. What does Sandra see? A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -2246,7 +2270,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_1732_grid4.png",
       "dataset/clip_images/69/puzzle_69_1732_grid10.png"
     ],
     "id": 1732
@@ -3751,6 +3774,14 @@
   {
     "messages": [
       {
+        "content": "<image>\nAre some holes on card 1 covering some holes on card 2 when card 1 is placed on top of card 2?",
+        "role": "user"
+      },
+      {
+        "content": "No",
+        "role": "assistant"
+      },
+      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Gabriel has two cards of the same size. Card 1 has four holes created. Gabriel places card 1 directly on top of card 2. What does Gabriel see? A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -3760,6 +3791,7 @@
       }
     ],
     "images": [
+      "dataset/clip_images/69/puzzle_69_253_grid4.png",
       "dataset/clip_images/69/puzzle_69_253_grid10.png"
     ],
     "id": 253
@@ -4323,21 +4355,12 @@
       {
         "content": "C",
         "role": "assistant"
-      },
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: John has two cards of the same size. Card 1 has three holes drilled. John places card 1 directly on top of card 2. What does John see? A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
       }
     ],
     "images": [
       "dataset/clip_images/69/puzzle_69_4_grid5.png",
       "dataset/clip_images/69/puzzle_69_4_grid4.png",
-      "dataset/clip_images/69/puzzle_69_4_grid11.png",
-      "dataset/clip_images/69/puzzle_69_8_grid10.png"
+      "dataset/clip_images/69/puzzle_69_4_grid11.png"
     ],
     "id": 4
   },
@@ -4876,6 +4899,14 @@
   {
     "messages": [
       {
+        "content": "<image>\nWhat is the relative position of the holes in Card C?",
+        "role": "user"
+      },
+      {
+        "content": "In a square pattern, evenly spaced.",
+        "role": "assistant"
+      },
+      {
         "content": "<image>\nAre any holes in Card 2 not aligned with the holes in Card 1?",
         "role": "user"
       },
@@ -4901,6 +4932,7 @@
       }
     ],
     "images": [
+      "dataset/clip_images/69/puzzle_69_53_grid5.png",
       "dataset/clip_images/69/puzzle_69_53_grid6.png",
       "dataset/clip_images/69/puzzle_69_53_grid6.png",
       "dataset/clip_images/69/puzzle_69_53_grid6.png"
@@ -5320,22 +5352,6 @@
       "dataset/clip_images/69/puzzle_69_66_grid10.png"
     ],
     "id": 66
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Lisa has two cards of the same size. Card 1 has three holes cut out. Lisa places card 1 directly on top of card 2. What does Lisa see? A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "E",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/69/puzzle_69_664_grid10.png"
-    ],
-    "id": 664
   },
   {
     "messages": [
@@ -5956,59 +5972,11 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the position of the red hole in card 2?",
-        "role": "user"
-      },
-      {
-        "content": "Left",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the position of the red hole in card 2?",
-        "role": "user"
-      },
-      {
-        "content": "Left",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nWhat is the position of the green hole in card 2?",
         "role": "user"
       },
       {
         "content": "Middle",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the position of the green hole in card 2?",
-        "role": "user"
-      },
-      {
-        "content": "Middle",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the position of the green hole in card 2?",
-        "role": "user"
-      },
-      {
-        "content": "Middle",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the position of the blue hole in card 2?",
-        "role": "user"
-      },
-      {
-        "content": "Right",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nWhat is the position of the blue hole in card 2?",
-        "role": "user"
-      },
-      {
-        "content": "Right",
         "role": "assistant"
       },
       {
@@ -6029,12 +5997,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_828_grid6.png",
-      "dataset/clip_images/69/puzzle_69_828_grid6.png",
-      "dataset/clip_images/69/puzzle_69_828_grid6.png",
-      "dataset/clip_images/69/puzzle_69_828_grid6.png",
-      "dataset/clip_images/69/puzzle_69_828_grid6.png",
-      "dataset/clip_images/69/puzzle_69_828_grid6.png",
       "dataset/clip_images/69/puzzle_69_828_grid6.png",
       "dataset/clip_images/69/puzzle_69_828_grid6.png",
       "dataset/clip_images/69/puzzle_69_828_grid6.png",

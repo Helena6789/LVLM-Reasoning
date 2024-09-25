@@ -626,6 +626,49 @@
   {
     "messages": [
       {
+        "content": "<image>\nHow many houses are currently located on the intersection C?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nHow many houses are currently located on the intersection D?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nHow many houses are currently located on the intersection E?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A place with 24 houses has 6 straight lanes and 6 circular lanes. The picture illustrates 23 of the houses. On each straight lane there are 4 houses. On each circular lane, there are also 4 houses. Which place on the picture should the 24th house be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/clip_images/73/puzzle_73_1740_grid10.png",
+      "dataset/clip_images/73/puzzle_73_1740_grid10.png",
+      "dataset/clip_images/73/puzzle_73_1740_grid10.png",
+      "dataset/clip_images/73/puzzle_73_1740_grid10.png"
+    ],
+    "id": 1740
+  },
+  {
+    "messages": [
+      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: A town with 12 dwellings has 6 straight lanes and 6 round lanes. The picture illustrates 11 of the dwellings. On every straight lane there are 2 dwellings. On every round lane, there are also 2 dwellings. Which location on the picture should the 12th dwelling be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -846,6 +889,22 @@
       "dataset/clip_images/73/puzzle_73_271_grid12.png"
     ],
     "id": 271
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A small town with 24 huts has 6 straight paths and 6 round paths. The picture depicts 23 of the huts. On every straight path there are 4 huts. On every round path, there are also 4 huts. Where on the picture should the 24th hut be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/clip_images/73/puzzle_73_303_grid11.png"
+    ],
+    "id": 303
   },
   {
     "messages": [
@@ -1138,6 +1197,22 @@
   {
     "messages": [
       {
+        "content": "<image>\nIs there an available dwelling spot on the straight pathway B?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nOn which round pathway is the empty pathway near location E?",
+        "role": "user"
+      },
+      {
+        "content": "The 2nd round pathway.",
+        "role": "assistant"
+      },
+      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: A place with 30 dwellings has 6 straight pathways and 6 round pathways. The map shows 29 of the dwellings. On each straight pathway there are 5 dwellings. On each round pathway, there are also 5 dwellings. Which place on the map should the 30th dwelling be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -1147,6 +1222,8 @@
       }
     ],
     "images": [
+      "dataset/clip_images/73/puzzle_73_701_grid10.png",
+      "dataset/clip_images/73/puzzle_73_701_grid10.png",
       "dataset/clip_images/73/puzzle_73_701_grid12.png"
     ],
     "id": 701
@@ -1250,6 +1327,23 @@
   {
     "messages": [
       {
+        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A town with 12 apartments has 4 straight pathways and 4 round pathways. The map depicts 11 of the apartments. On each straight pathway there are 3 apartments. On each round pathway, there are also 3 apartments. Where on the map should the 12th apartment be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/clip_images/73/puzzle_73_772_grid8.png",
+      "dataset/clip_images/73/puzzle_73_772_grid11.png"
+    ],
+    "id": 772
+  },
+  {
+    "messages": [
+      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 30 houses has 6 straight lanes and 6 round lanes. The drawing shows 29 of the houses. On every straight lane there are 5 houses. On every round lane, there are also 5 houses. Which place on the drawing should the 30th house be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -1278,38 +1372,6 @@
       "dataset/clip_images/73/puzzle_73_800_grid11.png"
     ],
     "id": 800
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A community with 12 dwellings has 4 straight lanes and 4 circular lanes. The map illustrates 11 of the dwellings. On each straight lane there are 3 dwellings. On each circular lane, there are also 3 dwellings. Which place on the map should the 12th dwelling be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/73/puzzle_73_81_grid9.png"
-    ],
-    "id": 81
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A small town with 30 huts has 6 straight pathways and 6 circular pathways. The drawing illustrates 29 of the huts. On every straight pathway there are 5 huts. On every circular pathway, there are also 5 huts. Which location on the drawing should the 30th hut be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/73/puzzle_73_837_grid10.png"
-    ],
-    "id": 837
   },
   {
     "messages": [
@@ -1410,6 +1472,38 @@
   {
     "messages": [
       {
+        "content": "<image>\nWhich houses are on the first round road?",
+        "role": "user"
+      },
+      {
+        "content": "A-D",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich houses are on the second round road?",
+        "role": "user"
+      },
+      {
+        "content": "B-E",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nWhich houses are on the third round road?",
+        "role": "user"
+      },
+      {
+        "content": "C-E",
+        "role": "assistant"
+      },
+      {
+        "content": "<image>\nHow many houses are currently shown in the picture?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      },
+      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: A community with 6 houses has 3 straight roads and 3 round roads. The picture depicts 5 of the houses. On every straight road there are 2 houses. On every round road, there are also 2 houses. Which location on the picture should the 6th house be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -1419,6 +1513,10 @@
       }
     ],
     "images": [
+      "dataset/clip_images/73/puzzle_73_989_grid9.png",
+      "dataset/clip_images/73/puzzle_73_989_grid9.png",
+      "dataset/clip_images/73/puzzle_73_989_grid9.png",
+      "dataset/clip_images/73/puzzle_73_989_grid8.png",
       "dataset/clip_images/73/puzzle_73_989_grid8.png"
     ],
     "id": 989
