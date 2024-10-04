@@ -214,7 +214,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--smart-info-v2-csv",
         type=str,
-        default="/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/SMART_info_v2.csv",
+        default="./dataset/SMART101-release-v1/SMART101-Data/SMART_info_v2.csv",
         help="The smart101 information csv file (include puzzle difficulty and puzzle type).",
     )
     parser.add_argument('--debug', action='store_true', help='Enable debug logging')

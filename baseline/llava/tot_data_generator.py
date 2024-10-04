@@ -128,7 +128,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--data-root",
         type=str,
-        default="/home/hq/LVLM/LVLM-Reasoning/dataset/SMART101-release-v1/SMART101-Data/",
+        default="./dataset/SMART101-release-v1/SMART101-Data/",
         help="location of the smart101 dataset.",
     )
     parser.add_argument(
