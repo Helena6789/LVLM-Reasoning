@@ -8,11 +8,19 @@ fi
 puzzle_id=$1
 step=$2
 
+clip_images_path="dataset/clip_images"
+
+if [ "$puzzle_id" -eq 71 ]; then
+    clip_images_path=""
+fi
+
+echo "using clip_images_path: ${clip_images_path} for puzzle: ${puzzle_id}"
+
 python ../finetune_data_generator.py \
 --output-root /home/hq/LVLM/LVLM-Reasoning/dataset/finetune_dataset/ \
 --input-data /home/hq/LVLM/LVLM-Reasoning/dataset/decomposition_dataset/generate_data_by_question_decomposition_clip_images_puzzle_${puzzle_id}.csv \
 --smart101-data-root dataset/SMART101-release-v1/SMART101-Data \
---clip-image-root '' \
+--clip-image-root "${clip_images_path}" \
 --puzzle-id ${puzzle_id} \
 --skip-stage-step ${step} \
 --seed 42

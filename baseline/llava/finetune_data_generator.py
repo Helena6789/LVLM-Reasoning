@@ -19,7 +19,7 @@ logger = logging.getLogger(__name__)
 def generate_llama_output(df, minmum_level, prompt_type, data_type, full_image_path, sub_image_path, include_sub_qa):
     output_json_list = []
     
-    use_sub_image = include_sub_qa and len(sub_image_path) !=0
+    use_sub_image = include_sub_qa and sub_image_path and len(sub_image_path) !=0
 
     for image_path, group in df.groupby('image_path'):
         messages = []
@@ -33,6 +33,10 @@ def generate_llama_output(df, minmum_level, prompt_type, data_type, full_image_p
                 else:
                     messages.append({'content': '{}'.format(row['sub_question']), 'role': 'user'})
                 messages.append({'content': row['answer'], 'role': 'assistant'})
+                
+                # For sub question using sub image path.
+                if pd.notna(row['subquestion_image_path']):
+                    subimage_paths.append(os.path.join(sub_image_path, row['subquestion_image_path']))
             elif pd.isna(row['sub_question']):
                 # For test data we need to provide two different prompt: one for original inference, one for cot inference.
                 if data_type == 'test':
@@ -50,9 +54,10 @@ def generate_llama_output(df, minmum_level, prompt_type, data_type, full_image_p
                     
                     messages.append({'content': prompt.format(row['origin_question']), 'role': 'user'})
                 messages.append({'content': row['true_answer'], 'role': 'assistant'})
-            
-            if pd.notna(row['subquestion_image_path']):
-                subimage_paths.append(os.path.join(sub_image_path, row['subquestion_image_path']))
+
+                # For original question using original image path.
+                if pd.notna(row['subquestion_image_path']):
+                    subimage_paths.append(os.path.join(full_image_path, image_path))
         
         if messages:
             output_json_list.append({
@@ -78,7 +83,7 @@ def split_data(data, train_pct=0.8, val_pct=0.05, test_pct=0.15):
 def output_json_file(df, output_data_path, split_type, prompt_type, data_type,
                      skip_stage_step, full_image_path, sub_image_path, include_sub_qa):
     if len(df) == 0:
-        return
+        return []
 
     if split_type == 'branch':
         questions_ids = df['sub_question_id'].unique().tolist()
@@ -91,6 +96,7 @@ def output_json_file(df, output_data_path, split_type, prompt_type, data_type,
     # convert nan level as previous row value + 1
     df.loc[:, 'level'] = df['level'].ffill() + df['level'].isna().astype(float)
 
+    output_file_names = []
     max_split_level = 10 if data_type != 'test' and include_sub_qa else 1
     for minmum_level in range(0, max_split_level, skip_stage_step):
         output_filename = os.path.join(output_data_path, "puzzle_{}_{}_{}.json".format(df['puzzle_id'].unique().tolist()[0], data_type, minmum_level))
@@ -102,6 +108,30 @@ def output_json_file(df, output_data_path, split_type, prompt_type, data_type,
         logger.info("write {} file {} with {} records.".format(data_type, output_filename, len(output_json_list)))
         with open(output_filename, 'w') as f:
             json.dump(output_json_list, f, indent=2)
+        output_file_names.append(output_filename)
+    return output_file_names
+
+def generate_finetune_json_file(data_output_root, output_data_type, output_json_file_list):
+    output_filename = os.path.join(data_output_root, "smart101.json")
+    json_data = {}
+    if os.path.exists(output_filename):
+        with open(output_filename, 'r') as file:
+            json_data = json.load(file)
+    
+    output_json_list = []
+    for output_file in output_json_file_list:
+        # puzzle_99_test_0.json -> 99_test_0 
+        filename = os.path.splitext(os.path.basename(output_file))[0]
+        filename_identify = filename.split('.')[0].split('puzzle_')[-1]
+        json_data.update({
+            'smart101_{}_{}'.format(output_data_type.replace('-','_'), filename_identify): {
+                'dataset_path': output_file.replace(data_output_root, ''),
+                'tags': ["smart101"]
+            }
+        })
+    
+    with open(output_filename, 'w') as file:
+        json.dump(json_data, file, indent=2)
 
 def generate_llava_fune_tune_output(args, train_df, val_df, test_df, output_data_type):
     
@@ -140,17 +170,21 @@ def generate_llava_fune_tune_output(args, train_df, val_df, test_df, output_data
     if not os.path.exists(output_data_path):
       os.makedirs(output_data_path)
 
+    output_json_file_list = []
     if include_train_file:
-        output_json_file(train_df, output_data_path, args.split_type, prompt_type, 'train',
-                         args.skip_stage_step, args.smart101_data_root, args.clip_image_root, include_sub_qa_train)
+        train_files_list = output_json_file(train_df, output_data_path, args.split_type, prompt_type, 'train',
+                                            args.skip_stage_step, args.smart101_data_root, args.clip_image_root, include_sub_qa_train)
+        output_json_file_list.extend(train_files_list)
     
     # for implicit-cot, train and validation merged together.
     if include_train_file and output_data_type != 'implicit-cot':
-        output_json_file(val_df, output_data_path, args.split_type, prompt_type, 'val',
-                        args.skip_stage_step, args.smart101_data_root, args.clip_image_root, include_sub_qa_train)
+        val_files_list = output_json_file(val_df, output_data_path, args.split_type, prompt_type, 'val',
+                                            args.skip_stage_step, args.smart101_data_root, args.clip_image_root, include_sub_qa_train)
+        output_json_file_list.extend(val_files_list)
     
-    output_json_file(test_df, output_data_path, args.split_type, prompt_type, 'test',
-                     args.skip_stage_step, args.smart101_data_root, args.clip_image_root, False)
+    test_file_list = output_json_file(test_df, output_data_path, args.split_type, prompt_type, 'test',
+                                      args.skip_stage_step, args.smart101_data_root, args.clip_image_root, False)
+    output_json_file_list.extend(test_file_list)
 
     test_sub_puzzle_ids =  sorted(test_df['sub_puzzle_id'].unique().tolist())
     logger.debug('{} test total: {}, question_ids checksum:{}'.format(output_data_type, len(test_sub_puzzle_ids),  hash(tuple(test_sub_puzzle_ids))))
@@ -165,6 +199,9 @@ def generate_llava_fune_tune_output(args, train_df, val_df, test_df, output_data
     # validate train and val data should no overlap.
     if output_data_type != 'implicit-cot' and len(set(train_sub_puzzle_ids).intersection(set(val_sub_puzzle_ids))) != 0:
         raise "val data contains train sub puzzle ids"
+    
+    # generate ms-swift finetune dataset
+    generate_finetune_json_file(args.output_root, output_data_type, output_json_file_list)
 
 def main(args):
     # 0. set seed
