@@ -16,9 +16,9 @@ fi
 
 echo "using clip_images_path: ${clip_images_path} for puzzle: ${puzzle_id}"
 
-python ../finetune_data_generator.py \
---output-root /home/hq/LVLM/LVLM-Reasoning/dataset/finetune_dataset/ \
---input-data /home/hq/LVLM/LVLM-Reasoning/dataset/decomposition_dataset/generate_data_by_question_decomposition_clip_images_puzzle_${puzzle_id}.csv \
+python baseline/llava/finetune_data_generator.py \
+--output-root ./dataset/finetune_dataset/ \
+--input-data ./dataset/decomposition_dataset/generate_data_by_question_decomposition_clip_images_puzzle_${puzzle_id}.csv \
 --smart101-data-root dataset/SMART101-release-v1/SMART101-Data \
 --clip-image-root "${clip_images_path}" \
 --puzzle-id ${puzzle_id} \

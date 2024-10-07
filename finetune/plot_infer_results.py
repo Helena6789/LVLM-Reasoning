@@ -16,7 +16,7 @@ from logging.handlers import RotatingFileHandler
 
 logger = logging.getLogger(__name__)
 
-def generate_accuracy_plot(stages_accuracy_list, output_path, puzzle_id, model_type):
+def generate_accuracy_plot(stages_accuracy_list, output_path, puzzle_id, model_type, step):
 
     fig, axs = plt.subplots(figsize=(15, 6))
 
@@ -79,7 +79,7 @@ def generate_accuracy_plot(stages_accuracy_list, output_path, puzzle_id, model_t
     plt.tight_layout(rect=[0, 0, 1, 0.93])
 
     # Save the plot to a file
-    plot_output = os.path.join(output_path, 'accuracy_{}_{}.png'.format(model_type, puzzle_id))
+    plot_output = os.path.join(output_path, 'accuracy_{}_{}_shift_{}.png'.format(model_type, puzzle_id, step))
     logger.info('save plot to {}'.format(plot_output))
     plt.savefig(plot_output)  
 
@@ -108,6 +108,13 @@ if __name__ == "__main__":
         required=True,
         type=str,
         help="The model type to inference.",
+    )
+    parser.add_argument(
+        "--step",
+        required=True,
+        default=1,
+        type=int,
+        help="The implicit cot finetune jump step."
     )
     parser.add_argument('--debug', action='store_true', help='Enable debug logging')
     args = parser.parse_args()
@@ -155,7 +162,7 @@ if __name__ == "__main__":
         accuracy_json_file_to_process = []
         if infer_type == 'implicit-cot':
             for stage in range(start_stage, max_stage + 1):
-                json_file_pattern = os.path.join(result_folder, '*_stage_{}_{}.jsonl'.format(stage, file_suffix))
+                json_file_pattern = os.path.join(result_folder, '*_shift_{}_stage_{}_{}.jsonl'.format(args.step, stage, file_suffix))
                 accuracy_json_file_list = glob.glob(json_file_pattern)
                 if len(accuracy_json_file_list) == 0:
                     logger.info('no file found for pattern:{}, skip.'.format(json_file_pattern))
@@ -186,6 +193,6 @@ if __name__ == "__main__":
 
     # plots
     logger.debug(accuracy_list)
-    generate_accuracy_plot([accuracy_list], output_path, args.puzzle_id, args.model_type)
+    generate_accuracy_plot([accuracy_list], output_path, args.puzzle_id, args.model_type, args.step)
             
                 

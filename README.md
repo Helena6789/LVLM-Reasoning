@@ -123,3 +123,18 @@ To generate the accurary plots for different types:
 sh ./finetune/llava/scripts/run_plot_infer_results.sh <puzzle_id>
 ```
 Please change the parameters accordingly if only intrested in part of the inference type.
+
+
+### Finetune InternVL
+Similar to llava, but according to the model card document, we need to use `transformers==4.37.2` to ensure the model works normally. It would better to create separately env to finetune InternVL since llava requires `transformers>=4.39.0`. See other dependencies versions for InternVL in `finetune/internvl2/requirements.txt`.
+
+Unlike llava, the internvl model can't download automatically unless we register an SDK token from the modelscope account homepage or use `snap_download` to download the model locally. See details in [modelscope internvl-best-practice](https://modelscope.cn/docs/internvl-best-practice).
+
+To run the finetune script, set the internvl model path:
+
+```
+export INTERNVL_MODEL_PATH=<your_internvl_model_path>
+sh ./finetune/llava/scripts/run_original_finetune.sh <puzzle_id>
+```
+
+For other type finetune or script, it should be similar as llava.

@@ -41,7 +41,7 @@ do
             --ignore_args_error True
     else
         previous_stage=$((stage - step))
-        model_checkpoint=`find . -type d -wholename "./output/${model_type}/${puzzle_id}/finetune-models/decomposition-finetune-shift-${step}/v0-*-question-split-${previous_stage}/checkpoint-*" -prune | sort | tail -n 1`
+        model_checkpoint=`find . -type d -wholename "./output/${model_type}/${puzzle_id}/finetune-models/decomposition-finetune-shift-${step}/v0-${date}-question-split-${previous_stage}/checkpoint-*" -prune | sort | tail -n 1`
 
         echo "finetune stage:${stage} using checkpoint: ${model_checkpoint}"
 

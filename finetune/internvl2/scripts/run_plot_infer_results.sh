@@ -7,7 +7,7 @@ fi
 
 puzzle_id=$1
 step=$2
-model_type="llava1_6-mistral-7b-instruct"
+model_type="internvl2-8b"
 
 python ./finetune/plot_infer_results.py \
  --model-type ${model_type} \

@@ -22,7 +22,7 @@ from swift.tuners import Swift
 logger = logging.getLogger(__name__)
 
 
-def generate_infer_results(model, val_dataset, template, infer_type, output_json_file, puzzle_id):
+def generate_infer_results(model, model_type, val_dataset, template, infer_type, output_json_file, puzzle_id):
     with open(output_json_file, 'w') as output_file:
         count = 0
         for data in val_dataset:
@@ -39,8 +39,13 @@ def generate_infer_results(model, val_dataset, template, infer_type, output_json
             query_response, _ = inference(model, template, query, images=images)
             
             reasoning_steps = ''
+            raw_response = query_response
             query_response = query_response.strip()
             logging.debug("query_response:{}".format(query_response))
+
+            if model_type.startswith('internvl'):
+                query_response = query_response.replace('<s>', '')
+
             if infer_type in ['pretrain-cot', 'finetune-cot', 'implicit-cot'] and len(query_response)!=1:
                 reasoning_steps = query_response.replace('```json', '').replace('```','').replace('\n','')
 
@@ -57,7 +62,8 @@ def generate_infer_results(model, val_dataset, template, infer_type, output_json
                 'history_label': history_label,
                 'reasoning_steps': reasoning_steps,
                 'id': puzzle_id,
-                'sub_puzzle_id': sub_puzzle_id
+                'sub_puzzle_id': sub_puzzle_id,
+                'raw_response': raw_response
             }
             count += 1
             logging.info(f'Completed: {count}/{len(val_dataset)} records.')
@@ -69,8 +75,8 @@ def generate_infer_results(model, val_dataset, template, infer_type, output_json
 def custom_inference(args, infer_type, ckpt_dir, file_suffix):
     model_type = args.model_type
     template_type = get_default_template_type(model_type)
-
-    model, tokenizer = get_model_tokenizer(model_type, None, model_kwargs={'device_map': 'auto'})
+    
+    model, tokenizer = get_model_tokenizer(model_type, model_id_or_path=args.model_path, model_kwargs={'device_map': 'auto'})
     model.generation_config.max_new_tokens = 2048
 
     if ckpt_dir and os.path.exists(ckpt_dir):
@@ -90,7 +96,7 @@ def custom_inference(args, infer_type, ckpt_dir, file_suffix):
         os.makedirs(output_folder, exist_ok=True)
 
     output_json_file = os.path.join(output_folder, '{}_{}.jsonl'.format(dt.datetime.now().strftime('%Y%m%d_%H%M%S'), file_suffix))
-    generate_infer_results(model, val_dataset_from_model, template, infer_type, output_json_file, args.puzzle_id)
+    generate_infer_results(model, model_type, val_dataset_from_model, template, infer_type, output_json_file, args.puzzle_id)
     
     df = pd.read_json(path_or_buf=output_json_file, lines=True)
     correct = df[df['response']==df['label']]
@@ -143,6 +149,11 @@ if __name__ == "__main__":
         type=int,
         help="The implicit cot finetune jump step."
     )
+    parser.add_argument(
+        "--model-path",
+        type=str,
+        help="optional: The model id or path.",
+    )
     parser.add_argument('--debug', action='store_true', help='Enable debug logging')
     args = parser.parse_args()
 
@@ -181,6 +192,7 @@ if __name__ == "__main__":
     logger.info(args)
 
     accuracy_list = []
+    start_stage = 0
     max_stage = 9
     for infer_type in infer_types:
         logging.info('running infer {}'.format(infer_type))
@@ -193,14 +205,13 @@ if __name__ == "__main__":
             ckpt_dir = sorted(ckpt_dirs)[-1]
             accuracy_list.append(custom_inference(args, infer_type, ckpt_dir, file_suffix))
         elif infer_type in ['implicit-cot']:
-            for stage in range(0, max_stage + 1):
+            for stage in range(start_stage, max_stage + 1, args.step):
                 ckpt_dir_pattern = os.path.join(args.ckpt_dir_root, 'decomposition-finetune-shift-{}'.format(args.step), 'v0-*-question-split-{}'.format(stage), 'checkpoint-*')
                 ckpt_dirs = glob.glob(ckpt_dir_pattern)
                 logging.info('Stage {}: all founded ckpt_dirs:{}'.format(stage, ckpt_dirs))
                 ckpt_dir = sorted(ckpt_dirs)[-1]
                 logging.info('Stage {}: using ckpt_dir:{}'.format(stage, ckpt_dir))
-                accuracy_list.append(custom_inference(args, infer_type, ckpt_dir, 'stage_{}_{}'.format(stage, file_suffix)))
-                stage += 1
+                accuracy_list.append(custom_inference(args, infer_type, ckpt_dir, 'shift_{}_stage_{}_{}'.format(args.step, stage, file_suffix)))
         else:
             accuracy_list.append(custom_inference(args, infer_type, None, file_suffix))
     

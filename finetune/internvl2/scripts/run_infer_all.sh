@@ -7,9 +7,10 @@ fi
 
 puzzle_id=$1
 step=$2
-model_type="llava1_6-mistral-7b-instruct"
+model_type="internvl2-8b"
 
 CUDA_VISIBLE_DEVICES=0 python ./finetune/infer_finetune.py \
+ --model-path ${INTERNVL_MODEL_PATH} \
  --model-type ${model_type} \
  --output-root ./output/${model_type}/${puzzle_id} \
  --ckpt-dir-root ./output/${model_type}/${puzzle_id}/finetune-models \

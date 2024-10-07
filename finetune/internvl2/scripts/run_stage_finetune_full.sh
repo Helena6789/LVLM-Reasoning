@@ -10,7 +10,7 @@ start_stage=$2
 max_stage=$3
 step=$4
 date=$(date '+%Y%m%d-%H%M%S')
-model_type="llava1_6-mistral-7b-instruct"
+model_type="internvl2-8b"
 
 if [[ $start_stage -lt 0 ]] || [[ $start_stage -gt $max_stage ]]; then
     echo "start stage value should great than 0 less than max_stage"
@@ -22,6 +22,7 @@ do
     if [[ $stage -eq 0 ]]; then
         echo "finetune stage:${stage}"
         CUDA_VISIBLE_DEVICES=0,1,2,3 swift sft \
+            --model_id_or_path ${INTERNVL_MODEL_PATH} \
             --model_type ${model_type} \
             --custom_dataset_info './dataset/finetune_dataset/smart101.json' \
             --dataset smart101_implicit_cot_${puzzle_id}_train_${stage} \
@@ -44,6 +45,7 @@ do
 
         # see command meaning: https://github.com/modelscope/ms-swift/blob/8c41771e9ffd6c90de20c980e6116c74f9d8b8fe/docs/source_en/Instruction/Command-line-parameters.md
         CUDA_VISIBLE_DEVICES=0,1,2,3 swift sft \
+            --model_id_or_path ${INTERNVL_MODEL_PATH} \
             --model_type ${model_type} \
             --resume_from_checkpoint ${model_checkpoint} \
             --resume_only_model True \

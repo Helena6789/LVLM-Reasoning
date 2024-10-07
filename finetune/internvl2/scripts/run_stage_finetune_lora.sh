@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [ "$#" -ne 4 ]; then
-    echo "Please provide the puzzle_id, start_stage, max_stage, step: e.g: ./run_stage_finetune_full.sh 18 1 9 1"
+    echo "Please provide the puzzle_id, start_stage, max_stage, step: e.g: ./run_stage_finetune_lora.sh 18 1 9 1"
     exit 1
 fi
 
@@ -10,7 +10,7 @@ start_stage=$2
 max_stage=$3
 step=$4
 date=$(date '+%Y%m%d-%H%M%S')
-model_type="llava1_6-mistral-7b-instruct"
+model_type="internvl2-8b"
 
 if [[ $start_stage -lt 0 ]] || [[ $start_stage -gt $max_stage ]]; then
     echo "start stage value should great than 0 less than max_stage"
@@ -22,12 +22,15 @@ do
     if [[ $stage -eq 0 ]]; then
         echo "finetune stage:${stage}"
         CUDA_VISIBLE_DEVICES=0,1,2,3 swift sft \
+            --model_id_or_path ${INTERNVL_MODEL_PATH} \
             --model_type ${model_type} \
             --custom_dataset_info './dataset/finetune_dataset/smart101.json' \
             --dataset smart101_implicit_cot_${puzzle_id}_train_${stage} \
             --dataset_test_ratio '0.059' \
-            --sft_type full \
+            --lora_rank '128' \
+            --lora_alpha '256' \
             --num_train_epochs '5' \
+            --learning_rate '1e-4' \
             --gradient_accumulation_steps '16' \
             --eval_steps '200' \
             --save_steps '200' \
@@ -44,14 +47,17 @@ do
 
         # see command meaning: https://github.com/modelscope/ms-swift/blob/8c41771e9ffd6c90de20c980e6116c74f9d8b8fe/docs/source_en/Instruction/Command-line-parameters.md
         CUDA_VISIBLE_DEVICES=0,1,2,3 swift sft \
+            --model_id_or_path ${INTERNVL_MODEL_PATH} \
             --model_type ${model_type} \
             --resume_from_checkpoint ${model_checkpoint} \
             --resume_only_model True \
             --custom_dataset_info './dataset/finetune_dataset/smart101.json' \
             --dataset smart101_implicit_cot_${puzzle_id}_train_${stage} \
             --dataset_test_ratio '0.059' \
-            --sft_type full \
+            --lora_rank '128' \
+            --lora_alpha '256' \
             --num_train_epochs '5' \
+            --learning_rate '1e-4' \
             --gradient_accumulation_steps '16' \
             --eval_steps '200' \
             --save_steps '200' \
