@@ -6,7 +6,6 @@ os.environ['CUDA_VISIBLE_DEVICES'] = '2,6,7'
 
 import torch
 import os, sys
-# sys.path.append("/scratch/czr/LVLM-Reasoning/finetune/swift2")
 from swift.llm import (
     DatasetName, InferArguments, ModelType, SftArguments,
     infer_main, sft_main, app_ui_main, merge_lora
@@ -15,31 +14,28 @@ from swift.llm import (
 
 # model_type = ModelType.internvl2_8b
 model_type = ModelType.internvl2_8b_att
-# model_type = ModelType.internvl2_8b_vgp_v2
-# model_type = ModelType.internvl2_8b_vgp_v2_dpo_121
+
 
 
 
 sft_args = SftArguments(
     model_type=model_type,
-    dataset=["/scratch/czr/LVLM-Reasoning/finetune/test_data_1.json"],
-    output_dir='/scratch/czr/LVLM-Reasoning/finetune/test_output',
+    dataset=["dataset/finetune_dataset_subimage/18/question_split/pretrain-inference/puzzle_18_test_0.json"],
+    output_dir='finetune/test_output',
     sft_type='lora', #'lora',
-    batch_size=1,
+    batch_size=4,
     # per_device_train_batch_size=2,
     # gradient_accumulation_steps=8,
     gradient_checkpointing=False,
-    save_steps=50,
+    save_steps=100,
     eval_steps=10000,
     acc_steps=20,
-    # report_to=['wandb'],
+    report_to=['wandb'],
     seed=22,
     # lora_rank=4,
     # lora_alpha=8,
     optim="adamw_torch_fused",
     save_total_limit=100,
-    # resume_from_checkpoint="/scratch/czr/Video_moderation/sft_checkpoints/internvl2_swift_8b_10_20/internvl2-8b-vg/v0-20241020-112140/checkpoint-1500",
-    # resume_from_checkpoint="/scratch/czr/Video_moderation/sft_checkpoints/internvl2_swift_8b_09_18/internvl2-8b-vgp-v2-dpo-121/v1-20240918-164542/checkpoint-201",
     num_train_epochs=1)
 
 result = sft_main(sft_args)

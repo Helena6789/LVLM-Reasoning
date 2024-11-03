@@ -1095,6 +1095,7 @@ class Template:
 
         if "subimage_scores" in batch[0]:
             res["subimage_scores"] = [torch.tensor(b["subimage_scores"]) for b in batch]
+            res["image_position"] = [b["image_position"] for b in batch if b.get("image_position") is not None]
 
         return res
 
@@ -2552,6 +2553,7 @@ class Internvl2Template(InternvlTemplate):
         images = example.get('images')
 
         subimage_scores = example.get('subimage_scores')
+
         
         if images:
             has_video = bool(example.get('videos'))
@@ -2579,6 +2581,24 @@ class Internvl2Template(InternvlTemplate):
         inputs['_data'] = {'input_ids': torch.tensor(input_ids), 'pixel_values': pixel_values}
         inputs['subimage_scores'] = subimage_scores
         inputs.pop('loss_scale', None)
+        img_context_token_id = 92546 # <IMG_CONTEXT>
+        img_start_token_id = 92544 # <img>
+        img_end_token_id = 92545 # </img>
+        # input_ids_tensor = torch.tensor(input_ids)
+        # print("input_ids_tensor", input_ids_tensor)
+        # first break all the visual token part into chunks that separated by img_start_token_id and img_end_token_id
+        img_start_token_position = input_ids.index(img_start_token_id) + 1
+        img_end_token_position = input_ids.index(img_end_token_id)
+        # image_input_mask = input_ids == img_context_token_id     
+        # print("img_start_token_position", img_start_token_position)
+        # print("img_end_token_position", img_end_token_position)
+        # print("image_input_mask", image_input_mask)
+        image_position = [img_start_token_position, img_end_token_position]
+        # print("image_position", image_position)
+        inputs['image_position'] = image_position
+        # input()
+        # self.language_model.update_image_trunk(image_position, None)
+
         return inputs, {}
 
 
