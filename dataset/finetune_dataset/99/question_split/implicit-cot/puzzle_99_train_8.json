@@ -2,7 +2,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many footballs need to be added to the right basket to match the number of footballs in the left basket?",
+        "content": "How many footballs need to be added to the right basket to match the number of footballs in the left basket?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_100.png"
+    ],
+    "id": 100
+  },
+  {
+    "messages": [
+      {
+        "content": "How many footballs need to be added to the right basket to match the number of footballs in the left basket?",
         "role": "user"
       },
       {
@@ -19,7 +35,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_100_grid11.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_100.png"
     ],
     "id": 100
@@ -43,7 +58,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many additional tulips are needed in the first basket to have an equal number of tulips in both baskets?",
+        "content": "How many additional tulips are needed in the first basket to have an equal number of tulips in both baskets?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1019.png"
+    ],
+    "id": 1019
+  },
+  {
+    "messages": [
+      {
+        "content": "How many additional tulips are needed in the first basket to have an equal number of tulips in both baskets?",
         "role": "user"
       },
       {
@@ -60,7 +91,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1019_grid13.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1019.png"
     ],
     "id": 1019
@@ -84,7 +114,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many flowers in total are in the pink bag after adding the extra flowers?",
+        "content": "How many flowers in total are in the pink bag after adding the extra flowers?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1040.png"
+    ],
+    "id": 1040
+  },
+  {
+    "messages": [
+      {
+        "content": "How many flowers in total are in the pink bag after adding the extra flowers?",
         "role": "user"
       },
       {
@@ -101,7 +147,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1040_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1040.png"
     ],
     "id": 1040
@@ -125,7 +170,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nAfter adding the additional pink and red flowers, how many flowers in total are in the first bag (green)?",
+        "content": "After adding the additional pink and red flowers, how many flowers in total are in the first bag (green)?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1055.png"
+    ],
+    "id": 1055
+  },
+  {
+    "messages": [
+      {
+        "content": "After adding the additional pink and red flowers, how many flowers in total are in the first bag (green)?",
         "role": "user"
       },
       {
@@ -142,7 +203,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1055_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1055.png"
     ],
     "id": 1055
@@ -182,7 +242,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many more roses does Gina need to add to each basket to make the number of each kind of flower equal in each basket?",
+        "content": "How many more roses does Gina need to add to each basket to make the number of each kind of flower equal in each basket?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1085.png"
+    ],
+    "id": 1085
+  },
+  {
+    "messages": [
+      {
+        "content": "How many more roses does Gina need to add to each basket to make the number of each kind of flower equal in each basket?",
         "role": "user"
       },
       {
@@ -199,7 +275,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1085_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1085.png"
     ],
     "id": 1085
@@ -207,7 +282,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many total crystal balls are needed in both pots to make them identical?",
+        "content": "How many total crystal balls are needed in both pots to make them identical?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1088.png"
+    ],
+    "id": 1088
+  },
+  {
+    "messages": [
+      {
+        "content": "How many total crystal balls are needed in both pots to make them identical?",
         "role": "user"
       },
       {
@@ -224,7 +315,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1088_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1088.png"
     ],
     "id": 1088
@@ -232,7 +322,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the total number of balls needed to match each kind in each bucket?",
+        "content": "What is the total number of balls needed to match each kind in each bucket?",
+        "role": "user"
+      },
+      {
+        "content": "5 8 balls and 6 basketballs",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1092.png"
+    ],
+    "id": 1092
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the total number of balls needed to match each kind in each bucket?",
         "role": "user"
       },
       {
@@ -249,7 +355,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1092_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1092.png"
     ],
     "id": 1092
@@ -273,7 +378,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many 8-balls does Amber need to add to the first bucket to match the number of 8-balls in the second bucket?",
+        "content": "How many 8-balls does Amber need to add to the first bucket to match the number of 8-balls in the second bucket?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1112.png"
+    ],
+    "id": 1112
+  },
+  {
+    "messages": [
+      {
+        "content": "How many 8-balls does Amber need to add to the first bucket to match the number of 8-balls in the second bucket?",
         "role": "user"
       },
       {
@@ -290,7 +411,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1112_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1112.png"
     ],
     "id": 1112
@@ -298,7 +418,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many red flowers should be added to the first pot to make the counts equal in both pots?",
+        "content": "How many red flowers should be added to the first pot to make the counts equal in both pots?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1121.png"
+    ],
+    "id": 1121
+  },
+  {
+    "messages": [
+      {
+        "content": "How many red flowers should be added to the first pot to make the counts equal in both pots?",
         "role": "user"
       },
       {
@@ -315,7 +451,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1121_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1121.png"
     ],
     "id": 1121
@@ -387,7 +522,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many more purple balls are needed in the first bag to match the count in the second bag?",
+        "content": "How many more purple balls are needed in the first bag to match the count in the second bag?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1177.png"
+    ],
+    "id": 1177
+  },
+  {
+    "messages": [
+      {
+        "content": "How many more purple balls are needed in the first bag to match the count in the second bag?",
         "role": "user"
       },
       {
@@ -404,7 +555,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1177_grid11.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1177.png"
     ],
     "id": 1177
@@ -412,7 +562,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many rugby balls does Brenda need to add to the first basket for both baskets to have an equal count of rugby balls?",
+        "content": "How many rugby balls does Brenda need to add to the first basket for both baskets to have an equal count of rugby balls?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1186.png"
+    ],
+    "id": 1186
+  },
+  {
+    "messages": [
+      {
+        "content": "How many rugby balls does Brenda need to add to the first basket for both baskets to have an equal count of rugby balls?",
         "role": "user"
       },
       {
@@ -429,7 +595,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1186_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1186.png"
     ],
     "id": 1186
@@ -437,7 +602,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many additional sunflowers does Michele need to add to the right bucket?",
+        "content": "How many additional sunflowers does Michele need to add to the right bucket?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1193.png"
+    ],
+    "id": 1193
+  },
+  {
+    "messages": [
+      {
+        "content": "How many additional sunflowers does Michele need to add to the right bucket?",
         "role": "user"
       },
       {
@@ -454,7 +635,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1193_grid11.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1193.png"
     ],
     "id": 1193
@@ -462,7 +642,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many of each class of flower does she need to add to each pot?",
+        "content": "How many of each class of flower does she need to add to each pot?",
+        "role": "user"
+      },
+      {
+        "content": "She needs to add 1 sunflower to the second pot, 1 tulip to the second pot, 1 rose to the second pot, 1 pink flower to the second pot, and 1 rose to the first pot.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_12.png"
+    ],
+    "id": 12
+  },
+  {
+    "messages": [
+      {
+        "content": "How many of each class of flower does she need to add to each pot?",
         "role": "user"
       },
       {
@@ -479,7 +675,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_12_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_12.png"
     ],
     "id": 12
@@ -535,7 +730,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the total number of blue flowers across both buckets?",
+        "content": "What is the total number of blue flowers across both buckets?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1234.png"
+    ],
+    "id": 1234
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the total number of blue flowers across both buckets?",
         "role": "user"
       },
       {
@@ -552,7 +763,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1234_grid2.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1234.png"
     ],
     "id": 1234
@@ -592,7 +802,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many footballs does Emily need to add to the left basket?",
+        "content": "How many footballs does Emily need to add to the left basket?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1242.png"
+    ],
+    "id": 1242
+  },
+  {
+    "messages": [
+      {
+        "content": "How many footballs does Emily need to add to the left basket?",
         "role": "user"
       },
       {
@@ -609,7 +835,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1242_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1242.png"
     ],
     "id": 1242
@@ -617,7 +842,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many additional baseballs does Natalie need to purchase to balance the number of baseballs in each bucket?",
+        "content": "How many additional baseballs does Natalie need to purchase to balance the number of baseballs in each bucket?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1249.png"
+    ],
+    "id": 1249
+  },
+  {
+    "messages": [
+      {
+        "content": "How many additional baseballs does Natalie need to purchase to balance the number of baseballs in each bucket?",
         "role": "user"
       },
       {
@@ -634,7 +875,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1249_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1249.png"
     ],
     "id": 1249
@@ -642,7 +882,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the total number of flowers in the second pot?",
+        "content": "What is the total number of flowers in the second pot?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1252.png"
+    ],
+    "id": 1252
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the total number of flowers in the second pot?",
         "role": "user"
       },
       {
@@ -659,7 +915,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1252_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1252.png"
     ],
     "id": 1252
@@ -667,7 +922,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many additional basketballs need to be added to each basket to have the same number of each category of ball?",
+        "content": "How many additional basketballs need to be added to each basket to have the same number of each category of ball?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1260.png"
+    ],
+    "id": 1260
+  },
+  {
+    "messages": [
+      {
+        "content": "How many additional basketballs need to be added to each basket to have the same number of each category of ball?",
         "role": "user"
       },
       {
@@ -684,7 +955,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1260_grid10.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1260.png"
     ],
     "id": 1260
@@ -692,7 +962,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many of each type of flower need to be added to the second bucket to balance the count?",
+        "content": "How many of each type of flower need to be added to the second bucket to balance the count?",
+        "role": "user"
+      },
+      {
+        "content": "3 tulips, 1 rose, 1 daffodil, 1 carnation",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1281.png"
+    ],
+    "id": 1281
+  },
+  {
+    "messages": [
+      {
+        "content": "How many of each type of flower need to be added to the second bucket to balance the count?",
         "role": "user"
       },
       {
@@ -709,7 +995,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1281_grid12.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1281.png"
     ],
     "id": 1281
@@ -717,7 +1002,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the current total number of flowers in both pots combined?",
+        "content": "What is the current total number of flowers in both pots combined?",
+        "role": "user"
+      },
+      {
+        "content": "12",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1286.png"
+    ],
+    "id": 1286
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the current total number of flowers in both pots combined?",
         "role": "user"
       },
       {
@@ -734,7 +1035,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1286_grid10.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1286.png"
     ],
     "id": 1286
@@ -742,7 +1042,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many more flowers would Jasmine add if she prefers to add only pink or only white flowers?",
+        "content": "How many more flowers would Jasmine add if she prefers to add only pink or only white flowers?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1289.png"
+    ],
+    "id": 1289
+  },
+  {
+    "messages": [
+      {
+        "content": "How many more flowers would Jasmine add if she prefers to add only pink or only white flowers?",
         "role": "user"
       },
       {
@@ -759,7 +1075,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1289_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1289.png"
     ],
     "id": 1289
@@ -767,7 +1082,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many additional baseballs are needed in the right bucket to balance the count with the left bucket?",
+        "content": "How many additional baseballs are needed in the right bucket to balance the count with the left bucket?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1293.png"
+    ],
+    "id": 1293
+  },
+  {
+    "messages": [
+      {
+        "content": "How many additional baseballs are needed in the right bucket to balance the count with the left bucket?",
         "role": "user"
       },
       {
@@ -784,7 +1115,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1293_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1293.png"
     ],
     "id": 1293
@@ -808,7 +1138,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many additional footballs are needed for the first basket to balance the counts?",
+        "content": "How many additional footballs are needed for the first basket to balance the counts?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1308.png"
+    ],
+    "id": 1308
+  },
+  {
+    "messages": [
+      {
+        "content": "How many additional footballs are needed for the first basket to balance the counts?",
         "role": "user"
       },
       {
@@ -825,7 +1171,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1308_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1308.png"
     ],
     "id": 1308
@@ -833,7 +1178,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the new count of each type of flower in the right bag after adding the additional sunflower and purple flower?",
+        "content": "What is the new count of each type of flower in the right bag after adding the additional sunflower and purple flower?",
+        "role": "user"
+      },
+      {
+        "content": "3 pink flowers, 3 sunflowers, 3 purple flowers",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1312.png"
+    ],
+    "id": 1312
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the new count of each type of flower in the right bag after adding the additional sunflower and purple flower?",
         "role": "user"
       },
       {
@@ -850,7 +1211,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1312_grid11.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1312.png"
     ],
     "id": 1312
@@ -858,7 +1218,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many more white balls does Charles need to add to the first bag to equal the white balls in the second bag?",
+        "content": "How many more white balls does Charles need to add to the first bag to equal the white balls in the second bag?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1328.png"
+    ],
+    "id": 1328
+  },
+  {
+    "messages": [
+      {
+        "content": "How many more white balls does Charles need to add to the first bag to equal the white balls in the second bag?",
         "role": "user"
       },
       {
@@ -875,7 +1251,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1328_grid9.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1328.png"
     ],
     "id": 1328
@@ -883,7 +1258,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many total flowers does Melissa need to add to each basket to achieve the balanced number?",
+        "content": "How many total flowers does Melissa need to add to each basket to achieve the balanced number?",
+        "role": "user"
+      },
+      {
+        "content": "5 flowers in the first basket, 4 flowers in the second basket",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_133.png"
+    ],
+    "id": 133
+  },
+  {
+    "messages": [
+      {
+        "content": "How many total flowers does Melissa need to add to each basket to achieve the balanced number?",
         "role": "user"
       },
       {
@@ -900,7 +1291,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_133_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_133.png"
     ],
     "id": 133
@@ -908,7 +1298,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answers, how many additional flowers in total does Charles need to purchase to ensure each pot has the same number of each variety of flower?",
+        "content": "Based on the previous answers, how many additional flowers in total does Charles need to purchase to ensure each pot has the same number of each variety of flower?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1339.png"
+    ],
+    "id": 1339
+  },
+  {
+    "messages": [
+      {
+        "content": "Based on the previous answers, how many additional flowers in total does Charles need to purchase to ensure each pot has the same number of each variety of flower?",
         "role": "user"
       },
       {
@@ -925,7 +1331,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1339_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1339.png"
     ],
     "id": 1339
@@ -933,7 +1338,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many basketballs are currently in each bucket?",
+        "content": "How many basketballs are currently in each bucket?",
+        "role": "user"
+      },
+      {
+        "content": "{'first_bucket': 3, 'second_bucket': 2}",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1358.png"
+    ],
+    "id": 1358
+  },
+  {
+    "messages": [
+      {
+        "content": "How many basketballs are currently in each bucket?",
         "role": "user"
       },
       {
@@ -950,7 +1371,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1358_grid10.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1358.png"
     ],
     "id": 1358
@@ -958,7 +1378,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the total number of flowers Christian needs to buy to make each class of flowers equal in each basket?",
+        "content": "What is the total number of flowers Christian needs to buy to make each class of flowers equal in each basket?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1364.png"
+    ],
+    "id": 1364
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the total number of flowers Christian needs to buy to make each class of flowers equal in each basket?",
         "role": "user"
       },
       {
@@ -975,7 +1411,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1364_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1364.png"
     ],
     "id": 1364
@@ -983,7 +1418,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many bouquets are needed in the right bag to balance with the left bag?",
+        "content": "How many bouquets are needed in the right bag to balance with the left bag?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1384.png"
+    ],
+    "id": 1384
+  },
+  {
+    "messages": [
+      {
+        "content": "How many bouquets are needed in the right bag to balance with the left bag?",
         "role": "user"
       },
       {
@@ -1000,7 +1451,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1384_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1384.png"
     ],
     "id": 1384
@@ -1024,7 +1474,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many more basketballs does Brian need to purchase in the right pot to balance with the footballs?",
+        "content": "How many more basketballs does Brian need to purchase in the right pot to balance with the footballs?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1399.png"
+    ],
+    "id": 1399
+  },
+  {
+    "messages": [
+      {
+        "content": "How many more basketballs does Brian need to purchase in the right pot to balance with the footballs?",
         "role": "user"
       },
       {
@@ -1041,7 +1507,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1399_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1399.png"
     ],
     "id": 1399
@@ -1049,7 +1514,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many more daffodils need to be added in total to equalize the number of flowers in each pot?",
+        "content": "How many more daffodils need to be added in total to equalize the number of flowers in each pot?",
+        "role": "user"
+      },
+      {
+        "content": "0 daffodils",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1405.png"
+    ],
+    "id": 1405
+  },
+  {
+    "messages": [
+      {
+        "content": "How many more daffodils need to be added in total to equalize the number of flowers in each pot?",
         "role": "user"
       },
       {
@@ -1066,7 +1547,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1405_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1405.png"
     ],
     "id": 1405
@@ -1074,7 +1554,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the total number of flowers Katherine initially has?",
+        "content": "What is the total number of flowers Katherine initially has?",
+        "role": "user"
+      },
+      {
+        "content": "12",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_141.png"
+    ],
+    "id": 141
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the total number of flowers Katherine initially has?",
         "role": "user"
       },
       {
@@ -1091,7 +1587,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_141_grid11.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_141.png"
     ],
     "id": 141
@@ -1115,7 +1610,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many balls of each kind need to be added to the green-bordered basket to make the count of each kind equal to those in the red-bordered basket?",
+        "content": "How many balls of each kind need to be added to the green-bordered basket to make the count of each kind equal to those in the red-bordered basket?",
+        "role": "user"
+      },
+      {
+        "content": "3 rugby balls and 0 non-rugby balls",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1438.png"
+    ],
+    "id": 1438
+  },
+  {
+    "messages": [
+      {
+        "content": "How many balls of each kind need to be added to the green-bordered basket to make the count of each kind equal to those in the red-bordered basket?",
         "role": "user"
       },
       {
@@ -1132,7 +1643,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1438_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1438.png"
     ],
     "id": 1438
@@ -1156,7 +1666,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many baseballs are in the right pot after getting more balls?",
+        "content": "How many baseballs are in the right pot after getting more balls?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1455.png"
+    ],
+    "id": 1455
+  },
+  {
+    "messages": [
+      {
+        "content": "How many baseballs are in the right pot after getting more balls?",
         "role": "user"
       },
       {
@@ -1173,7 +1699,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1455_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1455.png"
     ],
     "id": 1455
@@ -1229,7 +1754,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many more pink flowers does Kathryn need in the second pot to make the total number of flowers identical in each pot?",
+        "content": "How many more pink flowers does Kathryn need in the second pot to make the total number of flowers identical in each pot?",
+        "role": "user"
+      },
+      {
+        "content": "1 more pink flower",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1472.png"
+    ],
+    "id": 1472
+  },
+  {
+    "messages": [
+      {
+        "content": "How many more pink flowers does Kathryn need in the second pot to make the total number of flowers identical in each pot?",
         "role": "user"
       },
       {
@@ -1246,7 +1787,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1472_grid11.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1472.png"
     ],
     "id": 1472
@@ -1318,7 +1858,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the current total count of pink flowers and yellow flowers in the right pot?",
+        "content": "What is the current total count of pink flowers and yellow flowers in the right pot?",
+        "role": "user"
+      },
+      {
+        "content": "Pink flowers: 3, Yellow flowers: 4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_149.png"
+    ],
+    "id": 149
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the current total count of pink flowers and yellow flowers in the right pot?",
         "role": "user"
       },
       {
@@ -1335,7 +1891,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_149_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_149.png"
     ],
     "id": 149
@@ -1343,7 +1898,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many additional soccer balls does Wayne need to add to the second bucket to have an identical count?",
+        "content": "How many additional soccer balls does Wayne need to add to the second bucket to have an identical count?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1498.png"
+    ],
+    "id": 1498
+  },
+  {
+    "messages": [
+      {
+        "content": "How many additional soccer balls does Wayne need to add to the second bucket to have an identical count?",
         "role": "user"
       },
       {
@@ -1360,7 +1931,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1498_grid11.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1498.png"
     ],
     "id": 1498
@@ -1368,7 +1938,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many additional basketballs are needed to balance the red pot?",
+        "content": "How many additional basketballs are needed to balance the red pot?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1509.png"
+    ],
+    "id": 1509
+  },
+  {
+    "messages": [
+      {
+        "content": "How many additional basketballs are needed to balance the red pot?",
         "role": "user"
       },
       {
@@ -1385,7 +1971,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1509_grid10.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1509.png"
     ],
     "id": 1509
@@ -1393,7 +1978,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the target count for each variety of flower in each bag after Kristin adds more flowers?",
+        "content": "What is the target count for each variety of flower in each bag after Kristin adds more flowers?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1514.png"
+    ],
+    "id": 1514
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the target count for each variety of flower in each bag after Kristin adds more flowers?",
         "role": "user"
       },
       {
@@ -1410,7 +2011,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1514_grid10.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1514.png"
     ],
     "id": 1514
@@ -1418,7 +2018,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many total balls will Tyler have after she adds the necessary basketballs to balance each bucket?",
+        "content": "How many total balls will Tyler have after she adds the necessary basketballs to balance each bucket?",
+        "role": "user"
+      },
+      {
+        "content": "10",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1530.png"
+    ],
+    "id": 1530
+  },
+  {
+    "messages": [
+      {
+        "content": "How many total balls will Tyler have after she adds the necessary basketballs to balance each bucket?",
         "role": "user"
       },
       {
@@ -1435,7 +2051,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1530_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1530.png"
     ],
     "id": 1530
@@ -1459,7 +2074,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many additional footballs does Thomas need to buy to make the count equal in each bucket?",
+        "content": "How many additional footballs does Thomas need to buy to make the count equal in each bucket?",
+        "role": "user"
+      },
+      {
+        "content": "0, because each bucket already has 2 footballs.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1540.png"
+    ],
+    "id": 1540
+  },
+  {
+    "messages": [
+      {
+        "content": "How many additional footballs does Thomas need to buy to make the count equal in each bucket?",
         "role": "user"
       },
       {
@@ -1476,7 +2107,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1540_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1540.png"
     ],
     "id": 1540
@@ -1500,7 +2130,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many more footballs does each pot need to have an equal count of each class of ball?",
+        "content": "How many more footballs does each pot need to have an equal count of each class of ball?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1542.png"
+    ],
+    "id": 1542
+  },
+  {
+    "messages": [
+      {
+        "content": "How many more footballs does each pot need to have an equal count of each class of ball?",
         "role": "user"
       },
       {
@@ -1517,7 +2163,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1542_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1542.png"
     ],
     "id": 1542
@@ -1525,7 +2170,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many baseballs are needed in the second basket to balance the number of each variant of ball?",
+        "content": "How many baseballs are needed in the second basket to balance the number of each variant of ball?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1556.png"
+    ],
+    "id": 1556
+  },
+  {
+    "messages": [
+      {
+        "content": "How many baseballs are needed in the second basket to balance the number of each variant of ball?",
         "role": "user"
       },
       {
@@ -1542,7 +2203,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1556_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1556.png"
     ],
     "id": 1556
@@ -1550,7 +2210,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many additional purple balls are needed in the basket with the blue outline to match the count in the basket with the green outline?",
+        "content": "How many additional purple balls are needed in the basket with the blue outline to match the count in the basket with the green outline?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_156.png"
+    ],
+    "id": 156
+  },
+  {
+    "messages": [
+      {
+        "content": "How many additional purple balls are needed in the basket with the blue outline to match the count in the basket with the green outline?",
         "role": "user"
       },
       {
@@ -1567,7 +2243,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_156_grid1.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_156.png"
     ],
     "id": 156
@@ -1607,7 +2282,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many additional baseballs does Melissa need to buy to equalize the count in each pot?",
+        "content": "How many additional baseballs does Melissa need to buy to equalize the count in each pot?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1591.png"
+    ],
+    "id": 1591
+  },
+  {
+    "messages": [
+      {
+        "content": "How many additional baseballs does Melissa need to buy to equalize the count in each pot?",
         "role": "user"
       },
       {
@@ -1624,7 +2315,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1591_grid10.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1591.png"
     ],
     "id": 1591
@@ -1632,7 +2322,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many units of each type of flower are in the first bag after adding the extra units?",
+        "content": "How many units of each type of flower are in the first bag after adding the extra units?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1592.png"
+    ],
+    "id": 1592
+  },
+  {
+    "messages": [
+      {
+        "content": "How many units of each type of flower are in the first bag after adding the extra units?",
         "role": "user"
       },
       {
@@ -1649,7 +2355,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1592_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1592.png"
     ],
     "id": 1592
@@ -1785,7 +2490,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many additional flowers does Christine need to add to each bag to achieve equal numbers in each category?",
+        "content": "How many additional flowers does Christine need to add to each bag to achieve equal numbers in each category?",
+        "role": "user"
+      },
+      {
+        "content": "{'Bag 1': 3, 'Bag 2': 2}",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_165.png"
+    ],
+    "id": 165
+  },
+  {
+    "messages": [
+      {
+        "content": "How many additional flowers does Christine need to add to each bag to achieve equal numbers in each category?",
         "role": "user"
       },
       {
@@ -1802,7 +2523,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_165_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_165.png"
     ],
     "id": 165
@@ -1826,7 +2546,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many additional hibiscuses are needed to have an equal number in each bag?",
+        "content": "How many additional hibiscuses are needed to have an equal number in each bag?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1676.png"
+    ],
+    "id": 1676
+  },
+  {
+    "messages": [
+      {
+        "content": "How many additional hibiscuses are needed to have an equal number in each bag?",
         "role": "user"
       },
       {
@@ -1843,7 +2579,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1676_grid12.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1676.png"
     ],
     "id": 1676
@@ -1851,7 +2586,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many additional footballs should be added to the first pot to make the number equal to the second pot?",
+        "content": "How many additional footballs should be added to the first pot to make the number equal to the second pot?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1680.png"
+    ],
+    "id": 1680
+  },
+  {
+    "messages": [
+      {
+        "content": "How many additional footballs should be added to the first pot to make the number equal to the second pot?",
         "role": "user"
       },
       {
@@ -1868,7 +2619,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1680_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1680.png"
     ],
     "id": 1680
@@ -1876,7 +2626,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the total count of flowers in both pots after adding the necessary flowers to equalize the counts in each pot?",
+        "content": "What is the total count of flowers in both pots after adding the necessary flowers to equalize the counts in each pot?",
+        "role": "user"
+      },
+      {
+        "content": "14",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1681.png"
+    ],
+    "id": 1681
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the total count of flowers in both pots after adding the necessary flowers to equalize the counts in each pot?",
         "role": "user"
       },
       {
@@ -1893,7 +2659,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1681_grid13.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1681.png"
     ],
     "id": 1681
@@ -1933,7 +2698,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many additional baseballs need to be added to the right bucket?",
+        "content": "How many additional baseballs need to be added to the right bucket?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1709.png"
+    ],
+    "id": 1709
+  },
+  {
+    "messages": [
+      {
+        "content": "How many additional baseballs need to be added to the right bucket?",
         "role": "user"
       },
       {
@@ -1950,7 +2731,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1709_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1709.png"
     ],
     "id": 1709
@@ -1958,7 +2738,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many total footballs does Tyler need to add to make the number of footballs the same in both bags?",
+        "content": "How many total footballs does Tyler need to add to make the number of footballs the same in both bags?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1721.png"
+    ],
+    "id": 1721
+  },
+  {
+    "messages": [
+      {
+        "content": "How many total footballs does Tyler need to add to make the number of footballs the same in both bags?",
         "role": "user"
       },
       {
@@ -1975,7 +2771,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1721_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1721.png"
     ],
     "id": 1721
@@ -1999,7 +2794,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the total count of volleyballs after ensuring equal count in both pots?",
+        "content": "What is the total count of volleyballs after ensuring equal count in both pots?",
+        "role": "user"
+      },
+      {
+        "content": "6",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1736.png"
+    ],
+    "id": 1736
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the total count of volleyballs after ensuring equal count in both pots?",
         "role": "user"
       },
       {
@@ -2016,7 +2827,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1736_grid13.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1736.png"
     ],
     "id": 1736
@@ -2024,7 +2834,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many total balls are in each pot after the additional sports balls are added?",
+        "content": "How many total balls are in each pot after the additional sports balls are added?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1740.png"
+    ],
+    "id": 1740
+  },
+  {
+    "messages": [
+      {
+        "content": "How many total balls are in each pot after the additional sports balls are added?",
         "role": "user"
       },
       {
@@ -2041,7 +2867,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1740_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1740.png"
     ],
     "id": 1740
@@ -2049,7 +2874,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many sunflowers are in the first bucket?",
+        "content": "How many sunflowers are in the first bucket?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1742.png"
+    ],
+    "id": 1742
+  },
+  {
+    "messages": [
+      {
+        "content": "How many sunflowers are in the first bucket?",
         "role": "user"
       },
       {
@@ -2066,7 +2907,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1742_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1742.png"
     ],
     "id": 1742
@@ -2138,7 +2978,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many flowers does Erin need to buy to have the same number of each variant of flower in each bucket?",
+        "content": "How many flowers does Erin need to buy to have the same number of each variant of flower in each bucket?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1793.png"
+    ],
+    "id": 1793
+  },
+  {
+    "messages": [
+      {
+        "content": "How many flowers does Erin need to buy to have the same number of each variant of flower in each bucket?",
         "role": "user"
       },
       {
@@ -2155,7 +3011,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1793_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1793.png"
     ],
     "id": 1793
@@ -2163,7 +3018,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many yellow flowers does Joseph need to add to each bag to make the counts identical?",
+        "content": "How many yellow flowers does Joseph need to add to each bag to make the counts identical?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1803.png"
+    ],
+    "id": 1803
+  },
+  {
+    "messages": [
+      {
+        "content": "How many yellow flowers does Joseph need to add to each bag to make the counts identical?",
         "role": "user"
       },
       {
@@ -2180,7 +3051,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1803_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1803.png"
     ],
     "id": 1803
@@ -2204,7 +3074,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many additional tulips does the right bucket need to match the count in the left bucket?",
+        "content": "How many additional tulips does the right bucket need to match the count in the left bucket?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1810.png"
+    ],
+    "id": 1810
+  },
+  {
+    "messages": [
+      {
+        "content": "How many additional tulips does the right bucket need to match the count in the left bucket?",
         "role": "user"
       },
       {
@@ -2221,7 +3107,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1810_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1810.png"
     ],
     "id": 1810
@@ -2277,7 +3162,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many blue balls are in the second pot?",
+        "content": "How many blue balls are in the second pot?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1876.png"
+    ],
+    "id": 1876
+  },
+  {
+    "messages": [
+      {
+        "content": "How many blue balls are in the second pot?",
         "role": "user"
       },
       {
@@ -2294,7 +3195,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1876_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1876.png"
     ],
     "id": 1876
@@ -2334,7 +3234,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many types of balls are in each bag?",
+        "content": "How many types of balls are in each bag?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1902.png"
+    ],
+    "id": 1902
+  },
+  {
+    "messages": [
+      {
+        "content": "How many types of balls are in each bag?",
         "role": "user"
       },
       {
@@ -2342,7 +3258,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many basketballs are needed to balance the number of basketballs in each bag?",
+        "content": "How many basketballs are needed to balance the number of basketballs in each bag?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1902.png"
+    ],
+    "id": 1902
+  },
+  {
+    "messages": [
+      {
+        "content": "How many types of balls are in each bag?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      },
+      {
+        "content": "How many basketballs are needed to balance the number of basketballs in each bag?",
         "role": "user"
       },
       {
@@ -2350,7 +3290,39 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many baseballs are needed to balance the number of baseballs in each bag?",
+        "content": "How many baseballs are needed to balance the number of baseballs in each bag?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1902.png"
+    ],
+    "id": 1902
+  },
+  {
+    "messages": [
+      {
+        "content": "How many types of balls are in each bag?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      },
+      {
+        "content": "How many basketballs are needed to balance the number of basketballs in each bag?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "How many baseballs are needed to balance the number of baseballs in each bag?",
         "role": "user"
       },
       {
@@ -2367,9 +3339,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1902_grid5.png",
-      "dataset/clip_images/99/puzzle_99_1902_grid5.png",
-      "dataset/clip_images/99/puzzle_99_1902_grid10.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1902.png"
     ],
     "id": 1902
@@ -2393,7 +3362,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many more basketballs are needed in the first basket to balance the count with the second basket?",
+        "content": "How many more basketballs are needed in the first basket to balance the count with the second basket?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_192.png"
+    ],
+    "id": 192
+  },
+  {
+    "messages": [
+      {
+        "content": "How many more basketballs are needed in the first basket to balance the count with the second basket?",
         "role": "user"
       },
       {
@@ -2410,7 +3395,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_192_grid11.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_192.png"
     ],
     "id": 192
@@ -2434,7 +3418,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nAfter adding the flowers to balance both bags, how many flowers are in each bag?",
+        "content": "After adding the flowers to balance both bags, how many flowers are in each bag?",
+        "role": "user"
+      },
+      {
+        "content": "8 flowers",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1923.png"
+    ],
+    "id": 1923
+  },
+  {
+    "messages": [
+      {
+        "content": "After adding the flowers to balance both bags, how many flowers are in each bag?",
         "role": "user"
       },
       {
@@ -2451,7 +3451,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1923_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1923.png"
     ],
     "id": 1923
@@ -2459,7 +3458,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many crystal balls does Christine need to add to the right bucket?",
+        "content": "How many crystal balls does Christine need to add to the right bucket?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1932.png"
+    ],
+    "id": 1932
+  },
+  {
+    "messages": [
+      {
+        "content": "How many crystal balls does Christine need to add to the right bucket?",
         "role": "user"
       },
       {
@@ -2476,7 +3491,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1932_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1932.png"
     ],
     "id": 1932
@@ -2484,7 +3498,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many yellow flowers are in both pots after balancing the number of yellow and pink flowers in each pot?",
+        "content": "How many yellow flowers are in both pots after balancing the number of yellow and pink flowers in each pot?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1953.png"
+    ],
+    "id": 1953
+  },
+  {
+    "messages": [
+      {
+        "content": "How many yellow flowers are in both pots after balancing the number of yellow and pink flowers in each pot?",
         "role": "user"
       },
       {
@@ -2501,7 +3531,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1953_grid10.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1953.png"
     ],
     "id": 1953
@@ -2509,7 +3538,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many more basketballs or footballs does the first pot need to have an equal number of basketballs and footballs?",
+        "content": "How many more basketballs or footballs does the first pot need to have an equal number of basketballs and footballs?",
+        "role": "user"
+      },
+      {
+        "content": "The first pot needs 1 more basketball.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1963.png"
+    ],
+    "id": 1963
+  },
+  {
+    "messages": [
+      {
+        "content": "How many more basketballs or footballs does the first pot need to have an equal number of basketballs and footballs?",
         "role": "user"
       },
       {
@@ -2526,7 +3571,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1963_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1963.png"
     ],
     "id": 1963
@@ -2534,7 +3578,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many extra flowers of each type are needed for the second bucket to balance the count?",
+        "content": "How many extra flowers of each type are needed for the second bucket to balance the count?",
+        "role": "user"
+      },
+      {
+        "content": "{'type1': 0, 'type2': 1, 'type3': 0}",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1965.png"
+    ],
+    "id": 1965
+  },
+  {
+    "messages": [
+      {
+        "content": "How many extra flowers of each type are needed for the second bucket to balance the count?",
         "role": "user"
       },
       {
@@ -2551,7 +3611,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1965_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1965.png"
     ],
     "id": 1965
@@ -2591,7 +3650,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the total number of each type of flower needed in each pot to have identical counts?",
+        "content": "What is the total number of each type of flower needed in each pot to have identical counts?",
+        "role": "user"
+      },
+      {
+        "content": "2 sunflowers, 3 yellow flowers, 6 pink flowers, and 4 white flowers.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_198.png"
+    ],
+    "id": 198
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the total number of each type of flower needed in each pot to have identical counts?",
         "role": "user"
       },
       {
@@ -2608,7 +3683,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_198_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_198.png"
     ],
     "id": 198
@@ -2616,7 +3690,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many flowers of each variety are needed in total to equalize the distribution in both pots?",
+        "content": "How many flowers of each variety are needed in total to equalize the distribution in both pots?",
+        "role": "user"
+      },
+      {
+        "content": "2 roses, 2 cherry blossoms, 2 tulips",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1983.png"
+    ],
+    "id": 1983
+  },
+  {
+    "messages": [
+      {
+        "content": "How many flowers of each variety are needed in total to equalize the distribution in both pots?",
         "role": "user"
       },
       {
@@ -2633,7 +3723,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1983_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1983.png"
     ],
     "id": 1983
@@ -2673,7 +3762,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many additional basketballs are needed in the green bucket to match the number of basketballs in the blue bucket?",
+        "content": "How many additional basketballs are needed in the green bucket to match the number of basketballs in the blue bucket?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_217.png"
+    ],
+    "id": 217
+  },
+  {
+    "messages": [
+      {
+        "content": "How many additional basketballs are needed in the green bucket to match the number of basketballs in the blue bucket?",
         "role": "user"
       },
       {
@@ -2690,7 +3795,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_217_grid11.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_217.png"
     ],
     "id": 217
@@ -2714,7 +3818,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the total number of flowers Vickie needs to equalize the flower types in both buckets?",
+        "content": "What is the total number of flowers Vickie needs to equalize the flower types in both buckets?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_234.png"
+    ],
+    "id": 234
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the total number of flowers Vickie needs to equalize the flower types in both buckets?",
         "role": "user"
       },
       {
@@ -2731,7 +3851,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_234_grid12.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_234.png"
     ],
     "id": 234
@@ -2819,7 +3938,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many balls in total are in the second pot initially?",
+        "content": "How many balls in total are in the second pot initially?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_26.png"
+    ],
+    "id": 26
+  },
+  {
+    "messages": [
+      {
+        "content": "How many balls in total are in the second pot initially?",
         "role": "user"
       },
       {
@@ -2836,7 +3971,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_26_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_26.png"
     ],
     "id": 26
@@ -2844,7 +3978,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many additional flowers of each category are needed to make the number of each type of flower in both pots equal?",
+        "content": "How many additional flowers of each category are needed to make the number of each type of flower in both pots equal?",
+        "role": "user"
+      },
+      {
+        "content": "0 more roses are needed in each pot, 2 additional non-rose flowers are needed in the second pot to match the first pot.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_27.png"
+    ],
+    "id": 27
+  },
+  {
+    "messages": [
+      {
+        "content": "How many additional flowers of each category are needed to make the number of each type of flower in both pots equal?",
         "role": "user"
       },
       {
@@ -2861,7 +4011,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_27_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_27.png"
     ],
     "id": 27
@@ -2869,7 +4018,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the current count of footballs in each bucket?",
+        "content": "What is the current count of footballs in each bucket?",
+        "role": "user"
+      },
+      {
+        "content": "2 in the left bucket, 2 in the right bucket",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_275.png"
+    ],
+    "id": 275
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the current count of footballs in each bucket?",
         "role": "user"
       },
       {
@@ -2877,7 +4042,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat should be the count of each type of ball in each bucket to achieve balance?",
+        "content": "What should be the count of each type of ball in each bucket to achieve balance?",
+        "role": "user"
+      },
+      {
+        "content": "2 basketballs and 2 footballs in each bucket",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_275.png"
+    ],
+    "id": 275
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the current count of footballs in each bucket?",
+        "role": "user"
+      },
+      {
+        "content": "2 in the left bucket, 2 in the right bucket",
+        "role": "assistant"
+      },
+      {
+        "content": "What should be the count of each type of ball in each bucket to achieve balance?",
         "role": "user"
       },
       {
@@ -2894,8 +4083,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_275_grid5.png",
-      "dataset/clip_images/99/puzzle_99_275_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_275.png"
     ],
     "id": 275
@@ -2903,7 +4090,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many additional 8 balls are needed so that each bucket has the same number of 8 balls?",
+        "content": "How many additional 8 balls are needed so that each bucket has the same number of 8 balls?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_286.png"
+    ],
+    "id": 286
+  },
+  {
+    "messages": [
+      {
+        "content": "How many additional 8 balls are needed so that each bucket has the same number of 8 balls?",
         "role": "user"
       },
       {
@@ -2920,7 +4123,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_286_grid13.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_286.png"
     ],
     "id": 286
@@ -2928,7 +4130,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the total number of basketballs in both pots?",
+        "content": "What is the total number of basketballs in both pots?",
+        "role": "user"
+      },
+      {
+        "content": "9",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_30.png"
+    ],
+    "id": 30
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the total number of basketballs in both pots?",
         "role": "user"
       },
       {
@@ -2945,7 +4163,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_30_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_30.png"
     ],
     "id": 30
@@ -2985,7 +4202,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many extra footballs does Justin need to add to the left pot to equal the right pot?",
+        "content": "How many extra footballs does Justin need to add to the left pot to equal the right pot?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_311.png"
+    ],
+    "id": 311
+  },
+  {
+    "messages": [
+      {
+        "content": "How many extra footballs does Justin need to add to the left pot to equal the right pot?",
         "role": "user"
       },
       {
@@ -3002,7 +4235,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_311_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_311.png"
     ],
     "id": 311
@@ -3010,7 +4242,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many Sunflowers are there in each basket after she adds more flowers?",
+        "content": "How many Sunflowers are there in each basket after she adds more flowers?",
+        "role": "user"
+      },
+      {
+        "content": "2 in each basket",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_333.png"
+    ],
+    "id": 333
+  },
+  {
+    "messages": [
+      {
+        "content": "How many Sunflowers are there in each basket after she adds more flowers?",
         "role": "user"
       },
       {
@@ -3027,7 +4275,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_333_grid11.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_333.png"
     ],
     "id": 333
@@ -3051,7 +4298,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many Peonies does Tracy need to add to the left basket to match the count in the right basket?",
+        "content": "How many Peonies does Tracy need to add to the left basket to match the count in the right basket?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_345.png"
+    ],
+    "id": 345
+  },
+  {
+    "messages": [
+      {
+        "content": "How many Peonies does Tracy need to add to the left basket to match the count in the right basket?",
         "role": "user"
       },
       {
@@ -3068,7 +4331,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_345_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_345.png"
     ],
     "id": 345
@@ -3092,7 +4354,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many additional balls in total should Cristina add to each pot?",
+        "content": "How many additional balls in total should Cristina add to each pot?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_375.png"
+    ],
+    "id": 375
+  },
+  {
+    "messages": [
+      {
+        "content": "How many additional balls in total should Cristina add to each pot?",
         "role": "user"
       },
       {
@@ -3109,7 +4387,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_375_grid11.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_375.png"
     ],
     "id": 375
@@ -3133,7 +4410,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the total number of flowers in each basket after adding the additional flowers?",
+        "content": "What is the total number of flowers in each basket after adding the additional flowers?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_377.png"
+    ],
+    "id": 377
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the total number of flowers in each basket after adding the additional flowers?",
         "role": "user"
       },
       {
@@ -3150,7 +4443,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_377_grid13.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_377.png"
     ],
     "id": 377
@@ -3270,7 +4562,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many 8 balls are missing in the first bag to match the count in the second bag?",
+        "content": "How many 8 balls are missing in the first bag to match the count in the second bag?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_477.png"
+    ],
+    "id": 477
+  },
+  {
+    "messages": [
+      {
+        "content": "How many 8 balls are missing in the first bag to match the count in the second bag?",
         "role": "user"
       },
       {
@@ -3287,7 +4595,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_477_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_477.png"
     ],
     "id": 477
@@ -3295,7 +4602,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nAfter purchasing 1 sunflower for the left basket and 1 pink flower for the right basket, how many sunflowers and pink flowers does each basket have?",
+        "content": "After purchasing 1 sunflower for the left basket and 1 pink flower for the right basket, how many sunflowers and pink flowers does each basket have?",
+        "role": "user"
+      },
+      {
+        "content": "Each basket has 1 sunflower and 1 pink flower.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_485.png"
+    ],
+    "id": 485
+  },
+  {
+    "messages": [
+      {
+        "content": "After purchasing 1 sunflower for the left basket and 1 pink flower for the right basket, how many sunflowers and pink flowers does each basket have?",
         "role": "user"
       },
       {
@@ -3312,7 +4635,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_485_grid12.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_485.png"
     ],
     "id": 485
@@ -3336,7 +4658,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many total balls of each type are needed per bucket to make them equal?",
+        "content": "How many total balls of each type are needed per bucket to make them equal?",
+        "role": "user"
+      },
+      {
+        "content": "{'purple balls': '2', 'footballs': '4', 'basketballs': '2', 'soccer balls': '3'}",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_488.png"
+    ],
+    "id": 488
+  },
+  {
+    "messages": [
+      {
+        "content": "How many total balls of each type are needed per bucket to make them equal?",
         "role": "user"
       },
       {
@@ -3353,7 +4691,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_488_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_488.png"
     ],
     "id": 488
@@ -3377,7 +4714,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many crystal balls does Jasmine need to add to the second bucket to match the number of crystal balls in the first bucket?",
+        "content": "How many crystal balls does Jasmine need to add to the second bucket to match the number of crystal balls in the first bucket?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_522.png"
+    ],
+    "id": 522
+  },
+  {
+    "messages": [
+      {
+        "content": "How many crystal balls does Jasmine need to add to the second bucket to match the number of crystal balls in the first bucket?",
         "role": "user"
       },
       {
@@ -3394,7 +4747,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_522_grid12.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_522.png"
     ],
     "id": 522
@@ -3466,7 +4818,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many additional flowers does Katherine need to add to each pot?",
+        "content": "How many additional flowers does Katherine need to add to each pot?",
+        "role": "user"
+      },
+      {
+        "content": "2 additional flowers for the first pot (1 pink flower and 1 yellow flower), and 2 additional flowers for the second pot (1 pink flower and 1 yellow flower)",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_557.png"
+    ],
+    "id": 557
+  },
+  {
+    "messages": [
+      {
+        "content": "How many additional flowers does Katherine need to add to each pot?",
         "role": "user"
       },
       {
@@ -3483,7 +4851,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_557_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_557.png"
     ],
     "id": 557
@@ -3555,7 +4922,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many red flowers need to be added to the right basket to make them equivalent?",
+        "content": "How many red flowers need to be added to the right basket to make them equivalent?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_621.png"
+    ],
+    "id": 621
+  },
+  {
+    "messages": [
+      {
+        "content": "How many red flowers need to be added to the right basket to make them equivalent?",
         "role": "user"
       },
       {
@@ -3572,7 +4955,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_621_grid10.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_621.png"
     ],
     "id": 621
@@ -3580,7 +4962,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many more flowers of each type are needed in Bag 2 to have 2 of each type?",
+        "content": "How many more flowers of each type are needed in Bag 2 to have 2 of each type?",
+        "role": "user"
+      },
+      {
+        "content": "1 of each type",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_658.png"
+    ],
+    "id": 658
+  },
+  {
+    "messages": [
+      {
+        "content": "How many more flowers of each type are needed in Bag 2 to have 2 of each type?",
         "role": "user"
       },
       {
@@ -3597,7 +4995,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_658_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_658.png"
     ],
     "id": 658
@@ -3605,7 +5002,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many of each variety of flowers are needed to make each bucket equivalent in count for each variety?",
+        "content": "How many of each variety of flowers are needed to make each bucket equivalent in count for each variety?",
+        "role": "user"
+      },
+      {
+        "content": "Each bucket needs 1 of each of the four varieties for an equivalent count.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_661.png"
+    ],
+    "id": 661
+  },
+  {
+    "messages": [
+      {
+        "content": "How many of each variety of flowers are needed to make each bucket equivalent in count for each variety?",
         "role": "user"
       },
       {
@@ -3622,7 +5035,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_661_grid11.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_661.png"
     ],
     "id": 661
@@ -3646,7 +5058,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the total number of additional flowers needed to make 4 of each variant in both bags?",
+        "content": "What is the total number of additional flowers needed to make 4 of each variant in both bags?",
+        "role": "user"
+      },
+      {
+        "content": "11",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_679.png"
+    ],
+    "id": 679
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the total number of additional flowers needed to make 4 of each variant in both bags?",
         "role": "user"
       },
       {
@@ -3663,7 +5091,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_679_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_679.png"
     ],
     "id": 679
@@ -3671,7 +5098,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many Basketballs need to be added to each basket to balance their count?",
+        "content": "How many Basketballs need to be added to each basket to balance their count?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_68.png"
+    ],
+    "id": 68
+  },
+  {
+    "messages": [
+      {
+        "content": "How many Basketballs need to be added to each basket to balance their count?",
         "role": "user"
       },
       {
@@ -3688,7 +5131,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_68_grid10.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_68.png"
     ],
     "id": 68
@@ -3712,7 +5154,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many baseballs should be added to the first basket to make it identical to the second basket?",
+        "content": "How many baseballs should be added to the first basket to make it identical to the second basket?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_697.png"
+    ],
+    "id": 697
+  },
+  {
+    "messages": [
+      {
+        "content": "How many baseballs should be added to the first basket to make it identical to the second basket?",
         "role": "user"
       },
       {
@@ -3729,7 +5187,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_697_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_697.png"
     ],
     "id": 697
@@ -3737,7 +5194,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many crystal balls are in each bag after Holly gets additional balls?",
+        "content": "How many crystal balls are in each bag after Holly gets additional balls?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_704.png"
+    ],
+    "id": 704
+  },
+  {
+    "messages": [
+      {
+        "content": "How many crystal balls are in each bag after Holly gets additional balls?",
         "role": "user"
       },
       {
@@ -3754,7 +5227,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_704_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_704.png"
     ],
     "id": 704
@@ -3762,7 +5234,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the total number of additional flowers Brenda needs to add to both pots?",
+        "content": "What is the total number of additional flowers Brenda needs to add to both pots?",
+        "role": "user"
+      },
+      {
+        "content": "6",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_711.png"
+    ],
+    "id": 711
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the total number of additional flowers Brenda needs to add to both pots?",
         "role": "user"
       },
       {
@@ -3779,7 +5267,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_711_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_711.png"
     ],
     "id": 711
@@ -3787,7 +5274,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many more sunflowers are needed to balance the count in the left bucket?",
+        "content": "How many more sunflowers are needed to balance the count in the left bucket?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_712.png"
+    ],
+    "id": 712
+  },
+  {
+    "messages": [
+      {
+        "content": "How many more sunflowers are needed to balance the count in the left bucket?",
         "role": "user"
       },
       {
@@ -3804,7 +5307,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_712_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_712.png"
     ],
     "id": 712
@@ -3828,7 +5330,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many flowers in total are needed in the right basket to match the total count in the left basket?",
+        "content": "How many flowers in total are needed in the right basket to match the total count in the left basket?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_726.png"
+    ],
+    "id": 726
+  },
+  {
+    "messages": [
+      {
+        "content": "How many flowers in total are needed in the right basket to match the total count in the left basket?",
         "role": "user"
       },
       {
@@ -3845,7 +5363,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_726_grid10.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_726.png"
     ],
     "id": 726
@@ -3869,7 +5386,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many baseballs should be added to the second bucket to match the number in the first bucket?",
+        "content": "How many baseballs should be added to the second bucket to match the number in the first bucket?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_728.png"
+    ],
+    "id": 728
+  },
+  {
+    "messages": [
+      {
+        "content": "How many baseballs should be added to the second bucket to match the number in the first bucket?",
         "role": "user"
       },
       {
@@ -3886,7 +5419,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_728_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_728.png"
     ],
     "id": 728
@@ -3894,7 +5426,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many total pink and yellow flowers are in the first basket?",
+        "content": "How many total pink and yellow flowers are in the first basket?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_732.png"
+    ],
+    "id": 732
+  },
+  {
+    "messages": [
+      {
+        "content": "How many total pink and yellow flowers are in the first basket?",
         "role": "user"
       },
       {
@@ -3911,7 +5459,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_732_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_732.png"
     ],
     "id": 732
@@ -3935,7 +5482,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the total number of flowers that Joseph will have in each bucket after adding the additional sunflowers?",
+        "content": "What is the total number of flowers that Joseph will have in each bucket after adding the additional sunflowers?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_756.png"
+    ],
+    "id": 756
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the total number of flowers that Joseph will have in each bucket after adding the additional sunflowers?",
         "role": "user"
       },
       {
@@ -3952,7 +5515,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_756_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_756.png"
     ],
     "id": 756
@@ -3992,7 +5554,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many more pink flowers are needed in the second bag to match the first bag?",
+        "content": "How many more pink flowers are needed in the second bag to match the first bag?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_787.png"
+    ],
+    "id": 787
+  },
+  {
+    "messages": [
+      {
+        "content": "How many more pink flowers are needed in the second bag to match the first bag?",
         "role": "user"
       },
       {
@@ -4009,7 +5587,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_787_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_787.png"
     ],
     "id": 787
@@ -4017,7 +5594,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many flowers in total are there initially in the left basket?",
+        "content": "How many flowers in total are there initially in the left basket?",
+        "role": "user"
+      },
+      {
+        "content": "6",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_793.png"
+    ],
+    "id": 793
+  },
+  {
+    "messages": [
+      {
+        "content": "How many flowers in total are there initially in the left basket?",
         "role": "user"
       },
       {
@@ -4034,7 +5627,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_793_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_793.png"
     ],
     "id": 793
@@ -4058,7 +5650,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many total additional flowers are needed to make the two bags have the same number of flowers?",
+        "content": "How many total additional flowers are needed to make the two bags have the same number of flowers?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_82.png"
+    ],
+    "id": 82
+  },
+  {
+    "messages": [
+      {
+        "content": "How many total additional flowers are needed to make the two bags have the same number of flowers?",
         "role": "user"
       },
       {
@@ -4075,7 +5683,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_82_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_82.png"
     ],
     "id": 82
@@ -4115,7 +5722,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many footballs does Brenda need to add to the second bucket to make the number of footballs equal in both buckets?",
+        "content": "How many footballs does Brenda need to add to the second bucket to make the number of footballs equal in both buckets?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_843.png"
+    ],
+    "id": 843
+  },
+  {
+    "messages": [
+      {
+        "content": "How many footballs does Brenda need to add to the second bucket to make the number of footballs equal in both buckets?",
         "role": "user"
       },
       {
@@ -4132,7 +5755,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_843_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_843.png"
     ],
     "id": 843
@@ -4140,7 +5762,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many baseballs does Rebecca need to place in the left bag to have an equal amount of baseballs in each bag?",
+        "content": "How many baseballs does Rebecca need to place in the left bag to have an equal amount of baseballs in each bag?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_852.png"
+    ],
+    "id": 852
+  },
+  {
+    "messages": [
+      {
+        "content": "How many baseballs does Rebecca need to place in the left bag to have an equal amount of baseballs in each bag?",
         "role": "user"
       },
       {
@@ -4157,7 +5795,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_852_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_852.png"
     ],
     "id": 852
@@ -4245,7 +5882,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many total flowers does each basket have after adding the extra flowers?",
+        "content": "How many total flowers does each basket have after adding the extra flowers?",
+        "role": "user"
+      },
+      {
+        "content": "First basket: 5, Second basket: 8",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_923.png"
+    ],
+    "id": 923
+  },
+  {
+    "messages": [
+      {
+        "content": "How many total flowers does each basket have after adding the extra flowers?",
         "role": "user"
       },
       {
@@ -4262,7 +5915,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_923_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_923.png"
     ],
     "id": 923
@@ -4350,7 +6002,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many balls in total will be in each pot after Jasmine has added the required balls?",
+        "content": "How many balls in total will be in each pot after Jasmine has added the required balls?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_969.png"
+    ],
+    "id": 969
+  },
+  {
+    "messages": [
+      {
+        "content": "How many balls in total will be in each pot after Jasmine has added the required balls?",
         "role": "user"
       },
       {
@@ -4367,7 +6035,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_969_grid10.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_969.png"
     ],
     "id": 969
@@ -4391,7 +6058,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many balls does Jerry need to add to the second bag to achieve the target number for each type?",
+        "content": "How many balls does Jerry need to add to the second bag to achieve the target number for each type?",
+        "role": "user"
+      },
+      {
+        "content": "Add 1 brown oval ball and 1 basketball.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_977.png"
+    ],
+    "id": 977
+  },
+  {
+    "messages": [
+      {
+        "content": "How many balls does Jerry need to add to the second bag to achieve the target number for each type?",
         "role": "user"
       },
       {
@@ -4408,7 +6091,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_977_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_977.png"
     ],
     "id": 977
@@ -4416,7 +6098,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many pink flowers does Paul need to add to each bucket for them to have an identical count of pink flowers?",
+        "content": "How many pink flowers does Paul need to add to each bucket for them to have an identical count of pink flowers?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_983.png"
+    ],
+    "id": 983
+  },
+  {
+    "messages": [
+      {
+        "content": "How many pink flowers does Paul need to add to each bucket for them to have an identical count of pink flowers?",
         "role": "user"
       },
       {
@@ -4424,7 +6122,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many yellow flowers does Paul need to add to each bucket for them to have an identical count of yellow flowers?",
+        "content": "How many yellow flowers does Paul need to add to each bucket for them to have an identical count of yellow flowers?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_983.png"
+    ],
+    "id": 983
+  },
+  {
+    "messages": [
+      {
+        "content": "How many pink flowers does Paul need to add to each bucket for them to have an identical count of pink flowers?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      },
+      {
+        "content": "How many yellow flowers does Paul need to add to each bucket for them to have an identical count of yellow flowers?",
         "role": "user"
       },
       {
@@ -4441,8 +6163,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_983_grid10.png",
-      "dataset/clip_images/99/puzzle_99_983_grid10.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_983.png"
     ],
     "id": 983
@@ -4450,7 +6170,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many footballs are in the second basket?",
+        "content": "How many footballs are in the second basket?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_985.png"
+    ],
+    "id": 985
+  },
+  {
+    "messages": [
+      {
+        "content": "How many footballs are in the second basket?",
         "role": "user"
       },
       {
@@ -4467,7 +6203,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_985_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_985.png"
     ],
     "id": 985
@@ -4491,7 +6226,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many more purple flowers need to be added to the second basket to match the number in the first basket?",
+        "content": "How many more purple flowers need to be added to the second basket to match the number in the first basket?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_99.png"
+    ],
+    "id": 99
+  },
+  {
+    "messages": [
+      {
+        "content": "How many more purple flowers need to be added to the second basket to match the number in the first basket?",
         "role": "user"
       },
       {
@@ -4508,7 +6259,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_99_grid10.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_99.png"
     ],
     "id": 99

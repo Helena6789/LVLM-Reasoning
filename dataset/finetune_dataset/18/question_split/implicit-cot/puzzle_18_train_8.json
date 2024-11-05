@@ -18,7 +18,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the number on the card directly below the top-most green card?",
+        "content": "What is the number on the card directly below the top-most green card?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_102.png"
+    ],
+    "id": 102
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the number on the card directly below the top-most green card?",
         "role": "user"
       },
       {
@@ -35,7 +51,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_102_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_102.png"
     ],
     "id": 102
@@ -43,7 +58,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the color of the fourth card to be removed from the stack?",
+        "content": "What is the color of the fourth card to be removed from the stack?",
+        "role": "user"
+      },
+      {
+        "content": "brown card",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1023.png"
+    ],
+    "id": 1023
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the color of the fourth card to be removed from the stack?",
         "role": "user"
       },
       {
@@ -60,7 +91,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1023_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1023.png"
     ],
     "id": 1023
@@ -68,7 +98,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich color card is directly above the red card?",
+        "content": "Which color card is directly above the red card?",
+        "role": "user"
+      },
+      {
+        "content": "Tan",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1025.png"
+    ],
+    "id": 1025
+  },
+  {
+    "messages": [
+      {
+        "content": "Which color card is directly above the red card?",
         "role": "user"
       },
       {
@@ -85,7 +131,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1025_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1025.png"
     ],
     "id": 1025
@@ -141,7 +186,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the number of the fifth card in the stack?",
+        "content": "What is the number of the fifth card in the stack?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1156.png"
+    ],
+    "id": 1156
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the number of the fifth card in the stack?",
         "role": "user"
       },
       {
@@ -149,7 +210,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat color is the fifth card?",
+        "content": "What color is the fifth card?",
+        "role": "user"
+      },
+      {
+        "content": "purple",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1156.png"
+    ],
+    "id": 1156
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the number of the fifth card in the stack?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "What color is the fifth card?",
         "role": "user"
       },
       {
@@ -166,8 +251,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1156_grid8.png",
-      "dataset/clip_images/18/puzzle_18_e_1156_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1156.png"
     ],
     "id": 1156
@@ -175,7 +258,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the color of the card with number 1?",
+        "content": "What is the color of the card with number 1?",
+        "role": "user"
+      },
+      {
+        "content": "Teal",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1157.png"
+    ],
+    "id": 1157
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the color of the card with number 1?",
         "role": "user"
       },
       {
@@ -192,7 +291,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1157_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1157.png"
     ],
     "id": 1157
@@ -216,7 +314,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich card is immediately below the pink card numbered 3?",
+        "content": "Which card is immediately below the pink card numbered 3?",
+        "role": "user"
+      },
+      {
+        "content": "Brown card numbered 5",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_125.png"
+    ],
+    "id": 125
+  },
+  {
+    "messages": [
+      {
+        "content": "Which card is immediately below the pink card numbered 3?",
         "role": "user"
       },
       {
@@ -233,7 +347,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_125_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_125.png"
     ],
     "id": 125
@@ -241,7 +354,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the color of the card fourth from the top?",
+        "content": "What is the color of the card fourth from the top?",
+        "role": "user"
+      },
+      {
+        "content": "Light Blue",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1297.png"
+    ],
+    "id": 1297
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the color of the card fourth from the top?",
         "role": "user"
       },
       {
@@ -258,7 +387,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1297_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1297.png"
     ],
     "id": 1297
@@ -266,7 +394,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat color is associated with the number 4?",
+        "content": "What color is associated with the number 4?",
+        "role": "user"
+      },
+      {
+        "content": "Orange",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1314.png"
+    ],
+    "id": 1314
+  },
+  {
+    "messages": [
+      {
+        "content": "What color is associated with the number 4?",
         "role": "user"
       },
       {
@@ -283,7 +427,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1314_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1314.png"
     ],
     "id": 1314
@@ -291,7 +434,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the color of the card directly underneath the yellow-green card?",
+        "content": "What is the color of the card directly underneath the yellow-green card?",
+        "role": "user"
+      },
+      {
+        "content": "green",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_132.png"
+    ],
+    "id": 132
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the color of the card directly underneath the yellow-green card?",
         "role": "user"
       },
       {
@@ -308,7 +467,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_132_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_132.png"
     ],
     "id": 132
@@ -316,7 +474,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the color of the bottom card?",
+        "content": "What is the color of the bottom card?",
+        "role": "user"
+      },
+      {
+        "content": "Purple",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1340.png"
+    ],
+    "id": 1340
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the color of the bottom card?",
         "role": "user"
       },
       {
@@ -333,7 +507,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1340_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1340.png"
     ],
     "id": 1340
@@ -341,7 +514,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the number of the card beneath the dark blue card?",
+        "content": "What is the number of the card beneath the dark blue card?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1360.png"
+    ],
+    "id": 1360
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the number of the card beneath the dark blue card?",
         "role": "user"
       },
       {
@@ -358,7 +547,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1360_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1360.png"
     ],
     "id": 1360
@@ -366,7 +554,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the color of the card at position 1?",
+        "content": "What is the color of the card at position 1?",
+        "role": "user"
+      },
+      {
+        "content": "Yellow",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1377.png"
+    ],
+    "id": 1377
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the color of the card at position 1?",
         "role": "user"
       },
       {
@@ -383,7 +587,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1377_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1377.png"
     ],
     "id": 1377
@@ -391,7 +594,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich card is directly below the yellow card?",
+        "content": "Which card is directly below the yellow card?",
+        "role": "user"
+      },
+      {
+        "content": "Purple",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1381.png"
+    ],
+    "id": 1381
+  },
+  {
+    "messages": [
+      {
+        "content": "Which card is directly below the yellow card?",
         "role": "user"
       },
       {
@@ -408,7 +627,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1381_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1381.png"
     ],
     "id": 1381
@@ -416,7 +634,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the number of the top polygon when the fourth card is removed?",
+        "content": "What is the number of the top polygon when the fourth card is removed?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1420.png"
+    ],
+    "id": 1420
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the number of the top polygon when the fourth card is removed?",
         "role": "user"
       },
       {
@@ -433,7 +667,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1420_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1420.png"
     ],
     "id": 1420
@@ -441,7 +674,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat color is the card with number 1?",
+        "content": "What color is the card with number 1?",
+        "role": "user"
+      },
+      {
+        "content": "Pink",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_143.png"
+    ],
+    "id": 143
+  },
+  {
+    "messages": [
+      {
+        "content": "What color is the card with number 1?",
         "role": "user"
       },
       {
@@ -458,7 +707,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_143_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_143.png"
     ],
     "id": 143
@@ -482,7 +730,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the color of the card below the card in the third position from the top?",
+        "content": "What is the color of the card below the card in the third position from the top?",
+        "role": "user"
+      },
+      {
+        "content": "Purple",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1444.png"
+    ],
+    "id": 1444
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the color of the card below the card in the third position from the top?",
         "role": "user"
       },
       {
@@ -499,7 +763,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1444_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1444.png"
     ],
     "id": 1444
@@ -507,7 +770,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the color of the bottom card?",
+        "content": "What is the color of the bottom card?",
+        "role": "user"
+      },
+      {
+        "content": "green",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1457.png"
+    ],
+    "id": 1457
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the color of the bottom card?",
         "role": "user"
       },
       {
@@ -524,7 +803,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1457_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1457.png"
     ],
     "id": 1457
@@ -532,7 +810,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat number is associated with the color Light Blue (Cyan)?",
+        "content": "What number is associated with the color Light Blue (Cyan)?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1472.png"
+    ],
+    "id": 1472
+  },
+  {
+    "messages": [
+      {
+        "content": "What number is associated with the color Light Blue (Cyan)?",
         "role": "user"
       },
       {
@@ -549,7 +843,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1472_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1472.png"
     ],
     "id": 1472
@@ -557,7 +850,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the color of the card with the number 5?",
+        "content": "What is the color of the card with the number 5?",
+        "role": "user"
+      },
+      {
+        "content": "pink",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1487.png"
+    ],
+    "id": 1487
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the color of the card with the number 5?",
         "role": "user"
       },
       {
@@ -574,7 +883,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1487_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1487.png"
     ],
     "id": 1487
@@ -582,7 +890,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the number of the card that is brown?",
+        "content": "What is the number of the card that is brown?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1502.png"
+    ],
+    "id": 1502
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the number of the card that is brown?",
         "role": "user"
       },
       {
@@ -599,7 +923,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1502_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1502.png"
     ],
     "id": 1502
@@ -607,7 +930,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the number of the fifth card from the top in the stack?",
+        "content": "What is the number of the fifth card from the top in the stack?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1515.png"
+    ],
+    "id": 1515
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the number of the fifth card from the top in the stack?",
         "role": "user"
       },
       {
@@ -624,7 +963,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1515_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1515.png"
     ],
     "id": 1515
@@ -632,7 +970,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the number on the card below the green card?",
+        "content": "What is the number on the card below the green card?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_152.png"
+    ],
+    "id": 152
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the number on the card below the green card?",
         "role": "user"
       },
       {
@@ -649,7 +1003,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_152_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_152.png"
     ],
     "id": 152
@@ -657,7 +1010,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the number on the light blue card?",
+        "content": "What is the number on the light blue card?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_153.png"
+    ],
+    "id": 153
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the number on the light blue card?",
         "role": "user"
       },
       {
@@ -674,7 +1043,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_153_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_153.png"
     ],
     "id": 153
@@ -730,7 +1098,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the color of the card immediately above the black card in the stack?",
+        "content": "What is the color of the card immediately above the black card in the stack?",
+        "role": "user"
+      },
+      {
+        "content": "Pink",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1582.png"
+    ],
+    "id": 1582
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the color of the card immediately above the black card in the stack?",
         "role": "user"
       },
       {
@@ -747,7 +1131,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1582_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1582.png"
     ],
     "id": 1582
@@ -771,7 +1154,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the color of the card that is fourth from the top?",
+        "content": "What is the color of the card that is fourth from the top?",
+        "role": "user"
+      },
+      {
+        "content": "Light blue",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1600.png"
+    ],
+    "id": 1600
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the color of the card that is fourth from the top?",
         "role": "user"
       },
       {
@@ -788,7 +1187,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1600_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1600.png"
     ],
     "id": 1600
@@ -828,7 +1226,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the color of the card at the bottom of the stack?",
+        "content": "What is the color of the card at the bottom of the stack?",
+        "role": "user"
+      },
+      {
+        "content": "red",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1667.png"
+    ],
+    "id": 1667
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the color of the card at the bottom of the stack?",
         "role": "user"
       },
       {
@@ -845,7 +1259,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1667_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1667.png"
     ],
     "id": 1667
@@ -853,7 +1266,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the number on the brown-colored card at the top?",
+        "content": "What is the number on the brown-colored card at the top?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1684.png"
+    ],
+    "id": 1684
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the number on the brown-colored card at the top?",
         "role": "user"
       },
       {
@@ -870,7 +1299,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1684_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1684.png"
     ],
     "id": 1684
@@ -894,7 +1322,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the fourth card from the top of the stack?",
+        "content": "What is the fourth card from the top of the stack?",
+        "role": "user"
+      },
+      {
+        "content": "Green",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_170.png"
+    ],
+    "id": 170
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the fourth card from the top of the stack?",
         "role": "user"
       },
       {
@@ -911,7 +1355,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_170_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_170.png"
     ],
     "id": 170
@@ -919,7 +1362,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat color is on the fourth topmost polygon card?",
+        "content": "What color is on the fourth topmost polygon card?",
+        "role": "user"
+      },
+      {
+        "content": "Green",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1704.png"
+    ],
+    "id": 1704
+  },
+  {
+    "messages": [
+      {
+        "content": "What color is on the fourth topmost polygon card?",
         "role": "user"
       },
       {
@@ -936,7 +1395,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1704_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1704.png"
     ],
     "id": 1704
@@ -960,7 +1418,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich color is assigned to the number 2?",
+        "content": "Which color is assigned to the number 2?",
+        "role": "user"
+      },
+      {
+        "content": "Cyan",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1719.png"
+    ],
+    "id": 1719
+  },
+  {
+    "messages": [
+      {
+        "content": "Which color is assigned to the number 2?",
         "role": "user"
       },
       {
@@ -977,7 +1451,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1719_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1719.png"
     ],
     "id": 1719
@@ -985,7 +1458,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the number on the fifth card from the top?",
+        "content": "What is the number on the fifth card from the top?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1724.png"
+    ],
+    "id": 1724
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the number on the fifth card from the top?",
         "role": "user"
       },
       {
@@ -993,7 +1482,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the color of the fifth card from the top?",
+        "content": "What is the color of the fifth card from the top?",
+        "role": "user"
+      },
+      {
+        "content": "Blue",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1724.png"
+    ],
+    "id": 1724
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the number on the fifth card from the top?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      },
+      {
+        "content": "What is the color of the fifth card from the top?",
         "role": "user"
       },
       {
@@ -1010,8 +1523,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1724_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_1724_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1724.png"
     ],
     "id": 1724
@@ -1019,7 +1530,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich number corresponds to the green card?",
+        "content": "Which number corresponds to the green card?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1727.png"
+    ],
+    "id": 1727
+  },
+  {
+    "messages": [
+      {
+        "content": "Which number corresponds to the green card?",
         "role": "user"
       },
       {
@@ -1036,7 +1563,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1727_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1727.png"
     ],
     "id": 1727
@@ -1044,7 +1570,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat color is the card with number 3?",
+        "content": "What color is the card with number 3?",
+        "role": "user"
+      },
+      {
+        "content": "Blue",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1731.png"
+    ],
+    "id": 1731
+  },
+  {
+    "messages": [
+      {
+        "content": "What color is the card with number 3?",
         "role": "user"
       },
       {
@@ -1061,7 +1603,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1731_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1731.png"
     ],
     "id": 1731
@@ -1085,7 +1626,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the color corresponding to the number 3?",
+        "content": "What is the color corresponding to the number 3?",
+        "role": "user"
+      },
+      {
+        "content": "magenta",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1748.png"
+    ],
+    "id": 1748
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the color corresponding to the number 3?",
         "role": "user"
       },
       {
@@ -1102,7 +1659,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1748_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1748.png"
     ],
     "id": 1748
@@ -1110,7 +1666,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich card is directly under the purple card?",
+        "content": "Which card is directly under the purple card?",
+        "role": "user"
+      },
+      {
+        "content": "gray",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1761.png"
+    ],
+    "id": 1761
+  },
+  {
+    "messages": [
+      {
+        "content": "Which card is directly under the purple card?",
         "role": "user"
       },
       {
@@ -1127,7 +1699,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1761_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1761.png"
     ],
     "id": 1761
@@ -1135,7 +1706,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich color corresponds to number 2?",
+        "content": "Which color corresponds to number 2?",
+        "role": "user"
+      },
+      {
+        "content": "yellow",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1776.png"
+    ],
+    "id": 1776
+  },
+  {
+    "messages": [
+      {
+        "content": "Which color corresponds to number 2?",
         "role": "user"
       },
       {
@@ -1152,7 +1739,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1776_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1776.png"
     ],
     "id": 1776
@@ -1224,7 +1810,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich numbered card is immediately below the card numbered 2 from Step 1?",
+        "content": "Which numbered card is immediately below the card numbered 2 from Step 1?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1868.png"
+    ],
+    "id": 1868
+  },
+  {
+    "messages": [
+      {
+        "content": "Which numbered card is immediately below the card numbered 2 from Step 1?",
         "role": "user"
       },
       {
@@ -1241,7 +1843,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1868_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1868.png"
     ],
     "id": 1868
@@ -1281,7 +1882,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the number of the card with the green color?",
+        "content": "What is the number of the card with the green color?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_193.png"
+    ],
+    "id": 193
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the number of the card with the green color?",
         "role": "user"
       },
       {
@@ -1298,7 +1915,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_193_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_193.png"
     ],
     "id": 193
@@ -1322,7 +1938,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat card is the second from the bottom of the stack?",
+        "content": "What card is the second from the bottom of the stack?",
+        "role": "user"
+      },
+      {
+        "content": "red",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1974.png"
+    ],
+    "id": 1974
+  },
+  {
+    "messages": [
+      {
+        "content": "What card is the second from the bottom of the stack?",
         "role": "user"
       },
       {
@@ -1339,7 +1971,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1974_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1974.png"
     ],
     "id": 1974
@@ -1395,7 +2026,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich card is aqua?",
+        "content": "Which card is aqua?",
+        "role": "user"
+      },
+      {
+        "content": "Card 5",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1996.png"
+    ],
+    "id": 1996
+  },
+  {
+    "messages": [
+      {
+        "content": "Which card is aqua?",
         "role": "user"
       },
       {
@@ -1412,7 +2059,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_1996_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1996.png"
     ],
     "id": 1996
@@ -1420,7 +2066,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the number on the card covered by the card numbered 1?",
+        "content": "What is the number on the card covered by the card numbered 1?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_2000.png"
+    ],
+    "id": 2000
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the number on the card covered by the card numbered 1?",
         "role": "user"
       },
       {
@@ -1437,7 +2099,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_2000_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_2000.png"
     ],
     "id": 2000
@@ -1445,7 +2106,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the color of the second card from the top?",
+        "content": "What is the color of the second card from the top?",
+        "role": "user"
+      },
+      {
+        "content": "Pink",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_210.png"
+    ],
+    "id": 210
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the color of the second card from the top?",
         "role": "user"
       },
       {
@@ -1462,7 +2139,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_210_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_210.png"
     ],
     "id": 210
@@ -1470,7 +2146,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the number on the blue polygon card?",
+        "content": "What is the number on the blue polygon card?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_212.png"
+    ],
+    "id": 212
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the number on the blue polygon card?",
         "role": "user"
       },
       {
@@ -1487,7 +2179,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_212_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_212.png"
     ],
     "id": 212
@@ -1511,7 +2202,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the position of card 4 after removing card 3?",
+        "content": "What is the position of card 4 after removing card 3?",
+        "role": "user"
+      },
+      {
+        "content": "second from the top",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_240.png"
+    ],
+    "id": 240
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the position of card 4 after removing card 3?",
         "role": "user"
       },
       {
@@ -1528,7 +2235,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_240_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_240.png"
     ],
     "id": 240
@@ -1584,7 +2290,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat color is card number 2?",
+        "content": "What color is card number 2?",
+        "role": "user"
+      },
+      {
+        "content": "green",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_269.png"
+    ],
+    "id": 269
+  },
+  {
+    "messages": [
+      {
+        "content": "What color is card number 2?",
         "role": "user"
       },
       {
@@ -1601,7 +2323,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_269_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_269.png"
     ],
     "id": 269
@@ -1609,7 +2330,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich card is directly under the Purple (4) card?",
+        "content": "Which card is directly under the Purple (4) card?",
+        "role": "user"
+      },
+      {
+        "content": "Green (1)",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_281.png"
+    ],
+    "id": 281
+  },
+  {
+    "messages": [
+      {
+        "content": "Which card is directly under the Purple (4) card?",
         "role": "user"
       },
       {
@@ -1626,7 +2363,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_281_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_281.png"
     ],
     "id": 281
@@ -1634,7 +2370,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the number on the fourth card from the top?",
+        "content": "What is the number on the fourth card from the top?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_293.png"
+    ],
+    "id": 293
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the number on the fourth card from the top?",
         "role": "user"
       },
       {
@@ -1651,7 +2403,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_293_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_293.png"
     ],
     "id": 293
@@ -1659,7 +2410,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the fourth card from the top in the stack?",
+        "content": "What is the fourth card from the top in the stack?",
+        "role": "user"
+      },
+      {
+        "content": "Orange card",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_31.png"
+    ],
+    "id": 31
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the fourth card from the top in the stack?",
         "role": "user"
       },
       {
@@ -1676,7 +2443,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_31_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_31.png"
     ],
     "id": 31
@@ -1684,7 +2450,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat number is two cards below the purple card?",
+        "content": "What number is two cards below the purple card?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_321.png"
+    ],
+    "id": 321
+  },
+  {
+    "messages": [
+      {
+        "content": "What number is two cards below the purple card?",
         "role": "user"
       },
       {
@@ -1701,7 +2483,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_321_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_321.png"
     ],
     "id": 321
@@ -1725,7 +2506,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the number on the pink card?",
+        "content": "What is the number on the pink card?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_341.png"
+    ],
+    "id": 341
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the number on the pink card?",
         "role": "user"
       },
       {
@@ -1742,7 +2539,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_341_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_341.png"
     ],
     "id": 341
@@ -1750,7 +2546,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the color of the fourth polygon card?",
+        "content": "What is the color of the fourth polygon card?",
+        "role": "user"
+      },
+      {
+        "content": "blue",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_347.png"
+    ],
+    "id": 347
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the color of the fourth polygon card?",
         "role": "user"
       },
       {
@@ -1767,7 +2579,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_347_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_347.png"
     ],
     "id": 347
@@ -1775,7 +2586,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the position of the pink card in the stack?",
+        "content": "What is the position of the pink card in the stack?",
+        "role": "user"
+      },
+      {
+        "content": "Third from the bottom",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_355.png"
+    ],
+    "id": 355
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the position of the pink card in the stack?",
         "role": "user"
       },
       {
@@ -1792,7 +2619,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_355_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_355.png"
     ],
     "id": 355
@@ -1816,7 +2642,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the number on the card fourth from the top?",
+        "content": "What is the number on the card fourth from the top?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_362.png"
+    ],
+    "id": 362
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the number on the card fourth from the top?",
         "role": "user"
       },
       {
@@ -1833,7 +2675,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_362_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_362.png"
     ],
     "id": 362
@@ -1857,7 +2698,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich number is on the brown card?",
+        "content": "Which number is on the brown card?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_368.png"
+    ],
+    "id": 368
+  },
+  {
+    "messages": [
+      {
+        "content": "Which number is on the brown card?",
         "role": "user"
       },
       {
@@ -1874,7 +2731,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_368_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_368.png"
     ],
     "id": 368
@@ -1882,7 +2738,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the color of the fifth card from the top?",
+        "content": "What is the color of the fifth card from the top?",
+        "role": "user"
+      },
+      {
+        "content": "Red",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_373.png"
+    ],
+    "id": 373
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the color of the fifth card from the top?",
         "role": "user"
       },
       {
@@ -1899,7 +2771,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_373_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_373.png"
     ],
     "id": 373
@@ -1939,7 +2810,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the number on the fifth card from the bottom?",
+        "content": "What is the number on the fifth card from the bottom?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_399.png"
+    ],
+    "id": 399
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the number on the fifth card from the bottom?",
         "role": "user"
       },
       {
@@ -1956,7 +2843,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_399_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_399.png"
     ],
     "id": 399
@@ -2012,7 +2898,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the color associated with the number 1?",
+        "content": "What is the color associated with the number 1?",
+        "role": "user"
+      },
+      {
+        "content": "Green",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_472.png"
+    ],
+    "id": 472
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the color associated with the number 1?",
         "role": "user"
       },
       {
@@ -2029,7 +2931,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_472_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_472.png"
     ],
     "id": 472
@@ -2037,7 +2938,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the color of the card numbered 4?",
+        "content": "What is the color of the card numbered 4?",
+        "role": "user"
+      },
+      {
+        "content": "Purple",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_492.png"
+    ],
+    "id": 492
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the color of the card numbered 4?",
         "role": "user"
       },
       {
@@ -2054,7 +2971,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_492_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_492.png"
     ],
     "id": 492
@@ -2078,7 +2994,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the number on the card at position 3?",
+        "content": "What is the number on the card at position 3?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_524.png"
+    ],
+    "id": 524
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the number on the card at position 3?",
         "role": "user"
       },
       {
@@ -2095,7 +3027,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_524_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_524.png"
     ],
     "id": 524
@@ -2119,7 +3050,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the color of the fourth card from the top?",
+        "content": "What is the color of the fourth card from the top?",
+        "role": "user"
+      },
+      {
+        "content": "Purple",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_555.png"
+    ],
+    "id": 555
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the color of the fourth card from the top?",
         "role": "user"
       },
       {
@@ -2136,7 +3083,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_555_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_555.png"
     ],
     "id": 555
@@ -2160,7 +3106,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the color of the card second from the top of the stack?",
+        "content": "What is the color of the card second from the top of the stack?",
+        "role": "user"
+      },
+      {
+        "content": "Gray",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_603.png"
+    ],
+    "id": 603
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the color of the card second from the top of the stack?",
         "role": "user"
       },
       {
@@ -2177,7 +3139,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_603_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_603.png"
     ],
     "id": 603
@@ -2201,7 +3162,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat color is the card numbered 4?",
+        "content": "What color is the card numbered 4?",
+        "role": "user"
+      },
+      {
+        "content": "Yellow",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_631.png"
+    ],
+    "id": 631
+  },
+  {
+    "messages": [
+      {
+        "content": "What color is the card numbered 4?",
         "role": "user"
       },
       {
@@ -2218,7 +3195,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_631_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_631.png"
     ],
     "id": 631
@@ -2258,7 +3234,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the number of the card fourth from the top of the stack?",
+        "content": "What is the number of the card fourth from the top of the stack?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_721.png"
+    ],
+    "id": 721
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the number of the card fourth from the top of the stack?",
         "role": "user"
       },
       {
@@ -2275,7 +3267,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_721_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_721.png"
     ],
     "id": 721
@@ -2283,7 +3274,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the color of the card numbered 1?",
+        "content": "What is the color of the card numbered 1?",
+        "role": "user"
+      },
+      {
+        "content": "Purple",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_723.png"
+    ],
+    "id": 723
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the color of the card numbered 1?",
         "role": "user"
       },
       {
@@ -2300,7 +3307,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_723_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_723.png"
     ],
     "id": 723
@@ -2324,7 +3330,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat number is on the pink card?",
+        "content": "What number is on the pink card?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_731.png"
+    ],
+    "id": 731
+  },
+  {
+    "messages": [
+      {
+        "content": "What number is on the pink card?",
         "role": "user"
       },
       {
@@ -2341,7 +3363,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_731_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_731.png"
     ],
     "id": 731
@@ -2365,7 +3386,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat number is assigned to the color green in the image?",
+        "content": "What number is assigned to the color green in the image?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_810.png"
+    ],
+    "id": 810
+  },
+  {
+    "messages": [
+      {
+        "content": "What number is assigned to the color green in the image?",
         "role": "user"
       },
       {
@@ -2382,7 +3419,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_810_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_810.png"
     ],
     "id": 810
@@ -2390,7 +3426,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the color of the polygon with the number 3?",
+        "content": "What is the color of the polygon with the number 3?",
+        "role": "user"
+      },
+      {
+        "content": "Light purple",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_818.png"
+    ],
+    "id": 818
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the color of the polygon with the number 3?",
         "role": "user"
       },
       {
@@ -2407,7 +3459,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_818_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_818.png"
     ],
     "id": 818
@@ -2415,7 +3466,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich numbered card is shown at the top position?",
+        "content": "Which numbered card is shown at the top position?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_828.png"
+    ],
+    "id": 828
+  },
+  {
+    "messages": [
+      {
+        "content": "Which numbered card is shown at the top position?",
         "role": "user"
       },
       {
@@ -2432,7 +3499,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_828_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_828.png"
     ],
     "id": 828
@@ -2440,7 +3506,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the number on the card that is purple?",
+        "content": "What is the number on the card that is purple?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_838.png"
+    ],
+    "id": 838
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the number on the card that is purple?",
         "role": "user"
       },
       {
@@ -2457,7 +3539,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_838_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_838.png"
     ],
     "id": 838
@@ -2465,7 +3546,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the number of the purple card?",
+        "content": "What is the number of the purple card?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_851.png"
+    ],
+    "id": 851
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the number of the purple card?",
         "role": "user"
       },
       {
@@ -2482,7 +3579,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_851_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_851.png"
     ],
     "id": 851
@@ -2490,7 +3586,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat color is the polygon numbered 1?",
+        "content": "What color is the polygon numbered 1?",
+        "role": "user"
+      },
+      {
+        "content": "green",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_854.png"
+    ],
+    "id": 854
+  },
+  {
+    "messages": [
+      {
+        "content": "What color is the polygon numbered 1?",
         "role": "user"
       },
       {
@@ -2507,7 +3619,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_854_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_854.png"
     ],
     "id": 854
@@ -2531,7 +3642,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich card color corresponds to number 4?",
+        "content": "Which card color corresponds to number 4?",
+        "role": "user"
+      },
+      {
+        "content": "Green",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_878.png"
+    ],
+    "id": 878
+  },
+  {
+    "messages": [
+      {
+        "content": "Which card color corresponds to number 4?",
         "role": "user"
       },
       {
@@ -2548,7 +3675,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_878_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_878.png"
     ],
     "id": 878
@@ -2556,7 +3682,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich color card is directly below the purple card?",
+        "content": "Which color card is directly below the purple card?",
+        "role": "user"
+      },
+      {
+        "content": "Orange",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_887.png"
+    ],
+    "id": 887
+  },
+  {
+    "messages": [
+      {
+        "content": "Which color card is directly below the purple card?",
         "role": "user"
       },
       {
@@ -2573,7 +3715,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_887_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_887.png"
     ],
     "id": 887
@@ -2581,7 +3722,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the number on the card that is second from the bottom in the stack?",
+        "content": "What is the number on the card that is second from the bottom in the stack?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_893.png"
+    ],
+    "id": 893
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the number on the card that is second from the bottom in the stack?",
         "role": "user"
       },
       {
@@ -2598,7 +3755,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_893_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_893.png"
     ],
     "id": 893
@@ -2622,7 +3778,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat color card is beneath the green card?",
+        "content": "What color card is beneath the green card?",
+        "role": "user"
+      },
+      {
+        "content": "orange",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_896.png"
+    ],
+    "id": 896
+  },
+  {
+    "messages": [
+      {
+        "content": "What color card is beneath the green card?",
         "role": "user"
       },
       {
@@ -2639,7 +3811,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_896_grid11.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_896.png"
     ],
     "id": 896
@@ -2663,7 +3834,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the color of the polygon card under the pink card?",
+        "content": "What is the color of the polygon card under the pink card?",
+        "role": "user"
+      },
+      {
+        "content": "brown",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_900.png"
+    ],
+    "id": 900
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the color of the polygon card under the pink card?",
         "role": "user"
       },
       {
@@ -2680,7 +3867,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_900_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_900.png"
     ],
     "id": 900
@@ -2704,7 +3890,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the color of the bottom card?",
+        "content": "What is the color of the bottom card?",
+        "role": "user"
+      },
+      {
+        "content": "pink",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_929.png"
+    ],
+    "id": 929
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the color of the bottom card?",
         "role": "user"
       },
       {
@@ -2721,7 +3923,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_929_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_929.png"
     ],
     "id": 929
@@ -2729,7 +3930,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the fourth card from the top in the stack?",
+        "content": "What is the fourth card from the top in the stack?",
+        "role": "user"
+      },
+      {
+        "content": "Blue card",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_932.png"
+    ],
+    "id": 932
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the fourth card from the top in the stack?",
         "role": "user"
       },
       {
@@ -2746,7 +3963,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_932_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_932.png"
     ],
     "id": 932
@@ -2770,7 +3986,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich color card is removed last?",
+        "content": "Which color card is removed last?",
+        "role": "user"
+      },
+      {
+        "content": "pink",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_94.png"
+    ],
+    "id": 94
+  },
+  {
+    "messages": [
+      {
+        "content": "Which color card is removed last?",
         "role": "user"
       },
       {
@@ -2787,7 +4019,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_94_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_94.png"
     ],
     "id": 94
@@ -2795,7 +4026,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nDoes removing cards one by one from the top start with Magenta?",
+        "content": "Does removing cards one by one from the top start with Magenta?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_947.png"
+    ],
+    "id": 947
+  },
+  {
+    "messages": [
+      {
+        "content": "Does removing cards one by one from the top start with Magenta?",
         "role": "user"
       },
       {
@@ -2812,7 +4059,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_947_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_947.png"
     ],
     "id": 947
@@ -2836,7 +4082,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat number is on the card underneath the card numbered 4?",
+        "content": "What number is on the card underneath the card numbered 4?",
+        "role": "user"
+      },
+      {
+        "content": "?",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_960.png"
+    ],
+    "id": 960
+  },
+  {
+    "messages": [
+      {
+        "content": "What number is on the card underneath the card numbered 4?",
         "role": "user"
       },
       {
@@ -2853,7 +4115,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_960_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_960.png"
     ],
     "id": 960
@@ -2877,7 +4138,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the number of the fifth card from the top?",
+        "content": "What is the number of the fifth card from the top?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_988.png"
+    ],
+    "id": 988
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the number of the fifth card from the top?",
         "role": "user"
       },
       {
@@ -2885,7 +4162,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat color is the fifth card from the top?",
+        "content": "What color is the fifth card from the top?",
+        "role": "user"
+      },
+      {
+        "content": "Blue",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_988.png"
+    ],
+    "id": 988
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the number of the fifth card from the top?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      },
+      {
+        "content": "What color is the fifth card from the top?",
         "role": "user"
       },
       {
@@ -2902,8 +4203,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/18/puzzle_18_e_988_grid7.png",
-      "dataset/clip_images/18/puzzle_18_e_988_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_988.png"
     ],
     "id": 988

@@ -626,7 +626,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many houses are currently located on the intersection C?",
+        "content": "How many houses are currently located on the intersection C?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1740.png"
+    ],
+    "id": 1740
+  },
+  {
+    "messages": [
+      {
+        "content": "How many houses are currently located on the intersection C?",
         "role": "user"
       },
       {
@@ -634,7 +650,23 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many houses are currently located on the intersection D?",
+        "content": "How many houses are currently located on the intersection D?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1740.png"
+    ],
+    "id": 1740
+  },
+  {
+    "messages": [
+      {
+        "content": "How many houses are currently located on the intersection C?",
         "role": "user"
       },
       {
@@ -642,7 +674,47 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many houses are currently located on the intersection E?",
+        "content": "How many houses are currently located on the intersection D?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      },
+      {
+        "content": "How many houses are currently located on the intersection E?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1740.png"
+    ],
+    "id": 1740
+  },
+  {
+    "messages": [
+      {
+        "content": "How many houses are currently located on the intersection C?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      },
+      {
+        "content": "How many houses are currently located on the intersection D?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      },
+      {
+        "content": "How many houses are currently located on the intersection E?",
         "role": "user"
       },
       {
@@ -659,9 +731,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1740_grid10.png",
-      "dataset/clip_images/73/puzzle_73_1740_grid10.png",
-      "dataset/clip_images/73/puzzle_73_1740_grid10.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1740.png"
     ],
     "id": 1740
@@ -1197,7 +1266,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nIs there an available dwelling spot on the straight pathway B?",
+        "content": "Is there an available dwelling spot on the straight pathway B?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_701.png"
+    ],
+    "id": 701
+  },
+  {
+    "messages": [
+      {
+        "content": "Is there an available dwelling spot on the straight pathway B?",
         "role": "user"
       },
       {
@@ -1205,7 +1290,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nOn which round pathway is the empty pathway near location E?",
+        "content": "On which round pathway is the empty pathway near location E?",
+        "role": "user"
+      },
+      {
+        "content": "The 2nd round pathway.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_701.png"
+    ],
+    "id": 701
+  },
+  {
+    "messages": [
+      {
+        "content": "Is there an available dwelling spot on the straight pathway B?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      },
+      {
+        "content": "On which round pathway is the empty pathway near location E?",
         "role": "user"
       },
       {
@@ -1222,8 +1331,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_701_grid10.png",
-      "dataset/clip_images/73/puzzle_73_701_grid10.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_701.png"
     ],
     "id": 701
@@ -1471,7 +1578,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich houses are on the first round road?",
+        "content": "Which houses are on the first round road?",
+        "role": "user"
+      },
+      {
+        "content": "A-D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_989.png"
+    ],
+    "id": 989
+  },
+  {
+    "messages": [
+      {
+        "content": "Which houses are on the first round road?",
         "role": "user"
       },
       {
@@ -1479,7 +1602,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhich houses are on the second round road?",
+        "content": "Which houses are on the second round road?",
+        "role": "user"
+      },
+      {
+        "content": "B-E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_989.png"
+    ],
+    "id": 989
+  },
+  {
+    "messages": [
+      {
+        "content": "Which houses are on the first round road?",
+        "role": "user"
+      },
+      {
+        "content": "A-D",
+        "role": "assistant"
+      },
+      {
+        "content": "Which houses are on the second round road?",
         "role": "user"
       },
       {
@@ -1487,7 +1634,39 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhich houses are on the third round road?",
+        "content": "Which houses are on the third round road?",
+        "role": "user"
+      },
+      {
+        "content": "C-E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_989.png"
+    ],
+    "id": 989
+  },
+  {
+    "messages": [
+      {
+        "content": "Which houses are on the first round road?",
+        "role": "user"
+      },
+      {
+        "content": "A-D",
+        "role": "assistant"
+      },
+      {
+        "content": "Which houses are on the second round road?",
+        "role": "user"
+      },
+      {
+        "content": "B-E",
+        "role": "assistant"
+      },
+      {
+        "content": "Which houses are on the third round road?",
         "role": "user"
       },
       {
@@ -1495,7 +1674,47 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many houses are currently shown in the picture?",
+        "content": "How many houses are currently shown in the picture?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_989.png"
+    ],
+    "id": 989
+  },
+  {
+    "messages": [
+      {
+        "content": "Which houses are on the first round road?",
+        "role": "user"
+      },
+      {
+        "content": "A-D",
+        "role": "assistant"
+      },
+      {
+        "content": "Which houses are on the second round road?",
+        "role": "user"
+      },
+      {
+        "content": "B-E",
+        "role": "assistant"
+      },
+      {
+        "content": "Which houses are on the third round road?",
+        "role": "user"
+      },
+      {
+        "content": "C-E",
+        "role": "assistant"
+      },
+      {
+        "content": "How many houses are currently shown in the picture?",
         "role": "user"
       },
       {
@@ -1512,10 +1731,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_989_grid9.png",
-      "dataset/clip_images/73/puzzle_73_989_grid9.png",
-      "dataset/clip_images/73/puzzle_73_989_grid9.png",
-      "dataset/clip_images/73/puzzle_73_989_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_989.png"
     ],
     "id": 989

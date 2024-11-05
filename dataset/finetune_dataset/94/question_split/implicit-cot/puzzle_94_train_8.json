@@ -2,7 +2,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the height difference between the peaks of the taller tree and the shorter tree?",
+        "content": "What is the height difference between the peaks of the taller tree and the shorter tree?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_768.png"
+    ],
+    "id": 768
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the height difference between the peaks of the taller tree and the shorter tree?",
         "role": "user"
       },
       {
@@ -19,7 +35,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/94/puzzle_94_768_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_768.png"
     ],
     "id": 768

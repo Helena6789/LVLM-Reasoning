@@ -34,7 +34,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich apartment intersects both the straight lane that includes A and D and the round lane that includes A and C?",
+        "content": "Which apartment intersects both the straight lane that includes A and D and the round lane that includes A and C?",
+        "role": "user"
+      },
+      {
+        "content": "The position corresponding to both straight lane A-D and round lane A-C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1019.png"
+    ],
+    "id": 1019
+  },
+  {
+    "messages": [
+      {
+        "content": "Which apartment intersects both the straight lane that includes A and D and the round lane that includes A and C?",
         "role": "user"
       },
       {
@@ -51,7 +67,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1019_grid11.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1019.png"
     ],
     "id": 1019
@@ -59,7 +74,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nAre there any other round or straight roads with exactly 4 condos?",
+        "content": "Are there any other round or straight roads with exactly 4 condos?",
+        "role": "user"
+      },
+      {
+        "content": "No, all round and straight roads have either 4 condos or more.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1022.png"
+    ],
+    "id": 1022
+  },
+  {
+    "messages": [
+      {
+        "content": "Are there any other round or straight roads with exactly 4 condos?",
         "role": "user"
       },
       {
@@ -76,7 +107,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1022_grid12.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1022.png"
     ],
     "id": 1022
@@ -100,7 +130,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many dwellings are located at intersections that do not have 4 dwellings along both the straight and circular roads?",
+        "content": "How many dwellings are located at intersections that do not have 4 dwellings along both the straight and circular roads?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1054.png"
+    ],
+    "id": 1054
+  },
+  {
+    "messages": [
+      {
+        "content": "How many dwellings are located at intersections that do not have 4 dwellings along both the straight and circular roads?",
         "role": "user"
       },
       {
@@ -117,7 +163,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1054_grid10.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1054.png"
     ],
     "id": 1054
@@ -141,7 +186,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich specific hut on straight pathway D is missing?",
+        "content": "Which specific hut on straight pathway D is missing?",
+        "role": "user"
+      },
+      {
+        "content": "The third hut on straight pathway D is missing.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1062.png"
+    ],
+    "id": 1062
+  },
+  {
+    "messages": [
+      {
+        "content": "Which specific hut on straight pathway D is missing?",
         "role": "user"
       },
       {
@@ -158,7 +219,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1062_grid12.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1062.png"
     ],
     "id": 1062
@@ -182,7 +242,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich intersection between a straight road and a circular road is currently missing a hut?",
+        "content": "Which intersection between a straight road and a circular road is currently missing a hut?",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1092.png"
+    ],
+    "id": 1092
+  },
+  {
+    "messages": [
+      {
+        "content": "Which intersection between a straight road and a circular road is currently missing a hut?",
         "role": "user"
       },
       {
@@ -199,7 +275,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1092_grid12.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1092.png"
     ],
     "id": 1092
@@ -207,7 +282,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many condos are missing at intersection locations?",
+        "content": "How many condos are missing at intersection locations?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1098.png"
+    ],
+    "id": 1098
+  },
+  {
+    "messages": [
+      {
+        "content": "How many condos are missing at intersection locations?",
         "role": "user"
       },
       {
@@ -224,7 +315,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1098_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1098.png"
     ],
     "id": 1098
@@ -232,7 +322,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat are the names of the dwellings already on the drawing?",
+        "content": "What are the names of the dwellings already on the drawing?",
+        "role": "user"
+      },
+      {
+        "content": "A,B,C,D,E,F,G",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1111.png"
+    ],
+    "id": 1111
+  },
+  {
+    "messages": [
+      {
+        "content": "What are the names of the dwellings already on the drawing?",
         "role": "user"
       },
       {
@@ -249,7 +355,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1111_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1111.png"
     ],
     "id": 1111
@@ -289,7 +394,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich spots on the map already have condos?",
+        "content": "Which spots on the map already have condos?",
+        "role": "user"
+      },
+      {
+        "content": "B, C, D, E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1147.png"
+    ],
+    "id": 1147
+  },
+  {
+    "messages": [
+      {
+        "content": "Which spots on the map already have condos?",
         "role": "user"
       },
       {
@@ -306,7 +427,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1147_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1147.png"
     ],
     "id": 1147
@@ -314,7 +434,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich locations are already occupied by houses on the circular road A?",
+        "content": "Which locations are already occupied by houses on the circular road A?",
+        "role": "user"
+      },
+      {
+        "content": "Empty",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_116.png"
+    ],
+    "id": 116
+  },
+  {
+    "messages": [
+      {
+        "content": "Which locations are already occupied by houses on the circular road A?",
         "role": "user"
       },
       {
@@ -331,7 +467,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_116_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_116.png"
     ],
     "id": 116
@@ -339,7 +474,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich letter on the innermost round lane corresponds to the missing condo?",
+        "content": "Which letter on the innermost round lane corresponds to the missing condo?",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1176.png"
+    ],
+    "id": 1176
+  },
+  {
+    "messages": [
+      {
+        "content": "Which letter on the innermost round lane corresponds to the missing condo?",
         "role": "user"
       },
       {
@@ -356,7 +507,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1176_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1176.png"
     ],
     "id": 1176
@@ -364,7 +514,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many round pathways have fewer than 3 huts?",
+        "content": "How many round pathways have fewer than 3 huts?",
+        "role": "user"
+      },
+      {
+        "content": "Need to identify the pathways based on the drawing.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1182.png"
+    ],
+    "id": 1182
+  },
+  {
+    "messages": [
+      {
+        "content": "How many round pathways have fewer than 3 huts?",
         "role": "user"
       },
       {
@@ -381,7 +547,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1182_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1182.png"
     ],
     "id": 1182
@@ -421,7 +586,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich pathways still need one more dwelling to reach 3 dwellings each?",
+        "content": "Which pathways still need one more dwelling to reach 3 dwellings each?",
+        "role": "user"
+      },
+      {
+        "content": "The circular pathway around A, the circular pathway around B, and the straight pathway between E and B.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1237.png"
+    ],
+    "id": 1237
+  },
+  {
+    "messages": [
+      {
+        "content": "Which pathways still need one more dwelling to reach 3 dwellings each?",
         "role": "user"
       },
       {
@@ -438,7 +619,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1237_grid10.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1237.png"
     ],
     "id": 1237
@@ -446,7 +626,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich huts are on the 2nd round pathway?",
+        "content": "Which huts are on the 2nd round pathway?",
+        "role": "user"
+      },
+      {
+        "content": "C, D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1251.png"
+    ],
+    "id": 1251
+  },
+  {
+    "messages": [
+      {
+        "content": "Which huts are on the 2nd round pathway?",
         "role": "user"
       },
       {
@@ -463,7 +659,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1251_grid2.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1251.png"
     ],
     "id": 1251
@@ -471,7 +666,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich specific condo on the straight road does the third circular road's vacant spot align with?",
+        "content": "Which specific condo on the straight road does the third circular road's vacant spot align with?",
+        "role": "user"
+      },
+      {
+        "content": "The vacant spot aligns with a blue triangle condo on the third circular road.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1259.png"
+    ],
+    "id": 1259
+  },
+  {
+    "messages": [
+      {
+        "content": "Which specific condo on the straight road does the third circular road's vacant spot align with?",
         "role": "user"
       },
       {
@@ -488,7 +699,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1259_grid2.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1259.png"
     ],
     "id": 1259
@@ -528,7 +738,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich round road intersects hut B?",
+        "content": "Which round road intersects hut B?",
+        "role": "user"
+      },
+      {
+        "content": "Round Road 2",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1273.png"
+    ],
+    "id": 1273
+  },
+  {
+    "messages": [
+      {
+        "content": "Which round road intersects hut B?",
         "role": "user"
       },
       {
@@ -545,7 +771,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1273_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1273.png"
     ],
     "id": 1273
@@ -665,7 +890,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich houses are currently on the third circular road?",
+        "content": "Which houses are currently on the third circular road?",
+        "role": "user"
+      },
+      {
+        "content": "No house is currently on the third circular road.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1415.png"
+    ],
+    "id": 1415
+  },
+  {
+    "messages": [
+      {
+        "content": "Which houses are currently on the third circular road?",
         "role": "user"
       },
       {
@@ -682,7 +923,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1415_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1415.png"
     ],
     "id": 1415
@@ -706,7 +946,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many dwellings should be plotted at each of the marked points on the map (A, B, C, D, E) to complete the requirement of 5 dwellings on each round pathway?",
+        "content": "How many dwellings should be plotted at each of the marked points on the map (A, B, C, D, E) to complete the requirement of 5 dwellings on each round pathway?",
+        "role": "user"
+      },
+      {
+        "content": "{'A': 1, 'B': 1, 'C': 1, 'D': 1, 'E': 1}",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_145.png"
+    ],
+    "id": 145
+  },
+  {
+    "messages": [
+      {
+        "content": "How many dwellings should be plotted at each of the marked points on the map (A, B, C, D, E) to complete the requirement of 5 dwellings on each round pathway?",
         "role": "user"
       },
       {
@@ -723,7 +979,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_145_grid11.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_145.png"
     ],
     "id": 145
@@ -731,7 +986,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich dwellings on the drawing are on straight lanes but not on circular lanes?",
+        "content": "Which dwellings on the drawing are on straight lanes but not on circular lanes?",
+        "role": "user"
+      },
+      {
+        "content": "A, B, C, D, E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1455.png"
+    ],
+    "id": 1455
+  },
+  {
+    "messages": [
+      {
+        "content": "Which dwellings on the drawing are on straight lanes but not on circular lanes?",
         "role": "user"
       },
       {
@@ -748,7 +1019,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1455_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1455.png"
     ],
     "id": 1455
@@ -788,7 +1058,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich round lane currently only has one condo?",
+        "content": "Which round lane currently only has one condo?",
+        "role": "user"
+      },
+      {
+        "content": "E, D, A, B, C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_15.png"
+    ],
+    "id": 15
+  },
+  {
+    "messages": [
+      {
+        "content": "Which round lane currently only has one condo?",
         "role": "user"
       },
       {
@@ -805,7 +1091,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_15_grid2.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_15.png"
     ],
     "id": 15
@@ -813,7 +1098,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nAre there any intersections left without an apartment, aside from the locations A to E?",
+        "content": "Are there any intersections left without an apartment, aside from the locations A to E?",
+        "role": "user"
+      },
+      {
+        "content": "No",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1530.png"
+    ],
+    "id": 1530
+  },
+  {
+    "messages": [
+      {
+        "content": "Are there any intersections left without an apartment, aside from the locations A to E?",
         "role": "user"
       },
       {
@@ -830,7 +1131,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1530_grid13.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1530.png"
     ],
     "id": 1530
@@ -838,7 +1138,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many circular pathways are connected to Point C?",
+        "content": "How many circular pathways are connected to Point C?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_155.png"
+    ],
+    "id": 155
+  },
+  {
+    "messages": [
+      {
+        "content": "How many circular pathways are connected to Point C?",
         "role": "user"
       },
       {
@@ -855,7 +1171,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_155_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_155.png"
     ],
     "id": 155
@@ -863,7 +1178,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich coordinate locations currently have circular roads involving house A?",
+        "content": "Which coordinate locations currently have circular roads involving house A?",
+        "role": "user"
+      },
+      {
+        "content": "A-E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1554.png"
+    ],
+    "id": 1554
+  },
+  {
+    "messages": [
+      {
+        "content": "Which coordinate locations currently have circular roads involving house A?",
         "role": "user"
       },
       {
@@ -880,7 +1211,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1554_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1554.png"
     ],
     "id": 1554
@@ -888,7 +1218,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich pathways (straight or circular) have empty huts?",
+        "content": "Which pathways (straight or circular) have empty huts?",
+        "role": "user"
+      },
+      {
+        "content": "Straight pathway 2 and circular pathway 4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1557.png"
+    ],
+    "id": 1557
+  },
+  {
+    "messages": [
+      {
+        "content": "Which pathways (straight or circular) have empty huts?",
         "role": "user"
       },
       {
@@ -905,7 +1251,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1557_grid10.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1557.png"
     ],
     "id": 1557
@@ -913,7 +1258,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich hut is missing on the straight lane passing through E?",
+        "content": "Which hut is missing on the straight lane passing through E?",
+        "role": "user"
+      },
+      {
+        "content": "The hut at the intersection of the straight lane passing through E and round lane 5.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1559.png"
+    ],
+    "id": 1559
+  },
+  {
+    "messages": [
+      {
+        "content": "Which hut is missing on the straight lane passing through E?",
         "role": "user"
       },
       {
@@ -930,7 +1291,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1559_grid13.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1559.png"
     ],
     "id": 1559
@@ -938,7 +1298,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich pathways, both round and straight, do not pass through the apartment E?",
+        "content": "Which pathways, both round and straight, do not pass through the apartment E?",
+        "role": "user"
+      },
+      {
+        "content": "Green, Orange, Pathway passing through C, A, D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_156.png"
+    ],
+    "id": 156
+  },
+  {
+    "messages": [
+      {
+        "content": "Which pathways, both round and straight, do not pass through the apartment E?",
         "role": "user"
       },
       {
@@ -955,7 +1331,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_156_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_156.png"
     ],
     "id": 156
@@ -995,7 +1370,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich pathway connects apartments B and E within the overall town structure?",
+        "content": "Which pathway connects apartments B and E within the overall town structure?",
+        "role": "user"
+      },
+      {
+        "content": "Circular pathway",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1593.png"
+    ],
+    "id": 1593
+  },
+  {
+    "messages": [
+      {
+        "content": "Which pathway connects apartments B and E within the overall town structure?",
         "role": "user"
       },
       {
@@ -1012,7 +1403,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1593_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1593.png"
     ],
     "id": 1593
@@ -1020,7 +1410,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich condos are on the same round pathway as condo D?",
+        "content": "Which condos are on the same round pathway as condo D?",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_160.png"
+    ],
+    "id": 160
+  },
+  {
+    "messages": [
+      {
+        "content": "Which condos are on the same round pathway as condo D?",
         "role": "user"
       },
       {
@@ -1037,7 +1443,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_160_grid12.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_160.png"
     ],
     "id": 160
@@ -1045,7 +1450,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich house is on both a vertical straight road and the outer circular road?",
+        "content": "Which house is on both a vertical straight road and the outer circular road?",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1619.png"
+    ],
+    "id": 1619
+  },
+  {
+    "messages": [
+      {
+        "content": "Which house is on both a vertical straight road and the outer circular road?",
         "role": "user"
       },
       {
@@ -1062,7 +1483,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1619_grid2.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1619.png"
     ],
     "id": 1619
@@ -1070,7 +1490,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many huts are on the circular lanes D and E?",
+        "content": "How many huts are on the circular lanes D and E?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1625.png"
+    ],
+    "id": 1625
+  },
+  {
+    "messages": [
+      {
+        "content": "How many huts are on the circular lanes D and E?",
         "role": "user"
       },
       {
@@ -1087,7 +1523,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1625_grid10.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1625.png"
     ],
     "id": 1625
@@ -1111,7 +1546,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich houses are already occupied on the 4th straight path?",
+        "content": "Which houses are already occupied on the 4th straight path?",
+        "role": "user"
+      },
+      {
+        "content": "G",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1672.png"
+    ],
+    "id": 1672
+  },
+  {
+    "messages": [
+      {
+        "content": "Which houses are already occupied on the 4th straight path?",
         "role": "user"
       },
       {
@@ -1128,7 +1579,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1672_grid12.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1672.png"
     ],
     "id": 1672
@@ -1136,7 +1586,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich round lane are apartments A and F on?",
+        "content": "Which round lane are apartments A and F on?",
+        "role": "user"
+      },
+      {
+        "content": "The outermost round lane",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1673.png"
+    ],
+    "id": 1673
+  },
+  {
+    "messages": [
+      {
+        "content": "Which round lane are apartments A and F on?",
         "role": "user"
       },
       {
@@ -1153,7 +1619,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1673_grid12.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1673.png"
     ],
     "id": 1673
@@ -1177,7 +1642,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich apartments are directly connected to apartment A?",
+        "content": "Which apartments are directly connected to apartment A?",
+        "role": "user"
+      },
+      {
+        "content": "B, E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1686.png"
+    ],
+    "id": 1686
+  },
+  {
+    "messages": [
+      {
+        "content": "Which apartments are directly connected to apartment A?",
         "role": "user"
       },
       {
@@ -1194,7 +1675,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1686_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1686.png"
     ],
     "id": 1686
@@ -1218,7 +1698,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich intersection point has no condos along any straight lane?",
+        "content": "Which intersection point has no condos along any straight lane?",
+        "role": "user"
+      },
+      {
+        "content": "G",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1708.png"
+    ],
+    "id": 1708
+  },
+  {
+    "messages": [
+      {
+        "content": "Which intersection point has no condos along any straight lane?",
         "role": "user"
       },
       {
@@ -1235,7 +1731,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1708_grid2.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1708.png"
     ],
     "id": 1708
@@ -1259,7 +1754,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich round lane passes apartments A and B?",
+        "content": "Which round lane passes apartments A and B?",
+        "role": "user"
+      },
+      {
+        "content": "The outermost round lane",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1719.png"
+    ],
+    "id": 1719
+  },
+  {
+    "messages": [
+      {
+        "content": "Which round lane passes apartments A and B?",
         "role": "user"
       },
       {
@@ -1276,7 +1787,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1719_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1719.png"
     ],
     "id": 1719
@@ -1284,7 +1794,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich straight pathway does the apartment opposite to A lie on?",
+        "content": "Which straight pathway does the apartment opposite to A lie on?",
+        "role": "user"
+      },
+      {
+        "content": "C-D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1720.png"
+    ],
+    "id": 1720
+  },
+  {
+    "messages": [
+      {
+        "content": "Which straight pathway does the apartment opposite to A lie on?",
         "role": "user"
       },
       {
@@ -1301,7 +1827,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1720_grid2.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1720.png"
     ],
     "id": 1720
@@ -1309,7 +1834,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich specific hut is missing from the circular lane marked 'E'?",
+        "content": "Which specific hut is missing from the circular lane marked 'E'?",
+        "role": "user"
+      },
+      {
+        "content": "The hut on the Green straight lane is missing from the circular lane 'E'",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1733.png"
+    ],
+    "id": 1733
+  },
+  {
+    "messages": [
+      {
+        "content": "Which specific hut is missing from the circular lane marked 'E'?",
         "role": "user"
       },
       {
@@ -1326,7 +1867,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1733_grid10.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1733.png"
     ],
     "id": 1733
@@ -1334,7 +1874,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich of the circular lanes still needs an additional condo?",
+        "content": "Which of the circular lanes still needs an additional condo?",
+        "role": "user"
+      },
+      {
+        "content": "The innermost circular lane",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1735.png"
+    ],
+    "id": 1735
+  },
+  {
+    "messages": [
+      {
+        "content": "Which of the circular lanes still needs an additional condo?",
         "role": "user"
       },
       {
@@ -1351,7 +1907,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1735_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1735.png"
     ],
     "id": 1735
@@ -1359,7 +1914,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich round road has its houses on both the inner and outer circle?",
+        "content": "Which round road has its houses on both the inner and outer circle?",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1737.png"
+    ],
+    "id": 1737
+  },
+  {
+    "messages": [
+      {
+        "content": "Which round road has its houses on both the inner and outer circle?",
         "role": "user"
       },
       {
@@ -1376,7 +1947,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1737_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1737.png"
     ],
     "id": 1737
@@ -1384,7 +1954,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many houses are currently located on the intersection B?",
+        "content": "How many houses are currently located on the intersection B?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1740.png"
+    ],
+    "id": 1740
+  },
+  {
+    "messages": [
+      {
+        "content": "How many houses are currently located on the intersection B?",
         "role": "user"
       },
       {
@@ -1392,7 +1978,23 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many houses are currently located on the intersection C?",
+        "content": "How many houses are currently located on the intersection C?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1740.png"
+    ],
+    "id": 1740
+  },
+  {
+    "messages": [
+      {
+        "content": "How many houses are currently located on the intersection B?",
         "role": "user"
       },
       {
@@ -1400,7 +2002,7 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many houses are currently located on the intersection D?",
+        "content": "How many houses are currently located on the intersection C?",
         "role": "user"
       },
       {
@@ -1408,7 +2010,87 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many houses are currently located on the intersection E?",
+        "content": "How many houses are currently located on the intersection D?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1740.png"
+    ],
+    "id": 1740
+  },
+  {
+    "messages": [
+      {
+        "content": "How many houses are currently located on the intersection B?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      },
+      {
+        "content": "How many houses are currently located on the intersection C?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      },
+      {
+        "content": "How many houses are currently located on the intersection D?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      },
+      {
+        "content": "How many houses are currently located on the intersection E?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1740.png"
+    ],
+    "id": 1740
+  },
+  {
+    "messages": [
+      {
+        "content": "How many houses are currently located on the intersection B?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      },
+      {
+        "content": "How many houses are currently located on the intersection C?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      },
+      {
+        "content": "How many houses are currently located on the intersection D?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      },
+      {
+        "content": "How many houses are currently located on the intersection E?",
         "role": "user"
       },
       {
@@ -1425,10 +2107,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1740_grid10.png",
-      "dataset/clip_images/73/puzzle_73_1740_grid10.png",
-      "dataset/clip_images/73/puzzle_73_1740_grid10.png",
-      "dataset/clip_images/73/puzzle_73_1740_grid10.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1740.png"
     ],
     "id": 1740
@@ -1436,7 +2114,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich location on the round lanes A, B, D, and E is already occupied by one dwelling?",
+        "content": "Which location on the round lanes A, B, D, and E is already occupied by one dwelling?",
+        "role": "user"
+      },
+      {
+        "content": "Locations A, B, D, and E each have one dwelling already.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1778.png"
+    ],
+    "id": 1778
+  },
+  {
+    "messages": [
+      {
+        "content": "Which location on the round lanes A, B, D, and E is already occupied by one dwelling?",
         "role": "user"
       },
       {
@@ -1453,7 +2147,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1778_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1778.png"
     ],
     "id": 1778
@@ -1461,7 +2154,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nIf 4 condos are on each straight road and each circular road depicted in the picture has 4 condos except the innermost circular, which has 3, where should the remaining condo logically be placed?",
+        "content": "If 4 condos are on each straight road and each circular road depicted in the picture has 4 condos except the innermost circular, which has 3, where should the remaining condo logically be placed?",
+        "role": "user"
+      },
+      {
+        "content": "On the innermost circular road",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1779.png"
+    ],
+    "id": 1779
+  },
+  {
+    "messages": [
+      {
+        "content": "If 4 condos are on each straight road and each circular road depicted in the picture has 4 condos except the innermost circular, which has 3, where should the remaining condo logically be placed?",
         "role": "user"
       },
       {
@@ -1478,7 +2187,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1779_grid10.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1779.png"
     ],
     "id": 1779
@@ -1502,7 +2210,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich condos are connected by both straight and circular roads?",
+        "content": "Which condos are connected by both straight and circular roads?",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1790.png"
+    ],
+    "id": 1790
+  },
+  {
+    "messages": [
+      {
+        "content": "Which condos are connected by both straight and circular roads?",
         "role": "user"
       },
       {
@@ -1519,7 +2243,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1790_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1790.png"
     ],
     "id": 1790
@@ -1527,7 +2250,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich point on the circular pathway does not currently have a hut?",
+        "content": "Which point on the circular pathway does not currently have a hut?",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1807.png"
+    ],
+    "id": 1807
+  },
+  {
+    "messages": [
+      {
+        "content": "Which point on the circular pathway does not currently have a hut?",
         "role": "user"
       },
       {
@@ -1544,7 +2283,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1807_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1807.png"
     ],
     "id": 1807
@@ -1600,7 +2338,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich round pathway intersects with the straight pathway labeled D?",
+        "content": "Which round pathway intersects with the straight pathway labeled D?",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1872.png"
+    ],
+    "id": 1872
+  },
+  {
+    "messages": [
+      {
+        "content": "Which round pathway intersects with the straight pathway labeled D?",
         "role": "user"
       },
       {
@@ -1617,7 +2371,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1872_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1872.png"
     ],
     "id": 1872
@@ -1625,7 +2378,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many huts are there at the central point?",
+        "content": "How many huts are there at the central point?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1873.png"
+    ],
+    "id": 1873
+  },
+  {
+    "messages": [
+      {
+        "content": "How many huts are there at the central point?",
         "role": "user"
       },
       {
@@ -1642,7 +2411,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1873_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1873.png"
     ],
     "id": 1873
@@ -1650,7 +2418,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich dwellings or locations are connected to location D by pathways?",
+        "content": "Which dwellings or locations are connected to location D by pathways?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1903.png"
+    ],
+    "id": 1903
+  },
+  {
+    "messages": [
+      {
+        "content": "Which dwellings or locations are connected to location D by pathways?",
         "role": "user"
       },
       {
@@ -1667,7 +2451,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1903_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1903.png"
     ],
     "id": 1903
@@ -1675,7 +2458,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many apartments does each circular pathway connect to?",
+        "content": "How many apartments does each circular pathway connect to?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1913.png"
+    ],
+    "id": 1913
+  },
+  {
+    "messages": [
+      {
+        "content": "How many apartments does each circular pathway connect to?",
         "role": "user"
       },
       {
@@ -1692,7 +2491,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1913_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1913.png"
     ],
     "id": 1913
@@ -1716,7 +2514,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many dwellings are located on lane C?",
+        "content": "How many dwellings are located on lane C?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1946.png"
+    ],
+    "id": 1946
+  },
+  {
+    "messages": [
+      {
+        "content": "How many dwellings are located on lane C?",
         "role": "user"
       },
       {
@@ -1733,7 +2547,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1946_grid11.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1946.png"
     ],
     "id": 1946
@@ -1741,7 +2554,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich lane should house F be placed on if it is not one of the straight lanes?",
+        "content": "Which lane should house F be placed on if it is not one of the straight lanes?",
+        "role": "user"
+      },
+      {
+        "content": "The middle round lane",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1968.png"
+    ],
+    "id": 1968
+  },
+  {
+    "messages": [
+      {
+        "content": "Which lane should house F be placed on if it is not one of the straight lanes?",
         "role": "user"
       },
       {
@@ -1758,7 +2587,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_1968_grid11.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1968.png"
     ],
     "id": 1968
@@ -1798,7 +2626,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich huts are located on Straight Lane 3?",
+        "content": "Which huts are located on Straight Lane 3?",
+        "role": "user"
+      },
+      {
+        "content": "E and F",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_235.png"
+    ],
+    "id": 235
+  },
+  {
+    "messages": [
+      {
+        "content": "Which huts are located on Straight Lane 3?",
         "role": "user"
       },
       {
@@ -1815,7 +2659,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_235_grid11.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_235.png"
     ],
     "id": 235
@@ -1871,7 +2714,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich one of the circular roads contains the 12th missing dwelling?",
+        "content": "Which one of the circular roads contains the 12th missing dwelling?",
+        "role": "user"
+      },
+      {
+        "content": "The circular road that contains Orange and Grey is the one missing the dwelling.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_257.png"
+    ],
+    "id": 257
+  },
+  {
+    "messages": [
+      {
+        "content": "Which one of the circular roads contains the 12th missing dwelling?",
         "role": "user"
       },
       {
@@ -1888,7 +2747,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_257_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_257.png"
     ],
     "id": 257
@@ -1912,7 +2770,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nOn which circular pathway should the missing apartment be placed considering it intersects with pathway AD on the second position from the center?",
+        "content": "On which circular pathway should the missing apartment be placed considering it intersects with pathway AD on the second position from the center?",
+        "role": "user"
+      },
+      {
+        "content": "The third circular pathway from the center",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_260.png"
+    ],
+    "id": 260
+  },
+  {
+    "messages": [
+      {
+        "content": "On which circular pathway should the missing apartment be placed considering it intersects with pathway AD on the second position from the center?",
         "role": "user"
       },
       {
@@ -1929,7 +2803,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_260_grid12.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_260.png"
     ],
     "id": 260
@@ -1937,7 +2810,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the dwellings on the central point and the straight paths, which dwelling is missing in the drawing?",
+        "content": "Based on the dwellings on the central point and the straight paths, which dwelling is missing in the drawing?",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_271.png"
+    ],
+    "id": 271
+  },
+  {
+    "messages": [
+      {
+        "content": "Based on the dwellings on the central point and the straight paths, which dwelling is missing in the drawing?",
         "role": "user"
       },
       {
@@ -1954,7 +2843,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_271_grid12.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_271.png"
     ],
     "id": 271
@@ -1978,7 +2866,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nIdentify the radial lines with missing huts based on the names provided, A to E.",
+        "content": "Identify the radial lines with missing huts based on the names provided, A to E.",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_303.png"
+    ],
+    "id": 303
+  },
+  {
+    "messages": [
+      {
+        "content": "Identify the radial lines with missing huts based on the names provided, A to E.",
         "role": "user"
       },
       {
@@ -1995,7 +2899,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_303_grid2.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_303.png"
     ],
     "id": 303
@@ -2019,7 +2922,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many condos are present at each point along the round lane that includes point A?",
+        "content": "How many condos are present at each point along the round lane that includes point A?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_31.png"
+    ],
+    "id": 31
+  },
+  {
+    "messages": [
+      {
+        "content": "How many condos are present at each point along the round lane that includes point A?",
         "role": "user"
       },
       {
@@ -2036,7 +2955,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_31_grid11.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_31.png"
     ],
     "id": 31
@@ -2044,7 +2962,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich circular pathway has a single unoccupied position?",
+        "content": "Which circular pathway has a single unoccupied position?",
+        "role": "user"
+      },
+      {
+        "content": "The first circular pathway",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_318.png"
+    ],
+    "id": 318
+  },
+  {
+    "messages": [
+      {
+        "content": "Which circular pathway has a single unoccupied position?",
         "role": "user"
       },
       {
@@ -2061,7 +2995,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_318_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_318.png"
     ],
     "id": 318
@@ -2069,7 +3002,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich round path does location E belong to?",
+        "content": "Which round path does location E belong to?",
+        "role": "user"
+      },
+      {
+        "content": "The round path contacting E and D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_326.png"
+    ],
+    "id": 326
+  },
+  {
+    "messages": [
+      {
+        "content": "Which round path does location E belong to?",
         "role": "user"
       },
       {
@@ -2086,7 +3035,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_326_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_326.png"
     ],
     "id": 326
@@ -2110,7 +3058,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich unnamed position is on the circular pathway closest to the center?",
+        "content": "Which unnamed position is on the circular pathway closest to the center?",
+        "role": "user"
+      },
+      {
+        "content": "The brown house on the lower left.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_336.png"
+    ],
+    "id": 336
+  },
+  {
+    "messages": [
+      {
+        "content": "Which unnamed position is on the circular pathway closest to the center?",
         "role": "user"
       },
       {
@@ -2127,7 +3091,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_336_grid2.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_336.png"
     ],
     "id": 336
@@ -2135,7 +3098,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich other apartment is in the intersection of the 4th straight lane and 2nd circular lane?",
+        "content": "Which other apartment is in the intersection of the 4th straight lane and 2nd circular lane?",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_350.png"
+    ],
+    "id": 350
+  },
+  {
+    "messages": [
+      {
+        "content": "Which other apartment is in the intersection of the 4th straight lane and 2nd circular lane?",
         "role": "user"
       },
       {
@@ -2152,7 +3131,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_350_grid2.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_350.png"
     ],
     "id": 350
@@ -2160,7 +3138,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nIs the hut at the location A, which is in the intersection of the second round path and the straight path from A to D, actually present in the picture?",
+        "content": "Is the hut at the location A, which is in the intersection of the second round path and the straight path from A to D, actually present in the picture?",
+        "role": "user"
+      },
+      {
+        "content": "No",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_383.png"
+    ],
+    "id": 383
+  },
+  {
+    "messages": [
+      {
+        "content": "Is the hut at the location A, which is in the intersection of the second round path and the straight path from A to D, actually present in the picture?",
         "role": "user"
       },
       {
@@ -2177,7 +3171,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_383_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_383.png"
     ],
     "id": 383
@@ -2185,7 +3178,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich apartments share the same straight road as the missing apartment?",
+        "content": "Which apartments share the same straight road as the missing apartment?",
+        "role": "user"
+      },
+      {
+        "content": "E-C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_389.png"
+    ],
+    "id": 389
+  },
+  {
+    "messages": [
+      {
+        "content": "Which apartments share the same straight road as the missing apartment?",
         "role": "user"
       },
       {
@@ -2202,7 +3211,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_389_grid12.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_389.png"
     ],
     "id": 389
@@ -2210,7 +3218,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many apartments are on all intersections (both inner and outer)?",
+        "content": "How many apartments are on all intersections (both inner and outer)?",
+        "role": "user"
+      },
+      {
+        "content": "10",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_390.png"
+    ],
+    "id": 390
+  },
+  {
+    "messages": [
+      {
+        "content": "How many apartments are on all intersections (both inner and outer)?",
         "role": "user"
       },
       {
@@ -2227,7 +3251,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_390_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_390.png"
     ],
     "id": 390
@@ -2235,7 +3258,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nAmong the circular lanes, which other lanes need condos?",
+        "content": "Among the circular lanes, which other lanes need condos?",
+        "role": "user"
+      },
+      {
+        "content": "Circular lanes B, C, and D each need 2 more condos.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_403.png"
+    ],
+    "id": 403
+  },
+  {
+    "messages": [
+      {
+        "content": "Among the circular lanes, which other lanes need condos?",
         "role": "user"
       },
       {
@@ -2252,7 +3291,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_403_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_403.png"
     ],
     "id": 403
@@ -2260,7 +3298,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich house is connected to the missing house by a round path?",
+        "content": "Which house is connected to the missing house by a round path?",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_407.png"
+    ],
+    "id": 407
+  },
+  {
+    "messages": [
+      {
+        "content": "Which house is connected to the missing house by a round path?",
         "role": "user"
       },
       {
@@ -2277,7 +3331,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_407_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_407.png"
     ],
     "id": 407
@@ -2301,7 +3354,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich segment on the outermost circular lane (lane 6) is missing a condo?",
+        "content": "Which segment on the outermost circular lane (lane 6) is missing a condo?",
+        "role": "user"
+      },
+      {
+        "content": "Segment E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_424.png"
+    ],
+    "id": 424
+  },
+  {
+    "messages": [
+      {
+        "content": "Which segment on the outermost circular lane (lane 6) is missing a condo?",
         "role": "user"
       },
       {
@@ -2318,7 +3387,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_424_grid12.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_424.png"
     ],
     "id": 424
@@ -2358,7 +3426,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich dwelling is missing from circular pathway 4?",
+        "content": "Which dwelling is missing from circular pathway 4?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_442.png"
+    ],
+    "id": 442
+  },
+  {
+    "messages": [
+      {
+        "content": "Which dwelling is missing from circular pathway 4?",
         "role": "user"
       },
       {
@@ -2375,7 +3459,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_442_grid10.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_442.png"
     ],
     "id": 442
@@ -2399,7 +3482,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich straight road connects 2 huts that do not form a triangle with hut D?",
+        "content": "Which straight road connects 2 huts that do not form a triangle with hut D?",
+        "role": "user"
+      },
+      {
+        "content": "D-E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_478.png"
+    ],
+    "id": 478
+  },
+  {
+    "messages": [
+      {
+        "content": "Which straight road connects 2 huts that do not form a triangle with hut D?",
         "role": "user"
       },
       {
@@ -2416,7 +3515,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_478_grid13.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_478.png"
     ],
     "id": 478
@@ -2424,7 +3522,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich houses are on the straight road that intersects at house A?",
+        "content": "Which houses are on the straight road that intersects at house A?",
+        "role": "user"
+      },
+      {
+        "content": "A, B, E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_48.png"
+    ],
+    "id": 48
+  },
+  {
+    "messages": [
+      {
+        "content": "Which houses are on the straight road that intersects at house A?",
         "role": "user"
       },
       {
@@ -2441,7 +3555,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_48_grid12.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_48.png"
     ],
     "id": 48
@@ -2481,7 +3594,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich straight paths involve a house that hasn't been mentioned in a round path yet?",
+        "content": "Which straight paths involve a house that hasn't been mentioned in a round path yet?",
+        "role": "user"
+      },
+      {
+        "content": "A and E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_574.png"
+    ],
+    "id": 574
+  },
+  {
+    "messages": [
+      {
+        "content": "Which straight paths involve a house that hasn't been mentioned in a round path yet?",
         "role": "user"
       },
       {
@@ -2498,7 +3627,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_574_grid2.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_574.png"
     ],
     "id": 574
@@ -2506,7 +3634,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich apartments are directly connected to the two unconnected roads?",
+        "content": "Which apartments are directly connected to the two unconnected roads?",
+        "role": "user"
+      },
+      {
+        "content": "C is connected to B, D is connected to A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_594.png"
+    ],
+    "id": 594
+  },
+  {
+    "messages": [
+      {
+        "content": "Which apartments are directly connected to the two unconnected roads?",
         "role": "user"
       },
       {
@@ -2523,7 +3667,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_594_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_594.png"
     ],
     "id": 594
@@ -2531,7 +3674,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich location option is adjacent to more overcrowded circular roads?",
+        "content": "Which location option is adjacent to more overcrowded circular roads?",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_623.png"
+    ],
+    "id": 623
+  },
+  {
+    "messages": [
+      {
+        "content": "Which location option is adjacent to more overcrowded circular roads?",
         "role": "user"
       },
       {
@@ -2548,7 +3707,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_623_grid10.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_623.png"
     ],
     "id": 623
@@ -2572,7 +3730,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich hut is along a specific round lane that has only one hut illustrated?",
+        "content": "Which hut is along a specific round lane that has only one hut illustrated?",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_670.png"
+    ],
+    "id": 670
+  },
+  {
+    "messages": [
+      {
+        "content": "Which hut is along a specific round lane that has only one hut illustrated?",
         "role": "user"
       },
       {
@@ -2589,7 +3763,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_670_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_670.png"
     ],
     "id": 670
@@ -2629,7 +3802,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nIs the empty round pathway near the labeled location E?",
+        "content": "Is the empty round pathway near the labeled location E?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_701.png"
+    ],
+    "id": 701
+  },
+  {
+    "messages": [
+      {
+        "content": "Is the empty round pathway near the labeled location E?",
         "role": "user"
       },
       {
@@ -2637,7 +3826,23 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nIs there an available dwelling spot on the straight pathway B?",
+        "content": "Is there an available dwelling spot on the straight pathway B?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_701.png"
+    ],
+    "id": 701
+  },
+  {
+    "messages": [
+      {
+        "content": "Is the empty round pathway near the labeled location E?",
         "role": "user"
       },
       {
@@ -2645,7 +3850,47 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nOn which round pathway is the empty pathway near location E?",
+        "content": "Is there an available dwelling spot on the straight pathway B?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      },
+      {
+        "content": "On which round pathway is the empty pathway near location E?",
+        "role": "user"
+      },
+      {
+        "content": "The 2nd round pathway.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_701.png"
+    ],
+    "id": 701
+  },
+  {
+    "messages": [
+      {
+        "content": "Is the empty round pathway near the labeled location E?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      },
+      {
+        "content": "Is there an available dwelling spot on the straight pathway B?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      },
+      {
+        "content": "On which round pathway is the empty pathway near location E?",
         "role": "user"
       },
       {
@@ -2662,9 +3907,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_701_grid8.png",
-      "dataset/clip_images/73/puzzle_73_701_grid10.png",
-      "dataset/clip_images/73/puzzle_73_701_grid10.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_701.png"
     ],
     "id": 701
@@ -2672,7 +3914,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nCan the 6th condo be placed on the intersection of the top straight lane and the middle round lane?",
+        "content": "Can the 6th condo be placed on the intersection of the top straight lane and the middle round lane?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_713.png"
+    ],
+    "id": 713
+  },
+  {
+    "messages": [
+      {
+        "content": "Can the 6th condo be placed on the intersection of the top straight lane and the middle round lane?",
         "role": "user"
       },
       {
@@ -2689,7 +3947,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_713_grid2.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_713.png"
     ],
     "id": 713
@@ -2713,7 +3970,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich houses are missing from the round pathways based on the given drawing?",
+        "content": "Which houses are missing from the round pathways based on the given drawing?",
+        "role": "user"
+      },
+      {
+        "content": "F, G, H, I, J, K, L",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_728.png"
+    ],
+    "id": 728
+  },
+  {
+    "messages": [
+      {
+        "content": "Which houses are missing from the round pathways based on the given drawing?",
         "role": "user"
       },
       {
@@ -2730,7 +4003,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_728_grid2.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_728.png"
     ],
     "id": 728
@@ -2738,7 +4010,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich intersections in the outermost circular path already have apartments?",
+        "content": "Which intersections in the outermost circular path already have apartments?",
+        "role": "user"
+      },
+      {
+        "content": "A, B, C, D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_733.png"
+    ],
+    "id": 733
+  },
+  {
+    "messages": [
+      {
+        "content": "Which intersections in the outermost circular path already have apartments?",
         "role": "user"
       },
       {
@@ -2755,7 +4043,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_733_grid10.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_733.png"
     ],
     "id": 733
@@ -2763,7 +4050,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich straight pathways have only one hut?",
+        "content": "Which straight pathways have only one hut?",
+        "role": "user"
+      },
+      {
+        "content": "The straight pathway with hut D.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_749.png"
+    ],
+    "id": 749
+  },
+  {
+    "messages": [
+      {
+        "content": "Which straight pathways have only one hut?",
         "role": "user"
       },
       {
@@ -2780,7 +4083,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_749_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_749.png"
     ],
     "id": 749
@@ -2804,7 +4106,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nAfter placing house D in the round path containing E, B, and C, how many houses are still needed on round paths to meet the requirement?",
+        "content": "After placing house D in the round path containing E, B, and C, how many houses are still needed on round paths to meet the requirement?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_755.png"
+    ],
+    "id": 755
+  },
+  {
+    "messages": [
+      {
+        "content": "After placing house D in the round path containing E, B, and C, how many houses are still needed on round paths to meet the requirement?",
         "role": "user"
       },
       {
@@ -2821,7 +4139,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_755_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_755.png"
     ],
     "id": 755
@@ -2829,7 +4146,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich straight path is missing a dwelling?",
+        "content": "Which straight path is missing a dwelling?",
+        "role": "user"
+      },
+      {
+        "content": "The middle straight path",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_758.png"
+    ],
+    "id": 758
+  },
+  {
+    "messages": [
+      {
+        "content": "Which straight path is missing a dwelling?",
         "role": "user"
       },
       {
@@ -2846,7 +4179,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_758_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_758.png"
     ],
     "id": 758
@@ -2870,7 +4202,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many intersections are there between the straight and round pathways?",
+        "content": "How many intersections are there between the straight and round pathways?",
+        "role": "user"
+      },
+      {
+        "content": "16",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_772.png"
+    ],
+    "id": 772
+  },
+  {
+    "messages": [
+      {
+        "content": "How many intersections are there between the straight and round pathways?",
         "role": "user"
       },
       {
@@ -2887,7 +4235,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_772_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_772.png"
     ],
     "id": 772
@@ -2895,7 +4242,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many positions are there in each round lane?",
+        "content": "How many positions are there in each round lane?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_777.png"
+    ],
+    "id": 777
+  },
+  {
+    "messages": [
+      {
+        "content": "How many positions are there in each round lane?",
         "role": "user"
       },
       {
@@ -2912,7 +4275,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_777_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_777.png"
     ],
     "id": 777
@@ -2936,7 +4298,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich house is connected to the 6th house by the round path?",
+        "content": "Which house is connected to the 6th house by the round path?",
+        "role": "user"
+      },
+      {
+        "content": "House E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_800.png"
+    ],
+    "id": 800
+  },
+  {
+    "messages": [
+      {
+        "content": "Which house is connected to the 6th house by the round path?",
         "role": "user"
       },
       {
@@ -2953,7 +4331,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_800_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_800.png"
     ],
     "id": 800
@@ -2977,7 +4354,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich round path does not share a house with the third straight path?",
+        "content": "Which round path does not share a house with the third straight path?",
+        "role": "user"
+      },
+      {
+        "content": "The path through B, D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_847.png"
+    ],
+    "id": 847
+  },
+  {
+    "messages": [
+      {
+        "content": "Which round path does not share a house with the third straight path?",
         "role": "user"
       },
       {
@@ -2994,7 +4387,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_847_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_847.png"
     ],
     "id": 847
@@ -3002,7 +4394,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich houses are directly connected to house F?",
+        "content": "Which houses are directly connected to house F?",
+        "role": "user"
+      },
+      {
+        "content": "B, D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_861.png"
+    ],
+    "id": 861
+  },
+  {
+    "messages": [
+      {
+        "content": "Which houses are directly connected to house F?",
         "role": "user"
       },
       {
@@ -3019,7 +4427,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_861_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_861.png"
     ],
     "id": 861
@@ -3043,7 +4450,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich hut is missing from the map?",
+        "content": "Which hut is missing from the map?",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_888.png"
+    ],
+    "id": 888
+  },
+  {
+    "messages": [
+      {
+        "content": "Which hut is missing from the map?",
         "role": "user"
       },
       {
@@ -3060,7 +4483,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_888_grid2.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_888.png"
     ],
     "id": 888
@@ -3068,7 +4490,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many straight pathways have only 2 condos illustrated?",
+        "content": "How many straight pathways have only 2 condos illustrated?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_903.png"
+    ],
+    "id": 903
+  },
+  {
+    "messages": [
+      {
+        "content": "How many straight pathways have only 2 condos illustrated?",
         "role": "user"
       },
       {
@@ -3085,7 +4523,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_903_grid2.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_903.png"
     ],
     "id": 903
@@ -3109,7 +4546,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich straight pathway intersects at point A where the missing hut should be added?",
+        "content": "Which straight pathway intersects at point A where the missing hut should be added?",
+        "role": "user"
+      },
+      {
+        "content": "The straight pathway that intersects at point A is the one with the red huts.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_927.png"
+    ],
+    "id": 927
+  },
+  {
+    "messages": [
+      {
+        "content": "Which straight pathway intersects at point A where the missing hut should be added?",
         "role": "user"
       },
       {
@@ -3126,7 +4579,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_927_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_927.png"
     ],
     "id": 927
@@ -3182,7 +4634,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich condo is currently missing on lane B?",
+        "content": "Which condo is currently missing on lane B?",
+        "role": "user"
+      },
+      {
+        "content": "The condo on the outer edge",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_978.png"
+    ],
+    "id": 978
+  },
+  {
+    "messages": [
+      {
+        "content": "Which condo is currently missing on lane B?",
         "role": "user"
       },
       {
@@ -3199,7 +4667,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_978_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_978.png"
     ],
     "id": 978
@@ -3207,7 +4674,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich houses are on the third straight road?",
+        "content": "Which houses are on the third straight road?",
+        "role": "user"
+      },
+      {
+        "content": "E-D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_989.png"
+    ],
+    "id": 989
+  },
+  {
+    "messages": [
+      {
+        "content": "Which houses are on the third straight road?",
         "role": "user"
       },
       {
@@ -3215,7 +4698,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhich houses are on the first round road?",
+        "content": "Which houses are on the first round road?",
+        "role": "user"
+      },
+      {
+        "content": "A-D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_989.png"
+    ],
+    "id": 989
+  },
+  {
+    "messages": [
+      {
+        "content": "Which houses are on the third straight road?",
+        "role": "user"
+      },
+      {
+        "content": "E-D",
+        "role": "assistant"
+      },
+      {
+        "content": "Which houses are on the first round road?",
         "role": "user"
       },
       {
@@ -3223,7 +4730,39 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhich houses are on the second round road?",
+        "content": "Which houses are on the second round road?",
+        "role": "user"
+      },
+      {
+        "content": "B-E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_989.png"
+    ],
+    "id": 989
+  },
+  {
+    "messages": [
+      {
+        "content": "Which houses are on the third straight road?",
+        "role": "user"
+      },
+      {
+        "content": "E-D",
+        "role": "assistant"
+      },
+      {
+        "content": "Which houses are on the first round road?",
+        "role": "user"
+      },
+      {
+        "content": "A-D",
+        "role": "assistant"
+      },
+      {
+        "content": "Which houses are on the second round road?",
         "role": "user"
       },
       {
@@ -3231,7 +4770,47 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhich houses are on the third round road?",
+        "content": "Which houses are on the third round road?",
+        "role": "user"
+      },
+      {
+        "content": "C-E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_989.png"
+    ],
+    "id": 989
+  },
+  {
+    "messages": [
+      {
+        "content": "Which houses are on the third straight road?",
+        "role": "user"
+      },
+      {
+        "content": "E-D",
+        "role": "assistant"
+      },
+      {
+        "content": "Which houses are on the first round road?",
+        "role": "user"
+      },
+      {
+        "content": "A-D",
+        "role": "assistant"
+      },
+      {
+        "content": "Which houses are on the second round road?",
+        "role": "user"
+      },
+      {
+        "content": "B-E",
+        "role": "assistant"
+      },
+      {
+        "content": "Which houses are on the third round road?",
         "role": "user"
       },
       {
@@ -3239,7 +4818,55 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many houses are currently shown in the picture?",
+        "content": "How many houses are currently shown in the picture?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_989.png"
+    ],
+    "id": 989
+  },
+  {
+    "messages": [
+      {
+        "content": "Which houses are on the third straight road?",
+        "role": "user"
+      },
+      {
+        "content": "E-D",
+        "role": "assistant"
+      },
+      {
+        "content": "Which houses are on the first round road?",
+        "role": "user"
+      },
+      {
+        "content": "A-D",
+        "role": "assistant"
+      },
+      {
+        "content": "Which houses are on the second round road?",
+        "role": "user"
+      },
+      {
+        "content": "B-E",
+        "role": "assistant"
+      },
+      {
+        "content": "Which houses are on the third round road?",
+        "role": "user"
+      },
+      {
+        "content": "C-E",
+        "role": "assistant"
+      },
+      {
+        "content": "How many houses are currently shown in the picture?",
         "role": "user"
       },
       {
@@ -3256,11 +4883,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/73/puzzle_73_989_grid9.png",
-      "dataset/clip_images/73/puzzle_73_989_grid9.png",
-      "dataset/clip_images/73/puzzle_73_989_grid9.png",
-      "dataset/clip_images/73/puzzle_73_989_grid9.png",
-      "dataset/clip_images/73/puzzle_73_989_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_989.png"
     ],
     "id": 989

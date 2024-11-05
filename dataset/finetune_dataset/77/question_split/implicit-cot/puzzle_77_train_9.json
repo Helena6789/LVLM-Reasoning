@@ -162,7 +162,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the background color of the inverted image of figure E?",
+        "content": "What is the background color of the inverted image of figure E?",
+        "role": "user"
+      },
+      {
+        "content": "Blue",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1230.png"
+    ],
+    "id": 1230
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the background color of the inverted image of figure E?",
         "role": "user"
       },
       {
@@ -179,7 +195,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1230_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1230.png"
     ],
     "id": 1230
@@ -555,7 +570,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the color of the background if we invert the purple color?",
+        "content": "What is the color of the background if we invert the purple color?",
+        "role": "user"
+      },
+      {
+        "content": "Green",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_177.png"
+    ],
+    "id": 177
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the color of the background if we invert the purple color?",
         "role": "user"
       },
       {
@@ -572,7 +603,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_177_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_177.png"
     ],
     "id": 177
@@ -612,7 +642,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat color does the brown background of drawing E become when inverted?",
+        "content": "What color does the brown background of drawing E become when inverted?",
+        "role": "user"
+      },
+      {
+        "content": "Blue",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1812.png"
+    ],
+    "id": 1812
+  },
+  {
+    "messages": [
+      {
+        "content": "What color does the brown background of drawing E become when inverted?",
         "role": "user"
       },
       {
@@ -629,7 +675,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1812_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1812.png"
     ],
     "id": 1812
@@ -893,7 +938,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the main figure color of Figure D?",
+        "content": "What is the main figure color of Figure D?",
+        "role": "user"
+      },
+      {
+        "content": "Yellow",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_357.png"
+    ],
+    "id": 357
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the main figure color of Figure D?",
         "role": "user"
       },
       {
@@ -910,7 +971,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_357_grid3.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_357.png"
     ],
     "id": 357
@@ -1222,7 +1282,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich drawing on the right has a green background?",
+        "content": "Which drawing on the right has a green background?",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_761.png"
+    ],
+    "id": 761
+  },
+  {
+    "messages": [
+      {
+        "content": "Which drawing on the right has a green background?",
         "role": "user"
       },
       {
@@ -1239,7 +1315,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_761_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_761.png"
     ],
     "id": 761
@@ -1247,7 +1322,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the inverted color of yellow?",
+        "content": "What is the inverted color of yellow?",
+        "role": "user"
+      },
+      {
+        "content": "blue",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_764.png"
+    ],
+    "id": 764
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the inverted color of yellow?",
         "role": "user"
       },
       {
@@ -1264,7 +1355,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_764_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_764.png"
     ],
     "id": 764

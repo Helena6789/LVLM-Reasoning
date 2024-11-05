@@ -34,7 +34,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the background color in the left image?",
+        "content": "What is the background color in the left image?",
+        "role": "user"
+      },
+      {
+        "content": "Pink",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1048.png"
+    ],
+    "id": 1048
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the background color in the left image?",
         "role": "user"
       },
       {
@@ -51,7 +67,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1048_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1048.png"
     ],
     "id": 1048
@@ -59,7 +74,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich right image has a dark yellow or gold background with dots of magenta, yellow-green, blue, and cyan?",
+        "content": "Which right image has a dark yellow or gold background with dots of magenta, yellow-green, blue, and cyan?",
+        "role": "user"
+      },
+      {
+        "content": "Image D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1061.png"
+    ],
+    "id": 1061
+  },
+  {
+    "messages": [
+      {
+        "content": "Which right image has a dark yellow or gold background with dots of magenta, yellow-green, blue, and cyan?",
         "role": "user"
       },
       {
@@ -76,7 +107,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1061_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1061.png"
     ],
     "id": 1061
@@ -84,7 +114,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich drawing has a prominent shade of green along with pink, yellow, and cyan dots?",
+        "content": "Which drawing has a prominent shade of green along with pink, yellow, and cyan dots?",
+        "role": "user"
+      },
+      {
+        "content": "Drawing E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1065.png"
+    ],
+    "id": 1065
+  },
+  {
+    "messages": [
+      {
+        "content": "Which drawing has a prominent shade of green along with pink, yellow, and cyan dots?",
         "role": "user"
       },
       {
@@ -101,7 +147,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1065_grid1.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1065.png"
     ],
     "id": 1065
@@ -109,7 +154,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich option on the right corresponds to the pink circle on the left if we invert the colors?",
+        "content": "Which option on the right corresponds to the pink circle on the left if we invert the colors?",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1068.png"
+    ],
+    "id": 1068
+  },
+  {
+    "messages": [
+      {
+        "content": "Which option on the right corresponds to the pink circle on the left if we invert the colors?",
         "role": "user"
       },
       {
@@ -126,7 +187,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1068_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1068.png"
     ],
     "id": 1068
@@ -134,7 +194,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the inverse of dark purple with multicolored dots?",
+        "content": "What is the inverse of dark purple with multicolored dots?",
+        "role": "user"
+      },
+      {
+        "content": "Light green with multicolored dots",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1078.png"
+    ],
+    "id": 1078
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the inverse of dark purple with multicolored dots?",
         "role": "user"
       },
       {
@@ -151,7 +227,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1078_grid10.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1078.png"
     ],
     "id": 1078
@@ -175,7 +250,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the dominant background color of the picture on the left when colors are inverted?",
+        "content": "What is the dominant background color of the picture on the left when colors are inverted?",
+        "role": "user"
+      },
+      {
+        "content": "Blue",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1111.png"
+    ],
+    "id": 1111
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the dominant background color of the picture on the left when colors are inverted?",
         "role": "user"
       },
       {
@@ -192,7 +283,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1111_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1111.png"
     ],
     "id": 1111
@@ -296,7 +386,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich image has a mint green background before the inversion?",
+        "content": "Which image has a mint green background before the inversion?",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1204.png"
+    ],
+    "id": 1204
+  },
+  {
+    "messages": [
+      {
+        "content": "Which image has a mint green background before the inversion?",
         "role": "user"
       },
       {
@@ -313,7 +419,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1204_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1204.png"
     ],
     "id": 1204
@@ -321,7 +426,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich picture has green as the primary color?",
+        "content": "Which picture has green as the primary color?",
+        "role": "user"
+      },
+      {
+        "content": "Picture E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1208.png"
+    ],
+    "id": 1208
+  },
+  {
+    "messages": [
+      {
+        "content": "Which picture has green as the primary color?",
         "role": "user"
       },
       {
@@ -338,7 +459,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1208_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1208.png"
     ],
     "id": 1208
@@ -346,7 +466,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the background color of picture D?",
+        "content": "What is the background color of picture D?",
+        "role": "user"
+      },
+      {
+        "content": "light purple",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1212.png"
+    ],
+    "id": 1212
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the background color of picture D?",
         "role": "user"
       },
       {
@@ -363,7 +499,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1212_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1212.png"
     ],
     "id": 1212
@@ -387,7 +522,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich cartoon on the right has colorful spots of red, yellow, blue, and dark elements on a dark background?",
+        "content": "Which cartoon on the right has colorful spots of red, yellow, blue, and dark elements on a dark background?",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1229.png"
+    ],
+    "id": 1229
+  },
+  {
+    "messages": [
+      {
+        "content": "Which cartoon on the right has colorful spots of red, yellow, blue, and dark elements on a dark background?",
         "role": "user"
       },
       {
@@ -404,7 +555,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1229_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1229.png"
     ],
     "id": 1229
@@ -412,7 +562,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the background color of figure E?",
+        "content": "What is the background color of figure E?",
+        "role": "user"
+      },
+      {
+        "content": "Beige",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1230.png"
+    ],
+    "id": 1230
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the background color of figure E?",
         "role": "user"
       },
       {
@@ -420,7 +586,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the background color of the inverted image of figure E?",
+        "content": "What is the background color of the inverted image of figure E?",
+        "role": "user"
+      },
+      {
+        "content": "Blue",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1230.png"
+    ],
+    "id": 1230
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the background color of figure E?",
+        "role": "user"
+      },
+      {
+        "content": "Beige",
+        "role": "assistant"
+      },
+      {
+        "content": "What is the background color of the inverted image of figure E?",
         "role": "user"
       },
       {
@@ -437,8 +627,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1230_grid6.png",
-      "dataset/clip_images/77/puzzle_77_1230_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1230.png"
     ],
     "id": 1230
@@ -510,7 +698,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the color of the circle labeled 'C' when inverted?",
+        "content": "What is the color of the circle labeled 'C' when inverted?",
+        "role": "user"
+      },
+      {
+        "content": "Yellow",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1298.png"
+    ],
+    "id": 1298
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the color of the circle labeled 'C' when inverted?",
         "role": "user"
       },
       {
@@ -527,7 +731,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1298_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1298.png"
     ],
     "id": 1298
@@ -551,7 +754,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat color do you get by inverting light blue?",
+        "content": "What color do you get by inverting light blue?",
+        "role": "user"
+      },
+      {
+        "content": "Dark orange",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1323.png"
+    ],
+    "id": 1323
+  },
+  {
+    "messages": [
+      {
+        "content": "What color do you get by inverting light blue?",
         "role": "user"
       },
       {
@@ -568,7 +787,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1323_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1323.png"
     ],
     "id": 1323
@@ -576,7 +794,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the background color of the drawing labeled 'B' on the right when the colors are inverted?",
+        "content": "What is the background color of the drawing labeled 'B' on the right when the colors are inverted?",
+        "role": "user"
+      },
+      {
+        "content": "Light green",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1326.png"
+    ],
+    "id": 1326
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the background color of the drawing labeled 'B' on the right when the colors are inverted?",
         "role": "user"
       },
       {
@@ -593,7 +827,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1326_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1326.png"
     ],
     "id": 1326
@@ -617,7 +850,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the color of the background in the right figures?",
+        "content": "What is the color of the background in the right figures?",
+        "role": "user"
+      },
+      {
+        "content": "The right figures have various background colors: dark purple (A), dark blue (B), greyish blue (C), bright blue (D), and green (E).",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1352.png"
+    ],
+    "id": 1352
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the color of the background in the right figures?",
         "role": "user"
       },
       {
@@ -634,7 +883,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1352_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1352.png"
     ],
     "id": 1352
@@ -658,7 +906,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich of the options has a yellow background?",
+        "content": "Which of the options has a yellow background?",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1417.png"
+    ],
+    "id": 1417
+  },
+  {
+    "messages": [
+      {
+        "content": "Which of the options has a yellow background?",
         "role": "user"
       },
       {
@@ -675,7 +939,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1417_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1417.png"
     ],
     "id": 1417
@@ -699,7 +962,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat happens to the color red when it is inverted?",
+        "content": "What happens to the color red when it is inverted?",
+        "role": "user"
+      },
+      {
+        "content": "Teal",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1450.png"
+    ],
+    "id": 1450
+  },
+  {
+    "messages": [
+      {
+        "content": "What happens to the color red when it is inverted?",
         "role": "user"
       },
       {
@@ -716,7 +995,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1450_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1450.png"
     ],
     "id": 1450
@@ -724,7 +1002,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the background color of drawing C on the left after inversion?",
+        "content": "What is the background color of drawing C on the left after inversion?",
+        "role": "user"
+      },
+      {
+        "content": "Brown",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_146.png"
+    ],
+    "id": 146
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the background color of drawing C on the left after inversion?",
         "role": "user"
       },
       {
@@ -741,7 +1035,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_146_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_146.png"
     ],
     "id": 146
@@ -813,7 +1106,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat are the inverted colors of the dots in the image on the left?",
+        "content": "What are the inverted colors of the dots in the image on the left?",
+        "role": "user"
+      },
+      {
+        "content": "Cyan, purple, yellow, blue",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1518.png"
+    ],
+    "id": 1518
+  },
+  {
+    "messages": [
+      {
+        "content": "What are the inverted colors of the dots in the image on the left?",
         "role": "user"
       },
       {
@@ -830,7 +1139,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1518_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1518.png"
     ],
     "id": 1518
@@ -838,7 +1146,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nAre the colors of the dots in the image on the left mainly complementary to the colors of the dots in image A?",
+        "content": "Are the colors of the dots in the image on the left mainly complementary to the colors of the dots in image A?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1519.png"
+    ],
+    "id": 1519
+  },
+  {
+    "messages": [
+      {
+        "content": "Are the colors of the dots in the image on the left mainly complementary to the colors of the dots in image A?",
         "role": "user"
       },
       {
@@ -855,7 +1179,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1519_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1519.png"
     ],
     "id": 1519
@@ -863,7 +1186,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nDoes the cartoon with the background color dark green in Option E match the inverted colors of the given cartoon on the left?",
+        "content": "Does the cartoon with the background color dark green in Option E match the inverted colors of the given cartoon on the left?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1542.png"
+    ],
+    "id": 1542
+  },
+  {
+    "messages": [
+      {
+        "content": "Does the cartoon with the background color dark green in Option E match the inverted colors of the given cartoon on the left?",
         "role": "user"
       },
       {
@@ -880,7 +1219,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1542_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1542.png"
     ],
     "id": 1542
@@ -888,7 +1226,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the inverted color of cyan?",
+        "content": "What is the inverted color of cyan?",
+        "role": "user"
+      },
+      {
+        "content": "Red",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1547.png"
+    ],
+    "id": 1547
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the inverted color of cyan?",
         "role": "user"
       },
       {
@@ -905,7 +1259,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1547_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1547.png"
     ],
     "id": 1547
@@ -913,7 +1266,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the background color of figure A?",
+        "content": "What is the background color of figure A?",
+        "role": "user"
+      },
+      {
+        "content": "Pink",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1548.png"
+    ],
+    "id": 1548
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the background color of figure A?",
         "role": "user"
       },
       {
@@ -930,7 +1299,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1548_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1548.png"
     ],
     "id": 1548
@@ -970,7 +1338,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich image has a background color of cyan on the left?",
+        "content": "Which image has a background color of cyan on the left?",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1574.png"
+    ],
+    "id": 1574
+  },
+  {
+    "messages": [
+      {
+        "content": "Which image has a background color of cyan on the left?",
         "role": "user"
       },
       {
@@ -987,7 +1371,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1574_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1574.png"
     ],
     "id": 1574
@@ -995,7 +1378,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the color of figure B?",
+        "content": "What is the color of figure B?",
+        "role": "user"
+      },
+      {
+        "content": "cyan",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1581.png"
+    ],
+    "id": 1581
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the color of figure B?",
         "role": "user"
       },
       {
@@ -1012,7 +1411,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1581_grid3.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1581.png"
     ],
     "id": 1581
@@ -1036,7 +1434,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich drawing on the right has an overall pattern of inverted colors compared to the leftmost drawing?",
+        "content": "Which drawing on the right has an overall pattern of inverted colors compared to the leftmost drawing?",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1609.png"
+    ],
+    "id": 1609
+  },
+  {
+    "messages": [
+      {
+        "content": "Which drawing on the right has an overall pattern of inverted colors compared to the leftmost drawing?",
         "role": "user"
       },
       {
@@ -1053,7 +1467,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1609_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1609.png"
     ],
     "id": 1609
@@ -1077,7 +1490,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nIn drawing B, what are the main colors of the objects?",
+        "content": "In drawing B, what are the main colors of the objects?",
+        "role": "user"
+      },
+      {
+        "content": "Various colors including cyan, magenta, yellow, and blue",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1612.png"
+    ],
+    "id": 1612
+  },
+  {
+    "messages": [
+      {
+        "content": "In drawing B, what are the main colors of the objects?",
         "role": "user"
       },
       {
@@ -1094,7 +1523,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1612_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1612.png"
     ],
     "id": 1612
@@ -1102,7 +1530,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich option has the large circle color matching the inverse of the large circle color in the left image?",
+        "content": "Which option has the large circle color matching the inverse of the large circle color in the left image?",
+        "role": "user"
+      },
+      {
+        "content": "Option C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1624.png"
+    ],
+    "id": 1624
+  },
+  {
+    "messages": [
+      {
+        "content": "Which option has the large circle color matching the inverse of the large circle color in the left image?",
         "role": "user"
       },
       {
@@ -1119,7 +1563,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1624_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1624.png"
     ],
     "id": 1624
@@ -1143,7 +1586,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich picture on the right has a predominantly blue background?",
+        "content": "Which picture on the right has a predominantly blue background?",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1653.png"
+    ],
+    "id": 1653
+  },
+  {
+    "messages": [
+      {
+        "content": "Which picture on the right has a predominantly blue background?",
         "role": "user"
       },
       {
@@ -1160,7 +1619,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1653_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1653.png"
     ],
     "id": 1653
@@ -1200,7 +1658,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many small colored dots are in image A?",
+        "content": "How many small colored dots are in image A?",
+        "role": "user"
+      },
+      {
+        "content": "7",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1737.png"
+    ],
+    "id": 1737
+  },
+  {
+    "messages": [
+      {
+        "content": "How many small colored dots are in image A?",
         "role": "user"
       },
       {
@@ -1217,7 +1691,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1737_grid1.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1737.png"
     ],
     "id": 1737
@@ -1225,7 +1698,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich figure has small shapes in green, magenta, cyan, and yellow colors?",
+        "content": "Which figure has small shapes in green, magenta, cyan, and yellow colors?",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1744.png"
+    ],
+    "id": 1744
+  },
+  {
+    "messages": [
+      {
+        "content": "Which figure has small shapes in green, magenta, cyan, and yellow colors?",
         "role": "user"
       },
       {
@@ -1242,7 +1731,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1744_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1744.png"
     ],
     "id": 1744
@@ -1266,7 +1754,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich option on the right has a background that is closest to the color inversion of peach?",
+        "content": "Which option on the right has a background that is closest to the color inversion of peach?",
+        "role": "user"
+      },
+      {
+        "content": "Dark Teal",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1760.png"
+    ],
+    "id": 1760
+  },
+  {
+    "messages": [
+      {
+        "content": "Which option on the right has a background that is closest to the color inversion of peach?",
         "role": "user"
       },
       {
@@ -1283,7 +1787,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1760_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1760.png"
     ],
     "id": 1760
@@ -1291,7 +1794,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat are the prominent colors (other than the background) in the circle on the right that corresponds to the inverted pink?",
+        "content": "What are the prominent colors (other than the background) in the circle on the right that corresponds to the inverted pink?",
+        "role": "user"
+      },
+      {
+        "content": "Blue, purple, yellow",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1764.png"
+    ],
+    "id": 1764
+  },
+  {
+    "messages": [
+      {
+        "content": "What are the prominent colors (other than the background) in the circle on the right that corresponds to the inverted pink?",
         "role": "user"
       },
       {
@@ -1308,7 +1827,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1764_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1764.png"
     ],
     "id": 1764
@@ -1316,7 +1834,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich option (A, B, or E) contains the correct count of types of dots in the inverted cartoon?",
+        "content": "Which option (A, B, or E) contains the correct count of types of dots in the inverted cartoon?",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1767.png"
+    ],
+    "id": 1767
+  },
+  {
+    "messages": [
+      {
+        "content": "Which option (A, B, or E) contains the correct count of types of dots in the inverted cartoon?",
         "role": "user"
       },
       {
@@ -1333,7 +1867,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1767_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1767.png"
     ],
     "id": 1767
@@ -1341,7 +1874,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the background color of image D?",
+        "content": "What is the background color of image D?",
+        "role": "user"
+      },
+      {
+        "content": "Purple",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_177.png"
+    ],
+    "id": 177
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the background color of image D?",
         "role": "user"
       },
       {
@@ -1349,7 +1898,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the color of the background if we invert the purple color?",
+        "content": "What is the color of the background if we invert the purple color?",
+        "role": "user"
+      },
+      {
+        "content": "Green",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_177.png"
+    ],
+    "id": 177
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the background color of image D?",
+        "role": "user"
+      },
+      {
+        "content": "Purple",
+        "role": "assistant"
+      },
+      {
+        "content": "What is the color of the background if we invert the purple color?",
         "role": "user"
       },
       {
@@ -1366,8 +1939,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_177_grid5.png",
-      "dataset/clip_images/77/puzzle_77_177_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_177.png"
     ],
     "id": 177
@@ -1375,7 +1946,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich image has a dark red background?",
+        "content": "Which image has a dark red background?",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1779.png"
+    ],
+    "id": 1779
+  },
+  {
+    "messages": [
+      {
+        "content": "Which image has a dark red background?",
         "role": "user"
       },
       {
@@ -1392,7 +1979,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1779_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1779.png"
     ],
     "id": 1779
@@ -1400,7 +1986,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the background color of the figure in option E?",
+        "content": "What is the background color of the figure in option E?",
+        "role": "user"
+      },
+      {
+        "content": "pink",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1782.png"
+    ],
+    "id": 1782
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the background color of the figure in option E?",
         "role": "user"
       },
       {
@@ -1417,7 +2019,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1782_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1782.png"
     ],
     "id": 1782
@@ -1473,7 +2074,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat color is the background of drawing E?",
+        "content": "What color is the background of drawing E?",
+        "role": "user"
+      },
+      {
+        "content": "Brown",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1812.png"
+    ],
+    "id": 1812
+  },
+  {
+    "messages": [
+      {
+        "content": "What color is the background of drawing E?",
         "role": "user"
       },
       {
@@ -1481,7 +2098,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat color does the brown background of drawing E become when inverted?",
+        "content": "What color does the brown background of drawing E become when inverted?",
+        "role": "user"
+      },
+      {
+        "content": "Blue",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1812.png"
+    ],
+    "id": 1812
+  },
+  {
+    "messages": [
+      {
+        "content": "What color is the background of drawing E?",
+        "role": "user"
+      },
+      {
+        "content": "Brown",
+        "role": "assistant"
+      },
+      {
+        "content": "What color does the brown background of drawing E become when inverted?",
         "role": "user"
       },
       {
@@ -1498,8 +2139,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1812_grid6.png",
-      "dataset/clip_images/77/puzzle_77_1812_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1812.png"
     ],
     "id": 1812
@@ -1507,7 +2146,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich figures have a green main color with a white background after inverting colors?",
+        "content": "Which figures have a green main color with a white background after inverting colors?",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1813.png"
+    ],
+    "id": 1813
+  },
+  {
+    "messages": [
+      {
+        "content": "Which figures have a green main color with a white background after inverting colors?",
         "role": "user"
       },
       {
@@ -1524,7 +2179,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1813_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1813.png"
     ],
     "id": 1813
@@ -1548,7 +2202,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich figure has a dark orange or red background?",
+        "content": "Which figure has a dark orange or red background?",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1860.png"
+    ],
+    "id": 1860
+  },
+  {
+    "messages": [
+      {
+        "content": "Which figure has a dark orange or red background?",
         "role": "user"
       },
       {
@@ -1565,7 +2235,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1860_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1860.png"
     ],
     "id": 1860
@@ -1589,7 +2258,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich image has the most similar background color and dot color pattern to the left image after inversion?",
+        "content": "Which image has the most similar background color and dot color pattern to the left image after inversion?",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1888.png"
+    ],
+    "id": 1888
+  },
+  {
+    "messages": [
+      {
+        "content": "Which image has the most similar background color and dot color pattern to the left image after inversion?",
         "role": "user"
       },
       {
@@ -1606,7 +2291,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1888_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1888.png"
     ],
     "id": 1888
@@ -1614,7 +2298,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nFor figure A, what are the colors of the small dots after inverting them?",
+        "content": "For figure A, what are the colors of the small dots after inverting them?",
+        "role": "user"
+      },
+      {
+        "content": "The colors of the small dots after inverting in figure A are approximately yellow, green, cyan, red, and a mix of other colors.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1892.png"
+    ],
+    "id": 1892
+  },
+  {
+    "messages": [
+      {
+        "content": "For figure A, what are the colors of the small dots after inverting them?",
         "role": "user"
       },
       {
@@ -1631,7 +2331,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1892_grid2.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1892.png"
     ],
     "id": 1892
@@ -1671,7 +2370,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich picture has the main colors of the dots matching the inverted colors of the original dots?",
+        "content": "Which picture has the main colors of the dots matching the inverted colors of the original dots?",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1918.png"
+    ],
+    "id": 1918
+  },
+  {
+    "messages": [
+      {
+        "content": "Which picture has the main colors of the dots matching the inverted colors of the original dots?",
         "role": "user"
       },
       {
@@ -1688,7 +2403,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1918_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1918.png"
     ],
     "id": 1918
@@ -1728,7 +2442,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich of the images C, D has a green background circle?",
+        "content": "Which of the images C, D has a green background circle?",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1947.png"
+    ],
+    "id": 1947
+  },
+  {
+    "messages": [
+      {
+        "content": "Which of the images C, D has a green background circle?",
         "role": "user"
       },
       {
@@ -1745,7 +2475,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1947_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1947.png"
     ],
     "id": 1947
@@ -1753,7 +2482,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the background color of drawing D?",
+        "content": "What is the background color of drawing D?",
+        "role": "user"
+      },
+      {
+        "content": "dark blue",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1977.png"
+    ],
+    "id": 1977
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the background color of drawing D?",
         "role": "user"
       },
       {
@@ -1770,7 +2515,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1977_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1977.png"
     ],
     "id": 1977
@@ -1794,7 +2538,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the inverse of brown dots?",
+        "content": "What is the inverse of brown dots?",
+        "role": "user"
+      },
+      {
+        "content": "Cyan dots",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1998.png"
+    ],
+    "id": 1998
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the inverse of brown dots?",
         "role": "user"
       },
       {
@@ -1811,7 +2571,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1998_grid9.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1998.png"
     ],
     "id": 1998
@@ -1835,7 +2594,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the background color of option E?",
+        "content": "What is the background color of option E?",
+        "role": "user"
+      },
+      {
+        "content": "purple",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_213.png"
+    ],
+    "id": 213
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the background color of option E?",
         "role": "user"
       },
       {
@@ -1852,7 +2627,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_213_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_213.png"
     ],
     "id": 213
@@ -1876,7 +2650,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich cartoon has a green background?",
+        "content": "Which cartoon has a green background?",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_251.png"
+    ],
+    "id": 251
+  },
+  {
+    "messages": [
+      {
+        "content": "Which cartoon has a green background?",
         "role": "user"
       },
       {
@@ -1893,7 +2683,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_251_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_251.png"
     ],
     "id": 251
@@ -1901,7 +2690,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nConsidering the given dot colors and their complementary colors, which picture shows dots in green, red, magenta, and blue?",
+        "content": "Considering the given dot colors and their complementary colors, which picture shows dots in green, red, magenta, and blue?",
+        "role": "user"
+      },
+      {
+        "content": "Picture D shows dots in green, red, magenta, and blue.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_256.png"
+    ],
+    "id": 256
+  },
+  {
+    "messages": [
+      {
+        "content": "Considering the given dot colors and their complementary colors, which picture shows dots in green, red, magenta, and blue?",
         "role": "user"
       },
       {
@@ -1918,7 +2723,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_256_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_256.png"
     ],
     "id": 256
@@ -1942,7 +2746,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich drawing on the right has the inverted color that matches yellow?",
+        "content": "Which drawing on the right has the inverted color that matches yellow?",
+        "role": "user"
+      },
+      {
+        "content": "Drawing B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_27.png"
+    ],
+    "id": 27
+  },
+  {
+    "messages": [
+      {
+        "content": "Which drawing on the right has the inverted color that matches yellow?",
         "role": "user"
       },
       {
@@ -1959,7 +2779,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_27_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_27.png"
     ],
     "id": 27
@@ -1967,7 +2786,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nConsidering the given drawing on the left has a pale background, which option's background would most accurately represent its inverted version?",
+        "content": "Considering the given drawing on the left has a pale background, which option's background would most accurately represent its inverted version?",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_272.png"
+    ],
+    "id": 272
+  },
+  {
+    "messages": [
+      {
+        "content": "Considering the given drawing on the left has a pale background, which option's background would most accurately represent its inverted version?",
         "role": "user"
       },
       {
@@ -1984,7 +2819,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_272_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_272.png"
     ],
     "id": 272
@@ -2056,7 +2890,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich inverted matching figure option has a light purple circle color?",
+        "content": "Which inverted matching figure option has a light purple circle color?",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_320.png"
+    ],
+    "id": 320
+  },
+  {
+    "messages": [
+      {
+        "content": "Which inverted matching figure option has a light purple circle color?",
         "role": "user"
       },
       {
@@ -2073,7 +2923,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_320_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_320.png"
     ],
     "id": 320
@@ -2097,7 +2946,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat does inverting the colors of light cyan with multi-colored dots give?",
+        "content": "What does inverting the colors of light cyan with multi-colored dots give?",
+        "role": "user"
+      },
+      {
+        "content": "Dark red with multi-colored dots",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_350.png"
+    ],
+    "id": 350
+  },
+  {
+    "messages": [
+      {
+        "content": "What does inverting the colors of light cyan with multi-colored dots give?",
         "role": "user"
       },
       {
@@ -2114,7 +2979,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_350_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_350.png"
     ],
     "id": 350
@@ -2138,7 +3002,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the predominant color in image E?",
+        "content": "What is the predominant color in image E?",
+        "role": "user"
+      },
+      {
+        "content": "Light green",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_356.png"
+    ],
+    "id": 356
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the predominant color in image E?",
         "role": "user"
       },
       {
@@ -2155,7 +3035,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_356_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_356.png"
     ],
     "id": 356
@@ -2163,7 +3042,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the main figure color of Figure D?",
+        "content": "What is the main figure color of Figure D?",
+        "role": "user"
+      },
+      {
+        "content": "Yellow",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_357.png"
+    ],
+    "id": 357
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the main figure color of Figure D?",
         "role": "user"
       },
       {
@@ -2180,7 +3075,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_357_grid3.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_357.png"
     ],
     "id": 357
@@ -2188,7 +3082,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat color would we get if we invert the red color of the background in image E?",
+        "content": "What color would we get if we invert the red color of the background in image E?",
+        "role": "user"
+      },
+      {
+        "content": "Cyan",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_358.png"
+    ],
+    "id": 358
+  },
+  {
+    "messages": [
+      {
+        "content": "What color would we get if we invert the red color of the background in image E?",
         "role": "user"
       },
       {
@@ -2205,7 +3115,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_358_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_358.png"
     ],
     "id": 358
@@ -2309,7 +3218,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the background color of Image E?",
+        "content": "What is the background color of Image E?",
+        "role": "user"
+      },
+      {
+        "content": "Dark blue",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_439.png"
+    ],
+    "id": 439
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the background color of Image E?",
         "role": "user"
       },
       {
@@ -2326,7 +3251,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_439_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_439.png"
     ],
     "id": 439
@@ -2334,7 +3258,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nDoes the inverse of the color background in the given image match the background color of option B?",
+        "content": "Does the inverse of the color background in the given image match the background color of option B?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_457.png"
+    ],
+    "id": 457
+  },
+  {
+    "messages": [
+      {
+        "content": "Does the inverse of the color background in the given image match the background color of option B?",
         "role": "user"
       },
       {
@@ -2351,7 +3291,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_457_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_457.png"
     ],
     "id": 457
@@ -2359,7 +3298,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich figure has an orange background or similar?",
+        "content": "Which figure has an orange background or similar?",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_460.png"
+    ],
+    "id": 460
+  },
+  {
+    "messages": [
+      {
+        "content": "Which figure has an orange background or similar?",
         "role": "user"
       },
       {
@@ -2376,7 +3331,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_460_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_460.png"
     ],
     "id": 460
@@ -2432,7 +3386,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nDoes the inversion of the left circle correspond to the same result as in Step 1?",
+        "content": "Does the inversion of the left circle correspond to the same result as in Step 1?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_477.png"
+    ],
+    "id": 477
+  },
+  {
+    "messages": [
+      {
+        "content": "Does the inversion of the left circle correspond to the same result as in Step 1?",
         "role": "user"
       },
       {
@@ -2449,7 +3419,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_477_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_477.png"
     ],
     "id": 477
@@ -2505,7 +3474,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich drawing on the right has both colored spots and a colored background, but the background is dark?",
+        "content": "Which drawing on the right has both colored spots and a colored background, but the background is dark?",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_526.png"
+    ],
+    "id": 526
+  },
+  {
+    "messages": [
+      {
+        "content": "Which drawing on the right has both colored spots and a colored background, but the background is dark?",
         "role": "user"
       },
       {
@@ -2522,7 +3507,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_526_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_526.png"
     ],
     "id": 526
@@ -2530,7 +3514,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the result of inverting the color pink?",
+        "content": "What is the result of inverting the color pink?",
+        "role": "user"
+      },
+      {
+        "content": "light green",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_546.png"
+    ],
+    "id": 546
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the result of inverting the color pink?",
         "role": "user"
       },
       {
@@ -2547,7 +3547,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_546_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_546.png"
     ],
     "id": 546
@@ -2555,7 +3554,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the inverted color of purple?",
+        "content": "What is the inverted color of purple?",
+        "role": "user"
+      },
+      {
+        "content": "green",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_552.png"
+    ],
+    "id": 552
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the inverted color of purple?",
         "role": "user"
       },
       {
@@ -2572,7 +3587,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_552_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_552.png"
     ],
     "id": 552
@@ -2596,7 +3610,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich figure has a dark pink circle?",
+        "content": "Which figure has a dark pink circle?",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_558.png"
+    ],
+    "id": 558
+  },
+  {
+    "messages": [
+      {
+        "content": "Which figure has a dark pink circle?",
         "role": "user"
       },
       {
@@ -2613,7 +3643,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_558_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_558.png"
     ],
     "id": 558
@@ -2637,7 +3666,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhen the colors are inverted, what does light beige turn into?",
+        "content": "When the colors are inverted, what does light beige turn into?",
+        "role": "user"
+      },
+      {
+        "content": "Dark blue",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_590.png"
+    ],
+    "id": 590
+  },
+  {
+    "messages": [
+      {
+        "content": "When the colors are inverted, what does light beige turn into?",
         "role": "user"
       },
       {
@@ -2654,7 +3699,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_590_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_590.png"
     ],
     "id": 590
@@ -2662,7 +3706,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich figure uses yellow as the base color?",
+        "content": "Which figure uses yellow as the base color?",
+        "role": "user"
+      },
+      {
+        "content": "Figure E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_593.png"
+    ],
+    "id": 593
+  },
+  {
+    "messages": [
+      {
+        "content": "Which figure uses yellow as the base color?",
         "role": "user"
       },
       {
@@ -2679,7 +3739,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_593_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_593.png"
     ],
     "id": 593
@@ -2687,7 +3746,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich option has a primary color of dark purple?",
+        "content": "Which option has a primary color of dark purple?",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_60.png"
+    ],
+    "id": 60
+  },
+  {
+    "messages": [
+      {
+        "content": "Which option has a primary color of dark purple?",
         "role": "user"
       },
       {
@@ -2704,7 +3779,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_60_grid10.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_60.png"
     ],
     "id": 60
@@ -2744,7 +3818,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich picture has a green background with red, cyan, and yellow dots?",
+        "content": "Which picture has a green background with red, cyan, and yellow dots?",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_629.png"
+    ],
+    "id": 629
+  },
+  {
+    "messages": [
+      {
+        "content": "Which picture has a green background with red, cyan, and yellow dots?",
         "role": "user"
       },
       {
@@ -2761,7 +3851,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_629_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_629.png"
     ],
     "id": 629
@@ -2769,7 +3858,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the main color of figure E's background?",
+        "content": "What is the main color of figure E's background?",
+        "role": "user"
+      },
+      {
+        "content": "Orange",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_638.png"
+    ],
+    "id": 638
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the main color of figure E's background?",
         "role": "user"
       },
       {
@@ -2786,7 +3891,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_638_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_638.png"
     ],
     "id": 638
@@ -2794,7 +3898,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nDo the positions of the complementary colored dots in the left picture match the positions of the dots in image E?",
+        "content": "Do the positions of the complementary colored dots in the left picture match the positions of the dots in image E?",
+        "role": "user"
+      },
+      {
+        "content": "Check the positions of orange, red, light green, cyan, and purple dots in image E.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_657.png"
+    ],
+    "id": 657
+  },
+  {
+    "messages": [
+      {
+        "content": "Do the positions of the complementary colored dots in the left picture match the positions of the dots in image E?",
         "role": "user"
       },
       {
@@ -2811,7 +3931,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_657_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_657.png"
     ],
     "id": 657
@@ -2835,7 +3954,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat are the complementary colors of cyan, lime green, orange, yellow, and blue?",
+        "content": "What are the complementary colors of cyan, lime green, orange, yellow, and blue?",
+        "role": "user"
+      },
+      {
+        "content": "Red, magenta, blue, purple, and orange respectively.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_696.png"
+    ],
+    "id": 696
+  },
+  {
+    "messages": [
+      {
+        "content": "What are the complementary colors of cyan, lime green, orange, yellow, and blue?",
         "role": "user"
       },
       {
@@ -2852,7 +3987,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_696_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_696.png"
     ],
     "id": 696
@@ -2876,7 +4010,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat would be the inverted color of dark purple?",
+        "content": "What would be the inverted color of dark purple?",
+        "role": "user"
+      },
+      {
+        "content": "Light green",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_721.png"
+    ],
+    "id": 721
+  },
+  {
+    "messages": [
+      {
+        "content": "What would be the inverted color of dark purple?",
         "role": "user"
       },
       {
@@ -2893,7 +4043,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_721_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_721.png"
     ],
     "id": 721
@@ -2917,7 +4066,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow do the complementary colors of different elements in the image help identify which inverted image matches the given image?",
+        "content": "How do the complementary colors of different elements in the image help identify which inverted image matches the given image?",
+        "role": "user"
+      },
+      {
+        "content": "Comparing the color distributions and complementary relationships of various elements, such as blue turning to orange, can help identify which inverted image corresponds to the original.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_739.png"
+    ],
+    "id": 739
+  },
+  {
+    "messages": [
+      {
+        "content": "How do the complementary colors of different elements in the image help identify which inverted image matches the given image?",
         "role": "user"
       },
       {
@@ -2934,7 +4099,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_739_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_739.png"
     ],
     "id": 739
@@ -2958,7 +4122,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich drawing on the right has a blue background?",
+        "content": "Which drawing on the right has a blue background?",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_761.png"
+    ],
+    "id": 761
+  },
+  {
+    "messages": [
+      {
+        "content": "Which drawing on the right has a blue background?",
         "role": "user"
       },
       {
@@ -2966,7 +4146,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhich drawing on the right has a green background?",
+        "content": "Which drawing on the right has a green background?",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_761.png"
+    ],
+    "id": 761
+  },
+  {
+    "messages": [
+      {
+        "content": "Which drawing on the right has a blue background?",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      },
+      {
+        "content": "Which drawing on the right has a green background?",
         "role": "user"
       },
       {
@@ -2983,8 +4187,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_761_grid6.png",
-      "dataset/clip_images/77/puzzle_77_761_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_761.png"
     ],
     "id": 761
@@ -2992,7 +4194,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the primary background color of figure C?",
+        "content": "What is the primary background color of figure C?",
+        "role": "user"
+      },
+      {
+        "content": "yellow",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_764.png"
+    ],
+    "id": 764
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the primary background color of figure C?",
         "role": "user"
       },
       {
@@ -3000,7 +4218,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the inverted color of yellow?",
+        "content": "What is the inverted color of yellow?",
+        "role": "user"
+      },
+      {
+        "content": "blue",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_764.png"
+    ],
+    "id": 764
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the primary background color of figure C?",
+        "role": "user"
+      },
+      {
+        "content": "yellow",
+        "role": "assistant"
+      },
+      {
+        "content": "What is the inverted color of yellow?",
         "role": "user"
       },
       {
@@ -3017,8 +4259,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_764_grid4.png",
-      "dataset/clip_images/77/puzzle_77_764_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_764.png"
     ],
     "id": 764
@@ -3058,7 +4298,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich image on the right has the inverted background color of cyan?",
+        "content": "Which image on the right has the inverted background color of cyan?",
+        "role": "user"
+      },
+      {
+        "content": "Red (D)",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_796.png"
+    ],
+    "id": 796
+  },
+  {
+    "messages": [
+      {
+        "content": "Which image on the right has the inverted background color of cyan?",
         "role": "user"
       },
       {
@@ -3075,7 +4331,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_796_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_796.png"
     ],
     "id": 796
@@ -3083,7 +4338,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich figure has a dark orange or brown background?",
+        "content": "Which figure has a dark orange or brown background?",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_806.png"
+    ],
+    "id": 806
+  },
+  {
+    "messages": [
+      {
+        "content": "Which figure has a dark orange or brown background?",
         "role": "user"
       },
       {
@@ -3100,7 +4371,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_806_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_806.png"
     ],
     "id": 806
@@ -3172,7 +4442,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nIs the density of colored dots in picture E similar to the given picture on the left?",
+        "content": "Is the density of colored dots in picture E similar to the given picture on the left?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_847.png"
+    ],
+    "id": 847
+  },
+  {
+    "messages": [
+      {
+        "content": "Is the density of colored dots in picture E similar to the given picture on the left?",
         "role": "user"
       },
       {
@@ -3189,7 +4475,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_847_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_847.png"
     ],
     "id": 847
@@ -3229,7 +4514,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat color should be the primary background after inversion if the original is light cyan?",
+        "content": "What color should be the primary background after inversion if the original is light cyan?",
+        "role": "user"
+      },
+      {
+        "content": "Dark red",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_909.png"
+    ],
+    "id": 909
+  },
+  {
+    "messages": [
+      {
+        "content": "What color should be the primary background after inversion if the original is light cyan?",
         "role": "user"
       },
       {
@@ -3246,7 +4547,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_909_grid7.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_909.png"
     ],
     "id": 909
@@ -3254,7 +4554,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich drawing has a magenta background?",
+        "content": "Which drawing has a magenta background?",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_911.png"
+    ],
+    "id": 911
+  },
+  {
+    "messages": [
+      {
+        "content": "Which drawing has a magenta background?",
         "role": "user"
       },
       {
@@ -3271,7 +4587,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_911_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_911.png"
     ],
     "id": 911
@@ -3295,7 +4610,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the color of the background in picture D?",
+        "content": "What is the color of the background in picture D?",
+        "role": "user"
+      },
+      {
+        "content": "Grey",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_954.png"
+    ],
+    "id": 954
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the color of the background in picture D?",
         "role": "user"
       },
       {
@@ -3312,7 +4643,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_954_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_954.png"
     ],
     "id": 954
@@ -3336,7 +4666,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich option (A, B, C, D, E) has the same colored spots as the given picture when colors are inverted?",
+        "content": "Which option (A, B, C, D, E) has the same colored spots as the given picture when colors are inverted?",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_966.png"
+    ],
+    "id": 966
+  },
+  {
+    "messages": [
+      {
+        "content": "Which option (A, B, C, D, E) has the same colored spots as the given picture when colors are inverted?",
         "role": "user"
       },
       {
@@ -3353,7 +4699,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_966_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_966.png"
     ],
     "id": 966
@@ -3361,7 +4706,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat are the prominent colors of the dots in option C?",
+        "content": "What are the prominent colors of the dots in option C?",
+        "role": "user"
+      },
+      {
+        "content": "Various colors including yellow, cyan, orange, pink, and black.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_967.png"
+    ],
+    "id": 967
+  },
+  {
+    "messages": [
+      {
+        "content": "What are the prominent colors of the dots in option C?",
         "role": "user"
       },
       {
@@ -3378,7 +4739,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_967_grid2.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_967.png"
     ],
     "id": 967
@@ -3402,7 +4762,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich option (A, B, C, D, or E) has a yellow background?",
+        "content": "Which option (A, B, C, D, or E) has a yellow background?",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_974.png"
+    ],
+    "id": 974
+  },
+  {
+    "messages": [
+      {
+        "content": "Which option (A, B, C, D, or E) has a yellow background?",
         "role": "user"
       },
       {
@@ -3419,7 +4795,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_974_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_974.png"
     ],
     "id": 974

@@ -2,7 +2,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhere is the shoe lace placed?",
+        "content": "Where is the shoe lace placed?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1019.png"
+    ],
+    "id": 1019
+  },
+  {
+    "messages": [
+      {
+        "content": "Where is the shoe lace placed?",
         "role": "user"
       },
       {
@@ -10,7 +26,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhere is the mirror placed in relation to the hanger?",
+        "content": "Where is the mirror placed in relation to the hanger?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1019.png"
+    ],
+    "id": 1019
+  },
+  {
+    "messages": [
+      {
+        "content": "Where is the shoe lace placed?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      },
+      {
+        "content": "Where is the mirror placed in relation to the hanger?",
         "role": "user"
       },
       {
@@ -27,8 +67,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1019_grid5.png",
-      "dataset/clip_images/62/puzzle_62_1019_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1019.png"
     ],
     "id": 1019
@@ -36,7 +74,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nIn which position is the car placed?",
+        "content": "In which position is the car placed?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1022.png"
+    ],
+    "id": 1022
+  },
+  {
+    "messages": [
+      {
+        "content": "In which position is the car placed?",
         "role": "user"
       },
       {
@@ -44,7 +98,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhich item is placed at position 1?",
+        "content": "Which item is placed at position 1?",
+        "role": "user"
+      },
+      {
+        "content": "Leg warmers",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1022.png"
+    ],
+    "id": 1022
+  },
+  {
+    "messages": [
+      {
+        "content": "In which position is the car placed?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      },
+      {
+        "content": "Which item is placed at position 1?",
         "role": "user"
       },
       {
@@ -61,8 +139,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1022_grid4.png",
-      "dataset/clip_images/62/puzzle_62_1022_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1022.png"
     ],
     "id": 1022
@@ -86,7 +162,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nConsidering that the mouse pad is at position 1 and the vase can be placed at positions 5 and 6, where can the screw be placed?",
+        "content": "Considering that the mouse pad is at position 1 and the vase can be placed at positions 5 and 6, where can the screw be placed?",
+        "role": "user"
+      },
+      {
+        "content": "4, 5",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1055.png"
+    ],
+    "id": 1055
+  },
+  {
+    "messages": [
+      {
+        "content": "Considering that the mouse pad is at position 1 and the vase can be placed at positions 5 and 6, where can the screw be placed?",
         "role": "user"
       },
       {
@@ -94,7 +186,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nConsidering that the mouse pad is at position 1 and the milk can be placed at positions 2, 3, and 4, where can the car be placed?",
+        "content": "Considering that the mouse pad is at position 1 and the milk can be placed at positions 2, 3, and 4, where can the car be placed?",
+        "role": "user"
+      },
+      {
+        "content": "3, 4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1055.png"
+    ],
+    "id": 1055
+  },
+  {
+    "messages": [
+      {
+        "content": "Considering that the mouse pad is at position 1 and the vase can be placed at positions 5 and 6, where can the screw be placed?",
+        "role": "user"
+      },
+      {
+        "content": "4, 5",
+        "role": "assistant"
+      },
+      {
+        "content": "Considering that the mouse pad is at position 1 and the milk can be placed at positions 2, 3, and 4, where can the car be placed?",
         "role": "user"
       },
       {
@@ -111,8 +227,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1055_grid4.png",
-      "dataset/clip_images/62/puzzle_62_1055_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1055.png"
     ],
     "id": 1055
@@ -120,7 +234,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhere is the ipod placed on the shelf?",
+        "content": "Where is the ipod placed on the shelf?",
+        "role": "user"
+      },
+      {
+        "content": "6",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1057.png"
+    ],
+    "id": 1057
+  },
+  {
+    "messages": [
+      {
+        "content": "Where is the ipod placed on the shelf?",
         "role": "user"
       },
       {
@@ -128,7 +258,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nIn relation to bread, where is the face wash placed?",
+        "content": "In relation to bread, where is the face wash placed?",
+        "role": "user"
+      },
+      {
+        "content": "ahead of bread",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1057.png"
+    ],
+    "id": 1057
+  },
+  {
+    "messages": [
+      {
+        "content": "Where is the ipod placed on the shelf?",
+        "role": "user"
+      },
+      {
+        "content": "6",
+        "role": "assistant"
+      },
+      {
+        "content": "In relation to bread, where is the face wash placed?",
         "role": "user"
       },
       {
@@ -145,8 +299,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1057_grid6.png",
-      "dataset/clip_images/62/puzzle_62_1057_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1057.png"
     ],
     "id": 1057
@@ -154,7 +306,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nOn which location can the truck be placed considering carrots are placed on location 5?",
+        "content": "On which location can the truck be placed considering carrots are placed on location 5?",
+        "role": "user"
+      },
+      {
+        "content": "The truck can be placed on locations 3 or 4.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1093.png"
+    ],
+    "id": 1093
+  },
+  {
+    "messages": [
+      {
+        "content": "On which location can the truck be placed considering carrots are placed on location 5?",
         "role": "user"
       },
       {
@@ -162,7 +330,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nOn which location can the boom box be placed considering it must be ahead of the truck?",
+        "content": "On which location can the boom box be placed considering it must be ahead of the truck?",
+        "role": "user"
+      },
+      {
+        "content": "The boom box can be placed on locations 1 or 2.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1093.png"
+    ],
+    "id": 1093
+  },
+  {
+    "messages": [
+      {
+        "content": "On which location can the truck be placed considering carrots are placed on location 5?",
+        "role": "user"
+      },
+      {
+        "content": "The truck can be placed on locations 3 or 4.",
+        "role": "assistant"
+      },
+      {
+        "content": "On which location can the boom box be placed considering it must be ahead of the truck?",
         "role": "user"
       },
       {
@@ -179,8 +371,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1093_grid6.png",
-      "dataset/clip_images/62/puzzle_62_1093_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1093.png"
     ],
     "id": 1093
@@ -188,7 +378,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nIf the mirror must be to the right of clothes in position 4 but cannot be in positions 5, 6, or 7, what is the position of the white out?",
+        "content": "If the mirror must be to the right of clothes in position 4 but cannot be in positions 5, 6, or 7, what is the position of the white out?",
+        "role": "user"
+      },
+      {
+        "content": "The white out must be in positions 1, 2, or 3",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1102.png"
+    ],
+    "id": 1102
+  },
+  {
+    "messages": [
+      {
+        "content": "If the mirror must be to the right of clothes in position 4 but cannot be in positions 5, 6, or 7, what is the position of the white out?",
         "role": "user"
       },
       {
@@ -196,7 +402,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat are the positions left for the mirror if it must be to the right of the clothes at position 4?",
+        "content": "What are the positions left for the mirror if it must be to the right of the clothes at position 4?",
+        "role": "user"
+      },
+      {
+        "content": "6 or 7",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1102.png"
+    ],
+    "id": 1102
+  },
+  {
+    "messages": [
+      {
+        "content": "If the mirror must be to the right of clothes in position 4 but cannot be in positions 5, 6, or 7, what is the position of the white out?",
+        "role": "user"
+      },
+      {
+        "content": "The white out must be in positions 1, 2, or 3",
+        "role": "assistant"
+      },
+      {
+        "content": "What are the positions left for the mirror if it must be to the right of the clothes at position 4?",
         "role": "user"
       },
       {
@@ -213,8 +443,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1102_grid6.png",
-      "dataset/clip_images/62/puzzle_62_1102_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1102.png"
     ],
     "id": 1102
@@ -238,7 +466,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the slot for the ipod?",
+        "content": "What is the slot for the ipod?",
+        "role": "user"
+      },
+      {
+        "content": "Slot 4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1117.png"
+    ],
+    "id": 1117
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the slot for the ipod?",
         "role": "user"
       },
       {
@@ -246,7 +490,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhere does Felicia place the food?",
+        "content": "Where does Felicia place the food?",
+        "role": "user"
+      },
+      {
+        "content": "Slot 8",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1117.png"
+    ],
+    "id": 1117
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the slot for the ipod?",
+        "role": "user"
+      },
+      {
+        "content": "Slot 4",
+        "role": "assistant"
+      },
+      {
+        "content": "Where does Felicia place the food?",
         "role": "user"
       },
       {
@@ -263,8 +531,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1117_grid4.png",
-      "dataset/clip_images/62/puzzle_62_1117_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1117.png"
     ],
     "id": 1117
@@ -272,7 +538,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the location of the tire swing?",
+        "content": "What is the location of the tire swing?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1135.png"
+    ],
+    "id": 1135
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the location of the tire swing?",
         "role": "user"
       },
       {
@@ -289,7 +571,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1135_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1135.png"
     ],
     "id": 1135
@@ -313,7 +594,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nOn which row is the face wash placed?",
+        "content": "On which row is the face wash placed?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_117.png"
+    ],
+    "id": 117
+  },
+  {
+    "messages": [
+      {
+        "content": "On which row is the face wash placed?",
         "role": "user"
       },
       {
@@ -330,7 +627,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_117_grid8.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_117.png"
     ],
     "id": 117
@@ -338,7 +634,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhere is the socks placed?",
+        "content": "Where is the socks placed?",
+        "role": "user"
+      },
+      {
+        "content": "6",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1174.png"
+    ],
+    "id": 1174
+  },
+  {
+    "messages": [
+      {
+        "content": "Where is the socks placed?",
         "role": "user"
       },
       {
@@ -355,7 +667,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1174_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1174.png"
     ],
     "id": 1174
@@ -363,7 +674,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nIs the doll placed ahead of the watch?",
+        "content": "Is the doll placed ahead of the watch?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1177.png"
+    ],
+    "id": 1177
+  },
+  {
+    "messages": [
+      {
+        "content": "Is the doll placed ahead of the watch?",
         "role": "user"
       },
       {
@@ -371,7 +698,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nIs the watch placed ahead of the bag?",
+        "content": "Is the watch placed ahead of the bag?",
+        "role": "user"
+      },
+      {
+        "content": "No",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1177.png"
+    ],
+    "id": 1177
+  },
+  {
+    "messages": [
+      {
+        "content": "Is the doll placed ahead of the watch?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      },
+      {
+        "content": "Is the watch placed ahead of the bag?",
         "role": "user"
       },
       {
@@ -388,8 +739,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1177_grid4.png",
-      "dataset/clip_images/62/puzzle_62_1177_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1177.png"
     ],
     "id": 1177
@@ -397,7 +746,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nIs the screw ahead of the stop sign?",
+        "content": "Is the screw ahead of the stop sign?",
+        "role": "user"
+      },
+      {
+        "content": "No",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1179.png"
+    ],
+    "id": 1179
+  },
+  {
+    "messages": [
+      {
+        "content": "Is the screw ahead of the stop sign?",
         "role": "user"
       },
       {
@@ -405,7 +770,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nIs the screw ahead of sand paper?",
+        "content": "Is the screw ahead of sand paper?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1179.png"
+    ],
+    "id": 1179
+  },
+  {
+    "messages": [
+      {
+        "content": "Is the screw ahead of the stop sign?",
+        "role": "user"
+      },
+      {
+        "content": "No",
+        "role": "assistant"
+      },
+      {
+        "content": "Is the screw ahead of sand paper?",
         "role": "user"
       },
       {
@@ -422,8 +811,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1179_grid4.png",
-      "dataset/clip_images/62/puzzle_62_1179_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1179.png"
     ],
     "id": 1179
@@ -431,7 +818,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nAt which location is the conditioner placed relative to the sandal?",
+        "content": "At which location is the conditioner placed relative to the sandal?",
+        "role": "user"
+      },
+      {
+        "content": "Right",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1195.png"
+    ],
+    "id": 1195
+  },
+  {
+    "messages": [
+      {
+        "content": "At which location is the conditioner placed relative to the sandal?",
         "role": "user"
       },
       {
@@ -439,7 +842,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nAt which location is the playing card placed relative to the conditioner?",
+        "content": "At which location is the playing card placed relative to the conditioner?",
+        "role": "user"
+      },
+      {
+        "content": "Right",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1195.png"
+    ],
+    "id": 1195
+  },
+  {
+    "messages": [
+      {
+        "content": "At which location is the conditioner placed relative to the sandal?",
+        "role": "user"
+      },
+      {
+        "content": "Right",
+        "role": "assistant"
+      },
+      {
+        "content": "At which location is the playing card placed relative to the conditioner?",
         "role": "user"
       },
       {
@@ -456,8 +883,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1195_grid4.png",
-      "dataset/clip_images/62/puzzle_62_1195_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1195.png"
     ],
     "id": 1195
@@ -465,7 +890,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nOn which row can the lamp shade be placed?",
+        "content": "On which row can the lamp shade be placed?",
+        "role": "user"
+      },
+      {
+        "content": "Row 8",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_120.png"
+    ],
+    "id": 120
+  },
+  {
+    "messages": [
+      {
+        "content": "On which row can the lamp shade be placed?",
         "role": "user"
       },
       {
@@ -482,7 +923,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_120_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_120.png"
     ],
     "id": 120
@@ -490,7 +930,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nIf the camera is at position 1, where can the mop be placed?",
+        "content": "If the camera is at position 1, where can the mop be placed?",
+        "role": "user"
+      },
+      {
+        "content": "Position 2 or 3",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1200.png"
+    ],
+    "id": 1200
+  },
+  {
+    "messages": [
+      {
+        "content": "If the camera is at position 1, where can the mop be placed?",
         "role": "user"
       },
       {
@@ -498,7 +954,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nIf the camera cannot be placed at position 5, where can it not be placed?",
+        "content": "If the camera cannot be placed at position 5, where can it not be placed?",
+        "role": "user"
+      },
+      {
+        "content": "Position 5",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1200.png"
+    ],
+    "id": 1200
+  },
+  {
+    "messages": [
+      {
+        "content": "If the camera is at position 1, where can the mop be placed?",
+        "role": "user"
+      },
+      {
+        "content": "Position 2 or 3",
+        "role": "assistant"
+      },
+      {
+        "content": "If the camera cannot be placed at position 5, where can it not be placed?",
         "role": "user"
       },
       {
@@ -515,8 +995,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1200_grid5.png",
-      "dataset/clip_images/62/puzzle_62_1200_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1200.png"
     ],
     "id": 1200
@@ -540,7 +1018,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich toy item is placed in location 5?",
+        "content": "Which toy item is placed in location 5?",
+        "role": "user"
+      },
+      {
+        "content": "Pencil",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1244.png"
+    ],
+    "id": 1244
+  },
+  {
+    "messages": [
+      {
+        "content": "Which toy item is placed in location 5?",
         "role": "user"
       },
       {
@@ -557,7 +1051,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1244_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1244.png"
     ],
     "id": 1244
@@ -597,7 +1090,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nOn which row is the lace placed?",
+        "content": "On which row is the lace placed?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1327.png"
+    ],
+    "id": 1327
+  },
+  {
+    "messages": [
+      {
+        "content": "On which row is the lace placed?",
         "role": "user"
       },
       {
@@ -605,7 +1114,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhich row is the lace placed above?",
+        "content": "Which row is the lace placed above?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1327.png"
+    ],
+    "id": 1327
+  },
+  {
+    "messages": [
+      {
+        "content": "On which row is the lace placed?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "Which row is the lace placed above?",
         "role": "user"
       },
       {
@@ -622,8 +1155,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1327_grid11.png",
-      "dataset/clip_images/62/puzzle_62_1327_grid11.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1327.png"
     ],
     "id": 1327
@@ -631,7 +1162,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich row can the playing card be placed if the chocolate is in row 1 and the keys are in row 3?",
+        "content": "Which row can the playing card be placed if the chocolate is in row 1 and the keys are in row 3?",
+        "role": "user"
+      },
+      {
+        "content": "4 or 5",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1341.png"
+    ],
+    "id": 1341
+  },
+  {
+    "messages": [
+      {
+        "content": "Which row can the playing card be placed if the chocolate is in row 1 and the keys are in row 3?",
         "role": "user"
       },
       {
@@ -639,7 +1186,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhere can the chocolate be placed if the newspaper is in row 2?",
+        "content": "Where can the chocolate be placed if the newspaper is in row 2?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1341.png"
+    ],
+    "id": 1341
+  },
+  {
+    "messages": [
+      {
+        "content": "Which row can the playing card be placed if the chocolate is in row 1 and the keys are in row 3?",
+        "role": "user"
+      },
+      {
+        "content": "4 or 5",
+        "role": "assistant"
+      },
+      {
+        "content": "Where can the chocolate be placed if the newspaper is in row 2?",
         "role": "user"
       },
       {
@@ -656,8 +1227,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1341_grid6.png",
-      "dataset/clip_images/62/puzzle_62_1341_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1341.png"
     ],
     "id": 1341
@@ -681,7 +1250,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich row is the cork placed in?",
+        "content": "Which row is the cork placed in?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1377.png"
+    ],
+    "id": 1377
+  },
+  {
+    "messages": [
+      {
+        "content": "Which row is the cork placed in?",
         "role": "user"
       },
       {
@@ -698,7 +1283,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1377_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1377.png"
     ],
     "id": 1377
@@ -706,7 +1290,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nOn which location is the hair tie placed?",
+        "content": "On which location is the hair tie placed?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1389.png"
+    ],
+    "id": 1389
+  },
+  {
+    "messages": [
+      {
+        "content": "On which location is the hair tie placed?",
         "role": "user"
       },
       {
@@ -714,7 +1314,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nOn which location is the blanket placed?",
+        "content": "On which location is the blanket placed?",
+        "role": "user"
+      },
+      {
+        "content": "8",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1389.png"
+    ],
+    "id": 1389
+  },
+  {
+    "messages": [
+      {
+        "content": "On which location is the hair tie placed?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "On which location is the blanket placed?",
         "role": "user"
       },
       {
@@ -731,8 +1355,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1389_grid4.png",
-      "dataset/clip_images/62/puzzle_62_1389_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1389.png"
     ],
     "id": 1389
@@ -740,7 +1362,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nOn which row is the keyboard placed?",
+        "content": "On which row is the keyboard placed?",
+        "role": "user"
+      },
+      {
+        "content": "6",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1418.png"
+    ],
+    "id": 1418
+  },
+  {
+    "messages": [
+      {
+        "content": "On which row is the keyboard placed?",
         "role": "user"
       },
       {
@@ -748,7 +1386,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nOn which row is the keyboard placed?",
+        "content": "On which row is the keyboard placed?",
+        "role": "user"
+      },
+      {
+        "content": "7",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1418.png"
+    ],
+    "id": 1418
+  },
+  {
+    "messages": [
+      {
+        "content": "On which row is the keyboard placed?",
+        "role": "user"
+      },
+      {
+        "content": "6",
+        "role": "assistant"
+      },
+      {
+        "content": "On which row is the keyboard placed?",
         "role": "user"
       },
       {
@@ -765,8 +1427,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1418_grid13.png",
-      "dataset/clip_images/62/puzzle_62_1418_grid13.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1418.png"
     ],
     "id": 1418
@@ -774,7 +1434,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich item is placed at location 5?",
+        "content": "Which item is placed at location 5?",
+        "role": "user"
+      },
+      {
+        "content": "Seat belt",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1423.png"
+    ],
+    "id": 1423
+  },
+  {
+    "messages": [
+      {
+        "content": "Which item is placed at location 5?",
         "role": "user"
       },
       {
@@ -791,7 +1467,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1423_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1423.png"
     ],
     "id": 1423
@@ -831,7 +1506,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhere is the charger located?",
+        "content": "Where is the charger located?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_150.png"
+    ],
+    "id": 150
+  },
+  {
+    "messages": [
+      {
+        "content": "Where is the charger located?",
         "role": "user"
       },
       {
@@ -848,7 +1539,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_150_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_150.png"
     ],
     "id": 150
@@ -872,7 +1562,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhere is the model car placed?",
+        "content": "Where is the model car placed?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_153.png"
+    ],
+    "id": 153
+  },
+  {
+    "messages": [
+      {
+        "content": "Where is the model car placed?",
         "role": "user"
       },
       {
@@ -880,7 +1586,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhere are the clothes placed?",
+        "content": "Where are the clothes placed?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_153.png"
+    ],
+    "id": 153
+  },
+  {
+    "messages": [
+      {
+        "content": "Where is the model car placed?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      },
+      {
+        "content": "Where are the clothes placed?",
         "role": "user"
       },
       {
@@ -897,8 +1627,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_153_grid5.png",
-      "dataset/clip_images/62/puzzle_62_153_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_153.png"
     ],
     "id": 153
@@ -922,7 +1650,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhere is the needle relative to the button?",
+        "content": "Where is the needle relative to the button?",
+        "role": "user"
+      },
+      {
+        "content": "left",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1547.png"
+    ],
+    "id": 1547
+  },
+  {
+    "messages": [
+      {
+        "content": "Where is the needle relative to the button?",
         "role": "user"
       },
       {
@@ -939,7 +1683,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1547_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1547.png"
     ],
     "id": 1547
@@ -947,7 +1690,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich location is the mop placed at?",
+        "content": "Which location is the mop placed at?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1551.png"
+    ],
+    "id": 1551
+  },
+  {
+    "messages": [
+      {
+        "content": "Which location is the mop placed at?",
         "role": "user"
       },
       {
@@ -964,7 +1723,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1551_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1551.png"
     ],
     "id": 1551
@@ -972,7 +1730,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nAt which location are the shoes placed?",
+        "content": "At which location are the shoes placed?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1565.png"
+    ],
+    "id": 1565
+  },
+  {
+    "messages": [
+      {
+        "content": "At which location are the shoes placed?",
         "role": "user"
       },
       {
@@ -989,7 +1763,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1565_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1565.png"
     ],
     "id": 1565
@@ -1029,7 +1802,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich position should the bananas be placed on to the left of position 5?",
+        "content": "Which position should the bananas be placed on to the left of position 5?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1704.png"
+    ],
+    "id": 1704
+  },
+  {
+    "messages": [
+      {
+        "content": "Which position should the bananas be placed on to the left of position 5?",
         "role": "user"
       },
       {
@@ -1046,7 +1835,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1704_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1704.png"
     ],
     "id": 1704
@@ -1070,7 +1858,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich location is right of the ipod?",
+        "content": "Which location is right of the ipod?",
+        "role": "user"
+      },
+      {
+        "content": "The location right of the ipod is 4.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1739.png"
+    ],
+    "id": 1739
+  },
+  {
+    "messages": [
+      {
+        "content": "Which location is right of the ipod?",
         "role": "user"
       },
       {
@@ -1087,7 +1891,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1739_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1739.png"
     ],
     "id": 1739
@@ -1095,7 +1898,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the location of the drill press?",
+        "content": "What is the location of the drill press?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1743.png"
+    ],
+    "id": 1743
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the location of the drill press?",
         "role": "user"
       },
       {
@@ -1112,7 +1931,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1743_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1743.png"
     ],
     "id": 1743
@@ -1120,7 +1938,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nOn which row should the cell phone be placed?",
+        "content": "On which row should the cell phone be placed?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1777.png"
+    ],
+    "id": 1777
+  },
+  {
+    "messages": [
+      {
+        "content": "On which row should the cell phone be placed?",
         "role": "user"
       },
       {
@@ -1128,7 +1962,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhere does Tracy put the cell phone in relation to the coasters?",
+        "content": "Where does Tracy put the cell phone in relation to the coasters?",
+        "role": "user"
+      },
+      {
+        "content": "Lower",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1777.png"
+    ],
+    "id": 1777
+  },
+  {
+    "messages": [
+      {
+        "content": "On which row should the cell phone be placed?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      },
+      {
+        "content": "Where does Tracy put the cell phone in relation to the coasters?",
         "role": "user"
       },
       {
@@ -1145,8 +2003,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1777_grid6.png",
-      "dataset/clip_images/62/puzzle_62_1777_grid3.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1777.png"
     ],
     "id": 1777
@@ -1154,7 +2010,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich toy is at location 5?",
+        "content": "Which toy is at location 5?",
+        "role": "user"
+      },
+      {
+        "content": "lip gloss",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_179.png"
+    ],
+    "id": 179
+  },
+  {
+    "messages": [
+      {
+        "content": "Which toy is at location 5?",
         "role": "user"
       },
       {
@@ -1162,7 +2034,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhich toy is at location 6?",
+        "content": "Which toy is at location 6?",
+        "role": "user"
+      },
+      {
+        "content": "shovel",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_179.png"
+    ],
+    "id": 179
+  },
+  {
+    "messages": [
+      {
+        "content": "Which toy is at location 5?",
+        "role": "user"
+      },
+      {
+        "content": "lip gloss",
+        "role": "assistant"
+      },
+      {
+        "content": "Which toy is at location 6?",
         "role": "user"
       },
       {
@@ -1179,8 +2075,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_179_grid5.png",
-      "dataset/clip_images/62/puzzle_62_179_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_179.png"
     ],
     "id": 179
@@ -1204,7 +2098,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nOn which location can the nail file be placed?",
+        "content": "On which location can the nail file be placed?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1894.png"
+    ],
+    "id": 1894
+  },
+  {
+    "messages": [
+      {
+        "content": "On which location can the nail file be placed?",
         "role": "user"
       },
       {
@@ -1212,7 +2122,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nOn which location can the bottle cap be placed?",
+        "content": "On which location can the bottle cap be placed?",
+        "role": "user"
+      },
+      {
+        "content": "6",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1894.png"
+    ],
+    "id": 1894
+  },
+  {
+    "messages": [
+      {
+        "content": "On which location can the nail file be placed?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "On which location can the bottle cap be placed?",
         "role": "user"
       },
       {
@@ -1229,8 +2163,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1894_grid5.png",
-      "dataset/clip_images/62/puzzle_62_1894_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1894.png"
     ],
     "id": 1894
@@ -1238,7 +2170,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich item is on location 1?",
+        "content": "Which item is on location 1?",
+        "role": "user"
+      },
+      {
+        "content": "Bottle",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_191.png"
+    ],
+    "id": 191
+  },
+  {
+    "messages": [
+      {
+        "content": "Which item is on location 1?",
         "role": "user"
       },
       {
@@ -1255,7 +2203,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_191_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_191.png"
     ],
     "id": 191
@@ -1263,7 +2210,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is higher than the chair?",
+        "content": "What is higher than the chair?",
+        "role": "user"
+      },
+      {
+        "content": "lamp shade",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1910.png"
+    ],
+    "id": 1910
+  },
+  {
+    "messages": [
+      {
+        "content": "What is higher than the chair?",
         "role": "user"
       },
       {
@@ -1280,7 +2243,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1910_grid11.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1910.png"
     ],
     "id": 1910
@@ -1320,7 +2282,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich row is the cup placed?",
+        "content": "Which row is the cup placed?",
+        "role": "user"
+      },
+      {
+        "content": "Row 2",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1922.png"
+    ],
+    "id": 1922
+  },
+  {
+    "messages": [
+      {
+        "content": "Which row is the cup placed?",
         "role": "user"
       },
       {
@@ -1337,7 +2315,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1922_grid13.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1922.png"
     ],
     "id": 1922
@@ -1345,7 +2322,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nOn which row can the house be placed if the vase is on row 3?",
+        "content": "On which row can the house be placed if the vase is on row 3?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1929.png"
+    ],
+    "id": 1929
+  },
+  {
+    "messages": [
+      {
+        "content": "On which row can the house be placed if the vase is on row 3?",
         "role": "user"
       },
       {
@@ -1362,7 +2355,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1929_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1929.png"
     ],
     "id": 1929
@@ -1386,7 +2378,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhere is the slipper placed?",
+        "content": "Where is the slipper placed?",
+        "role": "user"
+      },
+      {
+        "content": "8",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1941.png"
+    ],
+    "id": 1941
+  },
+  {
+    "messages": [
+      {
+        "content": "Where is the slipper placed?",
         "role": "user"
       },
       {
@@ -1403,7 +2411,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1941_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1941.png"
     ],
     "id": 1941
@@ -1411,7 +2418,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nOn which row can the chapter book be placed?",
+        "content": "On which row can the chapter book be placed?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1943.png"
+    ],
+    "id": 1943
+  },
+  {
+    "messages": [
+      {
+        "content": "On which row can the chapter book be placed?",
         "role": "user"
       },
       {
@@ -1428,7 +2451,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1943_grid11.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1943.png"
     ],
     "id": 1943
@@ -1452,7 +2474,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhere should the iPod be placed?",
+        "content": "Where should the iPod be placed?",
+        "role": "user"
+      },
+      {
+        "content": "6",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1958.png"
+    ],
+    "id": 1958
+  },
+  {
+    "messages": [
+      {
+        "content": "Where should the iPod be placed?",
         "role": "user"
       },
       {
@@ -1469,7 +2507,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1958_grid11.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1958.png"
     ],
     "id": 1958
@@ -1477,7 +2514,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nOn which location is the keyboard placed?",
+        "content": "On which location is the keyboard placed?",
+        "role": "user"
+      },
+      {
+        "content": "6",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1959.png"
+    ],
+    "id": 1959
+  },
+  {
+    "messages": [
+      {
+        "content": "On which location is the keyboard placed?",
         "role": "user"
       },
       {
@@ -1485,7 +2538,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nOn which location is the lace placed?",
+        "content": "On which location is the lace placed?",
+        "role": "user"
+      },
+      {
+        "content": "7",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1959.png"
+    ],
+    "id": 1959
+  },
+  {
+    "messages": [
+      {
+        "content": "On which location is the keyboard placed?",
+        "role": "user"
+      },
+      {
+        "content": "6",
+        "role": "assistant"
+      },
+      {
+        "content": "On which location is the lace placed?",
         "role": "user"
       },
       {
@@ -1502,8 +2579,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1959_grid5.png",
-      "dataset/clip_images/62/puzzle_62_1959_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1959.png"
     ],
     "id": 1959
@@ -1511,7 +2586,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nAt which location is the boom box placed?",
+        "content": "At which location is the boom box placed?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1960.png"
+    ],
+    "id": 1960
+  },
+  {
+    "messages": [
+      {
+        "content": "At which location is the boom box placed?",
         "role": "user"
       },
       {
@@ -1528,7 +2619,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1960_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1960.png"
     ],
     "id": 1960
@@ -1552,7 +2642,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhere can the bananas be placed if the washing machine must be to the left of them?",
+        "content": "Where can the bananas be placed if the washing machine must be to the left of them?",
+        "role": "user"
+      },
+      {
+        "content": "4, 5, or 6",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1998.png"
+    ],
+    "id": 1998
+  },
+  {
+    "messages": [
+      {
+        "content": "Where can the bananas be placed if the washing machine must be to the left of them?",
         "role": "user"
       },
       {
@@ -1560,7 +2666,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nConsidering the blouse is in position 6 and the hair tie is in position 5, where can the needle not be placed?",
+        "content": "Considering the blouse is in position 6 and the hair tie is in position 5, where can the needle not be placed?",
+        "role": "user"
+      },
+      {
+        "content": "2, 3, 5, 6",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1998.png"
+    ],
+    "id": 1998
+  },
+  {
+    "messages": [
+      {
+        "content": "Where can the bananas be placed if the washing machine must be to the left of them?",
+        "role": "user"
+      },
+      {
+        "content": "4, 5, or 6",
+        "role": "assistant"
+      },
+      {
+        "content": "Considering the blouse is in position 6 and the hair tie is in position 5, where can the needle not be placed?",
         "role": "user"
       },
       {
@@ -1577,8 +2707,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_1998_grid6.png",
-      "dataset/clip_images/62/puzzle_62_1998_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1998.png"
     ],
     "id": 1998
@@ -1586,7 +2714,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhere can the lace not be placed?",
+        "content": "Where can the lace not be placed?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_222.png"
+    ],
+    "id": 222
+  },
+  {
+    "messages": [
+      {
+        "content": "Where can the lace not be placed?",
         "role": "user"
       },
       {
@@ -1603,7 +2747,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_222_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_222.png"
     ],
     "id": 222
@@ -1627,7 +2770,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nIs the photo album placed on row 2?",
+        "content": "Is the photo album placed on row 2?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_261.png"
+    ],
+    "id": 261
+  },
+  {
+    "messages": [
+      {
+        "content": "Is the photo album placed on row 2?",
         "role": "user"
       },
       {
@@ -1635,7 +2794,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nIs the photo album placed on row 1?",
+        "content": "Is the photo album placed on row 1?",
+        "role": "user"
+      },
+      {
+        "content": "No",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_261.png"
+    ],
+    "id": 261
+  },
+  {
+    "messages": [
+      {
+        "content": "Is the photo album placed on row 2?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      },
+      {
+        "content": "Is the photo album placed on row 1?",
         "role": "user"
       },
       {
@@ -1652,8 +2835,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_261_grid11.png",
-      "dataset/clip_images/62/puzzle_62_261_grid11.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_261.png"
     ],
     "id": 261
@@ -1661,7 +2842,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nOn which row can the bed be placed?",
+        "content": "On which row can the bed be placed?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_273.png"
+    ],
+    "id": 273
+  },
+  {
+    "messages": [
+      {
+        "content": "On which row can the bed be placed?",
         "role": "user"
       },
       {
@@ -1669,7 +2866,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhich row can the purse be placed on?",
+        "content": "Which row can the purse be placed on?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_273.png"
+    ],
+    "id": 273
+  },
+  {
+    "messages": [
+      {
+        "content": "On which row can the bed be placed?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      },
+      {
+        "content": "Which row can the purse be placed on?",
         "role": "user"
       },
       {
@@ -1686,8 +2907,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_273_grid6.png",
-      "dataset/clip_images/62/puzzle_62_273_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_273.png"
     ],
     "id": 273
@@ -1695,7 +2914,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich location does the carrots occupy?",
+        "content": "Which location does the carrots occupy?",
+        "role": "user"
+      },
+      {
+        "content": "6",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_283.png"
+    ],
+    "id": 283
+  },
+  {
+    "messages": [
+      {
+        "content": "Which location does the carrots occupy?",
         "role": "user"
       },
       {
@@ -1703,7 +2938,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhich location does the cup occupy?",
+        "content": "Which location does the cup occupy?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_283.png"
+    ],
+    "id": 283
+  },
+  {
+    "messages": [
+      {
+        "content": "Which location does the carrots occupy?",
+        "role": "user"
+      },
+      {
+        "content": "6",
+        "role": "assistant"
+      },
+      {
+        "content": "Which location does the cup occupy?",
         "role": "user"
       },
       {
@@ -1720,8 +2979,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_283_grid6.png",
-      "dataset/clip_images/62/puzzle_62_283_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_283.png"
     ],
     "id": 283
@@ -1761,7 +3018,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nOn which row is the white out placed?",
+        "content": "On which row is the white out placed?",
+        "role": "user"
+      },
+      {
+        "content": "8",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_353.png"
+    ],
+    "id": 353
+  },
+  {
+    "messages": [
+      {
+        "content": "On which row is the white out placed?",
         "role": "user"
       },
       {
@@ -1778,7 +3051,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_353_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_353.png"
     ],
     "id": 353
@@ -1786,7 +3058,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nOn which row can the pants be placed?",
+        "content": "On which row can the pants be placed?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_363.png"
+    ],
+    "id": 363
+  },
+  {
+    "messages": [
+      {
+        "content": "On which row can the pants be placed?",
         "role": "user"
       },
       {
@@ -1794,7 +3082,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nOn which row can the plastic fork be placed?",
+        "content": "On which row can the plastic fork be placed?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_363.png"
+    ],
+    "id": 363
+  },
+  {
+    "messages": [
+      {
+        "content": "On which row can the pants be placed?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      },
+      {
+        "content": "On which row can the plastic fork be placed?",
         "role": "user"
       },
       {
@@ -1811,8 +3123,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_363_grid6.png",
-      "dataset/clip_images/62/puzzle_62_363_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_363.png"
     ],
     "id": 363
@@ -1820,7 +3130,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich row are the packing peanuts placed on?",
+        "content": "Which row are the packing peanuts placed on?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_404.png"
+    ],
+    "id": 404
+  },
+  {
+    "messages": [
+      {
+        "content": "Which row are the packing peanuts placed on?",
         "role": "user"
       },
       {
@@ -1837,7 +3163,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_404_grid13.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_404.png"
     ],
     "id": 404
@@ -1845,7 +3170,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nIs the bowl at location 6?",
+        "content": "Is the bowl at location 6?",
+        "role": "user"
+      },
+      {
+        "content": "No",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_416.png"
+    ],
+    "id": 416
+  },
+  {
+    "messages": [
+      {
+        "content": "Is the bowl at location 6?",
         "role": "user"
       },
       {
@@ -1853,7 +3194,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nIs the bowl at location 7?",
+        "content": "Is the bowl at location 7?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_416.png"
+    ],
+    "id": 416
+  },
+  {
+    "messages": [
+      {
+        "content": "Is the bowl at location 6?",
+        "role": "user"
+      },
+      {
+        "content": "No",
+        "role": "assistant"
+      },
+      {
+        "content": "Is the bowl at location 7?",
         "role": "user"
       },
       {
@@ -1870,8 +3235,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_416_grid6.png",
-      "dataset/clip_images/62/puzzle_62_416_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_416.png"
     ],
     "id": 416
@@ -1879,7 +3242,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich object is at location 2?",
+        "content": "Which object is at location 2?",
+        "role": "user"
+      },
+      {
+        "content": "The wagon",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_435.png"
+    ],
+    "id": 435
+  },
+  {
+    "messages": [
+      {
+        "content": "Which object is at location 2?",
         "role": "user"
       },
       {
@@ -1887,7 +3266,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhich object is at location 1?",
+        "content": "Which object is at location 1?",
+        "role": "user"
+      },
+      {
+        "content": "The cookie jar",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_435.png"
+    ],
+    "id": 435
+  },
+  {
+    "messages": [
+      {
+        "content": "Which object is at location 2?",
+        "role": "user"
+      },
+      {
+        "content": "The wagon",
+        "role": "assistant"
+      },
+      {
+        "content": "Which object is at location 1?",
         "role": "user"
       },
       {
@@ -1904,8 +3307,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_435_grid6.png",
-      "dataset/clip_images/62/puzzle_62_435_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_435.png"
     ],
     "id": 435
@@ -1913,7 +3314,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhere is the tomato placed?",
+        "content": "Where is the tomato placed?",
+        "role": "user"
+      },
+      {
+        "content": "There is no item to the right of the tomato",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_438.png"
+    ],
+    "id": 438
+  },
+  {
+    "messages": [
+      {
+        "content": "Where is the tomato placed?",
         "role": "user"
       },
       {
@@ -1930,7 +3347,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_438_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_438.png"
     ],
     "id": 438
@@ -1954,7 +3370,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nConsidering that the lip gloss is placed at location 5, which locations are still available for the fork?",
+        "content": "Considering that the lip gloss is placed at location 5, which locations are still available for the fork?",
+        "role": "user"
+      },
+      {
+        "content": "1, 2, and 4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_479.png"
+    ],
+    "id": 479
+  },
+  {
+    "messages": [
+      {
+        "content": "Considering that the lip gloss is placed at location 5, which locations are still available for the fork?",
         "role": "user"
       },
       {
@@ -1971,7 +3403,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_479_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_479.png"
     ],
     "id": 479
@@ -1979,7 +3410,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nIn which location is the lotion placed?",
+        "content": "In which location is the lotion placed?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_505.png"
+    ],
+    "id": 505
+  },
+  {
+    "messages": [
+      {
+        "content": "In which location is the lotion placed?",
         "role": "user"
       },
       {
@@ -1996,7 +3443,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_505_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_505.png"
     ],
     "id": 505
@@ -2004,7 +3450,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhere are the teddies located?",
+        "content": "Where are the teddies located?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_531.png"
+    ],
+    "id": 531
+  },
+  {
+    "messages": [
+      {
+        "content": "Where are the teddies located?",
         "role": "user"
       },
       {
@@ -2012,7 +3474,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhere is the truck located?",
+        "content": "Where is the truck located?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_531.png"
+    ],
+    "id": 531
+  },
+  {
+    "messages": [
+      {
+        "content": "Where are the teddies located?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      },
+      {
+        "content": "Where is the truck located?",
         "role": "user"
       },
       {
@@ -2029,8 +3515,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_531_grid4.png",
-      "dataset/clip_images/62/puzzle_62_531_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_531.png"
     ],
     "id": 531
@@ -2054,7 +3538,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat item is in position 5?",
+        "content": "What item is in position 5?",
+        "role": "user"
+      },
+      {
+        "content": "rubber duck",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_559.png"
+    ],
+    "id": 559
+  },
+  {
+    "messages": [
+      {
+        "content": "What item is in position 5?",
         "role": "user"
       },
       {
@@ -2071,7 +3571,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_559_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_559.png"
     ],
     "id": 559
@@ -2079,7 +3578,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nGiven that the bowl is at position 2, the cinder block is at 3, and the air freshener is at position 4, where can the food not be placed?",
+        "content": "Given that the bowl is at position 2, the cinder block is at 3, and the air freshener is at position 4, where can the food not be placed?",
+        "role": "user"
+      },
+      {
+        "content": "2, 3, or 4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_57.png"
+    ],
+    "id": 57
+  },
+  {
+    "messages": [
+      {
+        "content": "Given that the bowl is at position 2, the cinder block is at 3, and the air freshener is at position 4, where can the food not be placed?",
         "role": "user"
       },
       {
@@ -2087,7 +3602,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nGiven that the bowl is at position 2, the cinder block is at 3, and the air freshener is at position 4, where can the magnet be placed?",
+        "content": "Given that the bowl is at position 2, the cinder block is at 3, and the air freshener is at position 4, where can the magnet be placed?",
+        "role": "user"
+      },
+      {
+        "content": "1, 5, or 6",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_57.png"
+    ],
+    "id": 57
+  },
+  {
+    "messages": [
+      {
+        "content": "Given that the bowl is at position 2, the cinder block is at 3, and the air freshener is at position 4, where can the food not be placed?",
+        "role": "user"
+      },
+      {
+        "content": "2, 3, or 4",
+        "role": "assistant"
+      },
+      {
+        "content": "Given that the bowl is at position 2, the cinder block is at 3, and the air freshener is at position 4, where can the magnet be placed?",
         "role": "user"
       },
       {
@@ -2104,8 +3643,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_57_grid4.png",
-      "dataset/clip_images/62/puzzle_62_57_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_57.png"
     ],
     "id": 57
@@ -2113,7 +3650,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nOn which row is the seat belt under the mp3 player placed?",
+        "content": "On which row is the seat belt under the mp3 player placed?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_570.png"
+    ],
+    "id": 570
+  },
+  {
+    "messages": [
+      {
+        "content": "On which row is the seat belt under the mp3 player placed?",
         "role": "user"
       },
       {
@@ -2130,7 +3683,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_570_grid11.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_570.png"
     ],
     "id": 570
@@ -2138,7 +3690,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich objects are to the right of the newspaper?",
+        "content": "Which objects are to the right of the newspaper?",
+        "role": "user"
+      },
+      {
+        "content": "mouse pad, sandal, ice cube tray",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_598.png"
+    ],
+    "id": 598
+  },
+  {
+    "messages": [
+      {
+        "content": "Which objects are to the right of the newspaper?",
         "role": "user"
       },
       {
@@ -2146,7 +3714,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhich location is left of both the sandal and the ice cube tray?",
+        "content": "Which location is left of both the sandal and the ice cube tray?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_598.png"
+    ],
+    "id": 598
+  },
+  {
+    "messages": [
+      {
+        "content": "Which objects are to the right of the newspaper?",
+        "role": "user"
+      },
+      {
+        "content": "mouse pad, sandal, ice cube tray",
+        "role": "assistant"
+      },
+      {
+        "content": "Which location is left of both the sandal and the ice cube tray?",
         "role": "user"
       },
       {
@@ -2163,8 +3755,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_598_grid5.png",
-      "dataset/clip_images/62/puzzle_62_598_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_598.png"
     ],
     "id": 598
@@ -2172,7 +3762,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich location can the teddies be placed if the monitor is in location 2?",
+        "content": "Which location can the teddies be placed if the monitor is in location 2?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_606.png"
+    ],
+    "id": 606
+  },
+  {
+    "messages": [
+      {
+        "content": "Which location can the teddies be placed if the monitor is in location 2?",
         "role": "user"
       },
       {
@@ -2189,7 +3795,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_606_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_606.png"
     ],
     "id": 606
@@ -2197,7 +3802,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nOn which row is the chocolate placed?",
+        "content": "On which row is the chocolate placed?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_644.png"
+    ],
+    "id": 644
+  },
+  {
+    "messages": [
+      {
+        "content": "On which row is the chocolate placed?",
         "role": "user"
       },
       {
@@ -2214,7 +3835,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_644_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_644.png"
     ],
     "id": 644
@@ -2222,7 +3842,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nSince the newspaper can be placed in either Position 4 or 5, where can the chalk be placed given it is behind the newspaper?",
+        "content": "Since the newspaper can be placed in either Position 4 or 5, where can the chalk be placed given it is behind the newspaper?",
+        "role": "user"
+      },
+      {
+        "content": "Position 5 if the newspaper is in Position 4.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_673.png"
+    ],
+    "id": 673
+  },
+  {
+    "messages": [
+      {
+        "content": "Since the newspaper can be placed in either Position 4 or 5, where can the chalk be placed given it is behind the newspaper?",
         "role": "user"
       },
       {
@@ -2239,7 +3875,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_673_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_673.png"
     ],
     "id": 673
@@ -2263,7 +3898,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the location of the window?",
+        "content": "What is the location of the window?",
+        "role": "user"
+      },
+      {
+        "content": "Location 7",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_713.png"
+    ],
+    "id": 713
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the location of the window?",
         "role": "user"
       },
       {
@@ -2271,7 +3922,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhich toy is located at position 5?",
+        "content": "Which toy is located at position 5?",
+        "role": "user"
+      },
+      {
+        "content": "Slipper",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_713.png"
+    ],
+    "id": 713
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the location of the window?",
+        "role": "user"
+      },
+      {
+        "content": "Location 7",
+        "role": "assistant"
+      },
+      {
+        "content": "Which toy is located at position 5?",
         "role": "user"
       },
       {
@@ -2288,8 +3963,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_713_grid6.png",
-      "dataset/clip_images/62/puzzle_62_713_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_713.png"
     ],
     "id": 713
@@ -2297,7 +3970,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhere are the tweezers placed?",
+        "content": "Where are the tweezers placed?",
+        "role": "user"
+      },
+      {
+        "content": "8",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_756.png"
+    ],
+    "id": 756
+  },
+  {
+    "messages": [
+      {
+        "content": "Where are the tweezers placed?",
         "role": "user"
       },
       {
@@ -2314,7 +4003,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_756_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_756.png"
     ],
     "id": 756
@@ -2322,7 +4010,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich row is above both the doll and glow stick but below the bag?",
+        "content": "Which row is above both the doll and glow stick but below the bag?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_820.png"
+    ],
+    "id": 820
+  },
+  {
+    "messages": [
+      {
+        "content": "Which row is above both the doll and glow stick but below the bag?",
         "role": "user"
       },
       {
@@ -2330,7 +4034,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhich row is above the doll and below the knife?",
+        "content": "Which row is above the doll and below the knife?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_820.png"
+    ],
+    "id": 820
+  },
+  {
+    "messages": [
+      {
+        "content": "Which row is above both the doll and glow stick but below the bag?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      },
+      {
+        "content": "Which row is above the doll and below the knife?",
         "role": "user"
       },
       {
@@ -2347,8 +4075,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_820_grid6.png",
-      "dataset/clip_images/62/puzzle_62_820_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_820.png"
     ],
     "id": 820
@@ -2356,7 +4082,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich item is placed directly to the left of the zipper?",
+        "content": "Which item is placed directly to the left of the zipper?",
+        "role": "user"
+      },
+      {
+        "content": "Glow stick",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_826.png"
+    ],
+    "id": 826
+  },
+  {
+    "messages": [
+      {
+        "content": "Which item is placed directly to the left of the zipper?",
         "role": "user"
       },
       {
@@ -2373,7 +4115,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_826_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_826.png"
     ],
     "id": 826
@@ -2381,7 +4122,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nOn which row is the remote placed relative to the ice cube tray?",
+        "content": "On which row is the remote placed relative to the ice cube tray?",
+        "role": "user"
+      },
+      {
+        "content": "Above",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_83.png"
+    ],
+    "id": 83
+  },
+  {
+    "messages": [
+      {
+        "content": "On which row is the remote placed relative to the ice cube tray?",
         "role": "user"
       },
       {
@@ -2389,7 +4146,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nOn which row is the ice cube tray placed relative to the perfume?",
+        "content": "On which row is the ice cube tray placed relative to the perfume?",
+        "role": "user"
+      },
+      {
+        "content": "Above",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_83.png"
+    ],
+    "id": 83
+  },
+  {
+    "messages": [
+      {
+        "content": "On which row is the remote placed relative to the ice cube tray?",
+        "role": "user"
+      },
+      {
+        "content": "Above",
+        "role": "assistant"
+      },
+      {
+        "content": "On which row is the ice cube tray placed relative to the perfume?",
         "role": "user"
       },
       {
@@ -2406,8 +4187,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_83_grid13.png",
-      "dataset/clip_images/62/puzzle_62_83_grid13.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_83.png"
     ],
     "id": 83
@@ -2431,7 +4210,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nOn which location is the mp3 player placed?",
+        "content": "On which location is the mp3 player placed?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_839.png"
+    ],
+    "id": 839
+  },
+  {
+    "messages": [
+      {
+        "content": "On which location is the mp3 player placed?",
         "role": "user"
       },
       {
@@ -2439,7 +4234,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nOn which location is the floor placed?",
+        "content": "On which location is the floor placed?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_839.png"
+    ],
+    "id": 839
+  },
+  {
+    "messages": [
+      {
+        "content": "On which location is the mp3 player placed?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "On which location is the floor placed?",
         "role": "user"
       },
       {
@@ -2456,8 +4275,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_839_grid5.png",
-      "dataset/clip_images/62/puzzle_62_839_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_839.png"
     ],
     "id": 839
@@ -2465,7 +4282,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the position of the mouse pad relative to the speakers?",
+        "content": "What is the position of the mouse pad relative to the speakers?",
+        "role": "user"
+      },
+      {
+        "content": "Ahead",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_843.png"
+    ],
+    "id": 843
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the position of the mouse pad relative to the speakers?",
         "role": "user"
       },
       {
@@ -2473,7 +4306,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the position of the mouse pad?",
+        "content": "What is the position of the mouse pad?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_843.png"
+    ],
+    "id": 843
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the position of the mouse pad relative to the speakers?",
+        "role": "user"
+      },
+      {
+        "content": "Ahead",
+        "role": "assistant"
+      },
+      {
+        "content": "What is the position of the mouse pad?",
         "role": "user"
       },
       {
@@ -2490,8 +4347,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_843_grid6.png",
-      "dataset/clip_images/62/puzzle_62_843_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_843.png"
     ],
     "id": 843
@@ -2499,7 +4354,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich location is the shampoo placed?",
+        "content": "Which location is the shampoo placed?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_85.png"
+    ],
+    "id": 85
+  },
+  {
+    "messages": [
+      {
+        "content": "Which location is the shampoo placed?",
         "role": "user"
       },
       {
@@ -2507,7 +4378,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhich location is the boom box placed?",
+        "content": "Which location is the boom box placed?",
+        "role": "user"
+      },
+      {
+        "content": "7",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_85.png"
+    ],
+    "id": 85
+  },
+  {
+    "messages": [
+      {
+        "content": "Which location is the shampoo placed?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "Which location is the boom box placed?",
         "role": "user"
       },
       {
@@ -2524,8 +4419,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_85_grid6.png",
-      "dataset/clip_images/62/puzzle_62_85_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_85.png"
     ],
     "id": 85
@@ -2533,7 +4426,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich row is the speakers placed on?",
+        "content": "Which row is the speakers placed on?",
+        "role": "user"
+      },
+      {
+        "content": "6",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_88.png"
+    ],
+    "id": 88
+  },
+  {
+    "messages": [
+      {
+        "content": "Which row is the speakers placed on?",
         "role": "user"
       },
       {
@@ -2541,7 +4450,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhich row is the key chain placed on?",
+        "content": "Which row is the key chain placed on?",
+        "role": "user"
+      },
+      {
+        "content": "7",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_88.png"
+    ],
+    "id": 88
+  },
+  {
+    "messages": [
+      {
+        "content": "Which row is the speakers placed on?",
+        "role": "user"
+      },
+      {
+        "content": "6",
+        "role": "assistant"
+      },
+      {
+        "content": "Which row is the key chain placed on?",
         "role": "user"
       },
       {
@@ -2558,8 +4491,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_88_grid13.png",
-      "dataset/clip_images/62/puzzle_62_88_grid11.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_88.png"
     ],
     "id": 88
@@ -2567,7 +4498,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nIs the face wash on row 1?",
+        "content": "Is the face wash on row 1?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_888.png"
+    ],
+    "id": 888
+  },
+  {
+    "messages": [
+      {
+        "content": "Is the face wash on row 1?",
         "role": "user"
       },
       {
@@ -2575,7 +4522,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nIs the eraser on row 6?",
+        "content": "Is the eraser on row 6?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_888.png"
+    ],
+    "id": 888
+  },
+  {
+    "messages": [
+      {
+        "content": "Is the face wash on row 1?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      },
+      {
+        "content": "Is the eraser on row 6?",
         "role": "user"
       },
       {
@@ -2592,8 +4563,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_888_grid9.png",
-      "dataset/clip_images/62/puzzle_62_888_grid11.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_888.png"
     ],
     "id": 888
@@ -2617,7 +4586,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich toy is at location 5?",
+        "content": "Which toy is at location 5?",
+        "role": "user"
+      },
+      {
+        "content": "Hair brush",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_910.png"
+    ],
+    "id": 910
+  },
+  {
+    "messages": [
+      {
+        "content": "Which toy is at location 5?",
         "role": "user"
       },
       {
@@ -2634,7 +4619,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_910_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_910.png"
     ],
     "id": 910
@@ -2642,7 +4626,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhich row is the toe ring located on?",
+        "content": "Which row is the toe ring located on?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_911.png"
+    ],
+    "id": 911
+  },
+  {
+    "messages": [
+      {
+        "content": "Which row is the toe ring located on?",
         "role": "user"
       },
       {
@@ -2659,7 +4659,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_911_grid11.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_911.png"
     ],
     "id": 911
@@ -2667,7 +4666,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhere must the slipper be placed relative to the CD?",
+        "content": "Where must the slipper be placed relative to the CD?",
+        "role": "user"
+      },
+      {
+        "content": "below",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_912.png"
+    ],
+    "id": 912
+  },
+  {
+    "messages": [
+      {
+        "content": "Where must the slipper be placed relative to the CD?",
         "role": "user"
       },
       {
@@ -2684,7 +4699,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_912_grid13.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_912.png"
     ],
     "id": 912
@@ -2692,7 +4706,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nGiven that the wallet can be placed at locations 3 or 4, on which location can the wallet be placed if the sandal must be to the immediate right of it?",
+        "content": "Given that the wallet can be placed at locations 3 or 4, on which location can the wallet be placed if the sandal must be to the immediate right of it?",
+        "role": "user"
+      },
+      {
+        "content": "Locations 3",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_93.png"
+    ],
+    "id": 93
+  },
+  {
+    "messages": [
+      {
+        "content": "Given that the wallet can be placed at locations 3 or 4, on which location can the wallet be placed if the sandal must be to the immediate right of it?",
         "role": "user"
       },
       {
@@ -2700,7 +4730,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nCan the wallet be at location 4 given that the clothes are at location 5 and sandal should be at the immediate right of wallet?",
+        "content": "Can the wallet be at location 4 given that the clothes are at location 5 and sandal should be at the immediate right of wallet?",
+        "role": "user"
+      },
+      {
+        "content": "No",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_93.png"
+    ],
+    "id": 93
+  },
+  {
+    "messages": [
+      {
+        "content": "Given that the wallet can be placed at locations 3 or 4, on which location can the wallet be placed if the sandal must be to the immediate right of it?",
+        "role": "user"
+      },
+      {
+        "content": "Locations 3",
+        "role": "assistant"
+      },
+      {
+        "content": "Can the wallet be at location 4 given that the clothes are at location 5 and sandal should be at the immediate right of wallet?",
         "role": "user"
       },
       {
@@ -2717,8 +4771,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_93_grid6.png",
-      "dataset/clip_images/62/puzzle_62_93_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_93.png"
     ],
     "id": 93
@@ -2726,7 +4778,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nConsidering lace is above the floor, which is the only row the floor can be placed?",
+        "content": "Considering lace is above the floor, which is the only row the floor can be placed?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_954.png"
+    ],
+    "id": 954
+  },
+  {
+    "messages": [
+      {
+        "content": "Considering lace is above the floor, which is the only row the floor can be placed?",
         "role": "user"
       },
       {
@@ -2734,7 +4802,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhich item is placed on row 1?",
+        "content": "Which item is placed on row 1?",
+        "role": "user"
+      },
+      {
+        "content": "lace",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_954.png"
+    ],
+    "id": 954
+  },
+  {
+    "messages": [
+      {
+        "content": "Considering lace is above the floor, which is the only row the floor can be placed?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      },
+      {
+        "content": "Which item is placed on row 1?",
         "role": "user"
       },
       {
@@ -2751,8 +4843,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_954_grid6.png",
-      "dataset/clip_images/62/puzzle_62_954_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_954.png"
     ],
     "id": 954
@@ -2792,7 +4882,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nAt which position must the USB drive be placed?",
+        "content": "At which position must the USB drive be placed?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_970.png"
+    ],
+    "id": 970
+  },
+  {
+    "messages": [
+      {
+        "content": "At which position must the USB drive be placed?",
         "role": "user"
       },
       {
@@ -2809,7 +4915,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/62/puzzle_62_970_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_970.png"
     ],
     "id": 970

@@ -8,11 +8,7 @@ fi
 puzzle_id=$1
 step=$2
 
-clip_images_path="dataset/clip_images"
-
-if [ "$puzzle_id" -eq 71 ]; then
-    clip_images_path=""
-fi
+clip_images_path=""
 
 echo "using clip_images_path: ${clip_images_path} for puzzle: ${puzzle_id}"
 
@@ -23,4 +19,5 @@ python baseline/llava/finetune_data_generator.py \
 --clip-image-root "${clip_images_path}" \
 --puzzle-id ${puzzle_id} \
 --skip-stage-step ${step} \
---seed 42
+--seed 42 \
+--split-sub-qa \

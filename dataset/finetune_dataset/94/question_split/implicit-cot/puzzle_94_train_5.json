@@ -18,7 +18,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the gap between the peaks of the two trees?",
+        "content": "What is the gap between the peaks of the two trees?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_1261.png"
+    ],
+    "id": 1261
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the gap between the peaks of the two trees?",
         "role": "user"
       },
       {
@@ -35,7 +51,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/94/puzzle_94_1261_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_1261.png"
     ],
     "id": 1261
@@ -59,7 +74,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the result of the calculation using the formula from Step 4?",
+        "content": "What is the result of the calculation using the formula from Step 4?",
+        "role": "user"
+      },
+      {
+        "content": "7 - 4 = 3",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_1550.png"
+    ],
+    "id": 1550
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the result of the calculation using the formula from Step 4?",
         "role": "user"
       },
       {
@@ -76,7 +107,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/94/puzzle_94_1550_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_1550.png"
     ],
     "id": 1550
@@ -180,7 +210,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the height of the level the shorter tree is on?",
+        "content": "What is the height of the level the shorter tree is on?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_768.png"
+    ],
+    "id": 768
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the height of the level the shorter tree is on?",
         "role": "user"
       },
       {
@@ -188,7 +234,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the combined height of the shorter tree and the level it is on?",
+        "content": "What is the combined height of the shorter tree and the level it is on?",
+        "role": "user"
+      },
+      {
+        "content": "8",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_768.png"
+    ],
+    "id": 768
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the height of the level the shorter tree is on?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      },
+      {
+        "content": "What is the combined height of the shorter tree and the level it is on?",
         "role": "user"
       },
       {
@@ -196,7 +266,39 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the combined height of the taller tree and the level it is on?",
+        "content": "What is the combined height of the taller tree and the level it is on?",
+        "role": "user"
+      },
+      {
+        "content": "12",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_768.png"
+    ],
+    "id": 768
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the height of the level the shorter tree is on?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      },
+      {
+        "content": "What is the combined height of the shorter tree and the level it is on?",
+        "role": "user"
+      },
+      {
+        "content": "8",
+        "role": "assistant"
+      },
+      {
+        "content": "What is the combined height of the taller tree and the level it is on?",
         "role": "user"
       },
       {
@@ -204,7 +306,47 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the height difference between the peaks of the taller tree and the shorter tree?",
+        "content": "What is the height difference between the peaks of the taller tree and the shorter tree?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_768.png"
+    ],
+    "id": 768
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the height of the level the shorter tree is on?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      },
+      {
+        "content": "What is the combined height of the shorter tree and the level it is on?",
+        "role": "user"
+      },
+      {
+        "content": "8",
+        "role": "assistant"
+      },
+      {
+        "content": "What is the combined height of the taller tree and the level it is on?",
+        "role": "user"
+      },
+      {
+        "content": "12",
+        "role": "assistant"
+      },
+      {
+        "content": "What is the height difference between the peaks of the taller tree and the shorter tree?",
         "role": "user"
       },
       {
@@ -221,10 +363,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/94/puzzle_94_768_grid4.png",
-      "dataset/clip_images/94/puzzle_94_768_grid4.png",
-      "dataset/clip_images/94/puzzle_94_768_grid4.png",
-      "dataset/clip_images/94/puzzle_94_768_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_768.png"
     ],
     "id": 768
@@ -232,7 +370,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is 10 minus 5?",
+        "content": "What is 10 minus 5?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_898.png"
+    ],
+    "id": 898
+  },
+  {
+    "messages": [
+      {
+        "content": "What is 10 minus 5?",
         "role": "user"
       },
       {
@@ -249,7 +403,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/94/puzzle_94_898_grid1.png",
       "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_898.png"
     ],
     "id": 898

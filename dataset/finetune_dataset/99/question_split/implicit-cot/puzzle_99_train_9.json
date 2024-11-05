@@ -962,7 +962,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many basketballs are needed to balance the number of basketballs in each bag?",
+        "content": "How many basketballs are needed to balance the number of basketballs in each bag?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1902.png"
+    ],
+    "id": 1902
+  },
+  {
+    "messages": [
+      {
+        "content": "How many basketballs are needed to balance the number of basketballs in each bag?",
         "role": "user"
       },
       {
@@ -970,7 +986,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nHow many baseballs are needed to balance the number of baseballs in each bag?",
+        "content": "How many baseballs are needed to balance the number of baseballs in each bag?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1902.png"
+    ],
+    "id": 1902
+  },
+  {
+    "messages": [
+      {
+        "content": "How many basketballs are needed to balance the number of basketballs in each bag?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      },
+      {
+        "content": "How many baseballs are needed to balance the number of baseballs in each bag?",
         "role": "user"
       },
       {
@@ -987,8 +1027,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_1902_grid5.png",
-      "dataset/clip_images/99/puzzle_99_1902_grid10.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1902.png"
     ],
     "id": 1902
@@ -1188,7 +1226,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat should be the count of each type of ball in each bucket to achieve balance?",
+        "content": "What should be the count of each type of ball in each bucket to achieve balance?",
+        "role": "user"
+      },
+      {
+        "content": "2 basketballs and 2 footballs in each bucket",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_275.png"
+    ],
+    "id": 275
+  },
+  {
+    "messages": [
+      {
+        "content": "What should be the count of each type of ball in each bucket to achieve balance?",
         "role": "user"
       },
       {
@@ -1205,7 +1259,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_275_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_275.png"
     ],
     "id": 275
@@ -1741,7 +1794,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many yellow flowers does Paul need to add to each bucket for them to have an identical count of yellow flowers?",
+        "content": "How many yellow flowers does Paul need to add to each bucket for them to have an identical count of yellow flowers?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_983.png"
+    ],
+    "id": 983
+  },
+  {
+    "messages": [
+      {
+        "content": "How many yellow flowers does Paul need to add to each bucket for them to have an identical count of yellow flowers?",
         "role": "user"
       },
       {
@@ -1758,7 +1827,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/99/puzzle_99_983_grid10.png",
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_983.png"
     ],
     "id": 983

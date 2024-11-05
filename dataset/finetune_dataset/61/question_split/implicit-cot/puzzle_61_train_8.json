@@ -66,7 +66,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many flowers do six circle trays contain?",
+        "content": "How many flowers do six circle trays contain?",
+        "role": "user"
+      },
+      {
+        "content": "42",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1041.png"
+    ],
+    "id": 1041
+  },
+  {
+    "messages": [
+      {
+        "content": "How many flowers do six circle trays contain?",
         "role": "user"
       },
       {
@@ -83,7 +99,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1041_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1041.png"
     ],
     "id": 1041
@@ -91,7 +106,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many square trays can fit along the width of the rectangular plate?",
+        "content": "How many square trays can fit along the width of the rectangular plate?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1043.png"
+    ],
+    "id": 1043
+  },
+  {
+    "messages": [
+      {
+        "content": "How many square trays can fit along the width of the rectangular plate?",
         "role": "user"
       },
       {
@@ -108,7 +139,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1043_grid13.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1043.png"
     ],
     "id": 1043
@@ -132,7 +162,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many more balls are in two polygon trays compared to one rectangle tray?",
+        "content": "How many more balls are in two polygon trays compared to one rectangle tray?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1053.png"
+    ],
+    "id": 1053
+  },
+  {
+    "messages": [
+      {
+        "content": "How many more balls are in two polygon trays compared to one rectangle tray?",
         "role": "user"
       },
       {
@@ -149,7 +195,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1053_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1053.png"
     ],
     "id": 1053
@@ -157,7 +202,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many polygons in the rectangular tray can be sourced from each polygon tray built by a participant?",
+        "content": "How many polygons in the rectangular tray can be sourced from each polygon tray built by a participant?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1062.png"
+    ],
+    "id": 1062
+  },
+  {
+    "messages": [
+      {
+        "content": "How many polygons in the rectangular tray can be sourced from each polygon tray built by a participant?",
         "role": "user"
       },
       {
@@ -174,7 +235,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1062_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1062.png"
     ],
     "id": 1062
@@ -214,7 +274,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many balls in total does each participator bowl if using trays like the ellipse tray?",
+        "content": "How many balls in total does each participator bowl if using trays like the ellipse tray?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1101.png"
+    ],
+    "id": 1101
+  },
+  {
+    "messages": [
+      {
+        "content": "How many balls in total does each participator bowl if using trays like the ellipse tray?",
         "role": "user"
       },
       {
@@ -231,7 +307,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1101_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1101.png"
     ],
     "id": 1101
@@ -255,7 +330,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the ratio of the area of one circular tray to the area of the square plate?",
+        "content": "What is the ratio of the area of one circular tray to the area of the square plate?",
+        "role": "user"
+      },
+      {
+        "content": "One circular tray covers about one-fifth of the square plate.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1131.png"
+    ],
+    "id": 1131
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the ratio of the area of one circular tray to the area of the square plate?",
         "role": "user"
       },
       {
@@ -272,7 +363,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1131_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1131.png"
     ],
     "id": 1131
@@ -312,7 +402,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many cakes are needed in total to fill two rectangular trays?",
+        "content": "How many cakes are needed in total to fill two rectangular trays?",
+        "role": "user"
+      },
+      {
+        "content": "18",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1201.png"
+    ],
+    "id": 1201
+  },
+  {
+    "messages": [
+      {
+        "content": "How many cakes are needed in total to fill two rectangular trays?",
         "role": "user"
       },
       {
@@ -329,7 +435,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1201_grid11.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1201.png"
     ],
     "id": 1201
@@ -353,7 +458,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many times do the number of flowers in the rectangle tray fit into the number of flowers in the pentagon tray?",
+        "content": "How many times do the number of flowers in the rectangle tray fit into the number of flowers in the pentagon tray?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1261.png"
+    ],
+    "id": 1261
+  },
+  {
+    "messages": [
+      {
+        "content": "How many times do the number of flowers in the rectangle tray fit into the number of flowers in the pentagon tray?",
         "role": "user"
       },
       {
@@ -370,7 +491,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1261_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1261.png"
     ],
     "id": 1261
@@ -378,7 +498,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the total number of flowers in 6 trays of the ellipse tray?",
+        "content": "What is the total number of flowers in 6 trays of the ellipse tray?",
+        "role": "user"
+      },
+      {
+        "content": "18",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1269.png"
+    ],
+    "id": 1269
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the total number of flowers in 6 trays of the ellipse tray?",
         "role": "user"
       },
       {
@@ -395,7 +531,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1269_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1269.png"
     ],
     "id": 1269
@@ -499,7 +634,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nDo the ellipses completely fill the area of the rectangle without leaving any empty space?",
+        "content": "Do the ellipses completely fill the area of the rectangle without leaving any empty space?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1368.png"
+    ],
+    "id": 1368
+  },
+  {
+    "messages": [
+      {
+        "content": "Do the ellipses completely fill the area of the rectangle without leaving any empty space?",
         "role": "user"
       },
       {
@@ -516,7 +667,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1368_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1368.png"
     ],
     "id": 1368
@@ -540,7 +690,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nIf each member cooks one tray of biscuits like the ellipse tray, how many trays does it take to make one biscuit plate like the circle tray?",
+        "content": "If each member cooks one tray of biscuits like the ellipse tray, how many trays does it take to make one biscuit plate like the circle tray?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1403.png"
+    ],
+    "id": 1403
+  },
+  {
+    "messages": [
+      {
+        "content": "If each member cooks one tray of biscuits like the ellipse tray, how many trays does it take to make one biscuit plate like the circle tray?",
         "role": "user"
       },
       {
@@ -557,7 +723,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1403_grid10.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1403.png"
     ],
     "id": 1403
@@ -613,7 +778,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many cakes does a player need to bake to entirely fill the polygon tray?",
+        "content": "How many cakes does a player need to bake to entirely fill the polygon tray?",
+        "role": "user"
+      },
+      {
+        "content": "16",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1425.png"
+    ],
+    "id": 1425
+  },
+  {
+    "messages": [
+      {
+        "content": "How many cakes does a player need to bake to entirely fill the polygon tray?",
         "role": "user"
       },
       {
@@ -630,7 +811,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1425_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1425.png"
     ],
     "id": 1425
@@ -638,7 +818,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nIf the first rectangle tray covers only part of the square plate, what remaining area of the square plate needs to be covered by the additional trays?",
+        "content": "If the first rectangle tray covers only part of the square plate, what remaining area of the square plate needs to be covered by the additional trays?",
+        "role": "user"
+      },
+      {
+        "content": "4 square units",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1438.png"
+    ],
+    "id": 1438
+  },
+  {
+    "messages": [
+      {
+        "content": "If the first rectangle tray covers only part of the square plate, what remaining area of the square plate needs to be covered by the additional trays?",
         "role": "user"
       },
       {
@@ -655,7 +851,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1438_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1438.png"
     ],
     "id": 1438
@@ -679,7 +874,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many circular trays are visible along the width of the rectangular tray in the image?",
+        "content": "How many circular trays are visible along the width of the rectangular tray in the image?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1493.png"
+    ],
+    "id": 1493
+  },
+  {
+    "messages": [
+      {
+        "content": "How many circular trays are visible along the width of the rectangular tray in the image?",
         "role": "user"
       },
       {
@@ -696,7 +907,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1493_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1493.png"
     ],
     "id": 1493
@@ -720,7 +930,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many trays of cakes are needed if each tray contains 24 cakes and a square tray needs 100 cakes?",
+        "content": "How many trays of cakes are needed if each tray contains 24 cakes and a square tray needs 100 cakes?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1512.png"
+    ],
+    "id": 1512
+  },
+  {
+    "messages": [
+      {
+        "content": "How many trays of cakes are needed if each tray contains 24 cakes and a square tray needs 100 cakes?",
         "role": "user"
       },
       {
@@ -737,7 +963,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1512_grid11.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1512.png"
     ],
     "id": 1512
@@ -761,7 +986,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the smallest number of square trays needed to exceed 31 biscuits?",
+        "content": "What is the smallest number of square trays needed to exceed 31 biscuits?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1532.png"
+    ],
+    "id": 1532
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the smallest number of square trays needed to exceed 31 biscuits?",
         "role": "user"
       },
       {
@@ -778,7 +1019,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1532_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1532.png"
     ],
     "id": 1532
@@ -786,7 +1026,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many trays like the circle tray are needed to equal the number of flowers in one polygon tray?",
+        "content": "How many trays like the circle tray are needed to equal the number of flowers in one polygon tray?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1549.png"
+    ],
+    "id": 1549
+  },
+  {
+    "messages": [
+      {
+        "content": "How many trays like the circle tray are needed to equal the number of flowers in one polygon tray?",
         "role": "user"
       },
       {
@@ -803,7 +1059,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1549_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1549.png"
     ],
     "id": 1549
@@ -827,7 +1082,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nIs it feasible to consider half blocks while determining the number of trays needed?",
+        "content": "Is it feasible to consider half blocks while determining the number of trays needed?",
+        "role": "user"
+      },
+      {
+        "content": "No, it is not feasible as lego blocks cannot be divided in half without compromising their integrity and functionality.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1559.png"
+    ],
+    "id": 1559
+  },
+  {
+    "messages": [
+      {
+        "content": "Is it feasible to consider half blocks while determining the number of trays needed?",
         "role": "user"
       },
       {
@@ -844,7 +1115,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1559_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1559.png"
     ],
     "id": 1559
@@ -868,7 +1138,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many trays of biscuits are needed if we ignore the size difference between the biscuits in the pentagon tray and the rectangular tray?",
+        "content": "How many trays of biscuits are needed if we ignore the size difference between the biscuits in the pentagon tray and the rectangular tray?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1574.png"
+    ],
+    "id": 1574
+  },
+  {
+    "messages": [
+      {
+        "content": "How many trays of biscuits are needed if we ignore the size difference between the biscuits in the pentagon tray and the rectangular tray?",
         "role": "user"
       },
       {
@@ -885,7 +1171,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1574_grid2.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1574.png"
     ],
     "id": 1574
@@ -925,7 +1210,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many balls can each ball from the rectangle tray contribute to making an ellipse tray?",
+        "content": "How many balls can each ball from the rectangle tray contribute to making an ellipse tray?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_163.png"
+    ],
+    "id": 163
+  },
+  {
+    "messages": [
+      {
+        "content": "How many balls can each ball from the rectangle tray contribute to making an ellipse tray?",
         "role": "user"
       },
       {
@@ -942,7 +1243,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_163_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_163.png"
     ],
     "id": 163
@@ -982,7 +1282,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many individual flowers are in a circle tray placed by a kid?",
+        "content": "How many individual flowers are in a circle tray placed by a kid?",
+        "role": "user"
+      },
+      {
+        "content": "7",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1656.png"
+    ],
+    "id": 1656
+  },
+  {
+    "messages": [
+      {
+        "content": "How many individual flowers are in a circle tray placed by a kid?",
         "role": "user"
       },
       {
@@ -999,7 +1315,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1656_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1656.png"
     ],
     "id": 1656
@@ -1007,7 +1322,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many trays are needed to form the size of one circle tray?",
+        "content": "How many trays are needed to form the size of one circle tray?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1676.png"
+    ],
+    "id": 1676
+  },
+  {
+    "messages": [
+      {
+        "content": "How many trays are needed to form the size of one circle tray?",
         "role": "user"
       },
       {
@@ -1024,7 +1355,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1676_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1676.png"
     ],
     "id": 1676
@@ -1032,7 +1362,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many trays of polygon cakes are needed to make up one ellipse tray?",
+        "content": "How many trays of polygon cakes are needed to make up one ellipse tray?",
+        "role": "user"
+      },
+      {
+        "content": "21 / 4 = 5.25, rounding up requires 6 trays",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1683.png"
+    ],
+    "id": 1683
+  },
+  {
+    "messages": [
+      {
+        "content": "How many trays of polygon cakes are needed to make up one ellipse tray?",
         "role": "user"
       },
       {
@@ -1049,7 +1395,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1683_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1683.png"
     ],
     "id": 1683
@@ -1057,7 +1402,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the total number of blue balls in both trays?",
+        "content": "What is the total number of blue balls in both trays?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1710.png"
+    ],
+    "id": 1710
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the total number of blue balls in both trays?",
         "role": "user"
       },
       {
@@ -1074,7 +1435,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1710_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1710.png"
     ],
     "id": 1710
@@ -1130,7 +1490,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many biscuits are needed for a plate like the circle tray compared to one rectangular tray?",
+        "content": "How many biscuits are needed for a plate like the circle tray compared to one rectangular tray?",
+        "role": "user"
+      },
+      {
+        "content": "3 times the number of biscuits in a rectangular tray.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1740.png"
+    ],
+    "id": 1740
+  },
+  {
+    "messages": [
+      {
+        "content": "How many biscuits are needed for a plate like the circle tray compared to one rectangular tray?",
         "role": "user"
       },
       {
@@ -1147,7 +1523,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1740_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1740.png"
     ],
     "id": 1740
@@ -1219,7 +1594,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow does the shape of the polygon tray affect the arrangements on the square plate?",
+        "content": "How does the shape of the polygon tray affect the arrangements on the square plate?",
+        "role": "user"
+      },
+      {
+        "content": "Because the polygon tray is a pentagon and the square plate is a square, each pentagon tray can be placed in such a way that it can cover multiple parts or corners of the square plate, facilitating the filling of the square plate.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1811.png"
+    ],
+    "id": 1811
+  },
+  {
+    "messages": [
+      {
+        "content": "How does the shape of the polygon tray affect the arrangements on the square plate?",
         "role": "user"
       },
       {
@@ -1236,7 +1627,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1811_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1811.png"
     ],
     "id": 1811
@@ -1244,7 +1634,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many flowers are needed to form a circle around the edge of the circular tray?",
+        "content": "How many flowers are needed to form a circle around the edge of the circular tray?",
+        "role": "user"
+      },
+      {
+        "content": "7",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1819.png"
+    ],
+    "id": 1819
+  },
+  {
+    "messages": [
+      {
+        "content": "How many flowers are needed to form a circle around the edge of the circular tray?",
         "role": "user"
       },
       {
@@ -1261,7 +1667,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1819_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1819.png"
     ],
     "id": 1819
@@ -1301,7 +1706,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nOf the trays covering the ellipse, how many are along the boundary, either strictly or partially?",
+        "content": "Of the trays covering the ellipse, how many are along the boundary, either strictly or partially?",
+        "role": "user"
+      },
+      {
+        "content": "6",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1871.png"
+    ],
+    "id": 1871
+  },
+  {
+    "messages": [
+      {
+        "content": "Of the trays covering the ellipse, how many are along the boundary, either strictly or partially?",
         "role": "user"
       },
       {
@@ -1318,7 +1739,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1871_grid10.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1871.png"
     ],
     "id": 1871
@@ -1342,7 +1762,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many kids are there in the biscuit game?",
+        "content": "How many kids are there in the biscuit game?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1890.png"
+    ],
+    "id": 1890
+  },
+  {
+    "messages": [
+      {
+        "content": "How many kids are there in the biscuit game?",
         "role": "user"
       },
       {
@@ -1359,7 +1795,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1890_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1890.png"
     ],
     "id": 1890
@@ -1367,7 +1802,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many individual flowers are needed to match the number of flowers in one rectangle tray using circle trays?",
+        "content": "How many individual flowers are needed to match the number of flowers in one rectangle tray using circle trays?",
+        "role": "user"
+      },
+      {
+        "content": "36",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_190.png"
+    ],
+    "id": 190
+  },
+  {
+    "messages": [
+      {
+        "content": "How many individual flowers are needed to match the number of flowers in one rectangle tray using circle trays?",
         "role": "user"
       },
       {
@@ -1384,7 +1835,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_190_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_190.png"
     ],
     "id": 190
@@ -1456,7 +1906,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the total number of flowers placed inside the ellipse plate?",
+        "content": "What is the total number of flowers placed inside the ellipse plate?",
+        "role": "user"
+      },
+      {
+        "content": "32",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1922.png"
+    ],
+    "id": 1922
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the total number of flowers placed inside the ellipse plate?",
         "role": "user"
       },
       {
@@ -1473,7 +1939,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1922_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1922.png"
     ],
     "id": 1922
@@ -1497,7 +1962,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nIf one tray of polygon flowers contains 8 flowers, how many flowers do two trays contain?",
+        "content": "If one tray of polygon flowers contains 8 flowers, how many flowers do two trays contain?",
+        "role": "user"
+      },
+      {
+        "content": "16",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_196.png"
+    ],
+    "id": 196
+  },
+  {
+    "messages": [
+      {
+        "content": "If one tray of polygon flowers contains 8 flowers, how many flowers do two trays contain?",
         "role": "user"
       },
       {
@@ -1514,7 +1995,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_196_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_196.png"
     ],
     "id": 196
@@ -1522,7 +2002,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many biscuits can each player cook on a rectangular tray?",
+        "content": "How many biscuits can each player cook on a rectangular tray?",
+        "role": "user"
+      },
+      {
+        "content": "6",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1967.png"
+    ],
+    "id": 1967
+  },
+  {
+    "messages": [
+      {
+        "content": "How many biscuits can each player cook on a rectangular tray?",
         "role": "user"
       },
       {
@@ -1539,7 +2035,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1967_grid9.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1967.png"
     ],
     "id": 1967
@@ -1563,7 +2058,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow do the ellipse trays fit together to form an octagon shape?",
+        "content": "How do the ellipse trays fit together to form an octagon shape?",
+        "role": "user"
+      },
+      {
+        "content": "The ellipse trays can be arranged in a pattern that aligns their longer edges to form an octagon shape.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1975.png"
+    ],
+    "id": 1975
+  },
+  {
+    "messages": [
+      {
+        "content": "How do the ellipse trays fit together to form an octagon shape?",
         "role": "user"
       },
       {
@@ -1580,7 +2091,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_1975_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1975.png"
     ],
     "id": 1975
@@ -1652,7 +2162,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many cakes are needed to make a plate like the square tray?",
+        "content": "How many cakes are needed to make a plate like the square tray?",
+        "role": "user"
+      },
+      {
+        "content": "24",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_226.png"
+    ],
+    "id": 226
+  },
+  {
+    "messages": [
+      {
+        "content": "How many cakes are needed to make a plate like the square tray?",
         "role": "user"
       },
       {
@@ -1669,7 +2195,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_226_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_226.png"
     ],
     "id": 226
@@ -1693,7 +2218,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many trays of balls are required to match the number of balls in the square tray?",
+        "content": "How many trays of balls are required to match the number of balls in the square tray?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_236.png"
+    ],
+    "id": 236
+  },
+  {
+    "messages": [
+      {
+        "content": "How many trays of balls are required to match the number of balls in the square tray?",
         "role": "user"
       },
       {
@@ -1710,7 +2251,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_236_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_236.png"
     ],
     "id": 236
@@ -1782,7 +2322,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many cakes are needed to fill two square trays?",
+        "content": "How many cakes are needed to fill two square trays?",
+        "role": "user"
+      },
+      {
+        "content": "18",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_368.png"
+    ],
+    "id": 368
+  },
+  {
+    "messages": [
+      {
+        "content": "How many cakes are needed to fill two square trays?",
         "role": "user"
       },
       {
@@ -1799,7 +2355,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_368_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_368.png"
     ],
     "id": 368
@@ -1807,7 +2362,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many balls are needed to fill the circle tray?",
+        "content": "How many balls are needed to fill the circle tray?",
+        "role": "user"
+      },
+      {
+        "content": "24",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_393.png"
+    ],
+    "id": 393
+  },
+  {
+    "messages": [
+      {
+        "content": "How many balls are needed to fill the circle tray?",
         "role": "user"
       },
       {
@@ -1824,7 +2395,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_393_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_393.png"
     ],
     "id": 393
@@ -1832,7 +2402,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat are the measured dimensions of the ellipse tray (semi-major and semi-minor axes) from the image?",
+        "content": "What are the measured dimensions of the ellipse tray (semi-major and semi-minor axes) from the image?",
+        "role": "user"
+      },
+      {
+        "content": "Semi-major axis: 5 units, Semi-minor axis: 3 units",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_396.png"
+    ],
+    "id": 396
+  },
+  {
+    "messages": [
+      {
+        "content": "What are the measured dimensions of the ellipse tray (semi-major and semi-minor axes) from the image?",
         "role": "user"
       },
       {
@@ -1849,7 +2435,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_396_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_396.png"
     ],
     "id": 396
@@ -1873,7 +2458,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many cakes are there in two square trays?",
+        "content": "How many cakes are there in two square trays?",
+        "role": "user"
+      },
+      {
+        "content": "8",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_469.png"
+    ],
+    "id": 469
+  },
+  {
+    "messages": [
+      {
+        "content": "How many cakes are there in two square trays?",
         "role": "user"
       },
       {
@@ -1890,7 +2491,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_469_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_469.png"
     ],
     "id": 469
@@ -1914,7 +2514,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many trays from the circle are needed to equal 16 flowers?",
+        "content": "How many trays from the circle are needed to equal 16 flowers?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_525.png"
+    ],
+    "id": 525
+  },
+  {
+    "messages": [
+      {
+        "content": "How many trays from the circle are needed to equal 16 flowers?",
         "role": "user"
       },
       {
@@ -1931,7 +2547,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_525_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_525.png"
     ],
     "id": 525
@@ -1939,7 +2554,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the difference in the total number of balls between using 6 trays and the required number of balls for a rectangle tray?",
+        "content": "What is the difference in the total number of balls between using 6 trays and the required number of balls for a rectangle tray?",
+        "role": "user"
+      },
+      {
+        "content": "2",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_531.png"
+    ],
+    "id": 531
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the difference in the total number of balls between using 6 trays and the required number of balls for a rectangle tray?",
         "role": "user"
       },
       {
@@ -1956,7 +2587,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_531_grid13.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_531.png"
     ],
     "id": 531
@@ -2028,7 +2658,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nGiven the ratio of the areas, what is the minimum number of rectangle trays required to cover the circle tray?",
+        "content": "Given the ratio of the areas, what is the minimum number of rectangle trays required to cover the circle tray?",
+        "role": "user"
+      },
+      {
+        "content": "Using the ratio of the area of the circle tray to the area of the rectangle tray, the minimum number of rectangle trays required can be estimated.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_586.png"
+    ],
+    "id": 586
+  },
+  {
+    "messages": [
+      {
+        "content": "Given the ratio of the areas, what is the minimum number of rectangle trays required to cover the circle tray?",
         "role": "user"
       },
       {
@@ -2045,7 +2691,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_586_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_586.png"
     ],
     "id": 586
@@ -2085,7 +2730,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many trays of flowers does each participant use in the competition?",
+        "content": "How many trays of flowers does each participant use in the competition?",
+        "role": "user"
+      },
+      {
+        "content": "1",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_644.png"
+    ],
+    "id": 644
+  },
+  {
+    "messages": [
+      {
+        "content": "How many trays of flowers does each participant use in the competition?",
         "role": "user"
       },
       {
@@ -2102,7 +2763,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_644_grid12.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_644.png"
     ],
     "id": 644
@@ -2142,7 +2802,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat are the exact values of the semi-major axis (a), semi-minor axis (b), and radius (r) based on the image provided?",
+        "content": "What are the exact values of the semi-major axis (a), semi-minor axis (b), and radius (r) based on the image provided?",
+        "role": "user"
+      },
+      {
+        "content": "The exact values are needed from the image.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_700.png"
+    ],
+    "id": 700
+  },
+  {
+    "messages": [
+      {
+        "content": "What are the exact values of the semi-major axis (a), semi-minor axis (b), and radius (r) based on the image provided?",
         "role": "user"
       },
       {
@@ -2159,7 +2835,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_700_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_700.png"
     ],
     "id": 700
@@ -2183,7 +2858,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nCan you count the number of flower arrangements in the square tray?",
+        "content": "Can you count the number of flower arrangements in the square tray?",
+        "role": "user"
+      },
+      {
+        "content": "Yes, the square tray contains 12 flower arrangements.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_79.png"
+    ],
+    "id": 79
+  },
+  {
+    "messages": [
+      {
+        "content": "Can you count the number of flower arrangements in the square tray?",
         "role": "user"
       },
       {
@@ -2200,7 +2891,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_79_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_79.png"
     ],
     "id": 79
@@ -2240,7 +2930,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many cakes are needed to fill one square tray?",
+        "content": "How many cakes are needed to fill one square tray?",
+        "role": "user"
+      },
+      {
+        "content": "16",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_826.png"
+    ],
+    "id": 826
+  },
+  {
+    "messages": [
+      {
+        "content": "How many cakes are needed to fill one square tray?",
         "role": "user"
       },
       {
@@ -2257,7 +2963,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_826_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_826.png"
     ],
     "id": 826
@@ -2297,7 +3002,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many cakes are needed from square trays to match the number of cakes on one ellipse tray?",
+        "content": "How many cakes are needed from square trays to match the number of cakes on one ellipse tray?",
+        "role": "user"
+      },
+      {
+        "content": "6 trays of square cakes (5 cakes per tray) are needed.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_882.png"
+    ],
+    "id": 882
+  },
+  {
+    "messages": [
+      {
+        "content": "How many cakes are needed from square trays to match the number of cakes on one ellipse tray?",
         "role": "user"
       },
       {
@@ -2314,7 +3035,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_882_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_882.png"
     ],
     "id": 882
@@ -2322,7 +3042,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the total number of flowers required from the participants to cover the same area as one rectangular tray?",
+        "content": "What is the total number of flowers required from the participants to cover the same area as one rectangular tray?",
+        "role": "user"
+      },
+      {
+        "content": "16",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_884.png"
+    ],
+    "id": 884
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the total number of flowers required from the participants to cover the same area as one rectangular tray?",
         "role": "user"
       },
       {
@@ -2339,7 +3075,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_884_grid11.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_884.png"
     ],
     "id": 884
@@ -2347,7 +3082,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many cakes are in one tray of cakes in the circle tray?",
+        "content": "How many cakes are in one tray of cakes in the circle tray?",
+        "role": "user"
+      },
+      {
+        "content": "4 cakes per tray",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_887.png"
+    ],
+    "id": 887
+  },
+  {
+    "messages": [
+      {
+        "content": "How many cakes are in one tray of cakes in the circle tray?",
         "role": "user"
       },
       {
@@ -2364,7 +3115,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_887_grid13.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_887.png"
     ],
     "id": 887
@@ -2436,7 +3186,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many trays of cakes are needed to obtain 6 pentagon cakes?",
+        "content": "How many trays of cakes are needed to obtain 6 pentagon cakes?",
+        "role": "user"
+      },
+      {
+        "content": "2 trays (since each polygon tray contains 5 pentagon cakes, 2 trays will give 10 pentagon cakes, more than enough for 6)",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_945.png"
+    ],
+    "id": 945
+  },
+  {
+    "messages": [
+      {
+        "content": "How many trays of cakes are needed to obtain 6 pentagon cakes?",
         "role": "user"
       },
       {
@@ -2453,7 +3219,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_945_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_945.png"
     ],
     "id": 945
@@ -2461,7 +3226,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nHow many square trays cover both the edges and inner area of the polygon tray?",
+        "content": "How many square trays cover both the edges and inner area of the polygon tray?",
+        "role": "user"
+      },
+      {
+        "content": "17",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_977.png"
+    ],
+    "id": 977
+  },
+  {
+    "messages": [
+      {
+        "content": "How many square trays cover both the edges and inner area of the polygon tray?",
         "role": "user"
       },
       {
@@ -2478,7 +3259,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/61/puzzle_61_977_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_977.png"
     ],
     "id": 977

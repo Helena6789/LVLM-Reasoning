@@ -2,7 +2,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the result of subtracting the peak height of the shorter mushroom from the peak height of the taller mushroom?",
+        "content": "What is the result of subtracting the peak height of the shorter mushroom from the peak height of the taller mushroom?",
+        "role": "user"
+      },
+      {
+        "content": "9",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_1003.png"
+    ],
+    "id": 1003
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the result of subtracting the peak height of the shorter mushroom from the peak height of the taller mushroom?",
         "role": "user"
       },
       {
@@ -19,7 +35,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/94/puzzle_94_1003_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_1003.png"
     ],
     "id": 1003
@@ -219,7 +234,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the height of the second tree?",
+        "content": "What is the height of the second tree?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_1261.png"
+    ],
+    "id": 1261
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the height of the second tree?",
         "role": "user"
       },
       {
@@ -227,7 +258,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the gap between the peaks of the two trees?",
+        "content": "What is the gap between the peaks of the two trees?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_1261.png"
+    ],
+    "id": 1261
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the height of the second tree?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      },
+      {
+        "content": "What is the gap between the peaks of the two trees?",
         "role": "user"
       },
       {
@@ -244,8 +299,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/94/puzzle_94_1261_grid6.png",
-      "dataset/clip_images/94/puzzle_94_1261_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_1261.png"
     ],
     "id": 1261
@@ -381,7 +434,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the total vertical distance from the peak of the first tree to the base of the second tree?",
+        "content": "What is the total vertical distance from the peak of the first tree to the base of the second tree?",
+        "role": "user"
+      },
+      {
+        "content": "19",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_1375.png"
+    ],
+    "id": 1375
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the total vertical distance from the peak of the first tree to the base of the second tree?",
         "role": "user"
       },
       {
@@ -398,7 +467,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/94/puzzle_94_1375_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_1375.png"
     ],
     "id": 1375
@@ -566,7 +634,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nUsing the formula from Step 3, what is the gap between the heights of the two buildings?",
+        "content": "Using the formula from Step 3, what is the gap between the heights of the two buildings?",
+        "role": "user"
+      },
+      {
+        "content": "Gap = 7 - 4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_1550.png"
+    ],
+    "id": 1550
+  },
+  {
+    "messages": [
+      {
+        "content": "Using the formula from Step 3, what is the gap between the heights of the two buildings?",
         "role": "user"
       },
       {
@@ -574,7 +658,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the result of the calculation using the formula from Step 4?",
+        "content": "What is the result of the calculation using the formula from Step 4?",
+        "role": "user"
+      },
+      {
+        "content": "7 - 4 = 3",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_1550.png"
+    ],
+    "id": 1550
+  },
+  {
+    "messages": [
+      {
+        "content": "Using the formula from Step 3, what is the gap between the heights of the two buildings?",
+        "role": "user"
+      },
+      {
+        "content": "Gap = 7 - 4",
+        "role": "assistant"
+      },
+      {
+        "content": "What is the result of the calculation using the formula from Step 4?",
         "role": "user"
       },
       {
@@ -591,8 +699,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/94/puzzle_94_1550_grid12.png",
-      "dataset/clip_images/94/puzzle_94_1550_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_1550.png"
     ],
     "id": 1550
@@ -760,7 +866,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the result when you subtract 12 from 19?",
+        "content": "What is the result when you subtract 12 from 19?",
+        "role": "user"
+      },
+      {
+        "content": "7",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_1693.png"
+    ],
+    "id": 1693
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the result when you subtract 12 from 19?",
         "role": "user"
       },
       {
@@ -777,7 +899,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/94/puzzle_94_1693_grid6.png",
       "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_1693.png"
     ],
     "id": 1693
@@ -961,7 +1082,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the computed difference in elevations of the two mushrooms?",
+        "content": "What is the computed difference in elevations of the two mushrooms?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_1909.png"
+    ],
+    "id": 1909
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the computed difference in elevations of the two mushrooms?",
         "role": "user"
       },
       {
@@ -978,7 +1115,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/94/puzzle_94_1909_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_1909.png"
     ],
     "id": 1909
@@ -1002,7 +1138,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the value of 7 - 3?",
+        "content": "What is the value of 7 - 3?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_1992.png"
+    ],
+    "id": 1992
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the value of 7 - 3?",
         "role": "user"
       },
       {
@@ -1019,7 +1171,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/94/puzzle_94_1992_grid1.png",
       "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_1992.png"
     ],
     "id": 1992
@@ -1315,7 +1466,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the result of the calculation 20 - 15?",
+        "content": "What is the result of the calculation 20 - 15?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_486.png"
+    ],
+    "id": 486
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the result of the calculation 20 - 15?",
         "role": "user"
       },
       {
@@ -1332,7 +1499,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/94/puzzle_94_486_grid1.png",
       "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_486.png"
     ],
     "id": 486
@@ -1404,7 +1570,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the calculated gap between the peaks of the mushrooms?",
+        "content": "What is the calculated gap between the peaks of the mushrooms?",
+        "role": "user"
+      },
+      {
+        "content": "10",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_532.png"
+    ],
+    "id": 532
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the calculated gap between the peaks of the mushrooms?",
         "role": "user"
       },
       {
@@ -1421,7 +1603,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/94/puzzle_94_532_grid5.png",
       "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_532.png"
     ],
     "id": 532
@@ -1477,7 +1658,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the calculation you get from subtracting the elevation of the shorter mushroom from the elevation of the taller mushroom?",
+        "content": "What is the calculation you get from subtracting the elevation of the shorter mushroom from the elevation of the taller mushroom?",
+        "role": "user"
+      },
+      {
+        "content": "11",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_61.png"
+    ],
+    "id": 61
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the calculation you get from subtracting the elevation of the shorter mushroom from the elevation of the taller mushroom?",
         "role": "user"
       },
       {
@@ -1494,7 +1691,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/94/puzzle_94_61_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_61.png"
     ],
     "id": 61
@@ -1662,7 +1858,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the height of the level the taller tree is on?",
+        "content": "What is the height of the level the taller tree is on?",
+        "role": "user"
+      },
+      {
+        "content": "12",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_768.png"
+    ],
+    "id": 768
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the height of the level the taller tree is on?",
         "role": "user"
       },
       {
@@ -1670,7 +1882,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the height of the level the shorter tree is on?",
+        "content": "What is the height of the level the shorter tree is on?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_768.png"
+    ],
+    "id": 768
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the height of the level the taller tree is on?",
+        "role": "user"
+      },
+      {
+        "content": "12",
+        "role": "assistant"
+      },
+      {
+        "content": "What is the height of the level the shorter tree is on?",
         "role": "user"
       },
       {
@@ -1678,15 +1914,23 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the combined height of the shorter tree and the level it is on?",
+        "content": "What is the combined height of the shorter tree and the level it is on?",
         "role": "user"
       },
       {
         "content": "8",
         "role": "assistant"
-      },
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_768.png"
+    ],
+    "id": 768
+  },
+  {
+    "messages": [
       {
-        "content": "<image>\nWhat is the combined height of the taller tree and the level it is on?",
+        "content": "What is the height of the level the taller tree is on?",
         "role": "user"
       },
       {
@@ -1694,7 +1938,119 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the height difference between the peaks of the taller tree and the shorter tree?",
+        "content": "What is the height of the level the shorter tree is on?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      },
+      {
+        "content": "What is the combined height of the shorter tree and the level it is on?",
+        "role": "user"
+      },
+      {
+        "content": "8",
+        "role": "assistant"
+      },
+      {
+        "content": "What is the combined height of the taller tree and the level it is on?",
+        "role": "user"
+      },
+      {
+        "content": "12",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_768.png"
+    ],
+    "id": 768
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the height of the level the taller tree is on?",
+        "role": "user"
+      },
+      {
+        "content": "12",
+        "role": "assistant"
+      },
+      {
+        "content": "What is the height of the level the shorter tree is on?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      },
+      {
+        "content": "What is the combined height of the shorter tree and the level it is on?",
+        "role": "user"
+      },
+      {
+        "content": "8",
+        "role": "assistant"
+      },
+      {
+        "content": "What is the combined height of the taller tree and the level it is on?",
+        "role": "user"
+      },
+      {
+        "content": "12",
+        "role": "assistant"
+      },
+      {
+        "content": "What is the height difference between the peaks of the taller tree and the shorter tree?",
+        "role": "user"
+      },
+      {
+        "content": "4",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_768.png"
+    ],
+    "id": 768
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the height of the level the taller tree is on?",
+        "role": "user"
+      },
+      {
+        "content": "12",
+        "role": "assistant"
+      },
+      {
+        "content": "What is the height of the level the shorter tree is on?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      },
+      {
+        "content": "What is the combined height of the shorter tree and the level it is on?",
+        "role": "user"
+      },
+      {
+        "content": "8",
+        "role": "assistant"
+      },
+      {
+        "content": "What is the combined height of the taller tree and the level it is on?",
+        "role": "user"
+      },
+      {
+        "content": "12",
+        "role": "assistant"
+      },
+      {
+        "content": "What is the height difference between the peaks of the taller tree and the shorter tree?",
         "role": "user"
       },
       {
@@ -1711,11 +2067,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/94/puzzle_94_768_grid4.png",
-      "dataset/clip_images/94/puzzle_94_768_grid4.png",
-      "dataset/clip_images/94/puzzle_94_768_grid4.png",
-      "dataset/clip_images/94/puzzle_94_768_grid4.png",
-      "dataset/clip_images/94/puzzle_94_768_grid4.png",
       "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_768.png"
     ],
     "id": 768
@@ -1835,7 +2186,23 @@
   {
     "messages": [
       {
-        "content": "<image>\nWhat operation will you use to find the difference between the two numbers?",
+        "content": "What operation will you use to find the difference between the two numbers?",
+        "role": "user"
+      },
+      {
+        "content": "Subtract the smaller number from the larger number.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_898.png"
+    ],
+    "id": 898
+  },
+  {
+    "messages": [
+      {
+        "content": "What operation will you use to find the difference between the two numbers?",
         "role": "user"
       },
       {
@@ -1843,7 +2210,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is 10 minus 5?",
+        "content": "What is 10 minus 5?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_898.png"
+    ],
+    "id": 898
+  },
+  {
+    "messages": [
+      {
+        "content": "What operation will you use to find the difference between the two numbers?",
+        "role": "user"
+      },
+      {
+        "content": "Subtract the smaller number from the larger number.",
+        "role": "assistant"
+      },
+      {
+        "content": "What is 10 minus 5?",
         "role": "user"
       },
       {
@@ -1860,8 +2251,6 @@
       }
     ],
     "images": [
-      "dataset/clip_images/94/puzzle_94_898_grid6.png",
-      "dataset/clip_images/94/puzzle_94_898_grid1.png",
       "dataset/SMART101-release-v1/SMART101-Data/94/img/puzzle_94_898.png"
     ],
     "id": 898
