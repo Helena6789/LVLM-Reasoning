@@ -172,8 +172,8 @@ def hierarchical_scoring(image, text, model, processor, device, levels=3):
 
 def process_entry(entry, model, transform, device):
     """Processes a single entry to add relevance scores for each `8x8`-based subimage."""
-    question = entry['messages'][0]['content'].replace("<image>\n", "")
-    formatted_text = f"Question: {question} Answer: {entry['messages'][1]['content']}"
+    question = entry['messages'][-2]['content'].replace("<image>\n", "")
+    formatted_text = f"Question: {question} Answer: {entry['messages'][-1]['content']}"
     
     image_path = entry['images'][0]
     image = Image.open(image_path)
@@ -213,7 +213,9 @@ def process_dataset(json_path, output_path, model, transform, device):
         json.dump(data, f, indent=2)
 
 def main():
-    with open("/scratch/czr/LVLM-Reasoning/dataset/finetune_dataset/smart101.json", 'r') as f:
+    data_root = './dataset/finetune_dataset/'
+    new_data_root = "./dataset/finetune_dataset_subimage"
+    with open(os.path.join(data_root, "smart101.json"), 'r') as f:
         smart101_data = json.load(f)
     
     updated_smart101_data = {}
@@ -223,11 +225,15 @@ def main():
         #     continue
         # if idx >= 60:
         #     break
-        
+
+        # only process implicit cot train dataset.
+        if not entry_name.startswith('smart101_implicit_cot') or ('train' not in entry_name):
+            print("skip entry_name:{}, not implicit cot data..".format(entry_name))
+            continue
+
         dataset_path = entry_data["dataset_path"]
-        print(dataset_path)
-        full_dataset_path = os.path.join("/scratch/czr/LVLM-Reasoning/dataset/finetune_dataset", dataset_path)
-        new_dataset_path = os.path.join("/scratch/czr/LVLM-Reasoning/dataset/finetune_dataset_subimage", dataset_path)
+        full_dataset_path = os.path.join(data_root, dataset_path)
+        new_dataset_path = os.path.join(new_data_root, dataset_path)
         
         process_dataset(full_dataset_path, new_dataset_path, model, transform, device)
         
@@ -236,7 +242,7 @@ def main():
             "tags": entry_data["tags"]
         }
     
-        new_smart101_path = "/scratch/czr/LVLM-Reasoning/dataset/finetune_dataset_subimage/smart101.json"
+        new_smart101_path = os.path.join(new_data_root, "smart101.json")
         with open(new_smart101_path, 'w') as f:
             json.dump(updated_smart101_data, f, indent=2)
 
