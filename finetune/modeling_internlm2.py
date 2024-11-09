@@ -1210,7 +1210,7 @@ class InternLM2ForCausalLM(InternLM2PreTrainedModel):
         ### Aggregated loss
         lambda_r = 0.1
         loss = loss + lambda_r * ranking_loss
-        print("ranking_loss", ranking_loss)
+        # print("ranking_loss", ranking_loss)
         # print("loss here", loss)
         # input()
 
