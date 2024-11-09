@@ -953,7 +953,7 @@ class InternLM2Model(InternLM2PreTrainedModel):
         use_cache = use_cache if use_cache is not None else self.config.use_cache
 
         return_dict = return_dict if return_dict is not None else self.config.use_return_dict
-
+        self.gradient_checkpointing = False
         if self.config.attn_implementation == 'flash_attention_2':
             _import_flash_attn()
 
@@ -1017,24 +1017,24 @@ class InternLM2Model(InternLM2PreTrainedModel):
 
             past_key_value = past_key_values[idx] if past_key_values is not None else None
 
-            # if self.gradient_checkpointing and self.training:
+            if self.gradient_checkpointing and self.training:
 
-            #     def create_custom_forward(module):
-            #         def custom_forward(*inputs):
-            #             # None for past_key_value
-            #             return module(*inputs, output_attentions, None)
+                def create_custom_forward(module):
+                    def custom_forward(*inputs):
+                        # None for past_key_value
+                        return module(*inputs, output_attentions, None)
 
-            #         return custom_forward
+                    return custom_forward
 
-            #     layer_outputs = torch.utils.checkpoint.checkpoint(
-            #         create_custom_forward(decoder_layer),
-            #         hidden_states,
-            #         attention_mask,
-            #         position_ids,
-            #         None,
-            #     )
-            # else:
-            if True:
+                layer_outputs = torch.utils.checkpoint.checkpoint(
+                    create_custom_forward(decoder_layer),
+                    hidden_states,
+                    attention_mask,
+                    position_ids,
+                    None,
+                )
+            else:
+            # if True:
                 layer_outputs, ranking_loss = decoder_layer(
                     hidden_states,
                     attention_mask=attention_mask,
@@ -1210,7 +1210,7 @@ class InternLM2ForCausalLM(InternLM2PreTrainedModel):
         ### Aggregated loss
         lambda_r = 0.1
         loss = loss + lambda_r * ranking_loss
-        # print("ranking_loss", ranking_loss)
+        print("ranking_loss", ranking_loss)
         # print("loss here", loss)
         # input()
 
