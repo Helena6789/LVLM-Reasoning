@@ -4,13 +4,12 @@ if [ "$#" -ne 4 ]; then
     echo "Please provide the puzzle_id, start_stage, max_stage, step: e.g: ./run_stage_finetune_lora_attn.sh 18 1 9 1"
     exit 1
 fi
-
 puzzle_id=$1
 start_stage=$2
 max_stage=$3
 step=$4
 date=$(date '+%Y%m%d-%H%M%S')
-model_type="internvl2-8b"
+model_type="internvl2-8b-att"
 
 if [[ $start_stage -lt 0 ]] || [[ $start_stage -gt $max_stage ]]; then
     echo "start stage value should great than 0 less than max_stage"

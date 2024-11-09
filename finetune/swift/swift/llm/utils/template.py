@@ -2397,7 +2397,7 @@ class InternvlTemplate(Template):
         return image_context
 
     def _encode(self, example: Dict[str, Any]) -> Tuple[Dict[str, Any], Dict[str, Any]]:
-
+        
         inputs, _ = super()._encode(example)
         if len(inputs) == 0:
             return inputs, {}

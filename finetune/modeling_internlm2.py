@@ -1017,23 +1017,24 @@ class InternLM2Model(InternLM2PreTrainedModel):
 
             past_key_value = past_key_values[idx] if past_key_values is not None else None
 
-            if self.gradient_checkpointing and self.training:
+            # if self.gradient_checkpointing and self.training:
 
-                def create_custom_forward(module):
-                    def custom_forward(*inputs):
-                        # None for past_key_value
-                        return module(*inputs, output_attentions, None)
+            #     def create_custom_forward(module):
+            #         def custom_forward(*inputs):
+            #             # None for past_key_value
+            #             return module(*inputs, output_attentions, None)
 
-                    return custom_forward
+            #         return custom_forward
 
-                layer_outputs = torch.utils.checkpoint.checkpoint(
-                    create_custom_forward(decoder_layer),
-                    hidden_states,
-                    attention_mask,
-                    position_ids,
-                    None,
-                )
-            else:
+            #     layer_outputs = torch.utils.checkpoint.checkpoint(
+            #         create_custom_forward(decoder_layer),
+            #         hidden_states,
+            #         attention_mask,
+            #         position_ids,
+            #         None,
+            #     )
+            # else:
+            if True:
                 layer_outputs, ranking_loss = decoder_layer(
                     hidden_states,
                     attention_mask=attention_mask,
