@@ -21,6 +21,10 @@ def generate_llama_output(df, minmum_level, prompt_type, data_type, full_image_p
     
     use_sub_image = include_sub_qa and sub_image_path and len(sub_image_path) !=0
 
+    # remove all the empty answers and reassign level
+    df = df[df['answer'].notna()]
+    df['level'] = df.groupby('sub_question_id').cumcount()
+
     for image_path, group in df.groupby('image_path'):
         messages = []
         subimage_paths = []

@@ -23074,30 +23074,6 @@
   {
     "messages": [
       {
-        "content": "What are the types of flowers in the first bucket?",
-        "role": "user"
-      },
-      {
-        "content": "Roses, Tulips, Daisies, Orchids",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1742.png"
-    ],
-    "id": 1742
-  },
-  {
-    "messages": [
-      {
-        "content": "What are the types of flowers in the first bucket?",
-        "role": "user"
-      },
-      {
-        "content": "Roses, Tulips, Daisies, Orchids",
-        "role": "assistant"
-      },
-      {
         "content": "What are the counts of each type of flower in the first bucket?",
         "role": "user"
       },
@@ -23113,14 +23089,6 @@
   },
   {
     "messages": [
-      {
-        "content": "What are the types of flowers in the first bucket?",
-        "role": "user"
-      },
-      {
-        "content": "Roses, Tulips, Daisies, Orchids",
-        "role": "assistant"
-      },
       {
         "content": "What are the counts of each type of flower in the first bucket?",
         "role": "user"
@@ -23145,14 +23113,6 @@
   },
   {
     "messages": [
-      {
-        "content": "What are the types of flowers in the first bucket?",
-        "role": "user"
-      },
-      {
-        "content": "Roses, Tulips, Daisies, Orchids",
-        "role": "assistant"
-      },
       {
         "content": "What are the counts of each type of flower in the first bucket?",
         "role": "user"
@@ -23185,14 +23145,6 @@
   },
   {
     "messages": [
-      {
-        "content": "What are the types of flowers in the first bucket?",
-        "role": "user"
-      },
-      {
-        "content": "Roses, Tulips, Daisies, Orchids",
-        "role": "assistant"
-      },
       {
         "content": "What are the counts of each type of flower in the first bucket?",
         "role": "user"
@@ -23233,14 +23185,6 @@
   },
   {
     "messages": [
-      {
-        "content": "What are the types of flowers in the first bucket?",
-        "role": "user"
-      },
-      {
-        "content": "Roses, Tulips, Daisies, Orchids",
-        "role": "assistant"
-      },
       {
         "content": "What are the counts of each type of flower in the first bucket?",
         "role": "user"
@@ -46945,30 +46889,6 @@
   },
   {
     "messages": [
-      {
-        "content": "After Mary adds the necessary balls, how many of each type of ball are in each pot?",
-        "role": "user"
-      },
-      {
-        "content": "{'Pot 1': {'Soccer': 5, 'Football': 4, 'Other': 3}, 'Pot 2': {'Soccer': 5, 'Football': 4, 'Other': 3}}",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_826.png"
-    ],
-    "id": 826
-  },
-  {
-    "messages": [
-      {
-        "content": "After Mary adds the necessary balls, how many of each type of ball are in each pot?",
-        "role": "user"
-      },
-      {
-        "content": "{'Pot 1': {'Soccer': 5, 'Football': 4, 'Other': 3}, 'Pot 2': {'Soccer': 5, 'Football': 4, 'Other': 3}}",
-        "role": "assistant"
-      },
       {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Mary has two pots with balls, as demonstrated. She purchases additional balls and sets them in the pots. Subsequently, each pot has an identical count of each variety of ball. What is the minimum count of balls she should purchase? A: 4,B: 6,C: 3,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"

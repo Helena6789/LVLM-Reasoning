@@ -2,22 +2,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 18 houses has 6 straight pathways and 6 circular pathways. The map depicts 17 of the houses. On every straight pathway there are 3 houses. On every circular pathway, there are also 3 houses. Where on the map should the 18th house be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "D",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_0.png"
-    ],
-    "id": 0
-  },
-  {
-    "messages": [
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: A town with 8 condos has 4 straight lanes and 4 round lanes. The drawing illustrates 7 of the condos. On every straight lane there are 2 condos. On every round lane, there are also 2 condos. Which place on the drawing should the 8th condo be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -222,22 +206,6 @@
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1062.png"
     ],
     "id": 1062
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A small town with 12 condos has 4 straight pathways and 4 circular pathways. The map illustrates 11 of the condos. On each straight pathway there are 3 condos. On each circular pathway, there are also 3 condos. Which location on the map should the 12th condo be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "A",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1085.png"
-    ],
-    "id": 1085
   },
   {
     "messages": [
@@ -706,22 +674,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A place with 6 apartments has 3 straight lanes and 3 round lanes. The map illustrates 5 of the apartments. On every straight lane there are 2 apartments. On every round lane, there are also 2 apartments. Where on the map should the 6th apartment be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "A",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_127.png"
-    ],
-    "id": 127
-  },
-  {
-    "messages": [
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: A community with 10 houses has 5 straight lanes and 5 circular lanes. The drawing illustrates 9 of the houses. On every straight lane there are 2 houses. On every circular lane, there are also 2 houses. Which place on the drawing should the 10th house be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -870,22 +822,6 @@
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1398.png"
     ],
     "id": 1398
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A small town with 10 condos has 5 straight paths and 5 round paths. The picture shows 9 of the condos. On every straight path there are 2 condos. On every round path, there are also 2 condos. Which location on the picture should the 10th condo be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1405.png"
-    ],
-    "id": 1405
   },
   {
     "messages": [
@@ -1177,30 +1113,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Which coordinate locations currently have circular roads involving house A?",
-        "role": "user"
-      },
-      {
-        "content": "A-E",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1554.png"
-    ],
-    "id": 1554
-  },
-  {
-    "messages": [
-      {
-        "content": "Which coordinate locations currently have circular roads involving house A?",
-        "role": "user"
-      },
-      {
-        "content": "A-E",
-        "role": "assistant"
-      },
       {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: A small town with 6 houses has 3 straight roads and 3 circular roads. The map shows 5 of the houses. On each straight road there are 2 houses. On each circular road, there are also 2 houses. Which location on the map should the 6th house be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
@@ -1546,46 +1458,6 @@
   {
     "messages": [
       {
-        "content": "Which houses are already occupied on the 4th straight path?",
-        "role": "user"
-      },
-      {
-        "content": "G",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1672.png"
-    ],
-    "id": 1672
-  },
-  {
-    "messages": [
-      {
-        "content": "Which houses are already occupied on the 4th straight path?",
-        "role": "user"
-      },
-      {
-        "content": "G",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A place with 8 houses has 4 straight paths and 4 circular paths. The map shows 7 of the houses. On each straight path there are 2 houses. On each circular path, there are also 2 houses. Which place on the map should the 8th house be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1672.png"
-    ],
-    "id": 1672
-  },
-  {
-    "messages": [
-      {
         "content": "Which round lane are apartments A and F on?",
         "role": "user"
       },
@@ -1642,30 +1514,6 @@
   {
     "messages": [
       {
-        "content": "Which apartments are directly connected to apartment A?",
-        "role": "user"
-      },
-      {
-        "content": "B, E",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1686.png"
-    ],
-    "id": 1686
-  },
-  {
-    "messages": [
-      {
-        "content": "Which apartments are directly connected to apartment A?",
-        "role": "user"
-      },
-      {
-        "content": "B, E",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: A town with 6 apartments has 3 straight paths and 3 circular paths. The picture illustrates 5 of the apartments. On every straight path there are 2 apartments. On every circular path, there are also 2 apartments. Where on the picture should the 6th apartment be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -1678,22 +1526,6 @@
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1686.png"
     ],
     "id": 1686
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A place with 12 dwellings has 4 straight pathways and 4 round pathways. The map depicts 11 of the dwellings. On every straight pathway there are 3 dwellings. On every round pathway, there are also 3 dwellings. Where on the map should the 12th dwelling be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "B",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1697.png"
-    ],
-    "id": 1697
   },
   {
     "messages": [
@@ -1833,30 +1665,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Which specific hut is missing from the circular lane marked 'E'?",
-        "role": "user"
-      },
-      {
-        "content": "The hut on the Green straight lane is missing from the circular lane 'E'",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1733.png"
-    ],
-    "id": 1733
-  },
-  {
-    "messages": [
-      {
-        "content": "Which specific hut is missing from the circular lane marked 'E'?",
-        "role": "user"
-      },
-      {
-        "content": "The hut on the Green straight lane is missing from the circular lane 'E'",
-        "role": "assistant"
-      },
       {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 24 huts has 6 straight lanes and 6 circular lanes. The drawing shows 23 of the huts. On every straight lane there are 4 huts. On every circular lane, there are also 4 huts. Where on the drawing should the 24th hut be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
@@ -2114,30 +1922,6 @@
   {
     "messages": [
       {
-        "content": "Which location on the round lanes A, B, D, and E is already occupied by one dwelling?",
-        "role": "user"
-      },
-      {
-        "content": "Locations A, B, D, and E each have one dwelling already.",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1778.png"
-    ],
-    "id": 1778
-  },
-  {
-    "messages": [
-      {
-        "content": "Which location on the round lanes A, B, D, and E is already occupied by one dwelling?",
-        "role": "user"
-      },
-      {
-        "content": "Locations A, B, D, and E each have one dwelling already.",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: A town with 12 dwellings has 6 straight lanes and 6 round lanes. The picture illustrates 11 of the dwellings. On every straight lane there are 2 dwellings. On every round lane, there are also 2 dwellings. Which location on the picture should the 12th dwelling be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -2210,30 +1994,6 @@
   {
     "messages": [
       {
-        "content": "Which condos are connected by both straight and circular roads?",
-        "role": "user"
-      },
-      {
-        "content": "A",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1790.png"
-    ],
-    "id": 1790
-  },
-  {
-    "messages": [
-      {
-        "content": "Which condos are connected by both straight and circular roads?",
-        "role": "user"
-      },
-      {
-        "content": "A",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: A place with 6 condos has 3 straight roads and 3 circular roads. The drawing shows 5 of the condos. On each straight road there are 2 condos. On each circular road, there are also 2 condos. Which location on the drawing should the 6th condo be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -2249,30 +2009,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Which point on the circular pathway does not currently have a hut?",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1807.png"
-    ],
-    "id": 1807
-  },
-  {
-    "messages": [
-      {
-        "content": "Which point on the circular pathway does not currently have a hut?",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      },
       {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: A community with 6 huts has 3 straight pathways and 3 circular pathways. The map depicts 5 of the huts. On every straight pathway there are 2 huts. On every circular pathway, there are also 2 huts. Where on the map should the 6th hut be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
@@ -2318,22 +2054,6 @@
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1827.png"
     ],
     "id": 1827
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A community with 15 huts has 5 straight pathways and 5 circular pathways. The map illustrates 14 of the huts. On each straight pathway there are 3 huts. On each circular pathway, there are also 3 huts. Where on the map should the 15th hut be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "A",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1868.png"
-    ],
-    "id": 1868
   },
   {
     "messages": [
@@ -2554,30 +2274,6 @@
   {
     "messages": [
       {
-        "content": "Which lane should house F be placed on if it is not one of the straight lanes?",
-        "role": "user"
-      },
-      {
-        "content": "The middle round lane",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1968.png"
-    ],
-    "id": 1968
-  },
-  {
-    "messages": [
-      {
-        "content": "Which lane should house F be placed on if it is not one of the straight lanes?",
-        "role": "user"
-      },
-      {
-        "content": "The middle round lane",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: A community with 6 houses has 3 straight lanes and 3 round lanes. The drawing illustrates 5 of the houses. On each straight lane there are 2 houses. On each round lane, there are also 2 houses. Which location on the drawing should the 6th house be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -2678,22 +2374,6 @@
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_236.png"
     ],
     "id": 236
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 8 apartments has 4 straight lanes and 4 circular lanes. The picture illustrates 7 of the apartments. On each straight lane there are 2 apartments. On each circular lane, there are also 2 apartments. Where on the picture should the 8th apartment be added?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "A",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_237.png"
-    ],
-    "id": 237
   },
   {
     "messages": [
@@ -3298,30 +2978,6 @@
   {
     "messages": [
       {
-        "content": "Which house is connected to the missing house by a round path?",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_407.png"
-    ],
-    "id": 407
-  },
-  {
-    "messages": [
-      {
-        "content": "Which house is connected to the missing house by a round path?",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: A small town with 6 houses has 3 straight paths and 3 round paths. The drawing depicts 5 of the houses. On every straight path there are 2 houses. On every round path, there are also 2 houses. Which location on the drawing should the 6th house be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -3353,30 +3009,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Which segment on the outermost circular lane (lane 6) is missing a condo?",
-        "role": "user"
-      },
-      {
-        "content": "Segment E",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_424.png"
-    ],
-    "id": 424
-  },
-  {
-    "messages": [
-      {
-        "content": "Which segment on the outermost circular lane (lane 6) is missing a condo?",
-        "role": "user"
-      },
-      {
-        "content": "Segment E",
-        "role": "assistant"
-      },
       {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: A small town with 24 condos has 6 straight lanes and 6 circular lanes. The map shows 23 of the condos. On each straight lane there are 4 condos. On each circular lane, there are also 4 condos. Where on the map should the 24th condo be put?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
@@ -3710,22 +3342,6 @@
       "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_623.png"
     ],
     "id": 623
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: A place with 12 huts has 6 straight lanes and 6 round lanes. The picture shows 11 of the huts. On each straight lane there are 2 huts. On each round lane, there are also 2 huts. Which place on the picture should the 12th hut be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "A",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_630.png"
-    ],
-    "id": 630
   },
   {
     "messages": [
@@ -4241,30 +3857,6 @@
   },
   {
     "messages": [
-      {
-        "content": "How many positions are there in each round lane?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_777.png"
-    ],
-    "id": 777
-  },
-  {
-    "messages": [
-      {
-        "content": "How many positions are there in each round lane?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
       {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: A village with 30 houses has 6 straight lanes and 6 round lanes. The drawing shows 29 of the houses. On every straight lane there are 5 houses. On every round lane, there are also 5 houses. Which place on the drawing should the 30th house be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"

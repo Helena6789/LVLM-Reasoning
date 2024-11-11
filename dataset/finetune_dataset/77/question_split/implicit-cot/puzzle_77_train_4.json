@@ -29762,30 +29762,6 @@
   {
     "messages": [
       {
-        "content": "Which choice has the most similar dot pattern to the figure on the left after inverting colors?",
-        "role": "user"
-      },
-      {
-        "content": "A",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1936.png"
-    ],
-    "id": 1936
-  },
-  {
-    "messages": [
-      {
-        "content": "Which choice has the most similar dot pattern to the figure on the left after inverting colors?",
-        "role": "user"
-      },
-      {
-        "content": "A",
-        "role": "assistant"
-      },
-      {
         "content": "Which choice has the same dot colors as the figure on the left after inverting colors?",
         "role": "user"
       },
@@ -29801,14 +29777,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Which choice has the most similar dot pattern to the figure on the left after inverting colors?",
-        "role": "user"
-      },
-      {
-        "content": "A",
-        "role": "assistant"
-      },
       {
         "content": "Which choice has the same dot colors as the figure on the left after inverting colors?",
         "role": "user"
@@ -33554,30 +33522,6 @@
   {
     "messages": [
       {
-        "content": "What are the colors and shapes inside the left figure when inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Yellow background with various small colored shapes: green circles, orange triangles, and blue squares.",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_245.png"
-    ],
-    "id": 245
-  },
-  {
-    "messages": [
-      {
-        "content": "What are the colors and shapes inside the left figure when inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Yellow background with various small colored shapes: green circles, orange triangles, and blue squares.",
-        "role": "assistant"
-      },
-      {
         "content": "What are the colors and shapes inside figure A?",
         "role": "user"
       },
@@ -33593,14 +33537,6 @@
   },
   {
     "messages": [
-      {
-        "content": "What are the colors and shapes inside the left figure when inverted?",
-        "role": "user"
-      },
-      {
-        "content": "Yellow background with various small colored shapes: green circles, orange triangles, and blue squares.",
-        "role": "assistant"
-      },
       {
         "content": "What are the colors and shapes inside figure A?",
         "role": "user"
@@ -34865,30 +34801,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Which option has a dark blue background?",
-        "role": "user"
-      },
-      {
-        "content": "D",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_270.png"
-    ],
-    "id": 270
-  },
-  {
-    "messages": [
-      {
-        "content": "Which option has a dark blue background?",
-        "role": "user"
-      },
-      {
-        "content": "D",
-        "role": "assistant"
-      },
       {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which drawing matches with the given drawing on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
@@ -37930,30 +37842,6 @@
   {
     "messages": [
       {
-        "content": "What is the primary color of the background of figure B?",
-        "role": "user"
-      },
-      {
-        "content": "Light Green",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_357.png"
-    ],
-    "id": 357
-  },
-  {
-    "messages": [
-      {
-        "content": "What is the primary color of the background of figure B?",
-        "role": "user"
-      },
-      {
-        "content": "Light Green",
-        "role": "assistant"
-      },
-      {
         "content": "What is the primary color of the background of figure D?",
         "role": "user"
       },
@@ -37969,14 +37857,6 @@
   },
   {
     "messages": [
-      {
-        "content": "What is the primary color of the background of figure B?",
-        "role": "user"
-      },
-      {
-        "content": "Light Green",
-        "role": "assistant"
-      },
       {
         "content": "What is the primary color of the background of figure D?",
         "role": "user"
@@ -38001,14 +37881,6 @@
   },
   {
     "messages": [
-      {
-        "content": "What is the primary color of the background of figure B?",
-        "role": "user"
-      },
-      {
-        "content": "Light Green",
-        "role": "assistant"
-      },
       {
         "content": "What is the primary color of the background of figure D?",
         "role": "user"
@@ -38041,14 +37913,6 @@
   },
   {
     "messages": [
-      {
-        "content": "What is the primary color of the background of figure B?",
-        "role": "user"
-      },
-      {
-        "content": "Light Green",
-        "role": "assistant"
-      },
       {
         "content": "What is the primary color of the background of figure D?",
         "role": "user"
@@ -38089,14 +37953,6 @@
   },
   {
     "messages": [
-      {
-        "content": "What is the primary color of the background of figure B?",
-        "role": "user"
-      },
-      {
-        "content": "Light Green",
-        "role": "assistant"
-      },
       {
         "content": "What is the primary color of the background of figure D?",
         "role": "user"
@@ -52082,30 +51938,6 @@
   {
     "messages": [
       {
-        "content": "What are the colors of the small dots in each of the images A, B, C, D, and E?",
-        "role": "user"
-      },
-      {
-        "content": "{'A': ['cyan', 'yellow', 'magenta', 'blue', 'green', 'red', 'orange', 'white', 'grey'], 'B': ['brown', 'cyan', 'orange', 'purple', 'yellow', 'light green', 'pink', 'white', 'black'], 'C': ['green', 'red', 'blue', 'yellow', 'purple', 'cyan', 'pink', 'orange', 'fuchsia'], 'D': ['brown', 'red', 'cyan', 'yellow', 'purple', 'green', 'pink', 'white', 'grey'], 'E': ['green', 'blue', 'red', 'yellow', 'pink', 'magenta', 'purple', 'orange', 'white']}",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_738.png"
-    ],
-    "id": 738
-  },
-  {
-    "messages": [
-      {
-        "content": "What are the colors of the small dots in each of the images A, B, C, D, and E?",
-        "role": "user"
-      },
-      {
-        "content": "{'A': ['cyan', 'yellow', 'magenta', 'blue', 'green', 'red', 'orange', 'white', 'grey'], 'B': ['brown', 'cyan', 'orange', 'purple', 'yellow', 'light green', 'pink', 'white', 'black'], 'C': ['green', 'red', 'blue', 'yellow', 'purple', 'cyan', 'pink', 'orange', 'fuchsia'], 'D': ['brown', 'red', 'cyan', 'yellow', 'purple', 'green', 'pink', 'white', 'grey'], 'E': ['green', 'blue', 'red', 'yellow', 'pink', 'magenta', 'purple', 'orange', 'white']}",
-        "role": "assistant"
-      },
-      {
         "content": "What are the inverted colors of the following colors: brown, blue, green, yellow, purple, red, orange, pink, dark green?",
         "role": "user"
       },
@@ -52121,14 +51953,6 @@
   },
   {
     "messages": [
-      {
-        "content": "What are the colors of the small dots in each of the images A, B, C, D, and E?",
-        "role": "user"
-      },
-      {
-        "content": "{'A': ['cyan', 'yellow', 'magenta', 'blue', 'green', 'red', 'orange', 'white', 'grey'], 'B': ['brown', 'cyan', 'orange', 'purple', 'yellow', 'light green', 'pink', 'white', 'black'], 'C': ['green', 'red', 'blue', 'yellow', 'purple', 'cyan', 'pink', 'orange', 'fuchsia'], 'D': ['brown', 'red', 'cyan', 'yellow', 'purple', 'green', 'pink', 'white', 'grey'], 'E': ['green', 'blue', 'red', 'yellow', 'pink', 'magenta', 'purple', 'orange', 'white']}",
-        "role": "assistant"
-      },
       {
         "content": "What are the inverted colors of the following colors: brown, blue, green, yellow, purple, red, orange, pink, dark green?",
         "role": "user"
@@ -52153,14 +51977,6 @@
   },
   {
     "messages": [
-      {
-        "content": "What are the colors of the small dots in each of the images A, B, C, D, and E?",
-        "role": "user"
-      },
-      {
-        "content": "{'A': ['cyan', 'yellow', 'magenta', 'blue', 'green', 'red', 'orange', 'white', 'grey'], 'B': ['brown', 'cyan', 'orange', 'purple', 'yellow', 'light green', 'pink', 'white', 'black'], 'C': ['green', 'red', 'blue', 'yellow', 'purple', 'cyan', 'pink', 'orange', 'fuchsia'], 'D': ['brown', 'red', 'cyan', 'yellow', 'purple', 'green', 'pink', 'white', 'grey'], 'E': ['green', 'blue', 'red', 'yellow', 'pink', 'magenta', 'purple', 'orange', 'white']}",
-        "role": "assistant"
-      },
       {
         "content": "What are the inverted colors of the following colors: brown, blue, green, yellow, purple, red, orange, pink, dark green?",
         "role": "user"
@@ -52193,14 +52009,6 @@
   },
   {
     "messages": [
-      {
-        "content": "What are the colors of the small dots in each of the images A, B, C, D, and E?",
-        "role": "user"
-      },
-      {
-        "content": "{'A': ['cyan', 'yellow', 'magenta', 'blue', 'green', 'red', 'orange', 'white', 'grey'], 'B': ['brown', 'cyan', 'orange', 'purple', 'yellow', 'light green', 'pink', 'white', 'black'], 'C': ['green', 'red', 'blue', 'yellow', 'purple', 'cyan', 'pink', 'orange', 'fuchsia'], 'D': ['brown', 'red', 'cyan', 'yellow', 'purple', 'green', 'pink', 'white', 'grey'], 'E': ['green', 'blue', 'red', 'yellow', 'pink', 'magenta', 'purple', 'orange', 'white']}",
-        "role": "assistant"
-      },
       {
         "content": "What are the inverted colors of the following colors: brown, blue, green, yellow, purple, red, orange, pink, dark green?",
         "role": "user"
@@ -59729,30 +59537,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Which image (A or B) has a primary color closest to magenta?",
-        "role": "user"
-      },
-      {
-        "content": "A",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_939.png"
-    ],
-    "id": 939
-  },
-  {
-    "messages": [
-      {
-        "content": "Which image (A or B) has a primary color closest to magenta?",
-        "role": "user"
-      },
-      {
-        "content": "A",
-        "role": "assistant"
-      },
       {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which image matches with the given image on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"

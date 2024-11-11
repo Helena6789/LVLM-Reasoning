@@ -15106,30 +15106,6 @@
   {
     "messages": [
       {
-        "content": "Which round lanes only have one dwelling?",
-        "role": "user"
-      },
-      {
-        "content": "B and D",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1778.png"
-    ],
-    "id": 1778
-  },
-  {
-    "messages": [
-      {
-        "content": "Which round lanes only have one dwelling?",
-        "role": "user"
-      },
-      {
-        "content": "B and D",
-        "role": "assistant"
-      },
-      {
         "content": "Which lanes currently have only one dwelling now?",
         "role": "user"
       },
@@ -15145,14 +15121,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Which round lanes only have one dwelling?",
-        "role": "user"
-      },
-      {
-        "content": "B and D",
-        "role": "assistant"
-      },
       {
         "content": "Which lanes currently have only one dwelling now?",
         "role": "user"
@@ -15177,14 +15145,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Which round lanes only have one dwelling?",
-        "role": "user"
-      },
-      {
-        "content": "B and D",
-        "role": "assistant"
-      },
       {
         "content": "Which lanes currently have only one dwelling now?",
         "role": "user"
@@ -15217,14 +15177,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Which round lanes only have one dwelling?",
-        "role": "user"
-      },
-      {
-        "content": "B and D",
-        "role": "assistant"
-      },
       {
         "content": "Which lanes currently have only one dwelling now?",
         "role": "user"
@@ -15265,14 +15217,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Which round lanes only have one dwelling?",
-        "role": "user"
-      },
-      {
-        "content": "B and D",
-        "role": "assistant"
-      },
       {
         "content": "Which lanes currently have only one dwelling now?",
         "role": "user"
@@ -16721,30 +16665,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Which huts are on each straight pathway?",
-        "role": "user"
-      },
-      {
-        "content": "[{'pathway': 'E', 'huts': ['E', 'D', 'C']}, {'pathway': 'C', 'huts': ['C', 'B', 'A']}, {'pathway': 'A', 'huts': ['A', 'D', 'B']}, {'pathway': 'D', 'huts': ['D', 'C', 'B']}, {'pathway': 'B', 'huts': ['B', 'A', 'E']}]",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_1868.png"
-    ],
-    "id": 1868
-  },
-  {
-    "messages": [
-      {
-        "content": "Which huts are on each straight pathway?",
-        "role": "user"
-      },
-      {
-        "content": "[{'pathway': 'E', 'huts': ['E', 'D', 'C']}, {'pathway': 'C', 'huts': ['C', 'B', 'A']}, {'pathway': 'A', 'huts': ['A', 'D', 'B']}, {'pathway': 'D', 'huts': ['D', 'C', 'B']}, {'pathway': 'B', 'huts': ['B', 'A', 'E']}]",
-        "role": "assistant"
-      },
       {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: A community with 15 huts has 5 straight pathways and 5 circular pathways. The map illustrates 14 of the huts. On each straight pathway there are 3 huts. On each circular pathway, there are also 3 huts. Where on the map should the 15th hut be built?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
@@ -28378,30 +28298,6 @@
   {
     "messages": [
       {
-        "content": "Are the paths cyclic or acyclic?",
-        "role": "user"
-      },
-      {
-        "content": "Acyclic",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/73/img/puzzle_73_716.png"
-    ],
-    "id": 716
-  },
-  {
-    "messages": [
-      {
-        "content": "Are the paths cyclic or acyclic?",
-        "role": "user"
-      },
-      {
-        "content": "Acyclic",
-        "role": "assistant"
-      },
-      {
         "content": "Which dwellings are not directly connected to E?",
         "role": "user"
       },
@@ -28417,14 +28313,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Are the paths cyclic or acyclic?",
-        "role": "user"
-      },
-      {
-        "content": "Acyclic",
-        "role": "assistant"
-      },
       {
         "content": "Which dwellings are not directly connected to E?",
         "role": "user"

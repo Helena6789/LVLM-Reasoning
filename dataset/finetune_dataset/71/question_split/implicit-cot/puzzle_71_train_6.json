@@ -15594,22 +15594,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Two exactly similar trains, each with 45 cars, are traveling in opposite directions. When car with digit 27 of one train is opposite car with digit 27 of the other, which car is opposite car with digit 43? A: 32,B: 11,C: 37,D: 26,E: 20. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "B",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_515.png"
-    ],
-    "id": 515
-  },
-  {
-    "messages": [
-      {
         "content": "Which cabin is opposite cabin with digit 6?",
         "role": "user"
       },

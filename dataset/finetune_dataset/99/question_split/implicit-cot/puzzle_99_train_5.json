@@ -16018,30 +16018,6 @@
   {
     "messages": [
       {
-        "content": "What are the counts of each type of flower in the first bucket?",
-        "role": "user"
-      },
-      {
-        "content": "3, 2, 2, 3",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1742.png"
-    ],
-    "id": 1742
-  },
-  {
-    "messages": [
-      {
-        "content": "What are the counts of each type of flower in the first bucket?",
-        "role": "user"
-      },
-      {
-        "content": "3, 2, 2, 3",
-        "role": "assistant"
-      },
-      {
         "content": "What are the types of flowers in the second bucket?",
         "role": "user"
       },
@@ -16057,14 +16033,6 @@
   },
   {
     "messages": [
-      {
-        "content": "What are the counts of each type of flower in the first bucket?",
-        "role": "user"
-      },
-      {
-        "content": "3, 2, 2, 3",
-        "role": "assistant"
-      },
       {
         "content": "What are the types of flowers in the second bucket?",
         "role": "user"
@@ -16089,14 +16057,6 @@
   },
   {
     "messages": [
-      {
-        "content": "What are the counts of each type of flower in the first bucket?",
-        "role": "user"
-      },
-      {
-        "content": "3, 2, 2, 3",
-        "role": "assistant"
-      },
       {
         "content": "What are the types of flowers in the second bucket?",
         "role": "user"
@@ -16129,14 +16089,6 @@
   },
   {
     "messages": [
-      {
-        "content": "What are the counts of each type of flower in the first bucket?",
-        "role": "user"
-      },
-      {
-        "content": "3, 2, 2, 3",
-        "role": "assistant"
-      },
       {
         "content": "What are the types of flowers in the second bucket?",
         "role": "user"
@@ -32414,22 +32366,6 @@
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_82.png"
     ],
     "id": 82
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Mary has two pots with balls, as demonstrated. She purchases additional balls and sets them in the pots. Subsequently, each pot has an identical count of each variety of ball. What is the minimum count of balls she should purchase? A: 4,B: 6,C: 3,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "B",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_826.png"
-    ],
-    "id": 826
   },
   {
     "messages": [

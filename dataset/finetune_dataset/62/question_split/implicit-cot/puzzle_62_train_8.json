@@ -314,22 +314,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Anthony has 8 toy items: a conditioner, a monitor, a cup, an ice cube tray, a soy sauce packet, a toilet, socks, and a plastic fork. He places each toy at a different location of the shelf. The soy sauce packet behind ice cube tray and cup behind conditioner. Conditioner ahead of plastic fork and socks behind soy sauce packet. Ice cube tray ahead of socks. He places cup  as shown. On which location can the monitor not be placed? A: 7,B: 5,C: 8,D: 1,E: 6. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "D",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1174.png"
-    ],
-    "id": 1174
-  },
-  {
-    "messages": [
-      {
         "content": "Is the watch placed ahead of the bag?",
         "role": "user"
       },
@@ -698,22 +682,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Tina has 7 toy objects: packing peanuts, a spoon, a hair tie, a CD, shoes, a seat belt, and a desk. She keeps each toy at a different location of the shelf. The packing peanuts ahead of seat belt. Shoes behind spoon. Desk behind spoon. She keeps CD  as shown. On which location can the packing peanuts not be placed? A: 2,B: 7,C: 1,D: 3,E: 6. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "B",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1423.png"
-    ],
-    "id": 1423
-  },
-  {
-    "messages": [
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Pamela has 6 toy items: a computer, a checkbook, a charger, a table, a car, and a shirt. She keeps each toy at a different location of the shelf. The charger ahead of shirt and car behind checkbook. Computer ahead of checkbook. She keeps car  as shown. On which location can the charger not be placed? A: 3,B: 5,C: 2,D: 1,E: 6. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -798,22 +766,6 @@
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1551.png"
     ],
     "id": 1551
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Kevin has 7 toy items: a magnet, a tree, a charger, shoes, a pen, a lamp, and a cat. He puts each toy at a different location of the shelf. The cat right of tree and magnet left of lamp. Shoes left of lamp and cat right of charger. Magnet left of cat. He puts tree  as shown. On which location can the charger not be placed? A: 1,B: 4,C: 7,D: 6,E: 5. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1565.png"
-    ],
-    "id": 1565
   },
   {
     "messages": [
@@ -905,30 +857,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Which toy is at location 6?",
-        "role": "user"
-      },
-      {
-        "content": "shovel",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_179.png"
-    ],
-    "id": 179
-  },
-  {
-    "messages": [
-      {
-        "content": "Which toy is at location 6?",
-        "role": "user"
-      },
-      {
-        "content": "shovel",
-        "role": "assistant"
-      },
       {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Karen has 8 toy objects: a plate, a boom box, a mouse pad, a phone, flowers, a shovel, lip gloss, and a hair brush. She puts each toy at a different location of the shelf. She puts phone as shown. The plate left of lip gloss. Mouse pad left of hair brush. Boom box left of flowers. Shovel left of lip gloss. Hair brush right of lip gloss. On which location can the boom box not be placed? A: 8,B: 3,C: 4,D: 1,E: 5. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
@@ -1062,22 +990,6 @@
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1941.png"
     ],
     "id": 1941
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Sandra has 6 toy items: video games, an apple, shoes, a knife, a chapter book, and a cinder block. She keeps each toy at a different row of the shelf. She keeps knife as shown. The video games above chapter book and chapter book below apple. Video games above knife. On which row can the video games not be placed? A: 1,B: 6,C: 5,D: 4,E: 2. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1943.png"
-    ],
-    "id": 1943
   },
   {
     "messages": [
@@ -1585,30 +1497,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Given that the bowl is at position 2, the cinder block is at 3, and the air freshener is at position 4, where can the magnet be placed?",
-        "role": "user"
-      },
-      {
-        "content": "1, 5, or 6",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_57.png"
-    ],
-    "id": 57
-  },
-  {
-    "messages": [
-      {
-        "content": "Given that the bowl is at position 2, the cinder block is at 3, and the air freshener is at position 4, where can the magnet be placed?",
-        "role": "user"
-      },
-      {
-        "content": "1, 5, or 6",
-        "role": "assistant"
-      },
       {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Jon has 6 toy objects: nail clippers, a bowl, a cinder block, a food, a magnet, and an air freshener. He keeps each toy at a different location of the shelf. The bowl left of magnet. Cinder block left of air freshener and air freshener right of bowl. He keeps air freshener  as shown. On which location can the magnet not be placed? A: 4,B: 5,C: 1,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"

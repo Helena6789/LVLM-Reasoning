@@ -2042,22 +2042,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Each member in a cooking event cooks one tray of cakes like the square tray shown. What is the minimum number of trays of cakes required to make a plate like the rectangle tray shown below? Ignore the size differences between the cakes in the two trays. A: 5,B: 4,C: 3,D: 1,E: 2. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "A",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1969.png"
-    ],
-    "id": 1969
-  },
-  {
-    "messages": [
-      {
         "content": "How do the ellipse trays fit together to form an octagon shape?",
         "role": "user"
       },

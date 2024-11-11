@@ -2754,30 +2754,6 @@
   {
     "messages": [
       {
-        "content": "Where are the holes located on Card 2?",
-        "role": "user"
-      },
-      {
-        "content": "Top-left and bottom-left",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1222.png"
-    ],
-    "id": 1222
-  },
-  {
-    "messages": [
-      {
-        "content": "Where are the holes located on Card 2?",
-        "role": "user"
-      },
-      {
-        "content": "Top-left and bottom-left",
-        "role": "assistant"
-      },
-      {
         "content": "Where is the third hole located on Card 1?",
         "role": "user"
       },
@@ -2793,14 +2769,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Where are the holes located on Card 2?",
-        "role": "user"
-      },
-      {
-        "content": "Top-left and bottom-left",
-        "role": "assistant"
-      },
       {
         "content": "Where is the third hole located on Card 1?",
         "role": "user"
@@ -5274,30 +5242,6 @@
   {
     "messages": [
       {
-        "content": "Are there any colored holes visible through the holes on card 1?",
-        "role": "user"
-      },
-      {
-        "content": "No",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1455.png"
-    ],
-    "id": 1455
-  },
-  {
-    "messages": [
-      {
-        "content": "Are there any colored holes visible through the holes on card 1?",
-        "role": "user"
-      },
-      {
-        "content": "No",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Carrie has two cards of the same size. Card 1 has four holes cut out. Carrie holds card 1 directly on top of card 2. What does Carrie see? A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -6345,62 +6289,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Where are the holes located on Card 1?",
-        "role": "user"
-      },
-      {
-        "content": "The holes on Card 1 are located in the top-left, middle-left, and bottom-left positions.",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1560.png"
-    ],
-    "id": 1560
-  },
-  {
-    "messages": [
-      {
-        "content": "Where are the holes located on Card 1?",
-        "role": "user"
-      },
-      {
-        "content": "The holes on Card 1 are located in the top-left, middle-left, and bottom-left positions.",
-        "role": "assistant"
-      },
-      {
-        "content": "How many holes are there in total on Card 2?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1560.png"
-    ],
-    "id": 1560
-  },
-  {
-    "messages": [
-      {
-        "content": "Where are the holes located on Card 1?",
-        "role": "user"
-      },
-      {
-        "content": "The holes on Card 1 are located in the top-left, middle-left, and bottom-left positions.",
-        "role": "assistant"
-      },
-      {
-        "content": "How many holes are there in total on Card 2?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
       {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Brian has two cards of the same size. Card 1 has three holes created. Brian places card 1 directly on top of card 2. What does Brian see? A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
@@ -15170,30 +15058,6 @@
   {
     "messages": [
       {
-        "content": "Are the positions of the colored spots on Card 2 visible through the holes in Card 1?",
-        "role": "user"
-      },
-      {
-        "content": "Yes",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_411.png"
-    ],
-    "id": 411
-  },
-  {
-    "messages": [
-      {
-        "content": "Are the positions of the colored spots on Card 2 visible through the holes in Card 1?",
-        "role": "user"
-      },
-      {
-        "content": "Yes",
-        "role": "assistant"
-      },
-      {
         "content": "What colors are visible through the holes when Card 1 is placed on Card 2?",
         "role": "user"
       },
@@ -15209,14 +15073,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Are the positions of the colored spots on Card 2 visible through the holes in Card 1?",
-        "role": "user"
-      },
-      {
-        "content": "Yes",
-        "role": "assistant"
-      },
       {
         "content": "What colors are visible through the holes when Card 1 is placed on Card 2?",
         "role": "user"
@@ -15350,22 +15206,6 @@
       "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_427.png"
     ],
     "id": 427
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Denise has two cards of the same size. Card 1 has three holes created. Denise keeps card 1 directly on top of card 2. What does Denise see? A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "B",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_43.png"
-    ],
-    "id": 43
   },
   {
     "messages": [
@@ -21010,30 +20850,6 @@
   {
     "messages": [
       {
-        "content": "What are the colors of the three holes on Card 1?",
-        "role": "user"
-      },
-      {
-        "content": "Black",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_868.png"
-    ],
-    "id": 868
-  },
-  {
-    "messages": [
-      {
-        "content": "What are the colors of the three holes on Card 1?",
-        "role": "user"
-      },
-      {
-        "content": "Black",
-        "role": "assistant"
-      },
-      {
         "content": "What is the size or shape of the holes in Card 1?",
         "role": "user"
       },
@@ -21049,14 +20865,6 @@
   },
   {
     "messages": [
-      {
-        "content": "What are the colors of the three holes on Card 1?",
-        "role": "user"
-      },
-      {
-        "content": "Black",
-        "role": "assistant"
-      },
       {
         "content": "What is the size or shape of the holes in Card 1?",
         "role": "user"
@@ -21081,14 +20889,6 @@
   },
   {
     "messages": [
-      {
-        "content": "What are the colors of the three holes on Card 1?",
-        "role": "user"
-      },
-      {
-        "content": "Black",
-        "role": "assistant"
-      },
       {
         "content": "What is the size or shape of the holes in Card 1?",
         "role": "user"
@@ -22438,22 +22238,6 @@
       "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_982.png"
     ],
     "id": 982
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Jon has two cards of the same size. Card 1 has four holes drilled. Jon places card 1 directly on top of card 2. What does Jon see? A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "D",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_983.png"
-    ],
-    "id": 983
   },
   {
     "messages": [

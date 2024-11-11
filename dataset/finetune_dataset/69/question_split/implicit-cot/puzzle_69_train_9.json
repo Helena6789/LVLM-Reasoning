@@ -258,22 +258,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Christine has two cards of the same size. Card 1 has three holes created. Christine keeps card 1 directly on top of card 2. What does Christine see? A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "B",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1810.png"
-    ],
-    "id": 1810
-  },
-  {
-    "messages": [
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Rebecca has two cards of the same size. Card 1 has three holes cut out. Rebecca holds card 1 directly on top of card 2. What does Rebecca see? A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -398,22 +382,6 @@
       "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_214.png"
     ],
     "id": 214
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Karen has two cards of the same size. Card 1 has three holes drilled. Karen holds card 1 directly on top of card 2. What does Karen see? A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "A",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_29.png"
-    ],
-    "id": 29
   },
   {
     "messages": [

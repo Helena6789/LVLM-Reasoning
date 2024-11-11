@@ -1154,22 +1154,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: On a table, five polygon cards are stacked as shown, and each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. What is the possible order of the cards being removed? A: 4-5-3-2-1,B: 2-1-5-4-3,C: 1-3-4-2-5,D: 5-2-4-1-3,E: 5-3-4-1-2. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "E",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1203.png"
-    ],
-    "id": 1203
-  },
-  {
-    "messages": [
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: On a table, five polygon cards are stacked as shown, and each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. What is the possible order of the cards being removed? A: 1-2-3-4-5,B: 4-1-5-2-3,C: 3-2-1-4-5,D: 5-2-3-1-4,E: 2-3-1-5-4. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -4314,22 +4298,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Five polygon cards are stacked on a table as shown, and each card is numbered according to the color shown at the bottom. If we remove the cards one by one from the top of the stack, what is the possible order of the cards being removed? A: 4-2-3-1-5,B: 4-2-3-5-1,C: 1-5-2-4-3,D: 5-2-3-1-4,E: 5-3-2-1-4. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "A",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1587.png"
-    ],
-    "id": 1587
-  },
-  {
-    "messages": [
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: On a table, five polygon cards are stacked as shown. Each card is numbered according to the color shown at the bottom. If we remove the cards one by one from the top of the stack, in what possible order are the cards removed? A: 2-1-4-3-5,B: 4-1-5-3-2,C: 4-3-1-5-2,D: 5-3-2-4-1,E: 1-3-4-2-5. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -7362,30 +7330,6 @@
   {
     "messages": [
       {
-        "content": "What is the color at the bottom of the card numbered 3?",
-        "role": "user"
-      },
-      {
-        "content": "green",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_1989.png"
-    ],
-    "id": 1989
-  },
-  {
-    "messages": [
-      {
-        "content": "What is the color at the bottom of the card numbered 3?",
-        "role": "user"
-      },
-      {
-        "content": "green",
-        "role": "assistant"
-      },
-      {
         "content": "What is the color at the bottom of the card numbered 2?",
         "role": "user"
       },
@@ -7401,14 +7345,6 @@
   },
   {
     "messages": [
-      {
-        "content": "What is the color at the bottom of the card numbered 3?",
-        "role": "user"
-      },
-      {
-        "content": "green",
-        "role": "assistant"
-      },
       {
         "content": "What is the color at the bottom of the card numbered 2?",
         "role": "user"
@@ -10978,30 +10914,6 @@
   {
     "messages": [
       {
-        "content": "Which card is at the bottom of the stack?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_512.png"
-    ],
-    "id": 512
-  },
-  {
-    "messages": [
-      {
-        "content": "Which card is at the bottom of the stack?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Five polygon cards are stacked on a table as shown. Each card is numbered according to the color shown at the bottom. The cards are removed one by one from the top of the stack. The possible order the cards are removed is: A: 1-5-4-3-2,B: 4-3-1-5-2,C: 1-2-4-3-5,D: 2-4-5-1-3,E: 2-5-1-4-3. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -12158,22 +12070,6 @@
       "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_69.png"
     ],
     "id": 69
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Five polygon cards are stacked on a table as shown. Each card is numbered according to the color shown at the bottom. If we remove the cards one by one from the top of the stack, in what possible order are the cards removed? A: 2-3-4-5-1,B: 1-2-3-5-4,C: 2-3-5-4-1,D: 5-4-2-3-1,E: 2-3-4-1-5. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "E",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/18/img/puzzle_18_e_690.png"
-    ],
-    "id": 690
   },
   {
     "messages": [

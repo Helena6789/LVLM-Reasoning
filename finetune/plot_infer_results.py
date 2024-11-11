@@ -188,7 +188,7 @@ if __name__ == "__main__":
             df = pd.read_json(path_or_buf=accuracy_json_file, lines=True)
             correct = df[df['response']==df['label']]
             ratio = len(correct)/ len(df)
-            logger.info('{}, accuracy: {}/{}={:.2f}'.format(file_type, len(correct), len(df), ratio))
+            logger.info('{}, accuracy: {}/{}={:.4f}'.format(file_type, len(correct), len(df), ratio))
             accuracy_list.append({file_type : [len(correct),  len(df), ratio]})
 
     # plots

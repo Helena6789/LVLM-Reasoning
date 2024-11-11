@@ -274,22 +274,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Karen has 8 toy objects: a plate, a boom box, a mouse pad, a phone, flowers, a shovel, lip gloss, and a hair brush. She puts each toy at a different location of the shelf. She puts phone as shown. The plate left of lip gloss. Mouse pad left of hair brush. Boom box left of flowers. Shovel left of lip gloss. Hair brush right of lip gloss. On which location can the boom box not be placed? A: 8,B: 3,C: 4,D: 1,E: 5. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "A",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_179.png"
-    ],
-    "id": 179
-  },
-  {
-    "messages": [
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Derrick has 7 toy items: a nail file, a rubber band, a hair tie, a bottle cap, an air freshener, a charger, and a milk. He puts each toy at a different location of the shelf. The hair tie left of charger and nail file left of rubber band. Milk right of hair tie and milk right of charger. Milk right of air freshener. He puts air freshener  as shown. On which location can the nail file not be placed? A: 7,B: 3,C: 1,D: 6,E: 5. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -446,22 +430,6 @@
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_531.png"
     ],
     "id": 531
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Jon has 6 toy objects: nail clippers, a bowl, a cinder block, a food, a magnet, and an air freshener. He keeps each toy at a different location of the shelf. The bowl left of magnet. Cinder block left of air freshener and air freshener right of bowl. He keeps air freshener  as shown. On which location can the magnet not be placed? A: 4,B: 5,C: 1,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_57.png"
-    ],
-    "id": 57
   },
   {
     "messages": [

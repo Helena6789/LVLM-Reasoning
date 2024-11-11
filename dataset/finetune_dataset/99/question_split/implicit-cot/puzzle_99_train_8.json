@@ -2874,30 +2874,6 @@
   {
     "messages": [
       {
-        "content": "How many sunflowers are in the first bucket?",
-        "role": "user"
-      },
-      {
-        "content": "0",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1742.png"
-    ],
-    "id": 1742
-  },
-  {
-    "messages": [
-      {
-        "content": "How many sunflowers are in the first bucket?",
-        "role": "user"
-      },
-      {
-        "content": "0",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: John has two buckets with flowers, as displayed. He purchases extra flowers and inserts them in the buckets. Later, each bucket has an equivalent number of each variety of flower. What is the minimum number of flowers he should get? A: 1,B: 2,C: 8,D: 4,E: 3. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -4297,30 +4273,6 @@
   },
   {
     "messages": [
-      {
-        "content": "How many Peonies does Tracy need to add to the left basket to match the count in the right basket?",
-        "role": "user"
-      },
-      {
-        "content": "0",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_345.png"
-    ],
-    "id": 345
-  },
-  {
-    "messages": [
-      {
-        "content": "How many Peonies does Tracy need to add to the left basket to match the count in the right basket?",
-        "role": "user"
-      },
-      {
-        "content": "0",
-        "role": "assistant"
-      },
       {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Tracy has two baskets with flowers, as presented. She purchases more flowers and adds them in the baskets. Subsequently, each basket has an equivalent count of each class of flower. What is the smallest count of flowers she should get? A: 4,B: 5,C: 3,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"

@@ -1810,30 +1810,6 @@
   {
     "messages": [
       {
-        "content": "Where is the vase placed?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_113.png"
-    ],
-    "id": 113
-  },
-  {
-    "messages": [
-      {
-        "content": "Where is the vase placed?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Thomas has 5 toy objects: an apple, a water bottle, a lamp shade, a vase, and a deodorant. He keeps each toy at a different location of the shelf. He keeps lamp shade as shown. The water bottle left of deodorant. Lamp shade left of deodorant. Vase right of water bottle. On which location can the vase not be placed? A: 5,B: 2,C: 3,D: 4,E: 1. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -2410,30 +2386,6 @@
   {
     "messages": [
       {
-        "content": "Where is the ice cube tray placed?",
-        "role": "user"
-      },
-      {
-        "content": "3",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1174.png"
-    ],
-    "id": 1174
-  },
-  {
-    "messages": [
-      {
-        "content": "Where is the ice cube tray placed?",
-        "role": "user"
-      },
-      {
-        "content": "3",
-        "role": "assistant"
-      },
-      {
         "content": "Where is the plastic fork placed?",
         "role": "user"
       },
@@ -2449,14 +2401,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Where is the ice cube tray placed?",
-        "role": "user"
-      },
-      {
-        "content": "3",
-        "role": "assistant"
-      },
       {
         "content": "Where is the plastic fork placed?",
         "role": "user"
@@ -2481,14 +2425,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Where is the ice cube tray placed?",
-        "role": "user"
-      },
-      {
-        "content": "3",
-        "role": "assistant"
-      },
       {
         "content": "Where is the plastic fork placed?",
         "role": "user"
@@ -2521,14 +2457,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Where is the ice cube tray placed?",
-        "role": "user"
-      },
-      {
-        "content": "3",
-        "role": "assistant"
-      },
       {
         "content": "Where is the plastic fork placed?",
         "role": "user"
@@ -7722,30 +7650,6 @@
   {
     "messages": [
       {
-        "content": "On which row is the camera placed?",
-        "role": "user"
-      },
-      {
-        "content": "3",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1738.png"
-    ],
-    "id": 1738
-  },
-  {
-    "messages": [
-      {
-        "content": "On which row is the camera placed?",
-        "role": "user"
-      },
-      {
-        "content": "3",
-        "role": "assistant"
-      },
-      {
         "content": "On which row is the stop sign placed?",
         "role": "user"
       },
@@ -7761,14 +7665,6 @@
   },
   {
     "messages": [
-      {
-        "content": "On which row is the camera placed?",
-        "role": "user"
-      },
-      {
-        "content": "3",
-        "role": "assistant"
-      },
       {
         "content": "On which row is the stop sign placed?",
         "role": "user"
@@ -8330,30 +8226,6 @@
   {
     "messages": [
       {
-        "content": "Which toy is at location 3?",
-        "role": "user"
-      },
-      {
-        "content": "mouse pad",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_179.png"
-    ],
-    "id": 179
-  },
-  {
-    "messages": [
-      {
-        "content": "Which toy is at location 3?",
-        "role": "user"
-      },
-      {
-        "content": "mouse pad",
-        "role": "assistant"
-      },
-      {
         "content": "Which toy is at location 1?",
         "role": "user"
       },
@@ -8369,14 +8241,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Which toy is at location 3?",
-        "role": "user"
-      },
-      {
-        "content": "mouse pad",
-        "role": "assistant"
-      },
       {
         "content": "Which toy is at location 1?",
         "role": "user"
@@ -8401,14 +8265,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Which toy is at location 3?",
-        "role": "user"
-      },
-      {
-        "content": "mouse pad",
-        "role": "assistant"
-      },
       {
         "content": "Which toy is at location 1?",
         "role": "user"
@@ -8441,14 +8297,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Which toy is at location 3?",
-        "role": "user"
-      },
-      {
-        "content": "mouse pad",
-        "role": "assistant"
-      },
       {
         "content": "Which toy is at location 1?",
         "role": "user"
@@ -8489,14 +8337,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Which toy is at location 3?",
-        "role": "user"
-      },
-      {
-        "content": "mouse pad",
-        "role": "assistant"
-      },
       {
         "content": "Which toy is at location 1?",
         "role": "user"
@@ -9346,30 +9186,6 @@
   {
     "messages": [
       {
-        "content": "On which row is the clay pot placed?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1911.png"
-    ],
-    "id": 1911
-  },
-  {
-    "messages": [
-      {
-        "content": "On which row is the clay pot placed?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      },
-      {
         "content": "On which row is the hair tie placed?",
         "role": "user"
       },
@@ -9385,14 +9201,6 @@
   },
   {
     "messages": [
-      {
-        "content": "On which row is the clay pot placed?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      },
       {
         "content": "On which row is the hair tie placed?",
         "role": "user"
@@ -10234,30 +10042,6 @@
   {
     "messages": [
       {
-        "content": "On which row can the shoes be placed?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1943.png"
-    ],
-    "id": 1943
-  },
-  {
-    "messages": [
-      {
-        "content": "On which row can the shoes be placed?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
-      {
         "content": "On which row can the cinder block be placed?",
         "role": "user"
       },
@@ -10273,14 +10057,6 @@
   },
   {
     "messages": [
-      {
-        "content": "On which row can the shoes be placed?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
       {
         "content": "On which row can the cinder block be placed?",
         "role": "user"
@@ -10305,14 +10081,6 @@
   },
   {
     "messages": [
-      {
-        "content": "On which row can the shoes be placed?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
       {
         "content": "On which row can the cinder block be placed?",
         "role": "user"
@@ -10345,14 +10113,6 @@
   },
   {
     "messages": [
-      {
-        "content": "On which row can the shoes be placed?",
-        "role": "user"
-      },
-      {
-        "content": "2",
-        "role": "assistant"
-      },
       {
         "content": "On which row can the cinder block be placed?",
         "role": "user"
@@ -14858,30 +14618,6 @@
   {
     "messages": [
       {
-        "content": "On which location can the bowl be placed?",
-        "role": "user"
-      },
-      {
-        "content": "1 or 2",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_57.png"
-    ],
-    "id": 57
-  },
-  {
-    "messages": [
-      {
-        "content": "On which location can the bowl be placed?",
-        "role": "user"
-      },
-      {
-        "content": "1 or 2",
-        "role": "assistant"
-      },
-      {
         "content": "Given that the bowl is either at position 1 or 2, if the air freshener is at 4, and the cinder block is at 3, which position can the bowl not be placed?",
         "role": "user"
       },
@@ -14897,14 +14633,6 @@
   },
   {
     "messages": [
-      {
-        "content": "On which location can the bowl be placed?",
-        "role": "user"
-      },
-      {
-        "content": "1 or 2",
-        "role": "assistant"
-      },
       {
         "content": "Given that the bowl is either at position 1 or 2, if the air freshener is at 4, and the cinder block is at 3, which position can the bowl not be placed?",
         "role": "user"
@@ -14929,14 +14657,6 @@
   },
   {
     "messages": [
-      {
-        "content": "On which location can the bowl be placed?",
-        "role": "user"
-      },
-      {
-        "content": "1 or 2",
-        "role": "assistant"
-      },
       {
         "content": "Given that the bowl is either at position 1 or 2, if the air freshener is at 4, and the cinder block is at 3, which position can the bowl not be placed?",
         "role": "user"
@@ -14969,14 +14689,6 @@
   },
   {
     "messages": [
-      {
-        "content": "On which location can the bowl be placed?",
-        "role": "user"
-      },
-      {
-        "content": "1 or 2",
-        "role": "assistant"
-      },
       {
         "content": "Given that the bowl is either at position 1 or 2, if the air freshener is at 4, and the cinder block is at 3, which position can the bowl not be placed?",
         "role": "user"
@@ -15017,14 +14729,6 @@
   },
   {
     "messages": [
-      {
-        "content": "On which location can the bowl be placed?",
-        "role": "user"
-      },
-      {
-        "content": "1 or 2",
-        "role": "assistant"
-      },
       {
         "content": "Given that the bowl is either at position 1 or 2, if the air freshener is at 4, and the cinder block is at 3, which position can the bowl not be placed?",
         "role": "user"

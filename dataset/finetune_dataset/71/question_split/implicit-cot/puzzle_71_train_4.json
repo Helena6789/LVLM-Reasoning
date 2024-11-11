@@ -37730,30 +37730,6 @@
   {
     "messages": [
       {
-        "content": "If the car with digit 27 of one train is opposite the car with digit 27 of the other train, how do you calculate the opposing car for any given digit?",
-        "role": "user"
-      },
-      {
-        "content": "For any car with digit n, where 1 \u2264 n \u2264 45, the car opposite will be 54 - n.",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_515.png"
-    ],
-    "id": 515
-  },
-  {
-    "messages": [
-      {
-        "content": "If the car with digit 27 of one train is opposite the car with digit 27 of the other train, how do you calculate the opposing car for any given digit?",
-        "role": "user"
-      },
-      {
-        "content": "For any car with digit n, where 1 \u2264 n \u2264 45, the car opposite will be 54 - n.",
-        "role": "assistant"
-      },
-      {
         "content": "Using the formula 54 - n, what is the opposing car for n = 43?",
         "role": "user"
       },
@@ -37769,14 +37745,6 @@
   },
   {
     "messages": [
-      {
-        "content": "If the car with digit 27 of one train is opposite the car with digit 27 of the other train, how do you calculate the opposing car for any given digit?",
-        "role": "user"
-      },
-      {
-        "content": "For any car with digit n, where 1 \u2264 n \u2264 45, the car opposite will be 54 - n.",
-        "role": "assistant"
-      },
       {
         "content": "Using the formula 54 - n, what is the opposing car for n = 43?",
         "role": "user"
@@ -41673,30 +41641,6 @@
   },
   {
     "messages": [
-      {
-        "content": "If cabin with digit 16 of one train is opposite cabin with digit 14 of the other, which cabin is opposite cabin 23?",
-        "role": "user"
-      },
-      {
-        "content": "Cabin 23 of one train will be opposite cabin 5 of the other.",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/71/img/puzzle_71_665.png"
-    ],
-    "id": 665
-  },
-  {
-    "messages": [
-      {
-        "content": "If cabin with digit 16 of one train is opposite cabin with digit 14 of the other, which cabin is opposite cabin 23?",
-        "role": "user"
-      },
-      {
-        "content": "Cabin 23 of one train will be opposite cabin 5 of the other.",
-        "role": "assistant"
-      },
       {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Two similar trains, each with 27 cabins, are traveling in opposite directions. When cabin with digit 15 of one train is opposite cabin with digit 15 of the other, which cabin is opposite cabin with digit 23? A: 9,B: 7,C: 17,D: 23,E: 8. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"

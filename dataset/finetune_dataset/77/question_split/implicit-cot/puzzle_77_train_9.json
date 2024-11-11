@@ -522,22 +522,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which cartoon on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "D",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1760.png"
-    ],
-    "id": 1760
-  },
-  {
-    "messages": [
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which picture on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -678,22 +662,6 @@
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1812.png"
     ],
     "id": 1812
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which figure matches with the given figure on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "B",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1813.png"
-    ],
-    "id": 1813
   },
   {
     "messages": [
@@ -938,46 +906,6 @@
   {
     "messages": [
       {
-        "content": "What is the main figure color of Figure D?",
-        "role": "user"
-      },
-      {
-        "content": "Yellow",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_357.png"
-    ],
-    "id": 357
-  },
-  {
-    "messages": [
-      {
-        "content": "What is the main figure color of Figure D?",
-        "role": "user"
-      },
-      {
-        "content": "Yellow",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which figure matches with the given figure on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "D",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_357.png"
-    ],
-    "id": 357
-  },
-  {
-    "messages": [
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which image matches with the given image on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -990,22 +918,6 @@
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_358.png"
     ],
     "id": 358
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which image on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "D",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_394.png"
-    ],
-    "id": 394
   },
   {
     "messages": [

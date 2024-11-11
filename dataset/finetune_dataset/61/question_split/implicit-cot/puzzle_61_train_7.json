@@ -4594,30 +4594,6 @@
   {
     "messages": [
       {
-        "content": "How many square trays fit into the rectangular tray without gaps?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1969.png"
-    ],
-    "id": 1969
-  },
-  {
-    "messages": [
-      {
-        "content": "How many square trays fit into the rectangular tray without gaps?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Each member in a cooking event cooks one tray of cakes like the square tray shown. What is the minimum number of trays of cakes required to make a plate like the rectangle tray shown below? Ignore the size differences between the cakes in the two trays. A: 5,B: 4,C: 3,D: 1,E: 2. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -4910,22 +4886,6 @@
       "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_217.png"
     ],
     "id": 217
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Each participant in a buscuit tournament cooks one tray of buiscuit like the polygon tray shown. What is the lowest number of trays of buiscuit required to make a plate like the ellipse tray shown below? Ignore the size differences between the buiscuit in the two trays. A: 2,B: 5,C: 4,D: 3,E: 1. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "D",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_218.png"
-    ],
-    "id": 218
   },
   {
     "messages": [

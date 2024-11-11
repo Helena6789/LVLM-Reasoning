@@ -40,7 +40,7 @@ do
             --ignore_args_error True
     else
         previous_stage=$((stage - step))
-        model_checkpoint=`find . -type d -wholename "./output/${model_type}/${puzzle_id}/finetune-models/decomposition-subimage-score-finetune-shift-${step}/v0-${date}-question-split-${previous_stage}/checkpoint-*" -prune | sort | tail -n 1`
+        model_checkpoint=`find . -type d -wholename "./output/${model_type}/${puzzle_id}/finetune-models/decomposition-finetune-subimage-score-shift-${step}/v0-${date}-question-split-${previous_stage}/checkpoint-*" -prune | sort | tail -n 1`
 
         echo "finetune stage:${stage} using checkpoint: ${model_checkpoint}"
 
@@ -50,7 +50,7 @@ do
             --model_type ${model_type} \
             --resume_from_checkpoint ${model_checkpoint} \
             --resume_only_model True \
-            --custom_dataset_info './dataset/finetune_dataset/smart101.json' \
+            --custom_dataset_info './dataset/finetune_dataset_subimage/smart101.json' \
             --dataset smart101_implicit_cot_${puzzle_id}_train_${stage} \
             --dataset_test_ratio '0.059' \
             --lora_rank '128' \

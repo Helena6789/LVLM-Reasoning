@@ -7730,30 +7730,6 @@
   {
     "messages": [
       {
-        "content": "Are the holes in Card 1 aligned with any of the holes in Card 2?",
-        "role": "user"
-      },
-      {
-        "content": "Yes",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1222.png"
-    ],
-    "id": 1222
-  },
-  {
-    "messages": [
-      {
-        "content": "Are the holes in Card 1 aligned with any of the holes in Card 2?",
-        "role": "user"
-      },
-      {
-        "content": "Yes",
-        "role": "assistant"
-      },
-      {
         "content": "Where are the two holes located on Card 2?",
         "role": "user"
       },
@@ -7769,14 +7745,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Are the holes in Card 1 aligned with any of the holes in Card 2?",
-        "role": "user"
-      },
-      {
-        "content": "Yes",
-        "role": "assistant"
-      },
       {
         "content": "Where are the two holes located on Card 2?",
         "role": "user"
@@ -7801,14 +7769,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Are the holes in Card 1 aligned with any of the holes in Card 2?",
-        "role": "user"
-      },
-      {
-        "content": "Yes",
-        "role": "assistant"
-      },
       {
         "content": "Where are the two holes located on Card 2?",
         "role": "user"
@@ -7841,14 +7801,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Are the holes in Card 1 aligned with any of the holes in Card 2?",
-        "role": "user"
-      },
-      {
-        "content": "Yes",
-        "role": "assistant"
-      },
       {
         "content": "Where are the two holes located on Card 2?",
         "role": "user"
@@ -31290,30 +31242,6 @@
   {
     "messages": [
       {
-        "content": "If Kathryn places both cards together, would the holes in card 1 be visible on card 2?",
-        "role": "user"
-      },
-      {
-        "content": "Yes, since card 2 has no holes, the holes from card 1 would be visible.",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1963.png"
-    ],
-    "id": 1963
-  },
-  {
-    "messages": [
-      {
-        "content": "If Kathryn places both cards together, would the holes in card 1 be visible on card 2?",
-        "role": "user"
-      },
-      {
-        "content": "Yes, since card 2 has no holes, the holes from card 1 would be visible.",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Kathryn has two cards of the same size. Card 1 has three holes created. Kathryn keeps card 1 directly on top of card 2. What does Kathryn see? A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -40482,30 +40410,6 @@
   {
     "messages": [
       {
-        "content": "Are the positions of the holes on Card 1 and Card 2 identical?",
-        "role": "user"
-      },
-      {
-        "content": "Yes",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_411.png"
-    ],
-    "id": 411
-  },
-  {
-    "messages": [
-      {
-        "content": "Are the positions of the holes on Card 1 and Card 2 identical?",
-        "role": "user"
-      },
-      {
-        "content": "Yes",
-        "role": "assistant"
-      },
-      {
         "content": "What do the holes on Card 2 reveal when Card 1 is placed on top?",
         "role": "user"
       },
@@ -40521,14 +40425,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Are the positions of the holes on Card 1 and Card 2 identical?",
-        "role": "user"
-      },
-      {
-        "content": "Yes",
-        "role": "assistant"
-      },
       {
         "content": "What do the holes on Card 2 reveal when Card 1 is placed on top?",
         "role": "user"
@@ -40553,14 +40449,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Are the positions of the holes on Card 1 and Card 2 identical?",
-        "role": "user"
-      },
-      {
-        "content": "Yes",
-        "role": "assistant"
-      },
       {
         "content": "What do the holes on Card 2 reveal when Card 1 is placed on top?",
         "role": "user"
@@ -40593,14 +40481,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Are the positions of the holes on Card 1 and Card 2 identical?",
-        "role": "user"
-      },
-      {
-        "content": "Yes",
-        "role": "assistant"
-      },
       {
         "content": "What do the holes on Card 2 reveal when Card 1 is placed on top?",
         "role": "user"
@@ -41066,30 +40946,6 @@
   {
     "messages": [
       {
-        "content": "What is the position of holes in Card 2?",
-        "role": "user"
-      },
-      {
-        "content": "Upper-left, upper-right, and bottom-right",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_43.png"
-    ],
-    "id": 43
-  },
-  {
-    "messages": [
-      {
-        "content": "What is the position of holes in Card 2?",
-        "role": "user"
-      },
-      {
-        "content": "Upper-left, upper-right, and bottom-right",
-        "role": "assistant"
-      },
-      {
         "content": "What is the combined number of unique holes when Card 1 is placed on top of Card 2?",
         "role": "user"
       },
@@ -41105,14 +40961,6 @@
   },
   {
     "messages": [
-      {
-        "content": "What is the position of holes in Card 2?",
-        "role": "user"
-      },
-      {
-        "content": "Upper-left, upper-right, and bottom-right",
-        "role": "assistant"
-      },
       {
         "content": "What is the combined number of unique holes when Card 1 is placed on top of Card 2?",
         "role": "user"
@@ -59650,30 +59498,6 @@
   {
     "messages": [
       {
-        "content": "Are there any holes on card 1?",
-        "role": "user"
-      },
-      {
-        "content": "Yes",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_983.png"
-    ],
-    "id": 983
-  },
-  {
-    "messages": [
-      {
-        "content": "Are there any holes on card 1?",
-        "role": "user"
-      },
-      {
-        "content": "Yes",
-        "role": "assistant"
-      },
-      {
         "content": "How many holes are on card 2?",
         "role": "user"
       },
@@ -59689,14 +59513,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Are there any holes on card 1?",
-        "role": "user"
-      },
-      {
-        "content": "Yes",
-        "role": "assistant"
-      },
       {
         "content": "How many holes are on card 2?",
         "role": "user"

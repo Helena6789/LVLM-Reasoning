@@ -554,22 +554,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Victor has two cards of the same size. Card 1 has three holes created. Victor keeps card 1 directly on top of card 2. What does Victor see? A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "B",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_15.png"
-    ],
-    "id": 15
-  },
-  {
-    "messages": [
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Bridget has two cards of the same size. Card 1 has three holes created. Bridget keeps card 1 directly on top of card 2. What does Bridget see? A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -862,22 +846,6 @@
       "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1779.png"
     ],
     "id": 1779
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Christine has two cards of the same size. Card 1 has three holes created. Christine keeps card 1 directly on top of card 2. What does Christine see? A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "B",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1810.png"
-    ],
-    "id": 1810
   },
   {
     "messages": [
@@ -1361,30 +1329,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Are the holes on card 1 in the same positions as any holes on card 2?",
-        "role": "user"
-      },
-      {
-        "content": "No, the holes on card 1 do not overlap with the holes on card 2.",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_29.png"
-    ],
-    "id": 29
-  },
-  {
-    "messages": [
-      {
-        "content": "Are the holes on card 1 in the same positions as any holes on card 2?",
-        "role": "user"
-      },
-      {
-        "content": "No, the holes on card 1 do not overlap with the holes on card 2.",
-        "role": "assistant"
-      },
       {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Karen has two cards of the same size. Card 1 has three holes drilled. Karen holds card 1 directly on top of card 2. What does Karen see? A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
@@ -2046,22 +1990,6 @@
       "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_829.png"
     ],
     "id": 829
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Brenda has two cards of the same size. Card 1 has three holes created. Brenda keeps card 1 directly on top of card 2. What does Brenda see? A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "D",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_868.png"
-    ],
-    "id": 868
   },
   {
     "messages": [

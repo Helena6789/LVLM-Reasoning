@@ -1978,22 +1978,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which cartoon matches with the given cartoon on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "B",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1174.png"
-    ],
-    "id": 1174
-  },
-  {
-    "messages": [
-      {
         "content": "What is the inverted color of purple?",
         "role": "user"
       },
@@ -8538,30 +8522,6 @@
   {
     "messages": [
       {
-        "content": "Which option on the right has predominantly warm colors?",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1760.png"
-    ],
-    "id": 1760
-  },
-  {
-    "messages": [
-      {
-        "content": "Which option on the right has predominantly warm colors?",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      },
-      {
         "content": "Which option on the right has predominantly cool colors?",
         "role": "user"
       },
@@ -8577,14 +8537,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Which option on the right has predominantly warm colors?",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      },
       {
         "content": "Which option on the right has predominantly cool colors?",
         "role": "user"
@@ -8609,14 +8561,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Which option on the right has predominantly warm colors?",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      },
       {
         "content": "Which option on the right has predominantly cool colors?",
         "role": "user"
@@ -9906,30 +9850,6 @@
   {
     "messages": [
       {
-        "content": "Which figures have a white background after inverting colors?",
-        "role": "user"
-      },
-      {
-        "content": "B",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1813.png"
-    ],
-    "id": 1813
-  },
-  {
-    "messages": [
-      {
-        "content": "Which figures have a white background after inverting colors?",
-        "role": "user"
-      },
-      {
-        "content": "B",
-        "role": "assistant"
-      },
-      {
         "content": "Which figures have a green main color with a white background after inverting colors?",
         "role": "user"
       },
@@ -9945,14 +9865,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Which figures have a white background after inverting colors?",
-        "role": "user"
-      },
-      {
-        "content": "B",
-        "role": "assistant"
-      },
       {
         "content": "Which figures have a green main color with a white background after inverting colors?",
         "role": "user"
@@ -11070,22 +10982,6 @@
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1929.png"
     ],
     "id": 1929
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which figure matches with the given figure on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "A",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1936.png"
-    ],
-    "id": 1936
   },
   {
     "messages": [
@@ -12366,22 +12262,6 @@
       "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_242.png"
     ],
     "id": 242
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which figure on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "D",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_245.png"
-    ],
-    "id": 245
   },
   {
     "messages": [
@@ -14050,30 +13930,6 @@
   {
     "messages": [
       {
-        "content": "What is the primary color of the background of figure E?",
-        "role": "user"
-      },
-      {
-        "content": "Light Blue",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_357.png"
-    ],
-    "id": 357
-  },
-  {
-    "messages": [
-      {
-        "content": "What is the primary color of the background of figure E?",
-        "role": "user"
-      },
-      {
-        "content": "Light Blue",
-        "role": "assistant"
-      },
-      {
         "content": "Which figure has the yellow color present in any form?",
         "role": "user"
       },
@@ -14089,14 +13945,6 @@
   },
   {
     "messages": [
-      {
-        "content": "What is the primary color of the background of figure E?",
-        "role": "user"
-      },
-      {
-        "content": "Light Blue",
-        "role": "assistant"
-      },
       {
         "content": "Which figure has the yellow color present in any form?",
         "role": "user"
@@ -14121,14 +13969,6 @@
   },
   {
     "messages": [
-      {
-        "content": "What is the primary color of the background of figure E?",
-        "role": "user"
-      },
-      {
-        "content": "Light Blue",
-        "role": "assistant"
-      },
       {
         "content": "Which figure has the yellow color present in any form?",
         "role": "user"
@@ -15609,30 +15449,6 @@
   },
   {
     "messages": [
-      {
-        "content": "What is the background color of the image on the left after inverting the colors?",
-        "role": "user"
-      },
-      {
-        "content": "Multi-colored",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_461.png"
-    ],
-    "id": 461
-  },
-  {
-    "messages": [
-      {
-        "content": "What is the background color of the image on the left after inverting the colors?",
-        "role": "user"
-      },
-      {
-        "content": "Multi-colored",
-        "role": "assistant"
-      },
       {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which figure on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
@@ -19106,30 +18922,6 @@
   {
     "messages": [
       {
-        "content": "What are the colors of the small dots in each of the images A, B, C, D, and E in inverted order?",
-        "role": "user"
-      },
-      {
-        "content": "{'A': ['red', 'blue', 'green', 'orange', 'purple', 'cyan', 'blue', 'black', 'blue'], 'B': ['cyan', 'red', 'blue', 'green', 'blue', 'blue', 'red', 'black', 'white'], 'C': ['red', 'yellow', 'blue', 'orange', 'green', 'red', 'blue', 'cyan', 'yellow'], 'D': ['cyan', 'cyan', 'red', 'blue', 'green', 'red', 'blue', 'black', 'blue'], 'E': ['red', 'yellow', 'blue', 'orange', 'blue', 'yellow', 'green', 'cyan', 'black']}",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_738.png"
-    ],
-    "id": 738
-  },
-  {
-    "messages": [
-      {
-        "content": "What are the colors of the small dots in each of the images A, B, C, D, and E in inverted order?",
-        "role": "user"
-      },
-      {
-        "content": "{'A': ['red', 'blue', 'green', 'orange', 'purple', 'cyan', 'blue', 'black', 'blue'], 'B': ['cyan', 'red', 'blue', 'green', 'blue', 'blue', 'red', 'black', 'white'], 'C': ['red', 'yellow', 'blue', 'orange', 'green', 'red', 'blue', 'cyan', 'yellow'], 'D': ['cyan', 'cyan', 'red', 'blue', 'green', 'red', 'blue', 'black', 'blue'], 'E': ['red', 'yellow', 'blue', 'orange', 'blue', 'yellow', 'green', 'cyan', 'black']}",
-        "role": "assistant"
-      },
-      {
         "content": "Which image has the same set of colors as the inverted colors of the given image on the left?",
         "role": "user"
       },
@@ -19145,14 +18937,6 @@
   },
   {
     "messages": [
-      {
-        "content": "What are the colors of the small dots in each of the images A, B, C, D, and E in inverted order?",
-        "role": "user"
-      },
-      {
-        "content": "{'A': ['red', 'blue', 'green', 'orange', 'purple', 'cyan', 'blue', 'black', 'blue'], 'B': ['cyan', 'red', 'blue', 'green', 'blue', 'blue', 'red', 'black', 'white'], 'C': ['red', 'yellow', 'blue', 'orange', 'green', 'red', 'blue', 'cyan', 'yellow'], 'D': ['cyan', 'cyan', 'red', 'blue', 'green', 'red', 'blue', 'black', 'blue'], 'E': ['red', 'yellow', 'blue', 'orange', 'blue', 'yellow', 'green', 'cyan', 'black']}",
-        "role": "assistant"
-      },
       {
         "content": "Which image has the same set of colors as the inverted colors of the given image on the left?",
         "role": "user"

@@ -882,22 +882,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: John has two buckets with flowers, as displayed. He purchases extra flowers and inserts them in the buckets. Later, each bucket has an equivalent number of each variety of flower. What is the minimum number of flowers he should get? A: 1,B: 2,C: 8,D: 4,E: 3. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_1742.png"
-    ],
-    "id": 1742
-  },
-  {
-    "messages": [
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Erin has two buckets with flowers, as presented. She buys extra flowers and sets them in the buckets. Afterwards, each bucket has the same number of each variant of flower. What is the lowest number of flowers she needs to buy? A: 2,B: 4,C: 5,D: 3,E: 1. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -1326,22 +1310,6 @@
       "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_333.png"
     ],
     "id": 333
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Tracy has two baskets with flowers, as presented. She purchases more flowers and adds them in the baskets. Subsequently, each basket has an equivalent count of each class of flower. What is the smallest count of flowers she should get? A: 4,B: 5,C: 3,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "B",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/99/img/puzzle_99_345.png"
-    ],
-    "id": 345
   },
   {
     "messages": [

@@ -9834,22 +9834,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Each member in a cooking contest cooks one tray of cakes like the square tray shown. What is the smallest number of trays of cakes required to make a plate like the rectangle tray shown below? Ignore the size differences between the cakes in the two trays. A: 5,B: 4,C: 2,D: 3,E: 1. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1616.png"
-    ],
-    "id": 1616
-  },
-  {
-    "messages": [
-      {
         "content": "What is the value of n when solving 6 trays * n = 34 biscuits?",
         "role": "user"
       },
@@ -15890,30 +15874,6 @@
   {
     "messages": [
       {
-        "content": "What is the area of the square tray?",
-        "role": "user"
-      },
-      {
-        "content": "Not specified",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_1969.png"
-    ],
-    "id": 1969
-  },
-  {
-    "messages": [
-      {
-        "content": "What is the area of the square tray?",
-        "role": "user"
-      },
-      {
-        "content": "Not specified",
-        "role": "assistant"
-      },
-      {
         "content": "Can the square trays be rearranged without gaps when placed on the rectangular tray?",
         "role": "user"
       },
@@ -15929,14 +15889,6 @@
   },
   {
     "messages": [
-      {
-        "content": "What is the area of the square tray?",
-        "role": "user"
-      },
-      {
-        "content": "Not specified",
-        "role": "assistant"
-      },
       {
         "content": "Can the square trays be rearranged without gaps when placed on the rectangular tray?",
         "role": "user"
@@ -15961,14 +15913,6 @@
   },
   {
     "messages": [
-      {
-        "content": "What is the area of the square tray?",
-        "role": "user"
-      },
-      {
-        "content": "Not specified",
-        "role": "assistant"
-      },
       {
         "content": "Can the square trays be rearranged without gaps when placed on the rectangular tray?",
         "role": "user"
@@ -16898,30 +16842,6 @@
   {
     "messages": [
       {
-        "content": "How many trays of biscuits does each participant cook?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/61/img/puzzle_102_218.png"
-    ],
-    "id": 218
-  },
-  {
-    "messages": [
-      {
-        "content": "How many trays of biscuits does each participant cook?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
-      {
         "content": "How many trays does it take to fill 24 biscuits if each tray has 8 biscuits?",
         "role": "user"
       },
@@ -16937,14 +16857,6 @@
   },
   {
     "messages": [
-      {
-        "content": "How many trays of biscuits does each participant cook?",
-        "role": "user"
-      },
-      {
-        "content": "1",
-        "role": "assistant"
-      },
       {
         "content": "How many trays does it take to fill 24 biscuits if each tray has 8 biscuits?",
         "role": "user"

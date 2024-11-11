@@ -1082,30 +1082,6 @@
   {
     "messages": [
       {
-        "content": "Where is the toilet placed?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1174.png"
-    ],
-    "id": 1174
-  },
-  {
-    "messages": [
-      {
-        "content": "Where is the toilet placed?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
-      {
         "content": "Where is the socks placed?",
         "role": "user"
       },
@@ -1121,14 +1097,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Where is the toilet placed?",
-        "role": "user"
-      },
-      {
-        "content": "5",
-        "role": "assistant"
-      },
       {
         "content": "Where is the socks placed?",
         "role": "user"
@@ -2122,30 +2090,6 @@
   {
     "messages": [
       {
-        "content": "Which item is to the left of the face wash?",
-        "role": "user"
-      },
-      {
-        "content": "cork",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1355.png"
-    ],
-    "id": 1355
-  },
-  {
-    "messages": [
-      {
-        "content": "Which item is to the left of the face wash?",
-        "role": "user"
-      },
-      {
-        "content": "cork",
-        "role": "assistant"
-      },
-      {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Katherine has 7 toy items: a cork, an eraser, a soap, a beef, a cat, a face wash, and a nail file. She places each toy at a different location of the shelf. She places face wash as shown. The beef right of cork. Cat right of soap and face wash right of cork. Cat right of beef. On which location can the soap not be placed? A: 2,B: 7,C: 6,D: 4,E: 3. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
       },
@@ -2358,22 +2302,6 @@
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_139.png"
     ],
     "id": 139
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Charles has 5 toy items: a zipper, a controller, a vase, a buckle, and a puddle. He keeps each toy at a different location of the shelf. He keeps vase as shown. The vase ahead of puddle. Zipper ahead of vase. On which location can the zipper not be placed? A: 2,B: 3,C: 4,D: 5,E: 1. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "D",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1399.png"
-    ],
-    "id": 1399
   },
   {
     "messages": [
@@ -3050,30 +2978,6 @@
   {
     "messages": [
       {
-        "content": "At which location is the charger placed?",
-        "role": "user"
-      },
-      {
-        "content": "3",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1565.png"
-    ],
-    "id": 1565
-  },
-  {
-    "messages": [
-      {
-        "content": "At which location is the charger placed?",
-        "role": "user"
-      },
-      {
-        "content": "3",
-        "role": "assistant"
-      },
-      {
         "content": "At which location are the shoes placed?",
         "role": "user"
       },
@@ -3089,14 +2993,6 @@
   },
   {
     "messages": [
-      {
-        "content": "At which location is the charger placed?",
-        "role": "user"
-      },
-      {
-        "content": "3",
-        "role": "assistant"
-      },
       {
         "content": "At which location are the shoes placed?",
         "role": "user"
@@ -3326,22 +3222,6 @@
       "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1734.png"
     ],
     "id": 1734
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Charles has 5 toy items: a keyboard, a twister, a bread, a camera, and a stop sign. He puts each toy at a different row of the shelf. The keyboard above camera and keyboard above stop sign. He puts bread  as shown. On which row can the camera not be placed? A: 1,B: 2,C: 3,D: 4,E: 5. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "A",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1738.png"
-    ],
-    "id": 1738
   },
   {
     "messages": [
@@ -3602,30 +3482,6 @@
   {
     "messages": [
       {
-        "content": "Which toy is at location 2?",
-        "role": "user"
-      },
-      {
-        "content": "flowers",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_179.png"
-    ],
-    "id": 179
-  },
-  {
-    "messages": [
-      {
-        "content": "Which toy is at location 2?",
-        "role": "user"
-      },
-      {
-        "content": "flowers",
-        "role": "assistant"
-      },
-      {
         "content": "Which toy is at location 5?",
         "role": "user"
       },
@@ -3641,14 +3497,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Which toy is at location 2?",
-        "role": "user"
-      },
-      {
-        "content": "flowers",
-        "role": "assistant"
-      },
       {
         "content": "Which toy is at location 5?",
         "role": "user"
@@ -3673,14 +3521,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Which toy is at location 2?",
-        "role": "user"
-      },
-      {
-        "content": "flowers",
-        "role": "assistant"
-      },
       {
         "content": "Which toy is at location 5?",
         "role": "user"
@@ -4026,22 +3866,6 @@
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: John has 6 toy objects: an ice cube tray, a pillow, a clay pot, a tree, a hair tie, and a blanket. He puts each toy at a different row of the shelf. The blanket under tree. Pillow above hair tie and pillow above clay pot. Blanket under clay pot. He puts ice cube tray  as shown. On which row can the tree not be placed? A: 5,B: 2,C: 6,D: 3,E: 1. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "C",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1911.png"
-    ],
-    "id": 1911
-  },
-  {
-    "messages": [
-      {
         "content": "On which row must the air freshener be placed when the eraser is above the candy wrapper?",
         "role": "user"
       },
@@ -4378,30 +4202,6 @@
   {
     "messages": [
       {
-        "content": "On which row can the video games be placed?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_1943.png"
-    ],
-    "id": 1943
-  },
-  {
-    "messages": [
-      {
-        "content": "On which row can the video games be placed?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      },
-      {
         "content": "On which row can the chapter book be placed?",
         "role": "user"
       },
@@ -4417,14 +4217,6 @@
   },
   {
     "messages": [
-      {
-        "content": "On which row can the video games be placed?",
-        "role": "user"
-      },
-      {
-        "content": "4",
-        "role": "assistant"
-      },
       {
         "content": "On which row can the chapter book be placed?",
         "role": "user"
@@ -6434,30 +6226,6 @@
   {
     "messages": [
       {
-        "content": "Given that the bowl is at position 2, the cinder block is at 3, and the air freshener is at position 4, where can the magnet not be placed?",
-        "role": "user"
-      },
-      {
-        "content": "3 or 4",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/SMART101-release-v1/SMART101-Data/62/img/puzzle_103_57.png"
-    ],
-    "id": 57
-  },
-  {
-    "messages": [
-      {
-        "content": "Given that the bowl is at position 2, the cinder block is at 3, and the air freshener is at position 4, where can the magnet not be placed?",
-        "role": "user"
-      },
-      {
-        "content": "3 or 4",
-        "role": "assistant"
-      },
-      {
         "content": "Given that the bowl is at position 2, the cinder block is at 3, and the air freshener is at position 4, where can the food not be placed?",
         "role": "user"
       },
@@ -6473,14 +6241,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Given that the bowl is at position 2, the cinder block is at 3, and the air freshener is at position 4, where can the magnet not be placed?",
-        "role": "user"
-      },
-      {
-        "content": "3 or 4",
-        "role": "assistant"
-      },
       {
         "content": "Given that the bowl is at position 2, the cinder block is at 3, and the air freshener is at position 4, where can the food not be placed?",
         "role": "user"
@@ -6505,14 +6265,6 @@
   },
   {
     "messages": [
-      {
-        "content": "Given that the bowl is at position 2, the cinder block is at 3, and the air freshener is at position 4, where can the magnet not be placed?",
-        "role": "user"
-      },
-      {
-        "content": "3 or 4",
-        "role": "assistant"
-      },
       {
         "content": "Given that the bowl is at position 2, the cinder block is at 3, and the air freshener is at position 4, where can the food not be placed?",
         "role": "user"
