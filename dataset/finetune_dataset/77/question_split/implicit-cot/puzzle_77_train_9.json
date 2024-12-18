@@ -11,7 +11,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1048_grid1.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1048.png"
     ],
     "id": 1048
   },
@@ -27,7 +27,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1061_grid8.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1061.png"
     ],
     "id": 1061
   },
@@ -43,7 +43,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1065_grid1.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1065.png"
     ],
     "id": 1065
   },
@@ -59,7 +59,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1068_grid7.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1068.png"
     ],
     "id": 1068
   },
@@ -75,7 +75,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1078_grid2.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1078.png"
     ],
     "id": 1078
   },
@@ -91,7 +91,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1111_grid6.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1111.png"
     ],
     "id": 1111
   },
@@ -107,7 +107,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1204_grid8.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1204.png"
     ],
     "id": 1204
   },
@@ -123,7 +123,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1208_grid5.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1208.png"
     ],
     "id": 1208
   },
@@ -139,7 +139,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1212_grid13.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1212.png"
     ],
     "id": 1212
   },
@@ -155,14 +155,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1229_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1229.png"
     ],
     "id": 1229
   },
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the background color of the inverted image of figure E?",
+        "content": "What is the background color of the inverted image of figure E?",
+        "role": "user"
+      },
+      {
+        "content": "Blue",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1230.png"
+    ],
+    "id": 1230
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the background color of the inverted image of figure E?",
         "role": "user"
       },
       {
@@ -179,8 +195,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1230_grid6.png",
-      "dataset/clip_images/77/puzzle_77_1230_grid8.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1230.png"
     ],
     "id": 1230
   },
@@ -196,7 +211,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1298_grid6.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1298.png"
     ],
     "id": 1298
   },
@@ -212,7 +227,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1323_grid7.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1323.png"
     ],
     "id": 1323
   },
@@ -228,7 +243,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1326_grid9.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1326.png"
     ],
     "id": 1326
   },
@@ -244,7 +259,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1352_grid7.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1352.png"
     ],
     "id": 1352
   },
@@ -260,7 +275,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1417_grid8.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1417.png"
     ],
     "id": 1417
   },
@@ -276,7 +291,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1450_grid1.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1450.png"
     ],
     "id": 1450
   },
@@ -292,7 +307,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_146_grid5.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_146.png"
     ],
     "id": 146
   },
@@ -308,7 +323,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1518_grid9.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1518.png"
     ],
     "id": 1518
   },
@@ -324,7 +339,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1519_grid13.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1519.png"
     ],
     "id": 1519
   },
@@ -340,7 +355,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1542_grid1.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1542.png"
     ],
     "id": 1542
   },
@@ -356,7 +371,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1547_grid1.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1547.png"
     ],
     "id": 1547
   },
@@ -372,7 +387,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1548_grid1.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1548.png"
     ],
     "id": 1548
   },
@@ -388,7 +403,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1574_grid1.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1574.png"
     ],
     "id": 1574
   },
@@ -404,7 +419,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1581_grid7.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1581.png"
     ],
     "id": 1581
   },
@@ -420,7 +435,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1609_grid6.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1609.png"
     ],
     "id": 1609
   },
@@ -436,7 +451,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1612_grid7.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1612.png"
     ],
     "id": 1612
   },
@@ -452,7 +467,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1624_grid6.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1624.png"
     ],
     "id": 1624
   },
@@ -468,7 +483,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1653_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1653.png"
     ],
     "id": 1653
   },
@@ -484,7 +499,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1737_grid1.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1737.png"
     ],
     "id": 1737
   },
@@ -500,25 +515,9 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1744_grid2.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1744.png"
     ],
     "id": 1744
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which cartoon on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "D",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/77/puzzle_77_1760_grid1.png"
-    ],
-    "id": 1760
   },
   {
     "messages": [
@@ -532,7 +531,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1764_grid7.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1764.png"
     ],
     "id": 1764
   },
@@ -548,14 +547,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1767_grid6.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1767.png"
     ],
     "id": 1767
   },
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the color of the background if we invert the purple color?",
+        "content": "What is the color of the background if we invert the purple color?",
+        "role": "user"
+      },
+      {
+        "content": "Green",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_177.png"
+    ],
+    "id": 177
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the color of the background if we invert the purple color?",
         "role": "user"
       },
       {
@@ -572,8 +587,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_177_grid5.png",
-      "dataset/clip_images/77/puzzle_77_177_grid6.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_177.png"
     ],
     "id": 177
   },
@@ -589,7 +603,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1779_grid1.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1779.png"
     ],
     "id": 1779
   },
@@ -605,14 +619,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1782_grid1.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1782.png"
     ],
     "id": 1782
   },
   {
     "messages": [
       {
-        "content": "<image>\nWhat color does the brown background of drawing E become when inverted?",
+        "content": "What color does the brown background of drawing E become when inverted?",
+        "role": "user"
+      },
+      {
+        "content": "Blue",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1812.png"
+    ],
+    "id": 1812
+  },
+  {
+    "messages": [
+      {
+        "content": "What color does the brown background of drawing E become when inverted?",
         "role": "user"
       },
       {
@@ -629,26 +659,9 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1812_grid6.png",
-      "dataset/clip_images/77/puzzle_77_1812_grid6.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1812.png"
     ],
     "id": 1812
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which figure matches with the given figure on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "B",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/77/puzzle_77_1813_grid9.png"
-    ],
-    "id": 1813
   },
   {
     "messages": [
@@ -662,7 +675,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1860_grid7.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1860.png"
     ],
     "id": 1860
   },
@@ -678,7 +691,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1888_grid6.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1888.png"
     ],
     "id": 1888
   },
@@ -694,7 +707,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1892_grid2.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1892.png"
     ],
     "id": 1892
   },
@@ -710,7 +723,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1918_grid7.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1918.png"
     ],
     "id": 1918
   },
@@ -726,7 +739,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1947_grid8.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1947.png"
     ],
     "id": 1947
   },
@@ -742,7 +755,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1977_grid1.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1977.png"
     ],
     "id": 1977
   },
@@ -758,7 +771,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_1998_grid9.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_1998.png"
     ],
     "id": 1998
   },
@@ -774,7 +787,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_213_grid1.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_213.png"
     ],
     "id": 213
   },
@@ -790,7 +803,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_251_grid1.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_251.png"
     ],
     "id": 251
   },
@@ -806,7 +819,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_256_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_256.png"
     ],
     "id": 256
   },
@@ -822,7 +835,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_27_grid8.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_27.png"
     ],
     "id": 27
   },
@@ -838,7 +851,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_272_grid8.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_272.png"
     ],
     "id": 272
   },
@@ -854,7 +867,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_320_grid9.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_320.png"
     ],
     "id": 320
   },
@@ -870,7 +883,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_350_grid6.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_350.png"
     ],
     "id": 350
   },
@@ -886,35 +899,9 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_356_grid8.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_356.png"
     ],
     "id": 356
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nWhat is the main figure color of Figure D?",
-        "role": "user"
-      },
-      {
-        "content": "Yellow",
-        "role": "assistant"
-      },
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which figure matches with the given figure on the left if we invert colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "D",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/77/puzzle_77_357_grid3.png",
-      "dataset/clip_images/77/puzzle_77_357_grid3.png",
-      "dataset/clip_images/77/puzzle_77_357_grid7.png"
-    ],
-    "id": 357
   },
   {
     "messages": [
@@ -928,25 +915,9 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_358_grid1.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_358.png"
     ],
     "id": 358
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Which image on the right matches with the left, if we invert the colors?  A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "D",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/77/puzzle_77_394_grid9.png"
-    ],
-    "id": 394
   },
   {
     "messages": [
@@ -960,7 +931,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_439_grid8.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_439.png"
     ],
     "id": 439
   },
@@ -976,7 +947,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_457_grid8.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_457.png"
     ],
     "id": 457
   },
@@ -992,7 +963,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_460_grid1.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_460.png"
     ],
     "id": 460
   },
@@ -1008,7 +979,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_477_grid1.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_477.png"
     ],
     "id": 477
   },
@@ -1024,7 +995,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_526_grid2.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_526.png"
     ],
     "id": 526
   },
@@ -1040,7 +1011,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_546_grid1.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_546.png"
     ],
     "id": 546
   },
@@ -1056,7 +1027,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_552_grid1.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_552.png"
     ],
     "id": 552
   },
@@ -1072,7 +1043,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_558_grid1.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_558.png"
     ],
     "id": 558
   },
@@ -1088,7 +1059,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_590_grid7.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_590.png"
     ],
     "id": 590
   },
@@ -1104,7 +1075,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_593_grid7.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_593.png"
     ],
     "id": 593
   },
@@ -1120,7 +1091,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_60_grid9.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_60.png"
     ],
     "id": 60
   },
@@ -1136,7 +1107,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_629_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_629.png"
     ],
     "id": 629
   },
@@ -1152,7 +1123,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_638_grid1.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_638.png"
     ],
     "id": 638
   },
@@ -1168,7 +1139,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_657_grid6.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_657.png"
     ],
     "id": 657
   },
@@ -1184,7 +1155,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_696_grid1.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_696.png"
     ],
     "id": 696
   },
@@ -1200,7 +1171,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_721_grid8.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_721.png"
     ],
     "id": 721
   },
@@ -1216,14 +1187,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_739_grid7.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_739.png"
     ],
     "id": 739
   },
   {
     "messages": [
       {
-        "content": "<image>\nWhich drawing on the right has a green background?",
+        "content": "Which drawing on the right has a green background?",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_761.png"
+    ],
+    "id": 761
+  },
+  {
+    "messages": [
+      {
+        "content": "Which drawing on the right has a green background?",
         "role": "user"
       },
       {
@@ -1240,15 +1227,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_761_grid5.png",
-      "dataset/clip_images/77/puzzle_77_761_grid7.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_761.png"
     ],
     "id": 761
   },
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the inverted color of yellow?",
+        "content": "What is the inverted color of yellow?",
+        "role": "user"
+      },
+      {
+        "content": "blue",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_764.png"
+    ],
+    "id": 764
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the inverted color of yellow?",
         "role": "user"
       },
       {
@@ -1265,8 +1267,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_764_grid4.png",
-      "dataset/clip_images/77/puzzle_77_764_grid7.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_764.png"
     ],
     "id": 764
   },
@@ -1282,7 +1283,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_796_grid5.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_796.png"
     ],
     "id": 796
   },
@@ -1298,7 +1299,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_806_grid8.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_806.png"
     ],
     "id": 806
   },
@@ -1314,7 +1315,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_847_grid6.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_847.png"
     ],
     "id": 847
   },
@@ -1330,7 +1331,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_909_grid7.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_909.png"
     ],
     "id": 909
   },
@@ -1346,7 +1347,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_911_grid7.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_911.png"
     ],
     "id": 911
   },
@@ -1362,7 +1363,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_954_grid7.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_954.png"
     ],
     "id": 954
   },
@@ -1378,7 +1379,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_966_grid2.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_966.png"
     ],
     "id": 966
   },
@@ -1394,7 +1395,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_967_grid1.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_967.png"
     ],
     "id": 967
   },
@@ -1410,7 +1411,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/77/puzzle_77_974_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/77/img/puzzle_77_974.png"
     ],
     "id": 974
   }

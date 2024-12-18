@@ -1,0 +1,250 @@
+import json
+import os
+from PIL import Image
+import torch
+from transformers import BlipProcessor, BlipModel
+from torchvision import transforms as T
+from torchvision.transforms.functional import InterpolationMode
+import numpy as np
+from typing import List
+import torch.nn.functional as F
+from tqdm import tqdm
+# ImageNet normalization constants
+IMAGENET_MEAN = [0.485, 0.456, 0.406]
+IMAGENET_STD = [0.229, 0.224, 0.225]
+
+# Load BLIP model
+device = "cuda" if torch.cuda.is_available() else "cpu"
+model = BlipModel.from_pretrained("Salesforce/blip-image-captioning-large").to(device)
+processor = BlipProcessor.from_pretrained("Salesforce/blip-image-captioning-large")
+
+# Define transform with 448x448 input size
+input_size = 448
+transform = T.Compose([
+    T.Lambda(lambda img: img.convert('RGB') if img.mode != 'RGB' else img),
+    T.Resize((input_size, input_size), interpolation=InterpolationMode.BICUBIC),
+    T.ToTensor(),
+    # T.Normalize(mean=IMAGENET_MEAN, std=IMAGENET_STD)
+])
+
+def calculate_blip_score(image, text, model, processor, device):
+    """Calculates the relevance score between an image and a text prompt using BLIP."""
+    inputs = processor(text=[text], images=image, return_tensors="pt", padding=True).to(device)
+
+    with torch.no_grad():
+        output = model(**inputs)
+    
+    # Extract embeddings and calculate cosine similarity
+    image_features = F.normalize(output.image_embeds, p=2, dim=-1)
+    text_features = F.normalize(output.text_embeds, p=2, dim=-1)
+    similarity = (image_features @ text_features.T).squeeze().item()
+    
+    return similarity
+
+def add_noise_to_image(image, target_box):
+    """Adds noise to all parts of the image except the target subimage region."""
+    noisy_image = image.copy()
+    noise = Image.effect_noise((image.width, image.height), 10).convert("RGB")  # Create Gaussian noise
+    
+    # Blend noise with the original image everywhere except the target_box
+    mask = Image.new("L", image.size, 128)  # Partial transparency mask
+    mask.paste(255, target_box)  # Full opacity in the target region
+    noisy_image = Image.composite(noisy_image, noise, mask)
+    # noisy_image.save("noisy_image.png")
+    
+    return noisy_image
+
+def normalize_and_shift_scores(scores, parent_score, target_mean=0, target_max=0.5):
+    """Normalizes scores around the parent score with specified bounds."""
+    scores = np.array(scores)
+    scores = (scores - scores.mean()) / (scores.ptp() if scores.ptp() != 0 else 1)
+    scores = scores * target_max + parent_score
+    return scores.tolist()
+
+# def hierarchical_scoring(image, text, model, processor, device, levels=3):
+#     """Performs hierarchical scoring with each level of granularity."""
+    
+#     def split_and_score(image, parent_score, grid_size, level):
+#         """Recursive function to split and score image regions."""
+#         width, height = image.size
+#         patch_width = width // grid_size
+#         patch_height = height // grid_size
+        
+#         # Calculate scores for each patch in the current grid
+#         scores = []
+#         boxes = []
+#         for i in range(2):  # Each level divides into a 2x2 grid
+#             for j in range(2):
+#                 left = j * patch_width
+#                 upper = i * patch_height
+#                 right = left + patch_width
+#                 lower = upper + patch_height
+#                 target_box = (left, upper, right, lower)
+                
+#                 # Store the box for recursive use in the final level
+#                 boxes.append(target_box)
+                
+#                 # Apply noise to everything except the target `8x8` area
+#                 modified_image = add_noise_to_image(image, target_box)
+                
+#                 # Calculate the relevance score with BLIP
+#                 score = calculate_blip_score(modified_image, text, model, processor, device)
+#                 scores.append(score)
+        
+#         # Normalize scores starting from the second level
+#         if level > 1:
+#             scores = normalize_and_shift_scores(scores, parent_score, target_mean=0, target_max=0.05 * (4 ** (levels - level)))
+
+#         final_scores = []
+#         if level < levels:
+#             # Recurse if we haven't reached the last level, for each quadrant
+#             for idx, (quadrant_score, box) in enumerate(zip(scores, boxes)):
+#                 subimage = image.crop(box)
+#                 sub_scores = split_and_score(subimage, quadrant_score, grid_size * 2, level + 1)
+#                 final_scores.extend(sub_scores)
+#         else:
+#             # Last level, replicate scores directly into `16x16` grid
+#             for quadrant_score in scores:
+#                 final_scores.append(quadrant_score)
+#         return final_scores
+
+#     # Start with the entire image and an initial parent score
+#     initial_score = calculate_blip_score(image, text, model, processor, device)
+#     return split_and_score(image, initial_score, 2, 1)
+
+
+def hierarchical_scoring(image, text, model, processor, device, levels=3):
+    """Performs hierarchical scoring with each level of granularity and returns scores in a dict format for 8x8 grids."""
+    
+    def split_and_score(image, parent_score, grid_size, level, row_offset=0, col_offset=0):
+        """Recursive function to split and score image regions, storing only the lowest level in a dictionary."""
+        width, height = image.size
+        patch_width = width // grid_size
+        patch_height = height // grid_size
+
+        # Dictionary to store scores at the lowest level with coordinates
+        score_dict = {}
+
+        # Calculate scores for each patch in the current grid
+        scores = []
+        boxes = []
+        for i in range(2):  # Each level divides into a 2x2 grid
+            for j in range(2):
+                left = j * patch_width
+                upper = i * patch_height
+                right = left + patch_width
+                lower = upper + patch_height
+                target_box = (left, upper, right, lower)
+
+                # Apply noise to everything except the target area
+                modified_image = add_noise_to_image(image, target_box)
+                
+                # Calculate the relevance score with BLIP
+                score = calculate_blip_score(modified_image, text, model, processor, device)
+                scores.append(score)
+                boxes.append(target_box)
+
+        # Normalize scores starting from the second level
+        if level > 1:
+            scores = normalize_and_shift_scores(scores, parent_score, target_mean=0, target_max=0.05 * (4 ** (levels - level)))
+
+        if level < levels:
+            # Recurse if we haven't reached the last level, for each quadrant
+            for idx, (quadrant_score, box) in enumerate(zip(scores, boxes)):
+                subimage = image.crop(box)
+                sub_row_offset = row_offset * 2 + (idx // 2)  # Determine row index based on position
+                sub_col_offset = col_offset * 2 + (idx % 2)  # Determine column index based on position
+                sub_score_dict = split_and_score(subimage, quadrant_score, grid_size * 2, level + 1, sub_row_offset, sub_col_offset)
+                score_dict.update(sub_score_dict)
+        else:
+            # Last level: store scores directly in score_dict with row and column offsets
+            for idx, score in enumerate(scores):
+                row = row_offset * 2 + (idx // 2)
+                col = col_offset * 2 + (idx % 2)
+                score_dict[(row, col)] = score  # Store score with coordinates
+
+        return score_dict
+
+    # Start with the entire image and an initial parent score
+    initial_score = calculate_blip_score(image, text, model, processor, device)
+    return split_and_score(image, initial_score, 2, 1)
+
+
+def process_entry(entry, model, transform, device):
+    """Processes a single entry to add relevance scores for each `8x8`-based subimage."""
+    question = entry['messages'][-2]['content'].replace("<image>\n", "")
+    formatted_text = f"Question: {question} Answer: {entry['messages'][-1]['content']}"
+    
+    image_path = entry['images'][0]
+    image = Image.open(image_path)
+    image = transform(image)
+    image = T.ToPILImage()(image)
+    
+    # Get the score dictionary from hierarchical_scoring
+    score_dict = hierarchical_scoring(image, formatted_text, model, processor, device)
+
+    # Convert `8x8` grid to `16x16` by expanding each cell into a `2x2` block
+    scores_16x16 = [[0] * 16 for _ in range(16)]  # Initialize 16x16 matrix
+
+    for (i, j), score in score_dict.items():
+        # Expand each score from `8x8` to a `2x2` block in `16x16`
+        scores_16x16[i * 2][j * 2] = score      # Top-left of 2x2 block
+        scores_16x16[i * 2][j * 2 + 1] = score  # Top-right of 2x2 block
+        scores_16x16[i * 2 + 1][j * 2] = score  # Bottom-left of 2x2 block
+        scores_16x16[i * 2 + 1][j * 2 + 1] = score  # Bottom-right of 2x2 block
+
+    # Flatten the `16x16` matrix into a row-major ordered list
+    flattened_scores = [score for row in scores_16x16 for score in row]
+    
+    # Add flattened scores to the entry
+    entry['subimage_scores'] = flattened_scores
+    return entry
+
+def process_dataset(json_path, output_path, model, transform, device):
+    """Processes a JSON dataset file, updating each entry with relevance scores for subimages."""
+    with open(json_path, 'r') as f:
+        data = json.load(f)
+    
+    for entry in tqdm(data, desc="Processing dataset"):
+        entry = process_entry(entry, model, transform, device)
+    
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+    with open(output_path, 'w') as f:
+        json.dump(data, f, indent=2)
+
+def main():
+    data_root = './dataset/finetune_dataset/'
+    new_data_root = "./dataset/finetune_dataset_subimage"
+    with open(os.path.join(data_root, "smart101.json"), 'r') as f:
+        smart101_data = json.load(f)
+    
+    updated_smart101_data = {}
+
+    for idx, (entry_name, entry_data) in tqdm(enumerate(smart101_data.items()), total=len(smart101_data)):
+        # if idx < 40:
+        #     continue
+        # if idx >= 60:
+        #     break
+
+        # only process implicit cot train dataset.
+        if not entry_name.startswith('smart101_implicit_cot') or ('train' not in entry_name):
+            print("skip entry_name:{}, not implicit cot data..".format(entry_name))
+            continue
+
+        dataset_path = entry_data["dataset_path"]
+        full_dataset_path = os.path.join(data_root, dataset_path)
+        new_dataset_path = os.path.join(new_data_root, dataset_path)
+        
+        process_dataset(full_dataset_path, new_dataset_path, model, transform, device)
+        
+        updated_smart101_data[entry_name] = {
+            "dataset_path": dataset_path,
+            "tags": entry_data["tags"]
+        }
+    
+        new_smart101_path = os.path.join(new_data_root, "smart101.json")
+        with open(new_smart101_path, 'w') as f:
+            json.dump(updated_smart101_data, f, indent=2)
+
+if __name__ == "__main__":
+    main()

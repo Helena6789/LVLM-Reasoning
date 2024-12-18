@@ -11,7 +11,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_1015_grid6.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1015.png"
     ],
     "id": 1015
   },
@@ -27,14 +27,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_1115_grid6.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1115.png"
     ],
     "id": 1115
   },
   {
     "messages": [
       {
-        "content": "<image>\nWhich hole in Card 1 aligns with the hole in Card 2?",
+        "content": "Which hole in Card 1 aligns with the hole in Card 2?",
+        "role": "user"
+      },
+      {
+        "content": "Top left",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_113.png"
+    ],
+    "id": 113
+  },
+  {
+    "messages": [
+      {
+        "content": "Which hole in Card 1 aligns with the hole in Card 2?",
         "role": "user"
       },
       {
@@ -51,15 +67,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_113_grid6.png",
-      "dataset/clip_images/69/puzzle_69_113_grid1.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_113.png"
     ],
     "id": 113
   },
   {
     "messages": [
       {
-        "content": "<image>\nWhat color represents a hole that is visible in both Card 1 and Card 2 when overlapped?",
+        "content": "What color represents a hole that is visible in both Card 1 and Card 2 when overlapped?",
+        "role": "user"
+      },
+      {
+        "content": "Yellow",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1148.png"
+    ],
+    "id": 1148
+  },
+  {
+    "messages": [
+      {
+        "content": "What color represents a hole that is visible in both Card 1 and Card 2 when overlapped?",
         "role": "user"
       },
       {
@@ -76,8 +107,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_1148_grid6.png",
-      "dataset/clip_images/69/puzzle_69_1148_grid1.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1148.png"
     ],
     "id": 1148
   },
@@ -93,14 +123,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_1156_grid6.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1156.png"
     ],
     "id": 1156
   },
   {
     "messages": [
       {
-        "content": "<image>\nWhat color are the holes in Card 2?",
+        "content": "What color are the holes in Card 2?",
+        "role": "user"
+      },
+      {
+        "content": "Orange",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1181.png"
+    ],
+    "id": 1181
+  },
+  {
+    "messages": [
+      {
+        "content": "What color are the holes in Card 2?",
         "role": "user"
       },
       {
@@ -117,15 +163,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_1181_grid6.png",
-      "dataset/clip_images/69/puzzle_69_1181_grid4.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1181.png"
     ],
     "id": 1181
   },
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the color and pattern visible through the bottom-right hole when Card 1 is placed directly on top of Card 2?",
+        "content": "What is the color and pattern visible through the bottom-right hole when Card 1 is placed directly on top of Card 2?",
+        "role": "user"
+      },
+      {
+        "content": "Brown dot",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1193.png"
+    ],
+    "id": 1193
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the color and pattern visible through the bottom-right hole when Card 1 is placed directly on top of Card 2?",
         "role": "user"
       },
       {
@@ -142,15 +203,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_1193_grid6.png",
-      "dataset/clip_images/69/puzzle_69_1193_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1193.png"
     ],
     "id": 1193
   },
   {
     "messages": [
       {
-        "content": "<image>\nWhat does Stephen see through the hole in the bottom left corner of Card 2?",
+        "content": "What does Stephen see through the hole in the bottom left corner of Card 2?",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1204.png"
+    ],
+    "id": 1204
+  },
+  {
+    "messages": [
+      {
+        "content": "What does Stephen see through the hole in the bottom left corner of Card 2?",
         "role": "user"
       },
       {
@@ -167,8 +243,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_1204_grid6.png",
-      "dataset/clip_images/69/puzzle_69_1204_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1204.png"
     ],
     "id": 1204
   },
@@ -184,7 +259,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_1244_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1244.png"
     ],
     "id": 1244
   },
@@ -200,7 +275,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_1247_grid6.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1247.png"
     ],
     "id": 1247
   },
@@ -216,14 +291,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_1259_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1259.png"
     ],
     "id": 1259
   },
   {
     "messages": [
       {
-        "content": "<image>\nAre all the holes in card 2 visible when card 1 is placed on top?",
+        "content": "Are all the holes in card 2 visible when card 1 is placed on top?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1305.png"
+    ],
+    "id": 1305
+  },
+  {
+    "messages": [
+      {
+        "content": "Are all the holes in card 2 visible when card 1 is placed on top?",
         "role": "user"
       },
       {
@@ -240,15 +331,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_1305_grid4.png",
-      "dataset/clip_images/69/puzzle_69_1305_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1305.png"
     ],
     "id": 1305
   },
   {
     "messages": [
       {
-        "content": "<image>\nWhich holes of card 2 do not align with any holes of card 1 when placed on top?",
+        "content": "Which holes of card 2 do not align with any holes of card 1 when placed on top?",
+        "role": "user"
+      },
+      {
+        "content": "The center, middle-left, and middle-right holes.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_142.png"
+    ],
+    "id": 142
+  },
+  {
+    "messages": [
+      {
+        "content": "Which holes of card 2 do not align with any holes of card 1 when placed on top?",
         "role": "user"
       },
       {
@@ -265,15 +371,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_142_grid6.png",
-      "dataset/clip_images/69/puzzle_69_142_grid11.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_142.png"
     ],
     "id": 142
   },
   {
     "messages": [
       {
-        "content": "<image>\nWhat are the colors of the holes on Card 2?",
+        "content": "What are the colors of the holes on Card 2?",
+        "role": "user"
+      },
+      {
+        "content": "Multiple colors (including green, yellow, pink, and orange)",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1425.png"
+    ],
+    "id": 1425
+  },
+  {
+    "messages": [
+      {
+        "content": "What are the colors of the holes on Card 2?",
         "role": "user"
       },
       {
@@ -290,15 +411,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_1425_grid4.png",
-      "dataset/clip_images/69/puzzle_69_1425_grid6.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1425.png"
     ],
     "id": 1425
   },
   {
     "messages": [
       {
-        "content": "<image>\nWhich option (C or E) has the same hole pattern as card 2?",
+        "content": "Which option (C or E) has the same hole pattern as card 2?",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1428.png"
+    ],
+    "id": 1428
+  },
+  {
+    "messages": [
+      {
+        "content": "Which option (C or E) has the same hole pattern as card 2?",
         "role": "user"
       },
       {
@@ -315,8 +451,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_1428_grid6.png",
-      "dataset/clip_images/69/puzzle_69_1428_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1428.png"
     ],
     "id": 1428
   },
@@ -332,14 +467,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_1432_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1432.png"
     ],
     "id": 1432
   },
   {
     "messages": [
       {
-        "content": "<image>\nDoes Amber see through all the holes in Card 1 to holes in Card 2?",
+        "content": "Does Amber see through all the holes in Card 1 to holes in Card 2?",
+        "role": "user"
+      },
+      {
+        "content": "No",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_145.png"
+    ],
+    "id": 145
+  },
+  {
+    "messages": [
+      {
+        "content": "Does Amber see through all the holes in Card 1 to holes in Card 2?",
         "role": "user"
       },
       {
@@ -356,15 +507,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_145_grid6.png",
-      "dataset/clip_images/69/puzzle_69_145_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_145.png"
     ],
     "id": 145
   },
   {
     "messages": [
       {
-        "content": "<image>\nDo the positions of the holes in Card 2 completely align with the holes in Card E?",
+        "content": "Do the positions of the holes in Card 2 completely align with the holes in Card E?",
+        "role": "user"
+      },
+      {
+        "content": "No",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1474.png"
+    ],
+    "id": 1474
+  },
+  {
+    "messages": [
+      {
+        "content": "Do the positions of the holes in Card 2 completely align with the holes in Card E?",
         "role": "user"
       },
       {
@@ -381,26 +547,9 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_1474_grid6.png",
-      "dataset/clip_images/69/puzzle_69_1474_grid11.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1474.png"
     ],
     "id": 1474
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Victor has two cards of the same size. Card 1 has three holes created. Victor keeps card 1 directly on top of card 2. What does Victor see? A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "B",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/69/puzzle_69_15_grid1.png"
-    ],
-    "id": 15
   },
   {
     "messages": [
@@ -414,7 +563,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_1539_grid11.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1539.png"
     ],
     "id": 1539
   },
@@ -430,14 +579,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_1582_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1582.png"
     ],
     "id": 1582
   },
   {
     "messages": [
       {
-        "content": "<image>\nWhat do the visible holes on card 2 look like after card 1 is placed on top?",
+        "content": "What do the visible holes on card 2 look like after card 1 is placed on top?",
+        "role": "user"
+      },
+      {
+        "content": "The card has seven visible holes not including the ones that overlap with card 1.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1586.png"
+    ],
+    "id": 1586
+  },
+  {
+    "messages": [
+      {
+        "content": "What do the visible holes on card 2 look like after card 1 is placed on top?",
         "role": "user"
       },
       {
@@ -454,8 +619,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_1586_grid6.png",
-      "dataset/clip_images/69/puzzle_69_1586_grid11.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1586.png"
     ],
     "id": 1586
   },
@@ -471,7 +635,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_1655_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1655.png"
     ],
     "id": 1655
   },
@@ -487,14 +651,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_167_grid1.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_167.png"
     ],
     "id": 167
   },
   {
     "messages": [
       {
-        "content": "<image>\nDo the purple holes aligning with the original four holes in card 1 belong to card D?",
+        "content": "Do the purple holes aligning with the original four holes in card 1 belong to card D?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1716.png"
+    ],
+    "id": 1716
+  },
+  {
+    "messages": [
+      {
+        "content": "Do the purple holes aligning with the original four holes in card 1 belong to card D?",
         "role": "user"
       },
       {
@@ -511,15 +691,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_1716_grid6.png",
-      "dataset/clip_images/69/puzzle_69_1716_grid6.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1716.png"
     ],
     "id": 1716
   },
   {
     "messages": [
       {
-        "content": "<image>\nWhich holes on card 2 align with holes on card 1?",
+        "content": "Which holes on card 2 align with holes on card 1?",
+        "role": "user"
+      },
+      {
+        "content": "The bottom left hole on card 1 aligns with the bottom left hole on card 2. The top right hole on card 1 aligns with the top right hole on card 2.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1736.png"
+    ],
+    "id": 1736
+  },
+  {
+    "messages": [
+      {
+        "content": "Which holes on card 2 align with holes on card 1?",
         "role": "user"
       },
       {
@@ -536,8 +731,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_1736_grid5.png",
-      "dataset/clip_images/69/puzzle_69_1736_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1736.png"
     ],
     "id": 1736
   },
@@ -553,7 +747,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_174_grid11.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_174.png"
     ],
     "id": 174
   },
@@ -569,14 +763,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_1741_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1741.png"
     ],
     "id": 1741
   },
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the relative positioning of card 1 over card 2?",
+        "content": "What is the relative positioning of card 1 over card 2?",
+        "role": "user"
+      },
+      {
+        "content": "Card 1 is placed directly over card 2 such that all holes of card 1 overlap with a subset of holes in card 2.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1768.png"
+    ],
+    "id": 1768
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the relative positioning of card 1 over card 2?",
         "role": "user"
       },
       {
@@ -593,15 +803,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_1768_grid6.png",
-      "dataset/clip_images/69/puzzle_69_1768_grid11.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1768.png"
     ],
     "id": 1768
   },
   {
     "messages": [
       {
-        "content": "<image>\nHow many holes in Card 2 are fully visible when viewed from above with Card 1 on top?",
+        "content": "How many holes in Card 2 are fully visible when viewed from above with Card 1 on top?",
+        "role": "user"
+      },
+      {
+        "content": "0",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1779.png"
+    ],
+    "id": 1779
+  },
+  {
+    "messages": [
+      {
+        "content": "How many holes in Card 2 are fully visible when viewed from above with Card 1 on top?",
         "role": "user"
       },
       {
@@ -618,32 +843,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_1779_grid4.png",
-      "dataset/clip_images/69/puzzle_69_1779_grid6.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1779.png"
     ],
     "id": 1779
   },
   {
     "messages": [
       {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Christine has two cards of the same size. Card 1 has three holes created. Christine keeps card 1 directly on top of card 2. What does Christine see? A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
+        "content": "Which holes in Card 2 do not overlap with any hole in Card 1?",
         "role": "user"
       },
       {
-        "content": "B",
+        "content": "The middle hole in Card 2 does not overlap with any hole in Card 1.",
         "role": "assistant"
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_1810_grid6.png",
-      "dataset/clip_images/69/puzzle_69_1810_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1834.png"
     ],
-    "id": 1810
+    "id": 1834
   },
   {
     "messages": [
       {
-        "content": "<image>\nWhich holes in Card 2 do not overlap with any hole in Card 1?",
+        "content": "Which holes in Card 2 do not overlap with any hole in Card 1?",
         "role": "user"
       },
       {
@@ -660,8 +883,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_1834_grid6.png",
-      "dataset/clip_images/69/puzzle_69_1834_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1834.png"
     ],
     "id": 1834
   },
@@ -677,7 +899,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_184_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_184.png"
     ],
     "id": 184
   },
@@ -693,7 +915,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_1846_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1846.png"
     ],
     "id": 1846
   },
@@ -709,7 +931,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_1860_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1860.png"
     ],
     "id": 1860
   },
@@ -725,7 +947,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_1869_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1869.png"
     ],
     "id": 1869
   },
@@ -741,7 +963,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_1890_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1890.png"
     ],
     "id": 1890
   },
@@ -757,7 +979,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_1902_grid11.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1902.png"
     ],
     "id": 1902
   },
@@ -773,7 +995,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_1939_grid11.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1939.png"
     ],
     "id": 1939
   },
@@ -789,14 +1011,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_1959_grid1.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1959.png"
     ],
     "id": 1959
   },
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the position of the holes on Card 2 that align with holes on Card 1?",
+        "content": "What is the position of the holes on Card 2 that align with holes on Card 1?",
+        "role": "user"
+      },
+      {
+        "content": "Top left, bottom right",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_196.png"
+    ],
+    "id": 196
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the position of the holes on Card 2 that align with holes on Card 1?",
         "role": "user"
       },
       {
@@ -813,15 +1051,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_196_grid4.png",
-      "dataset/clip_images/69/puzzle_69_196_grid6.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_196.png"
     ],
     "id": 196
   },
   {
     "messages": [
       {
-        "content": "<image>\nWhat colors are the holes in card 1 and card 2?",
+        "content": "What colors are the holes in card 1 and card 2?",
+        "role": "user"
+      },
+      {
+        "content": "Card 1: black, Card 2: green and purple",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1962.png"
+    ],
+    "id": 1962
+  },
+  {
+    "messages": [
+      {
+        "content": "What colors are the holes in card 1 and card 2?",
         "role": "user"
       },
       {
@@ -838,15 +1091,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_1962_grid5.png",
-      "dataset/clip_images/69/puzzle_69_1962_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1962.png"
     ],
     "id": 1962
   },
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the total number of green holes on Card 2 that are visible when Card 1 is placed on top of it?",
+        "content": "What is the total number of green holes on Card 2 that are visible when Card 1 is placed on top of it?",
+        "role": "user"
+      },
+      {
+        "content": "3",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1974.png"
+    ],
+    "id": 1974
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the total number of green holes on Card 2 that are visible when Card 1 is placed on top of it?",
         "role": "user"
       },
       {
@@ -863,15 +1131,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_1974_grid5.png",
-      "dataset/clip_images/69/puzzle_69_1974_grid1.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1974.png"
     ],
     "id": 1974
   },
   {
     "messages": [
       {
-        "content": "<image>\nWhich colors of holes in card 2 align perfectly with the holes in card 1?",
+        "content": "Which colors of holes in card 2 align perfectly with the holes in card 1?",
+        "role": "user"
+      },
+      {
+        "content": "Purple, Blue, Green",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_198.png"
+    ],
+    "id": 198
+  },
+  {
+    "messages": [
+      {
+        "content": "Which colors of holes in card 2 align perfectly with the holes in card 1?",
         "role": "user"
       },
       {
@@ -888,15 +1171,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_198_grid5.png",
-      "dataset/clip_images/69/puzzle_69_198_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_198.png"
     ],
     "id": 198
   },
   {
     "messages": [
       {
-        "content": "<image>\nIs the arrangement of holes on card 1 and card 2 such that they match when card 1 is placed on card 2?",
+        "content": "Is the arrangement of holes on card 1 and card 2 such that they match when card 1 is placed on card 2?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1980.png"
+    ],
+    "id": 1980
+  },
+  {
+    "messages": [
+      {
+        "content": "Is the arrangement of holes on card 1 and card 2 such that they match when card 1 is placed on card 2?",
         "role": "user"
       },
       {
@@ -913,15 +1211,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_1980_grid6.png",
-      "dataset/clip_images/69/puzzle_69_1980_grid1.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1980.png"
     ],
     "id": 1980
   },
   {
     "messages": [
       {
-        "content": "<image>\nAre there any green dots on card 2?",
+        "content": "Are there any green dots on card 2?",
+        "role": "user"
+      },
+      {
+        "content": "No",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1982.png"
+    ],
+    "id": 1982
+  },
+  {
+    "messages": [
+      {
+        "content": "Are there any green dots on card 2?",
         "role": "user"
       },
       {
@@ -938,8 +1251,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_1982_grid6.png",
-      "dataset/clip_images/69/puzzle_69_1982_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_1982.png"
     ],
     "id": 1982
   },
@@ -955,14 +1267,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_2_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_2.png"
     ],
     "id": 2
   },
   {
     "messages": [
       {
-        "content": "<image>\nDoes the additional hole in Card 2 align with any hole in Card 1 when placed on top?",
+        "content": "Does the additional hole in Card 2 align with any hole in Card 1 when placed on top?",
+        "role": "user"
+      },
+      {
+        "content": "No",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_214.png"
+    ],
+    "id": 214
+  },
+  {
+    "messages": [
+      {
+        "content": "Does the additional hole in Card 2 align with any hole in Card 1 when placed on top?",
         "role": "user"
       },
       {
@@ -979,8 +1307,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_214_grid6.png",
-      "dataset/clip_images/69/puzzle_69_214_grid11.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_214.png"
     ],
     "id": 214
   },
@@ -996,20 +1323,12 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_264_grid6.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_264.png"
     ],
     "id": 264
   },
   {
     "messages": [
-      {
-        "content": "<image>\nAre the holes on card 1 in the same positions as any holes on card 2?",
-        "role": "user"
-      },
-      {
-        "content": "No, the holes on card 1 do not overlap with the holes on card 2.",
-        "role": "assistant"
-      },
       {
         "content": "<image>\nBased on the previous answered questions, please answer the following questions: Karen has two cards of the same size. Card 1 has three holes drilled. Karen holds card 1 directly on top of card 2. What does Karen see? A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
         "role": "user"
@@ -1020,8 +1339,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_29_grid6.png",
-      "dataset/clip_images/69/puzzle_69_29_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_29.png"
     ],
     "id": 29
   },
@@ -1037,7 +1355,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_323_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_323.png"
     ],
     "id": 323
   },
@@ -1053,7 +1371,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_353_grid1.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_353.png"
     ],
     "id": 353
   },
@@ -1069,7 +1387,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_395_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_395.png"
     ],
     "id": 395
   },
@@ -1085,7 +1403,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_4_grid11.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_4.png"
     ],
     "id": 4
   },
@@ -1101,14 +1419,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_435_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_435.png"
     ],
     "id": 435
   },
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the total number of holes visible in both cards combined?",
+        "content": "What is the total number of holes visible in both cards combined?",
+        "role": "user"
+      },
+      {
+        "content": "5",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_442.png"
+    ],
+    "id": 442
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the total number of holes visible in both cards combined?",
         "role": "user"
       },
       {
@@ -1125,8 +1459,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_442_grid6.png",
-      "dataset/clip_images/69/puzzle_69_442_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_442.png"
     ],
     "id": 442
   },
@@ -1142,14 +1475,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_458_grid11.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_458.png"
     ],
     "id": 458
   },
   {
     "messages": [
       {
-        "content": "<image>\nWhat does the combined arrangement of holes look like when card 1 is overlaid on card 2?",
+        "content": "What does the combined arrangement of holes look like when card 1 is overlaid on card 2?",
+        "role": "user"
+      },
+      {
+        "content": "The combined arrangement of holes should correspond to the layout shown in option E, which has holes aligned as in card 1.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_460.png"
+    ],
+    "id": 460
+  },
+  {
+    "messages": [
+      {
+        "content": "What does the combined arrangement of holes look like when card 1 is overlaid on card 2?",
         "role": "user"
       },
       {
@@ -1166,15 +1515,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_460_grid5.png",
-      "dataset/clip_images/69/puzzle_69_460_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_460.png"
     ],
     "id": 460
   },
   {
     "messages": [
       {
-        "content": "<image>\nDo the holes in the top-left of Card 1 align with any holes on Card 2?",
+        "content": "Do the holes in the top-left of Card 1 align with any holes on Card 2?",
+        "role": "user"
+      },
+      {
+        "content": "Yes, the hole in the top-left of Card 1 aligns with the hole in the top-left of Card 2.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_506.png"
+    ],
+    "id": 506
+  },
+  {
+    "messages": [
+      {
+        "content": "Do the holes in the top-left of Card 1 align with any holes on Card 2?",
         "role": "user"
       },
       {
@@ -1191,8 +1555,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_506_grid6.png",
-      "dataset/clip_images/69/puzzle_69_506_grid1.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_506.png"
     ],
     "id": 506
   },
@@ -1208,14 +1571,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_525_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_525.png"
     ],
     "id": 525
   },
   {
     "messages": [
       {
-        "content": "<image>\nWhat does Christian see when Card 1 is placed on top of Card 2?",
+        "content": "What does Christian see when Card 1 is placed on top of Card 2?",
+        "role": "user"
+      },
+      {
+        "content": "4 holes in a square pattern, evenly spaced",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_53.png"
+    ],
+    "id": 53
+  },
+  {
+    "messages": [
+      {
+        "content": "What does Christian see when Card 1 is placed on top of Card 2?",
         "role": "user"
       },
       {
@@ -1232,15 +1611,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_53_grid6.png",
-      "dataset/clip_images/69/puzzle_69_53_grid6.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_53.png"
     ],
     "id": 53
   },
   {
     "messages": [
       {
-        "content": "<image>\nWhere is the hole in Card 2 that is not overlapped by any hole in Card 1?",
+        "content": "Where is the hole in Card 2 that is not overlapped by any hole in Card 1?",
+        "role": "user"
+      },
+      {
+        "content": "Top left",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_530.png"
+    ],
+    "id": 530
+  },
+  {
+    "messages": [
+      {
+        "content": "Where is the hole in Card 2 that is not overlapped by any hole in Card 1?",
         "role": "user"
       },
       {
@@ -1257,8 +1651,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_530_grid6.png",
-      "dataset/clip_images/69/puzzle_69_530_grid11.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_530.png"
     ],
     "id": 530
   },
@@ -1274,14 +1667,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_578_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_578.png"
     ],
     "id": 578
   },
   {
     "messages": [
       {
-        "content": "<image>\nWhat card is directly to the right of Card A?",
+        "content": "What card is directly to the right of Card A?",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_586.png"
+    ],
+    "id": 586
+  },
+  {
+    "messages": [
+      {
+        "content": "What card is directly to the right of Card A?",
         "role": "user"
       },
       {
@@ -1298,8 +1707,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_586_grid6.png",
-      "dataset/clip_images/69/puzzle_69_586_grid6.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_586.png"
     ],
     "id": 586
   },
@@ -1315,7 +1723,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_680_grid1.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_680.png"
     ],
     "id": 680
   },
@@ -1331,14 +1739,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_689_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_689.png"
     ],
     "id": 689
   },
   {
     "messages": [
       {
-        "content": "<image>\nWhat are the colors of the holes in Card 2?",
+        "content": "What are the colors of the holes in Card 2?",
+        "role": "user"
+      },
+      {
+        "content": "The holes in Card 2 are yellow.",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_72.png"
+    ],
+    "id": 72
+  },
+  {
+    "messages": [
+      {
+        "content": "What are the colors of the holes in Card 2?",
         "role": "user"
       },
       {
@@ -1355,8 +1779,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_72_grid5.png",
-      "dataset/clip_images/69/puzzle_69_72_grid6.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_72.png"
     ],
     "id": 72
   },
@@ -1372,14 +1795,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_787_grid6.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_787.png"
     ],
     "id": 787
   },
   {
     "messages": [
       {
-        "content": "<image>\nGiven that patterns align precisely, which of the options A, B, C, D, or E shows the correct color alignment?",
+        "content": "Given that patterns align precisely, which of the options A, B, C, D, or E shows the correct color alignment?",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_798.png"
+    ],
+    "id": 798
+  },
+  {
+    "messages": [
+      {
+        "content": "Given that patterns align precisely, which of the options A, B, C, D, or E shows the correct color alignment?",
         "role": "user"
       },
       {
@@ -1396,15 +1835,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_798_grid5.png",
-      "dataset/clip_images/69/puzzle_69_798_grid11.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_798.png"
     ],
     "id": 798
   },
   {
     "messages": [
       {
-        "content": "<image>\nWhat color is visible through the bottom left hole in Card 1?",
+        "content": "What color is visible through the bottom left hole in Card 1?",
+        "role": "user"
+      },
+      {
+        "content": "Black",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_822.png"
+    ],
+    "id": 822
+  },
+  {
+    "messages": [
+      {
+        "content": "What color is visible through the bottom left hole in Card 1?",
         "role": "user"
       },
       {
@@ -1421,15 +1875,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_822_grid6.png",
-      "dataset/clip_images/69/puzzle_69_822_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_822.png"
     ],
     "id": 822
   },
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the position of the green hole in card 2?",
+        "content": "What is the position of the green hole in card 2?",
+        "role": "user"
+      },
+      {
+        "content": "Middle",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_828.png"
+    ],
+    "id": 828
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the position of the green hole in card 2?",
         "role": "user"
       },
       {
@@ -1437,7 +1906,31 @@
         "role": "assistant"
       },
       {
-        "content": "<image>\nWhat is the position of the blue hole in card 2?",
+        "content": "What is the position of the blue hole in card 2?",
+        "role": "user"
+      },
+      {
+        "content": "Right",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_828.png"
+    ],
+    "id": 828
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the position of the green hole in card 2?",
+        "role": "user"
+      },
+      {
+        "content": "Middle",
+        "role": "assistant"
+      },
+      {
+        "content": "What is the position of the blue hole in card 2?",
         "role": "user"
       },
       {
@@ -1454,16 +1947,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_828_grid6.png",
-      "dataset/clip_images/69/puzzle_69_828_grid6.png",
-      "dataset/clip_images/69/puzzle_69_828_grid11.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_828.png"
     ],
     "id": 828
   },
   {
     "messages": [
       {
-        "content": "<image>\nDo the holes on Card 2 form the same geometric shape as the holes on Card 1?",
+        "content": "Do the holes on Card 2 form the same geometric shape as the holes on Card 1?",
+        "role": "user"
+      },
+      {
+        "content": "Yes",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_829.png"
+    ],
+    "id": 829
+  },
+  {
+    "messages": [
+      {
+        "content": "Do the holes on Card 2 form the same geometric shape as the holes on Card 1?",
         "role": "user"
       },
       {
@@ -1480,26 +1987,9 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_829_grid6.png",
-      "dataset/clip_images/69/puzzle_69_829_grid11.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_829.png"
     ],
     "id": 829
-  },
-  {
-    "messages": [
-      {
-        "content": "<image>\nBased on the previous answered questions, please answer the following questions: Brenda has two cards of the same size. Card 1 has three holes created. Brenda keeps card 1 directly on top of card 2. What does Brenda see? A: A,B: B,C: C,D: D,E: E. You should provide the answer in a single upper case letter, e.g: A",
-        "role": "user"
-      },
-      {
-        "content": "D",
-        "role": "assistant"
-      }
-    ],
-    "images": [
-      "dataset/clip_images/69/puzzle_69_868_grid6.png"
-    ],
-    "id": 868
   },
   {
     "messages": [
@@ -1513,14 +2003,30 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_898_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_898.png"
     ],
     "id": 898
   },
   {
     "messages": [
       {
-        "content": "<image>\nWhat is the color of the bottom-left hole on Card 1?",
+        "content": "What is the color of the bottom-left hole on Card 1?",
+        "role": "user"
+      },
+      {
+        "content": "Pink",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_914.png"
+    ],
+    "id": 914
+  },
+  {
+    "messages": [
+      {
+        "content": "What is the color of the bottom-left hole on Card 1?",
         "role": "user"
       },
       {
@@ -1537,8 +2043,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_914_grid6.png",
-      "dataset/clip_images/69/puzzle_69_914_grid6.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_914.png"
     ],
     "id": 914
   },
@@ -1554,7 +2059,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_919_grid11.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_919.png"
     ],
     "id": 919
   },
@@ -1570,7 +2075,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_934_grid10.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_934.png"
     ],
     "id": 934
   },
@@ -1586,7 +2091,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_979_grid6.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_979.png"
     ],
     "id": 979
   },
@@ -1602,7 +2107,7 @@
       }
     ],
     "images": [
-      "dataset/clip_images/69/puzzle_69_996_grid11.png"
+      "dataset/SMART101-release-v1/SMART101-Data/69/img/puzzle_69_996.png"
     ],
     "id": 996
   }

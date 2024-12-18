@@ -1,0 +1,920 @@
+{
+  "smart101_pretrain_inference_18_test_0": {
+    "dataset_path": "18/question_split/pretrain-inference/puzzle_18_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_pretrain_cot_18_test_0": {
+    "dataset_path": "18/question_split/pretrain-cot/puzzle_18_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_finetune_inference_18_train_0": {
+    "dataset_path": "18/question_split/finetune-inference/puzzle_18_train_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_finetune_inference_18_val_0": {
+    "dataset_path": "18/question_split/finetune-inference/puzzle_18_val_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_finetune_inference_18_test_0": {
+    "dataset_path": "18/question_split/finetune-inference/puzzle_18_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_finetune_cot_18_test_0": {
+    "dataset_path": "18/question_split/finetune-cot/puzzle_18_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_18_train_0": {
+    "dataset_path": "18/question_split/implicit-cot/puzzle_18_train_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_18_train_1": {
+    "dataset_path": "18/question_split/implicit-cot/puzzle_18_train_1.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_18_train_2": {
+    "dataset_path": "18/question_split/implicit-cot/puzzle_18_train_2.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_18_train_3": {
+    "dataset_path": "18/question_split/implicit-cot/puzzle_18_train_3.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_18_train_4": {
+    "dataset_path": "18/question_split/implicit-cot/puzzle_18_train_4.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_18_train_5": {
+    "dataset_path": "18/question_split/implicit-cot/puzzle_18_train_5.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_18_train_6": {
+    "dataset_path": "18/question_split/implicit-cot/puzzle_18_train_6.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_18_train_7": {
+    "dataset_path": "18/question_split/implicit-cot/puzzle_18_train_7.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_18_train_8": {
+    "dataset_path": "18/question_split/implicit-cot/puzzle_18_train_8.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_18_train_9": {
+    "dataset_path": "18/question_split/implicit-cot/puzzle_18_train_9.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_18_test_0": {
+    "dataset_path": "18/question_split/implicit-cot/puzzle_18_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_pretrain_inference_61_test_0": {
+    "dataset_path": "61/question_split/pretrain-inference/puzzle_61_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_pretrain_cot_61_test_0": {
+    "dataset_path": "61/question_split/pretrain-cot/puzzle_61_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_finetune_inference_61_train_0": {
+    "dataset_path": "61/question_split/finetune-inference/puzzle_61_train_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_finetune_inference_61_val_0": {
+    "dataset_path": "61/question_split/finetune-inference/puzzle_61_val_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_finetune_inference_61_test_0": {
+    "dataset_path": "61/question_split/finetune-inference/puzzle_61_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_finetune_cot_61_test_0": {
+    "dataset_path": "61/question_split/finetune-cot/puzzle_61_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_61_train_0": {
+    "dataset_path": "61/question_split/implicit-cot/puzzle_61_train_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_61_train_1": {
+    "dataset_path": "61/question_split/implicit-cot/puzzle_61_train_1.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_61_train_2": {
+    "dataset_path": "61/question_split/implicit-cot/puzzle_61_train_2.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_61_train_3": {
+    "dataset_path": "61/question_split/implicit-cot/puzzle_61_train_3.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_61_train_4": {
+    "dataset_path": "61/question_split/implicit-cot/puzzle_61_train_4.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_61_train_5": {
+    "dataset_path": "61/question_split/implicit-cot/puzzle_61_train_5.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_61_train_6": {
+    "dataset_path": "61/question_split/implicit-cot/puzzle_61_train_6.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_61_train_7": {
+    "dataset_path": "61/question_split/implicit-cot/puzzle_61_train_7.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_61_train_8": {
+    "dataset_path": "61/question_split/implicit-cot/puzzle_61_train_8.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_61_train_9": {
+    "dataset_path": "61/question_split/implicit-cot/puzzle_61_train_9.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_61_test_0": {
+    "dataset_path": "61/question_split/implicit-cot/puzzle_61_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_pretrain_inference_62_test_0": {
+    "dataset_path": "62/question_split/pretrain-inference/puzzle_62_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_pretrain_cot_62_test_0": {
+    "dataset_path": "62/question_split/pretrain-cot/puzzle_62_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_finetune_inference_62_train_0": {
+    "dataset_path": "62/question_split/finetune-inference/puzzle_62_train_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_finetune_inference_62_val_0": {
+    "dataset_path": "62/question_split/finetune-inference/puzzle_62_val_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_finetune_inference_62_test_0": {
+    "dataset_path": "62/question_split/finetune-inference/puzzle_62_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_finetune_cot_62_test_0": {
+    "dataset_path": "62/question_split/finetune-cot/puzzle_62_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_62_train_0": {
+    "dataset_path": "62/question_split/implicit-cot/puzzle_62_train_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_62_train_1": {
+    "dataset_path": "62/question_split/implicit-cot/puzzle_62_train_1.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_62_train_2": {
+    "dataset_path": "62/question_split/implicit-cot/puzzle_62_train_2.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_62_train_3": {
+    "dataset_path": "62/question_split/implicit-cot/puzzle_62_train_3.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_62_train_4": {
+    "dataset_path": "62/question_split/implicit-cot/puzzle_62_train_4.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_62_train_5": {
+    "dataset_path": "62/question_split/implicit-cot/puzzle_62_train_5.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_62_train_6": {
+    "dataset_path": "62/question_split/implicit-cot/puzzle_62_train_6.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_62_train_7": {
+    "dataset_path": "62/question_split/implicit-cot/puzzle_62_train_7.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_62_train_8": {
+    "dataset_path": "62/question_split/implicit-cot/puzzle_62_train_8.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_62_train_9": {
+    "dataset_path": "62/question_split/implicit-cot/puzzle_62_train_9.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_62_test_0": {
+    "dataset_path": "62/question_split/implicit-cot/puzzle_62_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_pretrain_inference_69_test_0": {
+    "dataset_path": "69/question_split/pretrain-inference/puzzle_69_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_pretrain_cot_69_test_0": {
+    "dataset_path": "69/question_split/pretrain-cot/puzzle_69_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_finetune_inference_69_train_0": {
+    "dataset_path": "69/question_split/finetune-inference/puzzle_69_train_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_finetune_inference_69_val_0": {
+    "dataset_path": "69/question_split/finetune-inference/puzzle_69_val_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_finetune_inference_69_test_0": {
+    "dataset_path": "69/question_split/finetune-inference/puzzle_69_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_finetune_cot_69_test_0": {
+    "dataset_path": "69/question_split/finetune-cot/puzzle_69_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_69_train_0": {
+    "dataset_path": "69/question_split/implicit-cot/puzzle_69_train_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_69_train_1": {
+    "dataset_path": "69/question_split/implicit-cot/puzzle_69_train_1.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_69_train_2": {
+    "dataset_path": "69/question_split/implicit-cot/puzzle_69_train_2.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_69_train_3": {
+    "dataset_path": "69/question_split/implicit-cot/puzzle_69_train_3.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_69_train_4": {
+    "dataset_path": "69/question_split/implicit-cot/puzzle_69_train_4.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_69_train_5": {
+    "dataset_path": "69/question_split/implicit-cot/puzzle_69_train_5.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_69_train_6": {
+    "dataset_path": "69/question_split/implicit-cot/puzzle_69_train_6.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_69_train_7": {
+    "dataset_path": "69/question_split/implicit-cot/puzzle_69_train_7.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_69_train_8": {
+    "dataset_path": "69/question_split/implicit-cot/puzzle_69_train_8.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_69_train_9": {
+    "dataset_path": "69/question_split/implicit-cot/puzzle_69_train_9.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_69_test_0": {
+    "dataset_path": "69/question_split/implicit-cot/puzzle_69_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_pretrain_inference_73_test_0": {
+    "dataset_path": "73/question_split/pretrain-inference/puzzle_73_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_pretrain_cot_73_test_0": {
+    "dataset_path": "73/question_split/pretrain-cot/puzzle_73_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_finetune_inference_73_train_0": {
+    "dataset_path": "73/question_split/finetune-inference/puzzle_73_train_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_finetune_inference_73_val_0": {
+    "dataset_path": "73/question_split/finetune-inference/puzzle_73_val_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_finetune_inference_73_test_0": {
+    "dataset_path": "73/question_split/finetune-inference/puzzle_73_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_finetune_cot_73_test_0": {
+    "dataset_path": "73/question_split/finetune-cot/puzzle_73_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_73_train_0": {
+    "dataset_path": "73/question_split/implicit-cot/puzzle_73_train_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_73_train_1": {
+    "dataset_path": "73/question_split/implicit-cot/puzzle_73_train_1.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_73_train_2": {
+    "dataset_path": "73/question_split/implicit-cot/puzzle_73_train_2.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_73_train_3": {
+    "dataset_path": "73/question_split/implicit-cot/puzzle_73_train_3.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_73_train_4": {
+    "dataset_path": "73/question_split/implicit-cot/puzzle_73_train_4.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_73_train_5": {
+    "dataset_path": "73/question_split/implicit-cot/puzzle_73_train_5.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_73_train_6": {
+    "dataset_path": "73/question_split/implicit-cot/puzzle_73_train_6.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_73_train_7": {
+    "dataset_path": "73/question_split/implicit-cot/puzzle_73_train_7.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_73_train_8": {
+    "dataset_path": "73/question_split/implicit-cot/puzzle_73_train_8.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_73_train_9": {
+    "dataset_path": "73/question_split/implicit-cot/puzzle_73_train_9.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_73_test_0": {
+    "dataset_path": "73/question_split/implicit-cot/puzzle_73_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_pretrain_inference_77_test_0": {
+    "dataset_path": "77/question_split/pretrain-inference/puzzle_77_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_pretrain_cot_77_test_0": {
+    "dataset_path": "77/question_split/pretrain-cot/puzzle_77_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_finetune_inference_77_train_0": {
+    "dataset_path": "77/question_split/finetune-inference/puzzle_77_train_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_finetune_inference_77_val_0": {
+    "dataset_path": "77/question_split/finetune-inference/puzzle_77_val_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_finetune_inference_77_test_0": {
+    "dataset_path": "77/question_split/finetune-inference/puzzle_77_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_finetune_cot_77_test_0": {
+    "dataset_path": "77/question_split/finetune-cot/puzzle_77_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_77_train_0": {
+    "dataset_path": "77/question_split/implicit-cot/puzzle_77_train_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_77_train_1": {
+    "dataset_path": "77/question_split/implicit-cot/puzzle_77_train_1.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_77_train_2": {
+    "dataset_path": "77/question_split/implicit-cot/puzzle_77_train_2.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_77_train_3": {
+    "dataset_path": "77/question_split/implicit-cot/puzzle_77_train_3.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_77_train_4": {
+    "dataset_path": "77/question_split/implicit-cot/puzzle_77_train_4.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_77_train_5": {
+    "dataset_path": "77/question_split/implicit-cot/puzzle_77_train_5.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_77_train_6": {
+    "dataset_path": "77/question_split/implicit-cot/puzzle_77_train_6.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_77_train_7": {
+    "dataset_path": "77/question_split/implicit-cot/puzzle_77_train_7.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_77_train_8": {
+    "dataset_path": "77/question_split/implicit-cot/puzzle_77_train_8.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_77_train_9": {
+    "dataset_path": "77/question_split/implicit-cot/puzzle_77_train_9.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_77_test_0": {
+    "dataset_path": "77/question_split/implicit-cot/puzzle_77_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_pretrain_inference_94_test_0": {
+    "dataset_path": "94/question_split/pretrain-inference/puzzle_94_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_pretrain_cot_94_test_0": {
+    "dataset_path": "94/question_split/pretrain-cot/puzzle_94_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_finetune_inference_94_train_0": {
+    "dataset_path": "94/question_split/finetune-inference/puzzle_94_train_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_finetune_inference_94_val_0": {
+    "dataset_path": "94/question_split/finetune-inference/puzzle_94_val_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_finetune_inference_94_test_0": {
+    "dataset_path": "94/question_split/finetune-inference/puzzle_94_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_finetune_cot_94_test_0": {
+    "dataset_path": "94/question_split/finetune-cot/puzzle_94_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_94_train_0": {
+    "dataset_path": "94/question_split/implicit-cot/puzzle_94_train_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_94_train_1": {
+    "dataset_path": "94/question_split/implicit-cot/puzzle_94_train_1.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_94_train_2": {
+    "dataset_path": "94/question_split/implicit-cot/puzzle_94_train_2.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_94_train_3": {
+    "dataset_path": "94/question_split/implicit-cot/puzzle_94_train_3.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_94_train_4": {
+    "dataset_path": "94/question_split/implicit-cot/puzzle_94_train_4.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_94_train_5": {
+    "dataset_path": "94/question_split/implicit-cot/puzzle_94_train_5.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_94_train_6": {
+    "dataset_path": "94/question_split/implicit-cot/puzzle_94_train_6.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_94_train_7": {
+    "dataset_path": "94/question_split/implicit-cot/puzzle_94_train_7.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_94_train_8": {
+    "dataset_path": "94/question_split/implicit-cot/puzzle_94_train_8.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_94_train_9": {
+    "dataset_path": "94/question_split/implicit-cot/puzzle_94_train_9.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_94_test_0": {
+    "dataset_path": "94/question_split/implicit-cot/puzzle_94_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_pretrain_inference_99_test_0": {
+    "dataset_path": "99/question_split/pretrain-inference/puzzle_99_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_pretrain_cot_99_test_0": {
+    "dataset_path": "99/question_split/pretrain-cot/puzzle_99_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_finetune_inference_99_train_0": {
+    "dataset_path": "99/question_split/finetune-inference/puzzle_99_train_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_finetune_inference_99_val_0": {
+    "dataset_path": "99/question_split/finetune-inference/puzzle_99_val_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_finetune_inference_99_test_0": {
+    "dataset_path": "99/question_split/finetune-inference/puzzle_99_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_finetune_cot_99_test_0": {
+    "dataset_path": "99/question_split/finetune-cot/puzzle_99_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_99_train_0": {
+    "dataset_path": "99/question_split/implicit-cot/puzzle_99_train_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_99_train_1": {
+    "dataset_path": "99/question_split/implicit-cot/puzzle_99_train_1.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_99_train_2": {
+    "dataset_path": "99/question_split/implicit-cot/puzzle_99_train_2.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_99_train_3": {
+    "dataset_path": "99/question_split/implicit-cot/puzzle_99_train_3.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_99_train_4": {
+    "dataset_path": "99/question_split/implicit-cot/puzzle_99_train_4.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_99_train_5": {
+    "dataset_path": "99/question_split/implicit-cot/puzzle_99_train_5.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_99_train_6": {
+    "dataset_path": "99/question_split/implicit-cot/puzzle_99_train_6.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_99_train_7": {
+    "dataset_path": "99/question_split/implicit-cot/puzzle_99_train_7.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_99_train_8": {
+    "dataset_path": "99/question_split/implicit-cot/puzzle_99_train_8.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_99_train_9": {
+    "dataset_path": "99/question_split/implicit-cot/puzzle_99_train_9.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_99_test_0": {
+    "dataset_path": "99/question_split/implicit-cot/puzzle_99_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_pretrain_inference_71_test_0": {
+    "dataset_path": "71/question_split/pretrain-inference/puzzle_71_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_pretrain_cot_71_test_0": {
+    "dataset_path": "71/question_split/pretrain-cot/puzzle_71_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_finetune_inference_71_train_0": {
+    "dataset_path": "71/question_split/finetune-inference/puzzle_71_train_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_finetune_inference_71_val_0": {
+    "dataset_path": "71/question_split/finetune-inference/puzzle_71_val_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_finetune_inference_71_test_0": {
+    "dataset_path": "71/question_split/finetune-inference/puzzle_71_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_finetune_cot_71_test_0": {
+    "dataset_path": "71/question_split/finetune-cot/puzzle_71_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_71_train_0": {
+    "dataset_path": "71/question_split/implicit-cot/puzzle_71_train_0.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_71_train_1": {
+    "dataset_path": "71/question_split/implicit-cot/puzzle_71_train_1.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_71_train_2": {
+    "dataset_path": "71/question_split/implicit-cot/puzzle_71_train_2.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_71_train_3": {
+    "dataset_path": "71/question_split/implicit-cot/puzzle_71_train_3.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_71_train_4": {
+    "dataset_path": "71/question_split/implicit-cot/puzzle_71_train_4.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_71_train_5": {
+    "dataset_path": "71/question_split/implicit-cot/puzzle_71_train_5.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_71_train_6": {
+    "dataset_path": "71/question_split/implicit-cot/puzzle_71_train_6.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_71_train_7": {
+    "dataset_path": "71/question_split/implicit-cot/puzzle_71_train_7.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_71_train_8": {
+    "dataset_path": "71/question_split/implicit-cot/puzzle_71_train_8.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_71_train_9": {
+    "dataset_path": "71/question_split/implicit-cot/puzzle_71_train_9.json",
+    "tags": [
+      "smart101"
+    ]
+  },
+  "smart101_implicit_cot_71_test_0": {
+    "dataset_path": "71/question_split/implicit-cot/puzzle_71_test_0.json",
+    "tags": [
+      "smart101"
+    ]
+  }
+}
