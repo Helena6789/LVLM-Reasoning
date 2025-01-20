@@ -1,0 +1,1602 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe plates demonstrated are pasted to two boxes. The sums of the numbers in each box are the same. Which number must be in the box with the number 1? A: 13,B: 1,C: 5,D: 6,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1014.png"
+    ],
+    "id": 1014
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe cards demonstrated are pasted to two packs. Each pack has numbers adding to the same sum. Which number must be in the pack with the number 6? A: 9,B: 11,C: 8,D: 6,E: 22",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_103.png"
+    ],
+    "id": 103
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe papers presented are placed to two pots. The numbers in each pot add to the same number. Which number must be in the pot with the number 5? A: 10,B: 2,C: 4,D: 9,E: Impossible",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1045.png"
+    ],
+    "id": 1045
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe cards shown are painted to two bags. The numbers in each bag add to the same number. Which number must be in the bag with the number 9? A: 14,B: 9,C: 18,D: 3,E: 10",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1060.png"
+    ],
+    "id": 1060
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe boxes demonstrated are placed to two bags. The sums of the numbers in each bag are the same. Which number must be in the bag with the number 1? A: Impossible,B: 11,C: 10,D: 12,E: 32",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1122.png"
+    ],
+    "id": 1122
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe patches displayed are kept to two cartons. Each carton has numbers adding to the same sum. Which number must be in the carton with the number 7? A: Impossible,B: 22,C: 9,D: 8,E: 12",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1135.png"
+    ],
+    "id": 1135
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe papers pictured are kept to two bags. Each bag has numbers adding to the same sum. Which number must be in the bag with the number 13? A: 10,B: 4,C: 13,D: 8,E: 11",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1143.png"
+    ],
+    "id": 1143
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe patches presented are painted to two bags. The sums of the numbers in each bag are the same. Which number must be in the bag with the number 7? A: 12,B: 10,C: 7,D: 4,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1147.png"
+    ],
+    "id": 1147
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe cards shown are placed to two boxes. The numbers in each box add to the same number. Which number must be in the box with the number 4? A: 11,B: 6,C: 4,D: 2,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1158.png"
+    ],
+    "id": 1158
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe papers pictured are placed to two bags. The numbers in each bag add to the same number. Which number must be in the bag with the number 1? A: 10,B: Impossible,C: 11,D: 3,E: 23",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1171.png"
+    ],
+    "id": 1171
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe cards presented are pasted to two pots. The sums of the numbers in each pot are the same. Which number must be in the pot with the number 3? A: 28,B: 8,C: 11,D: 12,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1186.png"
+    ],
+    "id": 1186
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe cards displayed are painted to two packs. The sums of the numbers in each pack are the same. Which number must be in the pack with the number 6? A: 6,B: 11,C: 4,D: 17,E: 8",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1218.png"
+    ],
+    "id": 1218
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe shapes displayed are attached to two boxes. The sums of the numbers in each box are the same. Which number must be in the box with the number 1? A: 9,B: 6,C: 1,D: 16,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1250.png"
+    ],
+    "id": 1250
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe plates depicted are painted to two bags. Each bag has numbers adding to the same sum. Which number must be in the bag with the number 4? A: 10,B: 4,C: 9,D: 1,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1300.png"
+    ],
+    "id": 1300
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe boxes demonstrated are placed to two boxes. The sums of the numbers in each box are the same. Which number must be in the box with the number 4? A: 30,B: 4,C: 11,D: 13,E: 10",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1321.png"
+    ],
+    "id": 1321
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe shapes presented are pasted to two pots. Each pot has numbers adding to the same sum. Which number must be in the pot with the number 1? A: 3,B: 7,C: 6,D: 15,E: Impossible",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1327.png"
+    ],
+    "id": 1327
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe plates depicted are pasted to two cartons. The sums of the numbers in each carton are the same. Which number must be in the carton with the number 10? A: Impossible,B: 5,C: 2,D: 3,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1349.png"
+    ],
+    "id": 1349
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe patches demonstrated are pasted to two boxes. Each box has numbers adding to the same sum. Which number must be in the box with the number 5? A: 16,B: Impossible,C: 6,D: 7,E: 8",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1372.png"
+    ],
+    "id": 1372
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe patches demonstrated are placed to two pots. The numbers in each pot add to the same number. Which number must be in the pot with the number 5? A: 8,B: 5,C: 13,D: 1,E: 17",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1388.png"
+    ],
+    "id": 1388
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe patches depicted are stitched to two packs. Each pack has numbers adding to the same sum. Which number must be in the pack with the number 12? A: 1,B: 6,C: 4,D: 3,E: Impossible",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1398.png"
+    ],
+    "id": 1398
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe shapes presented are kept to two bags. Each bag has numbers adding to the same sum. Which number must be in the bag with the number 3? A: 4,B: 13,C: 9,D: 23,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1415.png"
+    ],
+    "id": 1415
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe shapes presented are placed to two cartons. The numbers in each carton add to the same number. Which number must be in the carton with the number 7? A: Impossible,B: 3,C: 10,D: 9,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1438.png"
+    ],
+    "id": 1438
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe boxes depicted are pasted to two boxes. Each box has numbers adding to the same sum. Which number must be in the box with the number 5? A: 4,B: 2,C: 12,D: Impossible,E: 11",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1443.png"
+    ],
+    "id": 1443
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe boxes presented are stitched to two boxes. The numbers in each box add to the same number. Which number must be in the box with the number 12? A: 12,B: 4,C: 5,D: 2,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1445.png"
+    ],
+    "id": 1445
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe shapes depicted are attached to two cartons. Each carton has numbers adding to the same sum. Which number must be in the carton with the number 11? A: 11,B: 6,C: 10,D: 14,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_146.png"
+    ],
+    "id": 146
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe cards demonstrated are pasted to two boxes. Each box has numbers adding to the same sum. Which number must be in the box with the number 11? A: 1,B: 5,C: 11,D: 12,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_150.png"
+    ],
+    "id": 150
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe cards pictured are placed to two packs. Each pack has numbers adding to the same sum. Which number must be in the pack with the number 8? A: 9,B: 8,C: 10,D: 17,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_151.png"
+    ],
+    "id": 151
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe papers presented are stitched to two bags. Each bag has numbers adding to the same sum. Which number must be in the bag with the number 3? A: 7,B: 4,C: 3,D: 2,E: 10",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_152.png"
+    ],
+    "id": 152
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe boxes presented are stitched to two cartons. Each carton has numbers adding to the same sum. Which number must be in the carton with the number 2? A: 4,B: Impossible,C: 13,D: 5,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1527.png"
+    ],
+    "id": 1527
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe patches depicted are attached to two boxes. The numbers in each box add to the same number. Which number must be in the box with the number 11? A: Impossible,B: 10,C: 7,D: 1,E: 13",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1595.png"
+    ],
+    "id": 1595
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe plates depicted are pasted to two cartons. Each carton has numbers adding to the same sum. Which number must be in the carton with the number 7? A: 9,B: 24,C: 12,D: 10,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_160.png"
+    ],
+    "id": 160
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe cards demonstrated are kept to two packs. Each pack has numbers adding to the same sum. Which number must be in the pack with the number 9? A: 10,B: 12,C: Impossible,D: 3,E: 8",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1603.png"
+    ],
+    "id": 1603
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe shapes depicted are stitched to two cartons. The sums of the numbers in each carton are the same. Which number must be in the carton with the number 1? A: Impossible,B: 15,C: 6,D: 7,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1626.png"
+    ],
+    "id": 1626
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe boxes presented are attached to two pots. Each pot has numbers adding to the same sum. Which number must be in the pot with the number 4? A: 16,B: 11,C: 6,D: 4,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1634.png"
+    ],
+    "id": 1634
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe patches depicted are attached to two packs. Each pack has numbers adding to the same sum. Which number must be in the pack with the number 7? A: Impossible,B: 4,C: 1,D: 8,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1655.png"
+    ],
+    "id": 1655
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe cards shown are pasted to two boxes. The numbers in each box add to the same number. Which number must be in the box with the number 10? A: 7,B: 8,C: 6,D: 11,E: 10",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1681.png"
+    ],
+    "id": 1681
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe shapes demonstrated are kept to two cartons. The sums of the numbers in each carton are the same. Which number must be in the carton with the number 2? A: 9,B: Impossible,C: 1,D: 4,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1683.png"
+    ],
+    "id": 1683
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe cards shown are painted to two cartons. Each carton has numbers adding to the same sum. Which number must be in the carton with the number 5? A: 10,B: 5,C: 4,D: 3,E: 12",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1692.png"
+    ],
+    "id": 1692
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe cards displayed are painted to two pots. Each pot has numbers adding to the same sum. Which number must be in the pot with the number 3? A: Impossible,B: 9,C: 10,D: 7,E: 23",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1702.png"
+    ],
+    "id": 1702
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe papers displayed are stitched to two cartons. Each carton has numbers adding to the same sum. Which number must be in the carton with the number 3? A: 10,B: 15,C: Impossible,D: 2,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1704.png"
+    ],
+    "id": 1704
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe papers shown are placed to two cartons. Each carton has numbers adding to the same sum. Which number must be in the carton with the number 3? A: 10,B: Impossible,C: 4,D: 1,E: 12",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1712.png"
+    ],
+    "id": 1712
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe boxes shown are stitched to two pots. The sums of the numbers in each pot are the same. Which number must be in the pot with the number 13? A: 7,B: 8,C: 3,D: 11,E: 13",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1733.png"
+    ],
+    "id": 1733
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe shapes pictured are stitched to two pots. Each pot has numbers adding to the same sum. Which number must be in the pot with the number 8? A: 6,B: 8,C: 12,D: 13,E: 23",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1768.png"
+    ],
+    "id": 1768
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe shapes shown are pasted to two cartons. The sums of the numbers in each carton are the same. Which number must be in the carton with the number 4? A: 1,B: 10,C: 8,D: Impossible,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1770.png"
+    ],
+    "id": 1770
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe cards shown are kept to two pots. The numbers in each pot add to the same number. Which number must be in the pot with the number 1? A: 11,B: 7,C: 4,D: 21,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1776.png"
+    ],
+    "id": 1776
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe patches presented are stitched to two packs. The sums of the numbers in each pack are the same. Which number must be in the pack with the number 1? A: 11,B: 29,C: 7,D: Impossible,E: 12",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1779.png"
+    ],
+    "id": 1779
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe boxes presented are kept to two packs. Each pack has numbers adding to the same sum. Which number must be in the pack with the number 7? A: 8,B: 1,C: 3,D: 7,E: 11",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1811.png"
+    ],
+    "id": 1811
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe plates pictured are pasted to two boxes. Each box has numbers adding to the same sum. Which number must be in the box with the number 13? A: 13,B: 6,C: Impossible,D: 9,E: 11",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1822.png"
+    ],
+    "id": 1822
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe boxes presented are pasted to two boxes. Each box has numbers adding to the same sum. Which number must be in the box with the number 7? A: 9,B: 2,C: 8,D: 12,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1843.png"
+    ],
+    "id": 1843
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe cards depicted are pasted to two boxes. The numbers in each box add to the same number. Which number must be in the box with the number 10? A: 3,B: 10,C: 4,D: 9,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_186.png"
+    ],
+    "id": 186
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe papers shown are attached to two pots. The sums of the numbers in each pot are the same. Which number must be in the pot with the number 6? A: 9,B: 18,C: 10,D: Impossible,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1870.png"
+    ],
+    "id": 1870
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe cards demonstrated are stitched to two packs. The numbers in each pack add to the same number. Which number must be in the pack with the number 1? A: 22,B: 4,C: 11,D: Impossible,E: 8",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1877.png"
+    ],
+    "id": 1877
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe shapes demonstrated are stitched to two packs. The numbers in each pack add to the same number. Which number must be in the pack with the number 6? A: 11,B: 3,C: 6,D: 9,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1882.png"
+    ],
+    "id": 1882
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe cards displayed are kept to two boxes. The numbers in each box add to the same number. Which number must be in the box with the number 3? A: 27,B: 10,C: 12,D: Impossible,E: 8",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1888.png"
+    ],
+    "id": 1888
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe shapes depicted are attached to two boxes. Each box has numbers adding to the same sum. Which number must be in the box with the number 7? A: 8,B: 10,C: 12,D: 23,E: Impossible",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1890.png"
+    ],
+    "id": 1890
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe plates presented are stitched to two boxes. The sums of the numbers in each box are the same. Which number must be in the box with the number 3? A: 5,B: Impossible,C: 10,D: 7,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1894.png"
+    ],
+    "id": 1894
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe boxes depicted are pasted to two pots. The sums of the numbers in each pot are the same. Which number must be in the pot with the number 2? A: 9,B: Impossible,C: 16,D: 5,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1906.png"
+    ],
+    "id": 1906
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe boxes presented are placed to two boxes. The sums of the numbers in each box are the same. Which number must be in the box with the number 9? A: 7,B: 4,C: 8,D: 10,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1928.png"
+    ],
+    "id": 1928
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe shapes depicted are stitched to two packs. The sums of the numbers in each pack are the same. Which number must be in the pack with the number 5? A: 4,B: 8,C: 11,D: 18,E: Impossible",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1942.png"
+    ],
+    "id": 1942
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe shapes shown are attached to two pots. The sums of the numbers in each pot are the same. Which number must be in the pot with the number 7? A: Impossible,B: 1,C: 14,D: 19,E: 11",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1948.png"
+    ],
+    "id": 1948
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe plates pictured are pasted to two boxes. The sums of the numbers in each box are the same. Which number must be in the box with the number 10? A: Impossible,B: 9,C: 11,D: 1,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1967.png"
+    ],
+    "id": 1967
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe cards pictured are attached to two boxes. The numbers in each box add to the same number. Which number must be in the box with the number 8? A: 3,B: 4,C: Impossible,D: 7,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1982.png"
+    ],
+    "id": 1982
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe cards depicted are kept to two packs. Each pack has numbers adding to the same sum. Which number must be in the pack with the number 6? A: 10,B: 8,C: 6,D: 7,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_207.png"
+    ],
+    "id": 207
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe plates shown are attached to two cartons. The numbers in each carton add to the same number. Which number must be in the carton with the number 3? A: 5,B: 11,C: 13,D: 3,E: 26",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_225.png"
+    ],
+    "id": 225
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe papers pictured are kept to two boxes. The numbers in each box add to the same number. Which number must be in the box with the number 7? A: 10,B: Impossible,C: 9,D: 8,E: 20",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_229.png"
+    ],
+    "id": 229
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe boxes presented are placed to two boxes. The numbers in each box add to the same number. Which number must be in the box with the number 1? A: 5,B: 1,C: 3,D: 13,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_253.png"
+    ],
+    "id": 253
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe papers demonstrated are stitched to two pots. The sums of the numbers in each pot are the same. Which number must be in the pot with the number 4? A: 10,B: 5,C: 3,D: 14,E: Impossible",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_26.png"
+    ],
+    "id": 26
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe shapes depicted are stitched to two boxes. Each box has numbers adding to the same sum. Which number must be in the box with the number 10? A: 10,B: 11,C: 16,D: 8,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_262.png"
+    ],
+    "id": 262
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe cards shown are pasted to two boxes. The sums of the numbers in each box are the same. Which number must be in the box with the number 5? A: 12,B: 22,C: 9,D: 6,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_283.png"
+    ],
+    "id": 283
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe boxes depicted are placed to two cartons. Each carton has numbers adding to the same sum. Which number must be in the carton with the number 14? A: Impossible,B: 2,C: 5,D: 7,E: 10",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_345.png"
+    ],
+    "id": 345
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe boxes depicted are placed to two packs. Each pack has numbers adding to the same sum. Which number must be in the pack with the number 7? A: 2,B: 4,C: 9,D: 10,E: Impossible",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_37.png"
+    ],
+    "id": 37
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe patches shown are painted to two pots. The sums of the numbers in each pot are the same. Which number must be in the pot with the number 11? A: 9,B: 11,C: 1,D: 2,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_402.png"
+    ],
+    "id": 402
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe papers demonstrated are painted to two pots. The sums of the numbers in each pot are the same. Which number must be in the pot with the number 14? A: 6,B: 9,C: 4,D: 3,E: 14",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_403.png"
+    ],
+    "id": 403
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe shapes displayed are stitched to two bags. Each bag has numbers adding to the same sum. Which number must be in the bag with the number 9? A: 1,B: Impossible,C: 3,D: 7,E: 12",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_437.png"
+    ],
+    "id": 437
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe patches shown are stitched to two pots. Each pot has numbers adding to the same sum. Which number must be in the pot with the number 1? A: 1,B: 7,C: 3,D: 22,E: 13",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_452.png"
+    ],
+    "id": 452
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe papers shown are pasted to two boxes. The numbers in each box add to the same number. Which number must be in the box with the number 2? A: 18,B: 7,C: 2,D: 8,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_463.png"
+    ],
+    "id": 463
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe papers demonstrated are kept to two pots. Each pot has numbers adding to the same sum. Which number must be in the pot with the number 5? A: 6,B: 9,C: 10,D: 5,E: 20",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_469.png"
+    ],
+    "id": 469
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe patches demonstrated are stitched to two cartons. The sums of the numbers in each carton are the same. Which number must be in the carton with the number 14? A: 14,B: 11,C: 7,D: 10,E: 8",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_472.png"
+    ],
+    "id": 472
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe papers demonstrated are pasted to two pots. The numbers in each pot add to the same number. Which number must be in the pot with the number 1? A: 5,B: 4,C: 10,D: 2,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_488.png"
+    ],
+    "id": 488
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe boxes shown are painted to two boxes. The sums of the numbers in each box are the same. Which number must be in the box with the number 9? A: 4,B: 6,C: 11,D: Impossible,E: 12",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_509.png"
+    ],
+    "id": 509
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe papers shown are placed to two boxes. The sums of the numbers in each box are the same. Which number must be in the box with the number 5? A: 10,B: 6,C: 15,D: Impossible,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_53.png"
+    ],
+    "id": 53
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe papers shown are attached to two packs. The numbers in each pack add to the same number. Which number must be in the pack with the number 8? A: 7,B: 4,C: 2,D: 9,E: Impossible",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_550.png"
+    ],
+    "id": 550
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe papers shown are attached to two boxes. Each box has numbers adding to the same sum. Which number must be in the box with the number 7? A: 7,B: 5,C: 9,D: 6,E: 13",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_586.png"
+    ],
+    "id": 586
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe patches depicted are pasted to two boxes. Each box has numbers adding to the same sum. Which number must be in the box with the number 12? A: 3,B: 12,C: 12,D: 11,E: 10",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_623.png"
+    ],
+    "id": 623
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe patches presented are stitched to two bags. The numbers in each bag add to the same number. Which number must be in the bag with the number 1? A: 3,B: 8,C: 4,D: 2,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_639.png"
+    ],
+    "id": 639
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe patches shown are kept to two bags. The numbers in each bag add to the same number. Which number must be in the bag with the number 11? A: Impossible,B: 20,C: 6,D: 13,E: 12",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_640.png"
+    ],
+    "id": 640
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe shapes shown are stitched to two cartons. Each carton has numbers adding to the same sum. Which number must be in the carton with the number 4? A: 3,B: Impossible,C: 10,D: 9,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_659.png"
+    ],
+    "id": 659
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe plates pictured are stitched to two cartons. The numbers in each carton add to the same number. Which number must be in the carton with the number 5? A: 8,B: Impossible,C: 12,D: 3,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_687.png"
+    ],
+    "id": 687
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe plates shown are kept to two pots. The numbers in each pot add to the same number. Which number must be in the pot with the number 2? A: 11,B: 7,C: 2,D: 1,E: 17",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_749.png"
+    ],
+    "id": 749
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe shapes displayed are placed to two pots. The sums of the numbers in each pot are the same. Which number must be in the pot with the number 13? A: 1,B: 7,C: 3,D: 4,E: 13",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_797.png"
+    ],
+    "id": 797
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe plates shown are pasted to two cartons. The numbers in each carton add to the same number. Which number must be in the carton with the number 10? A: 5,B: Impossible,C: 2,D: 6,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_8.png"
+    ],
+    "id": 8
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe patches displayed are pasted to two boxes. The numbers in each box add to the same number. Which number must be in the box with the number 4? A: 11,B: 10,C: 29,D: 12,E: Impossible",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_800.png"
+    ],
+    "id": 800
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe papers shown are stitched to two cartons. The numbers in each carton add to the same number. Which number must be in the carton with the number 10? A: 4,B: 3,C: 1,D: 8,E: 10",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_821.png"
+    ],
+    "id": 821
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe cards presented are placed to two bags. Each bag has numbers adding to the same sum. Which number must be in the bag with the number 6? A: 3,B: Impossible,C: 4,D: 8,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_877.png"
+    ],
+    "id": 877
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe patches depicted are painted to two pots. Each pot has numbers adding to the same sum. Which number must be in the pot with the number 3? A: 3,B: 9,C: 8,D: 19,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_880.png"
+    ],
+    "id": 880
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe shapes presented are stitched to two bags. The numbers in each bag add to the same number. Which number must be in the bag with the number 8? A: 3,B: 10,C: 4,D: Impossible,E: 11",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_896.png"
+    ],
+    "id": 896
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe shapes presented are pasted to two pots. Each pot has numbers adding to the same sum. Which number must be in the pot with the number 4? A: 9,B: 16,C: Impossible,D: 6,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_913.png"
+    ],
+    "id": 913
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe shapes displayed are pasted to two pots. Each pot has numbers adding to the same sum. Which number must be in the pot with the number 8? A: 1,B: 11,C: 8,D: Impossible,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_928.png"
+    ],
+    "id": 928
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe boxes presented are placed to two boxes. The numbers in each box add to the same number. Which number must be in the box with the number 7? A: 6,B: 19,C: 7,D: 11,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_954.png"
+    ],
+    "id": 954
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe plates shown are kept to two packs. The numbers in each pack add to the same number. Which number must be in the pack with the number 14? A: 5,B: 14,C: 12,D: 3,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_956.png"
+    ],
+    "id": 956
+  }
+]

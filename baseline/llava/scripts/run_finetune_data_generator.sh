@@ -21,3 +21,4 @@ python baseline/llava/finetune_data_generator.py \
 --skip-stage-step ${step} \
 --seed 42 \
 --split-sub-qa \
+--output-data-types pretrain-inference,pretrain-cot,finetune-inference,finetune-cot,implicit-cot

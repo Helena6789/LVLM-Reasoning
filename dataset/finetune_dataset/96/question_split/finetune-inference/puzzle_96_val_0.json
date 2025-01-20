@@ -1,0 +1,1602 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<image>\nMany children are dancing in a line as presented in the picture. Some are facing forward and others are facing backward. What is the count of children who are grasping another child's hand using their right hand? A: 4,B: 2,C: 6,D: 7,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1014.png"
+    ],
+    "id": 1014
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThese children are standing in a line. Some are facing forward and others are facing backward. What is the count of children who are grasping another child's hand using left hand? A: 6,B: 5,C: 3,D: 1,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_103.png"
+    ],
+    "id": 103
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA few kids are dancing in a queue. A few are looking forward and remaining are looking backward. How many kids are holding another kid's hand using their left hand? A: 4,B: 6,C: 1,D: 5,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1045.png"
+    ],
+    "id": 1045
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nMany pupils are standing in a line as pictured in the image. Some are facing forward and others are facing backward. What is the count of pupils who are holding another pupil's hand using their right hand? A: 2,B: 7,C: 6,D: 3,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1060.png"
+    ],
+    "id": 1060
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA few pupils are standing in a chain. Some are looking towards front and others are looking towards back. How many pupils are holding another pupil's hand using right hand? A: 4,B: 7,C: 3,D: 5,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1122.png"
+    ],
+    "id": 1122
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA few kids are dancing in a chain. Some are facing forward and remaining are facing backward. How many kids are holding another kid's hand using left hand? A: 5,B: 3,C: 4,D: 1,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1135.png"
+    ],
+    "id": 1135
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSeveral pupils are dancing in a line. A few are looking towards front and remaining are looking towards back. How many pupils are grasping another pupil's hand using left hand? A: 8,B: 7,C: 1,D: 5,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1143.png"
+    ],
+    "id": 1143
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe following children are standing in a queue. A few are facing forward and others are facing backward. What is the count of children who are holding another child's hand using left hand? A: 7,B: 9,C: 2,D: 5,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1147.png"
+    ],
+    "id": 1147
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSome kids are standing in a chain. A few are facing towards front and others are facing towards back. How many kids are grasping another kid's hand using their right hand? A: 4,B: 6,C: 7,D: 2,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1158.png"
+    ],
+    "id": 1158
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSeveral pupils are dancing in a queue. Some are facing forward and remaining are facing backward. How many pupils are holding another pupil's hand with their right hand? A: 3,B: 8,C: 5,D: 7,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1171.png"
+    ],
+    "id": 1171
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe following children are standing in a queue. Some are facing towards front and others are facing towards back. What is the count of children who are holding another child's hand using left hand? A: 4,B: 3,C: 2,D: 1,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1186.png"
+    ],
+    "id": 1186
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThese children are standing in a queue as displayed in the figure. Some are facing towards front and others are facing towards back. How many children are grasping another child's hand using right hand? A: 6,B: 4,C: 5,D: 2,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1218.png"
+    ],
+    "id": 1218
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nMany pupils are standing in a queue as presented in the image. A few are looking towards front and remaining are looking towards back. How many pupils are grasping another pupil's hand using left hand? A: 8,B: 3,C: 9,D: 4,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1250.png"
+    ],
+    "id": 1250
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA few children are dancing in a chain as pictured in the picture. A few are facing towards front and others are facing towards back. How many children are holding another child's hand using their right hand? A: 8,B: 6,C: 4,D: 5,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1300.png"
+    ],
+    "id": 1300
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSome children are dancing in a chain. A few are facing forward and remaining are facing backward. How many children are holding another child's hand using left hand? A: 8,B: 9,C: 2,D: 1,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1321.png"
+    ],
+    "id": 1321
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSeveral children are dancing in a line. Some are looking towards front and remaining are looking towards back. How many children are holding another child's hand using left hand? A: 4,B: 6,C: 5,D: 3,E: 8",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1327.png"
+    ],
+    "id": 1327
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe following pupils are standing in a line. Some are facing forward and others are facing backward. How many pupils are grasping another pupil's hand with their left hand? A: 5,B: 1,C: 2,D: 3,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1349.png"
+    ],
+    "id": 1349
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA few pupils are dancing in a line. A few are facing forward and remaining are facing backward. What is the count of pupils who are holding another pupil's hand using their right hand? A: 4,B: 7,C: 6,D: 2,E: 8",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1372.png"
+    ],
+    "id": 1372
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe following kids are dancing in a chain. A few are facing forward and others are facing backward. How many kids are grasping another kid's hand using left hand? A: 4,B: 5,C: 1,D: 6,E: 8",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1388.png"
+    ],
+    "id": 1388
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSeveral children are standing in a line. A few are looking forward and remaining are looking backward. What is the count of children who are grasping another child's hand using their left hand? A: 2,B: 5,C: 4,D: 7,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1398.png"
+    ],
+    "id": 1398
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSeveral pupils are dancing in a line. Some are facing towards front and others are facing towards back. How many pupils are holding another pupil's hand with their right hand? A: 5,B: 4,C: 9,D: 2,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1415.png"
+    ],
+    "id": 1415
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe following children are dancing in a line as presented in the drawing. Some are looking towards front and others are looking towards back. How many children are holding another child's hand with their right hand? A: 1,B: 5,C: 6,D: 4,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1438.png"
+    ],
+    "id": 1438
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSome children are dancing in a chain. Some are facing towards front and others are facing towards back. What is the count of children who are holding another child's hand using their left hand? A: 4,B: 8,C: 5,D: 2,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1443.png"
+    ],
+    "id": 1443
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA few pupils are standing in a line. Some are facing forward and remaining are facing backward. What is the count of pupils who are grasping another pupil's hand with their right hand? A: 4,B: 1,C: 2,D: 3,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1445.png"
+    ],
+    "id": 1445
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSeveral pupils are standing in a queue as pictured in the cartoon. Some are facing towards front and remaining are facing towards back. What is the count of pupils who are grasping another pupil's hand with their left hand? A: 4,B: 7,C: 8,D: 2,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_146.png"
+    ],
+    "id": 146
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThese children are dancing in a queue. A few are facing forward and remaining are facing backward. How many children are grasping another child's hand with their right hand? A: 5,B: 4,C: 3,D: 2,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_150.png"
+    ],
+    "id": 150
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe following kids are standing in a chain as pictured in the picture. Some are looking forward and remaining are looking backward. How many kids are grasping another kid's hand using their right hand? A: 2,B: 6,C: 7,D: 8,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_151.png"
+    ],
+    "id": 151
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThese pupils are standing in a chain. Some are looking forward and remaining are looking backward. What is the count of pupils who are grasping another pupil's hand using left hand? A: 6,B: 4,C: 7,D: 2,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_152.png"
+    ],
+    "id": 152
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSome pupils are dancing in a chain. A few are looking forward and remaining are looking backward. How many pupils are grasping another pupil's hand using their left hand? A: 5,B: 1,C: 4,D: 2,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1527.png"
+    ],
+    "id": 1527
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSeveral pupils are dancing in a line. A few are looking towards front and others are looking towards back. How many pupils are holding another pupil's hand with their right hand? A: 3,B: 5,C: 6,D: 2,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1595.png"
+    ],
+    "id": 1595
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThese kids are dancing in a chain as demonstrated in the figure. A few are facing towards front and others are facing towards back. How many kids are grasping another kid's hand using right hand? A: 1,B: 3,C: 4,D: 6,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_160.png"
+    ],
+    "id": 160
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSeveral children are dancing in a line. A few are looking towards front and remaining are looking towards back. What is the count of children who are grasping another child's hand using their right hand? A: 6,B: 1,C: 3,D: 7,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1603.png"
+    ],
+    "id": 1603
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA few children are dancing in a queue as shown in the figure. Some are looking forward and remaining are looking backward. What is the count of children who are grasping another child's hand using left hand? A: 7,B: 1,C: 6,D: 3,E: 8",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1626.png"
+    ],
+    "id": 1626
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSeveral children are dancing in a line. Some are looking towards front and remaining are looking towards back. What is the count of children who are holding another child's hand with their left hand? A: 4,B: 5,C: 3,D: 2,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1634.png"
+    ],
+    "id": 1634
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThese kids are dancing in a line. A few are looking forward and others are looking backward. What is the count of kids who are holding another kid's hand using their right hand? A: 8,B: 6,C: 5,D: 2,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1655.png"
+    ],
+    "id": 1655
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nMany children are dancing in a chain as presented in the image. A few are facing forward and remaining are facing backward. How many children are grasping another child's hand with their left hand? A: 4,B: 3,C: 5,D: 1,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1681.png"
+    ],
+    "id": 1681
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nMany kids are standing in a chain. Some are looking towards front and remaining are looking towards back. What is the count of kids who are grasping another kid's hand with their left hand? A: 2,B: 6,C: 4,D: 5,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1683.png"
+    ],
+    "id": 1683
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThese pupils are dancing in a queue as pictured in the figure. Some are looking towards front and others are looking towards back. How many pupils are grasping another pupil's hand using their left hand? A: 4,B: 7,C: 3,D: 2,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1692.png"
+    ],
+    "id": 1692
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThese pupils are standing in a chain as demonstrated in the drawing. Some are facing forward and others are facing backward. What is the count of pupils who are holding another pupil's hand using their right hand? A: 2,B: 1,C: 4,D: 5,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1702.png"
+    ],
+    "id": 1702
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThese pupils are standing in a chain as shown in the cartoon. A few are facing forward and others are facing backward. How many pupils are grasping another pupil's hand using their right hand? A: 6,B: 2,C: 3,D: 5,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1704.png"
+    ],
+    "id": 1704
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSeveral children are dancing in a queue. Some are facing towards front and remaining are facing towards back. What is the count of children who are holding another child's hand with their left hand? A: 2,B: 7,C: 1,D: 5,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1712.png"
+    ],
+    "id": 1712
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSome pupils are standing in a chain. Some are looking forward and remaining are looking backward. What is the count of pupils who are holding another pupil's hand using their left hand? A: 2,B: 5,C: 7,D: 9,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1733.png"
+    ],
+    "id": 1733
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSome kids are standing in a line. Some are facing towards front and remaining are facing towards back. What is the count of kids who are grasping another kid's hand using their left hand? A: 1,B: 3,C: 4,D: 2,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1768.png"
+    ],
+    "id": 1768
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe following kids are standing in a queue. Some are facing forward and others are facing backward. How many kids are holding another kid's hand using left hand? A: 3,B: 1,C: 6,D: 4,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1770.png"
+    ],
+    "id": 1770
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA few children are dancing in a chain. A few are facing forward and others are facing backward. How many children are grasping another child's hand using their right hand? A: 5,B: 1,C: 4,D: 6,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1776.png"
+    ],
+    "id": 1776
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSeveral pupils are dancing in a queue as demonstrated in the picture. A few are looking forward and remaining are looking backward. What is the count of pupils who are grasping another pupil's hand using their right hand? A: 1,B: 5,C: 6,D: 4,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1779.png"
+    ],
+    "id": 1779
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSome pupils are standing in a line. Some are looking towards front and others are looking towards back. How many pupils are holding another pupil's hand with their left hand? A: 6,B: 5,C: 2,D: 7,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1811.png"
+    ],
+    "id": 1811
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSeveral kids are standing in a line as presented in the figure. Some are looking forward and remaining are looking backward. How many kids are grasping another kid's hand using left hand? A: 8,B: 4,C: 5,D: 7,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1822.png"
+    ],
+    "id": 1822
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSome kids are standing in a chain as pictured in the image. A few are looking forward and others are looking backward. How many kids are holding another kid's hand with their right hand? A: 4,B: 2,C: 5,D: 1,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1843.png"
+    ],
+    "id": 1843
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA few pupils are standing in a queue as depicted in the cartoon. A few are facing forward and others are facing backward. How many pupils are grasping another pupil's hand with their left hand? A: 8,B: 9,C: 6,D: 4,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_186.png"
+    ],
+    "id": 186
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThese kids are standing in a chain. A few are facing towards front and remaining are facing towards back. How many kids are grasping another kid's hand using left hand? A: 9,B: 3,C: 5,D: 2,E: 8",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1870.png"
+    ],
+    "id": 1870
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSeveral kids are dancing in a queue. A few are looking forward and remaining are looking backward. How many kids are grasping another kid's hand using right hand? A: 2,B: 4,C: 1,D: 3,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1877.png"
+    ],
+    "id": 1877
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSome kids are standing in a chain. Some are looking forward and remaining are looking backward. How many kids are grasping another kid's hand using left hand? A: 1,B: 9,C: 8,D: 3,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1882.png"
+    ],
+    "id": 1882
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSome pupils are standing in a line as demonstrated in the image. Some are looking forward and remaining are looking backward. What is the count of pupils who are grasping another pupil's hand using left hand? A: 9,B: 7,C: 8,D: 2,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1888.png"
+    ],
+    "id": 1888
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA few kids are standing in a line. Some are looking towards front and remaining are looking towards back. What is the count of kids who are holding another kid's hand using left hand? A: 1,B: 4,C: 3,D: 5,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1890.png"
+    ],
+    "id": 1890
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA few pupils are dancing in a chain. A few are facing forward and remaining are facing backward. How many pupils are grasping another pupil's hand using right hand? A: 4,B: 3,C: 6,D: 7,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1894.png"
+    ],
+    "id": 1894
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA few children are dancing in a chain. A few are looking forward and remaining are looking backward. How many children are grasping another child's hand using left hand? A: 2,B: 6,C: 5,D: 3,E: 8",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1906.png"
+    ],
+    "id": 1906
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThese children are standing in a line. A few are facing towards front and remaining are facing towards back. How many children are grasping another child's hand with their right hand? A: 1,B: 2,C: 4,D: 6,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1928.png"
+    ],
+    "id": 1928
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThese pupils are dancing in a line as presented in the picture. A few are facing forward and remaining are facing backward. How many pupils are holding another pupil's hand using right hand? A: 3,B: 9,C: 8,D: 2,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1942.png"
+    ],
+    "id": 1942
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThese pupils are standing in a chain. A few are looking forward and remaining are looking backward. How many pupils are holding another pupil's hand using their left hand? A: 3,B: 4,C: 2,D: 6,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1948.png"
+    ],
+    "id": 1948
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nMany kids are standing in a queue as depicted in the image. A few are facing towards front and others are facing towards back. What is the count of kids who are grasping another kid's hand using their right hand? A: 3,B: 1,C: 5,D: 2,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1967.png"
+    ],
+    "id": 1967
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThese kids are standing in a queue. A few are facing towards front and remaining are facing towards back. What is the count of kids who are holding another kid's hand with their left hand? A: 4,B: 6,C: 5,D: 3,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1982.png"
+    ],
+    "id": 1982
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSome pupils are standing in a queue. A few are facing forward and remaining are facing backward. What is the count of pupils who are holding another pupil's hand with their left hand? A: 2,B: 8,C: 6,D: 9,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_207.png"
+    ],
+    "id": 207
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSeveral pupils are standing in a chain. A few are facing towards front and remaining are facing towards back. How many pupils are holding another pupil's hand using their right hand? A: 3,B: 7,C: 9,D: 8,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_225.png"
+    ],
+    "id": 225
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSome kids are dancing in a line. Some are facing forward and remaining are facing backward. What is the count of kids who are grasping another kid's hand using left hand? A: 7,B: 1,C: 3,D: 4,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_229.png"
+    ],
+    "id": 229
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSome pupils are standing in a chain. A few are facing forward and remaining are facing backward. What is the count of pupils who are holding another pupil's hand using left hand? A: 6,B: 3,C: 4,D: 8,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_253.png"
+    ],
+    "id": 253
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThese pupils are standing in a queue. A few are looking forward and remaining are looking backward. How many pupils are holding another pupil's hand with their left hand? A: 1,B: 2,C: 3,D: 5,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_26.png"
+    ],
+    "id": 26
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe following children are standing in a queue. Some are facing towards front and remaining are facing towards back. What is the count of children who are grasping another child's hand using left hand? A: 2,B: 3,C: 1,D: 5,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_262.png"
+    ],
+    "id": 262
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSome pupils are dancing in a line. A few are looking forward and remaining are looking backward. What is the count of pupils who are grasping another pupil's hand with their left hand? A: 6,B: 7,C: 8,D: 3,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_283.png"
+    ],
+    "id": 283
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nMany pupils are dancing in a line. A few are facing towards front and remaining are facing towards back. How many pupils are grasping another pupil's hand using left hand? A: 5,B: 2,C: 3,D: 4,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_345.png"
+    ],
+    "id": 345
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSome kids are dancing in a chain. Some are facing forward and others are facing backward. How many kids are grasping another kid's hand using right hand? A: 5,B: 3,C: 2,D: 1,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_37.png"
+    ],
+    "id": 37
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSome pupils are standing in a queue. A few are facing forward and others are facing backward. What is the count of pupils who are holding another pupil's hand using right hand? A: 7,B: 4,C: 9,D: 8,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_402.png"
+    ],
+    "id": 402
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nMany children are dancing in a line. A few are facing towards front and remaining are facing towards back. What is the count of children who are grasping another child's hand using their right hand? A: 3,B: 7,C: 1,D: 6,E: 8",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_403.png"
+    ],
+    "id": 403
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThese pupils are dancing in a chain as depicted in the picture. A few are looking forward and remaining are looking backward. What is the count of pupils who are holding another pupil's hand with their right hand? A: 5,B: 3,C: 1,D: 2,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_437.png"
+    ],
+    "id": 437
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nMany pupils are standing in a line. A few are looking forward and remaining are looking backward. How many pupils are grasping another pupil's hand using their right hand? A: 2,B: 3,C: 7,D: 6,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_452.png"
+    ],
+    "id": 452
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA few pupils are dancing in a line as presented in the drawing. Some are facing towards front and others are facing towards back. What is the count of pupils who are grasping another pupil's hand using right hand? A: 2,B: 5,C: 4,D: 3,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_463.png"
+    ],
+    "id": 463
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe following kids are standing in a line as displayed in the picture. A few are looking towards front and others are looking towards back. What is the count of kids who are holding another kid's hand using left hand? A: 2,B: 3,C: 1,D: 6,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_469.png"
+    ],
+    "id": 469
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA few children are dancing in a queue as pictured in the image. Some are looking forward and remaining are looking backward. How many children are grasping another child's hand using right hand? A: 1,B: 6,C: 5,D: 2,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_472.png"
+    ],
+    "id": 472
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe following pupils are standing in a line. Some are facing towards front and remaining are facing towards back. How many pupils are grasping another pupil's hand using right hand? A: 5,B: 7,C: 1,D: 3,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_488.png"
+    ],
+    "id": 488
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA few kids are dancing in a line. A few are facing towards front and remaining are facing towards back. What is the count of kids who are holding another kid's hand using right hand? A: 8,B: 9,C: 4,D: 3,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_509.png"
+    ],
+    "id": 509
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe following pupils are dancing in a queue as presented in the picture. A few are looking towards front and others are looking towards back. What is the count of pupils who are grasping another pupil's hand with their right hand? A: 1,B: 5,C: 3,D: 2,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_53.png"
+    ],
+    "id": 53
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA few pupils are dancing in a queue as shown in the picture. Some are looking towards front and remaining are looking towards back. How many pupils are holding another pupil's hand using their left hand? A: 5,B: 1,C: 2,D: 8,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_550.png"
+    ],
+    "id": 550
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThese pupils are standing in a chain. Some are looking towards front and others are looking towards back. How many pupils are holding another pupil's hand with their left hand? A: 7,B: 1,C: 2,D: 3,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_586.png"
+    ],
+    "id": 586
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSome children are dancing in a chain as depicted in the figure. A few are facing towards front and others are facing towards back. How many children are holding another child's hand using left hand? A: 6,B: 4,C: 2,D: 8,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_623.png"
+    ],
+    "id": 623
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nMany kids are dancing in a line. A few are facing towards front and others are facing towards back. How many kids are holding another kid's hand with their right hand? A: 4,B: 2,C: 5,D: 6,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_639.png"
+    ],
+    "id": 639
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA few pupils are dancing in a queue as presented in the picture. Some are looking forward and remaining are looking backward. What is the count of pupils who are grasping another pupil's hand using left hand? A: 4,B: 3,C: 6,D: 7,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_640.png"
+    ],
+    "id": 640
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSome pupils are standing in a queue as displayed in the cartoon. A few are facing towards front and remaining are facing towards back. How many pupils are grasping another pupil's hand using right hand? A: 5,B: 3,C: 4,D: 2,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_659.png"
+    ],
+    "id": 659
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nMany pupils are standing in a queue. Some are looking forward and remaining are looking backward. How many pupils are grasping another pupil's hand with their left hand? A: 3,B: 5,C: 4,D: 6,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_687.png"
+    ],
+    "id": 687
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA few kids are dancing in a line as shown in the image. Some are looking forward and others are looking backward. What is the count of kids who are holding another kid's hand with their right hand? A: 4,B: 2,C: 5,D: 1,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_749.png"
+    ],
+    "id": 749
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe following children are standing in a chain. Some are looking towards front and remaining are looking towards back. What is the count of children who are holding another child's hand using their left hand? A: 1,B: 6,C: 5,D: 8,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_797.png"
+    ],
+    "id": 797
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSome kids are dancing in a line. A few are facing towards front and remaining are facing towards back. What is the count of kids who are grasping another kid's hand using their right hand? A: 1,B: 7,C: 4,D: 6,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_8.png"
+    ],
+    "id": 8
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSeveral children are standing in a chain as displayed in the drawing. Some are looking towards front and remaining are looking towards back. What is the count of children who are grasping another child's hand with their left hand? A: 1,B: 2,C: 3,D: 6,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_800.png"
+    ],
+    "id": 800
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA few kids are dancing in a queue. A few are facing forward and remaining are facing backward. What is the count of kids who are holding another kid's hand using their left hand? A: 3,B: 7,C: 6,D: 1,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_821.png"
+    ],
+    "id": 821
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThese kids are dancing in a line. Some are facing forward and others are facing backward. What is the count of kids who are grasping another kid's hand using right hand? A: 3,B: 6,C: 1,D: 9,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_877.png"
+    ],
+    "id": 877
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe following kids are dancing in a chain. Some are looking forward and others are looking backward. What is the count of kids who are grasping another kid's hand using right hand? A: 2,B: 3,C: 5,D: 8,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_880.png"
+    ],
+    "id": 880
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSeveral children are standing in a line as demonstrated in the image. Some are looking forward and others are looking backward. What is the count of children who are grasping another child's hand with their right hand? A: 8,B: 1,C: 7,D: 3,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_896.png"
+    ],
+    "id": 896
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSome kids are standing in a chain. Some are facing forward and others are facing backward. How many kids are holding another kid's hand using right hand? A: 4,B: 3,C: 1,D: 2,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_913.png"
+    ],
+    "id": 913
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA few children are dancing in a line as demonstrated in the drawing. Some are facing towards front and remaining are facing towards back. How many children are grasping another child's hand with their right hand? A: 9,B: 2,C: 5,D: 7,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_928.png"
+    ],
+    "id": 928
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA few children are dancing in a line. A few are looking towards front and remaining are looking towards back. How many children are holding another child's hand using their right hand? A: 1,B: 6,C: 5,D: 4,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_954.png"
+    ],
+    "id": 954
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSeveral children are dancing in a queue. Some are facing forward and remaining are facing backward. How many children are holding another child's hand using their right hand? A: 6,B: 5,C: 3,D: 1,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_956.png"
+    ],
+    "id": 956
+  }
+]

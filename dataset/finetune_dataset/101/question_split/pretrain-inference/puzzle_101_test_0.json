@@ -1,0 +1,4802 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates shown are placed to two packs. The sums of the numbers in each pack are the same. Which number must be in the pack with the number 1? A: 6,B: 1,C: 4,D: 18,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1.png"
+    ],
+    "id": 1
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers shown are painted to two bags. Each bag has numbers adding to the same sum. Which number must be in the bag with the number 1? A: 7,B: 3,C: 5,D: Impossible,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1012.png"
+    ],
+    "id": 1012
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates presented are stitched to two bags. The numbers in each bag add to the same number. Which number must be in the bag with the number 7? A: 2,B: 10,C: 1,D: 6,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1016.png"
+    ],
+    "id": 1016
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards depicted are painted to two cartons. Each carton has numbers adding to the same sum. Which number must be in the carton with the number 5? A: 7,B: 10,C: 12,D: 24,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1017.png"
+    ],
+    "id": 1017
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards demonstrated are pasted to two cartons. The sums of the numbers in each carton are the same. Which number must be in the carton with the number 6? A: 10,B: 5,C: Impossible,D: 18,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1020.png"
+    ],
+    "id": 1020
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes pictured are placed to two cartons. The numbers in each carton add to the same number. Which number must be in the carton with the number 7? A: 3,B: 12,C: 9,D: 17,E: Impossible. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1021.png"
+    ],
+    "id": 1021
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches shown are attached to two packs. Each pack has numbers adding to the same sum. Which number must be in the pack with the number 2? A: 3,B: 2,C: 11,D: 22,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1025.png"
+    ],
+    "id": 1025
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes presented are kept to two bags. The sums of the numbers in each bag are the same. Which number must be in the bag with the number 9? A: 8,B: 7,C: 9,D: 11,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1028.png"
+    ],
+    "id": 1028
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers shown are attached to two bags. The numbers in each bag add to the same number. Which number must be in the bag with the number 7? A: 5,B: 20,C: 7,D: 9,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1038.png"
+    ],
+    "id": 1038
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes displayed are placed to two packs. The numbers in each pack add to the same number. Which number must be in the pack with the number 14? A: 5,B: Impossible,C: 10,D: 13,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1044.png"
+    ],
+    "id": 1044
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards displayed are stitched to two cartons. The sums of the numbers in each carton are the same. Which number must be in the carton with the number 10? A: 8,B: 6,C: 3,D: 9,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1051.png"
+    ],
+    "id": 1051
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates presented are placed to two bags. Each bag has numbers adding to the same sum. Which number must be in the bag with the number 2? A: 16,B: 12,C: 1,D: Impossible,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1056.png"
+    ],
+    "id": 1056
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches pictured are attached to two boxes. The numbers in each box add to the same number. Which number must be in the box with the number 7? A: 9,B: 6,C: 4,D: 12,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1059.png"
+    ],
+    "id": 1059
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches displayed are pasted to two pots. Each pot has numbers adding to the same sum. Which number must be in the pot with the number 7? A: 11,B: Impossible,C: 10,D: 22,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1064.png"
+    ],
+    "id": 1064
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches pictured are kept to two pots. The sums of the numbers in each pot are the same. Which number must be in the pot with the number 4? A: 9,B: 4,C: 11,D: 1,E: 17. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1071.png"
+    ],
+    "id": 1071
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes displayed are stitched to two boxes. The sums of the numbers in each box are the same. Which number must be in the box with the number 9? A: 3,B: 5,C: 9,D: 1,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1076.png"
+    ],
+    "id": 1076
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches shown are attached to two cartons. Each carton has numbers adding to the same sum. Which number must be in the carton with the number 5? A: 8,B: 10,C: 2,D: 1,E: Impossible. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1082.png"
+    ],
+    "id": 1082
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers presented are placed to two cartons. The numbers in each carton add to the same number. Which number must be in the carton with the number 6? A: 4,B: 2,C: 1,D: 6,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1086.png"
+    ],
+    "id": 1086
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers demonstrated are stitched to two pots. Each pot has numbers adding to the same sum. Which number must be in the pot with the number 12? A: Impossible,B: 4,C: 7,D: 9,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1095.png"
+    ],
+    "id": 1095
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates pictured are stitched to two pots. The sums of the numbers in each pot are the same. Which number must be in the pot with the number 7? A: 4,B: 5,C: 11,D: 9,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1104.png"
+    ],
+    "id": 1104
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes shown are stitched to two packs. The sums of the numbers in each pack are the same. Which number must be in the pack with the number 9? A: 12,B: 3,C: 7,D: 1,E: Impossible. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1109.png"
+    ],
+    "id": 1109
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes pictured are stitched to two pots. The numbers in each pot add to the same number. Which number must be in the pot with the number 3? A: 9,B: 19,C: 5,D: 8,E: Impossible. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_112.png"
+    ],
+    "id": 112
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates demonstrated are placed to two pots. The numbers in each pot add to the same number. Which number must be in the pot with the number 3? A: Impossible,B: 5,C: 4,D: 7,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1123.png"
+    ],
+    "id": 1123
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards demonstrated are pasted to two boxes. The numbers in each box add to the same number. Which number must be in the box with the number 8? A: 13,B: 11,C: 1,D: 8,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1126.png"
+    ],
+    "id": 1126
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes depicted are kept to two cartons. Each carton has numbers adding to the same sum. Which number must be in the carton with the number 11? A: 11,B: 2,C: 3,D: 7,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1129.png"
+    ],
+    "id": 1129
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards depicted are attached to two packs. The sums of the numbers in each pack are the same. Which number must be in the pack with the number 8? A: 4,B: 1,C: 8,D: 2,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1130.png"
+    ],
+    "id": 1130
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates displayed are attached to two cartons. The sums of the numbers in each carton are the same. Which number must be in the carton with the number 4? A: 7,B: 5,C: 21,D: Impossible,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1136.png"
+    ],
+    "id": 1136
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes depicted are pasted to two pots. Each pot has numbers adding to the same sum. Which number must be in the pot with the number 5? A: 3,B: 1,C: 9,D: 10,E: Impossible. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1152.png"
+    ],
+    "id": 1152
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes displayed are stitched to two pots. Each pot has numbers adding to the same sum. Which number must be in the pot with the number 13? A: 7,B: 15,C: 9,D: 13,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1153.png"
+    ],
+    "id": 1153
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes pictured are pasted to two boxes. Each box has numbers adding to the same sum. Which number must be in the box with the number 4? A: 7,B: 1,C: 2,D: 8,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1154.png"
+    ],
+    "id": 1154
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards pictured are placed to two bags. Each bag has numbers adding to the same sum. Which number must be in the bag with the number 1? A: 11,B: 10,C: 1,D: 24,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1162.png"
+    ],
+    "id": 1162
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards pictured are attached to two pots. Each pot has numbers adding to the same sum. Which number must be in the pot with the number 10? A: 5,B: 4,C: 1,D: Impossible,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1180.png"
+    ],
+    "id": 1180
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates shown are attached to two boxes. The sums of the numbers in each box are the same. Which number must be in the box with the number 6? A: 8,B: 10,C: 6,D: 17,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1183.png"
+    ],
+    "id": 1183
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers presented are pasted to two boxes. The sums of the numbers in each box are the same. Which number must be in the box with the number 1? A: 9,B: 15,C: 1,D: 2,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1184.png"
+    ],
+    "id": 1184
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes displayed are pasted to two bags. The sums of the numbers in each bag are the same. Which number must be in the bag with the number 11? A: Impossible,B: 1,C: 6,D: 3,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1194.png"
+    ],
+    "id": 1194
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards depicted are pasted to two boxes. Each box has numbers adding to the same sum. Which number must be in the box with the number 9? A: 9,B: 5,C: 1,D: 3,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1207.png"
+    ],
+    "id": 1207
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates pictured are placed to two packs. The sums of the numbers in each pack are the same. Which number must be in the pack with the number 4? A: 7,B: 4,C: 10,D: 8,E: 21. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_121.png"
+    ],
+    "id": 121
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches pictured are stitched to two cartons. The numbers in each carton add to the same number. Which number must be in the carton with the number 3? A: 3,B: 4,C: 14,D: 1,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1215.png"
+    ],
+    "id": 1215
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes pictured are kept to two boxes. Each box has numbers adding to the same sum. Which number must be in the box with the number 5? A: 5,B: 4,C: 23,D: 14,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_122.png"
+    ],
+    "id": 122
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates shown are kept to two pots. The numbers in each pot add to the same number. Which number must be in the pot with the number 5? A: 10,B: 11,C: 3,D: Impossible,E: 19. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1224.png"
+    ],
+    "id": 1224
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards shown are kept to two cartons. Each carton has numbers adding to the same sum. Which number must be in the carton with the number 8? A: 7,B: 14,C: 9,D: 6,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1238.png"
+    ],
+    "id": 1238
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates presented are painted to two bags. The numbers in each bag add to the same number. Which number must be in the bag with the number 5? A: 5,B: 19,C: 11,D: 4,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1241.png"
+    ],
+    "id": 1241
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches demonstrated are attached to two packs. Each pack has numbers adding to the same sum. Which number must be in the pack with the number 14? A: 3,B: 14,C: 7,D: 8,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1248.png"
+    ],
+    "id": 1248
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes shown are kept to two packs. The sums of the numbers in each pack are the same. Which number must be in the pack with the number 10? A: 27,B: 11,C: 10,D: 12,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1254.png"
+    ],
+    "id": 1254
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers shown are placed to two bags. The numbers in each bag add to the same number. Which number must be in the bag with the number 8? A: 10,B: 4,C: 8,D: 2,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1256.png"
+    ],
+    "id": 1256
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches shown are painted to two pots. Each pot has numbers adding to the same sum. Which number must be in the pot with the number 14? A: 10,B: 14,C: 13,D: 5,E: Impossible. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1257.png"
+    ],
+    "id": 1257
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes displayed are stitched to two pots. Each pot has numbers adding to the same sum. Which number must be in the pot with the number 5? A: 5,B: 11,C: 24,D: 8,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1264.png"
+    ],
+    "id": 1264
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards displayed are pasted to two cartons. Each carton has numbers adding to the same sum. Which number must be in the carton with the number 7? A: 2,B: 5,C: 3,D: 1,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1266.png"
+    ],
+    "id": 1266
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates displayed are placed to two cartons. The sums of the numbers in each carton are the same. Which number must be in the carton with the number 7? A: 7,B: 4,C: 1,D: 10,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1267.png"
+    ],
+    "id": 1267
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates displayed are kept to two pots. The sums of the numbers in each pot are the same. Which number must be in the pot with the number 9? A: 5,B: 8,C: 11,D: 15,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1275.png"
+    ],
+    "id": 1275
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers presented are placed to two bags. Each bag has numbers adding to the same sum. Which number must be in the bag with the number 2? A: 4,B: 20,C: 8,D: Impossible,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1282.png"
+    ],
+    "id": 1282
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards displayed are kept to two pots. The numbers in each pot add to the same number. Which number must be in the pot with the number 7? A: 9,B: 3,C: 6,D: 11,E: Impossible. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1291.png"
+    ],
+    "id": 1291
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers shown are attached to two cartons. Each carton has numbers adding to the same sum. Which number must be in the carton with the number 14? A: 11,B: 14,C: 7,D: 8,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1294.png"
+    ],
+    "id": 1294
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes depicted are stitched to two pots. Each pot has numbers adding to the same sum. Which number must be in the pot with the number 2? A: 10,B: Impossible,C: 14,D: 1,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1297.png"
+    ],
+    "id": 1297
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches displayed are painted to two pots. Each pot has numbers adding to the same sum. Which number must be in the pot with the number 6? A: 14,B: 11,C: 5,D: 4,E: Impossible. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_13.png"
+    ],
+    "id": 13
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes shown are placed to two cartons. The sums of the numbers in each carton are the same. Which number must be in the carton with the number 11? A: 11,B: 5,C: 10,D: 7,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_130.png"
+    ],
+    "id": 130
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers displayed are placed to two boxes. The sums of the numbers in each box are the same. Which number must be in the box with the number 5? A: 19,B: 4,C: 5,D: 11,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1306.png"
+    ],
+    "id": 1306
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards pictured are pasted to two boxes. Each box has numbers adding to the same sum. Which number must be in the box with the number 3? A: 11,B: 3,C: 18,D: 2,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1332.png"
+    ],
+    "id": 1332
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes displayed are attached to two boxes. Each box has numbers adding to the same sum. Which number must be in the box with the number 1? A: Impossible,B: 20,C: 8,D: 2,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1337.png"
+    ],
+    "id": 1337
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches presented are stitched to two bags. Each bag has numbers adding to the same sum. Which number must be in the bag with the number 15? A: 13,B: 6,C: 15,D: 5,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_134.png"
+    ],
+    "id": 134
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards pictured are stitched to two packs. The numbers in each pack add to the same number. Which number must be in the pack with the number 13? A: 2,B: 10,C: 7,D: 8,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1354.png"
+    ],
+    "id": 1354
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches presented are attached to two boxes. Each box has numbers adding to the same sum. Which number must be in the box with the number 7? A: Impossible,B: 2,C: 10,D: 14,E: 19. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1363.png"
+    ],
+    "id": 1363
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates presented are placed to two packs. The numbers in each pack add to the same number. Which number must be in the pack with the number 1? A: 3,B: 1,C: 7,D: 9,E: 18. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1367.png"
+    ],
+    "id": 1367
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates displayed are placed to two cartons. The sums of the numbers in each carton are the same. Which number must be in the carton with the number 9? A: 7,B: Impossible,C: 22,D: 10,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1369.png"
+    ],
+    "id": 1369
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches shown are kept to two packs. The sums of the numbers in each pack are the same. Which number must be in the pack with the number 2? A: 6,B: 12,C: 7,D: 1,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1371.png"
+    ],
+    "id": 1371
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes presented are pasted to two pots. The sums of the numbers in each pot are the same. Which number must be in the pot with the number 1? A: 3,B: 2,C: 9,D: Impossible,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1382.png"
+    ],
+    "id": 1382
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards presented are stitched to two cartons. Each carton has numbers adding to the same sum. Which number must be in the carton with the number 7? A: 3,B: 7,C: 2,D: Impossible,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1390.png"
+    ],
+    "id": 1390
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards demonstrated are placed to two boxes. The sums of the numbers in each box are the same. Which number must be in the box with the number 7? A: 8,B: 1,C: 5,D: 7,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1396.png"
+    ],
+    "id": 1396
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards presented are pasted to two pots. Each pot has numbers adding to the same sum. Which number must be in the pot with the number 1? A: 21,B: 10,C: 3,D: 1,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1397.png"
+    ],
+    "id": 1397
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards depicted are stitched to two packs. The sums of the numbers in each pack are the same. Which number must be in the pack with the number 7? A: Impossible,B: 11,C: 2,D: 18,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_14.png"
+    ],
+    "id": 14
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers presented are kept to two cartons. The sums of the numbers in each carton are the same. Which number must be in the carton with the number 2? A: 4,B: 13,C: 8,D: Impossible,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1400.png"
+    ],
+    "id": 1400
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes demonstrated are attached to two pots. The sums of the numbers in each pot are the same. Which number must be in the pot with the number 9? A: Impossible,B: 10,C: 6,D: 14,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1408.png"
+    ],
+    "id": 1408
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates demonstrated are attached to two pots. The sums of the numbers in each pot are the same. Which number must be in the pot with the number 2? A: Impossible,B: 4,C: 11,D: 8,E: 21. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1409.png"
+    ],
+    "id": 1409
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers depicted are painted to two cartons. Each carton has numbers adding to the same sum. Which number must be in the carton with the number 13? A: 13,B: 12,C: 7,D: 2,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1410.png"
+    ],
+    "id": 1410
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards displayed are kept to two pots. Each pot has numbers adding to the same sum. Which number must be in the pot with the number 6? A: 3,B: 2,C: 6,D: 7,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1411.png"
+    ],
+    "id": 1411
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches depicted are kept to two pots. The numbers in each pot add to the same number. Which number must be in the pot with the number 10? A: 10,B: 3,C: 10,D: 11,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1413.png"
+    ],
+    "id": 1413
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates depicted are pasted to two bags. The sums of the numbers in each bag are the same. Which number must be in the bag with the number 10? A: 6,B: Impossible,C: 12,D: 5,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1426.png"
+    ],
+    "id": 1426
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards pictured are painted to two cartons. The sums of the numbers in each carton are the same. Which number must be in the carton with the number 2? A: 5,B: 1,C: 17,D: 13,E: Impossible. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_143.png"
+    ],
+    "id": 143
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches shown are pasted to two bags. The sums of the numbers in each bag are the same. Which number must be in the bag with the number 5? A: 10,B: 6,C: 8,D: 5,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1430.png"
+    ],
+    "id": 1430
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes shown are placed to two packs. The numbers in each pack add to the same number. Which number must be in the pack with the number 8? A: 8,B: 2,C: 9,D: 10,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1434.png"
+    ],
+    "id": 1434
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards depicted are painted to two pots. Each pot has numbers adding to the same sum. Which number must be in the pot with the number 3? A: 4,B: 17,C: 3,D: 10,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1437.png"
+    ],
+    "id": 1437
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes depicted are placed to two boxes. Each box has numbers adding to the same sum. Which number must be in the box with the number 11? A: 9,B: 8,C: 10,D: 4,E: Impossible. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1439.png"
+    ],
+    "id": 1439
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches shown are attached to two packs. Each pack has numbers adding to the same sum. Which number must be in the pack with the number 6? A: 10,B: 8,C: 17,D: Impossible,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1451.png"
+    ],
+    "id": 1451
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards displayed are pasted to two packs. Each pack has numbers adding to the same sum. Which number must be in the pack with the number 3? A: 9,B: 1,C: 4,D: 7,E: Impossible. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1459.png"
+    ],
+    "id": 1459
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes depicted are attached to two cartons. The sums of the numbers in each carton are the same. Which number must be in the carton with the number 4? A: Impossible,B: 9,C: 24,D: 13,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1462.png"
+    ],
+    "id": 1462
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers presented are placed to two bags. The numbers in each bag add to the same number. Which number must be in the bag with the number 6? A: 4,B: 1,C: 9,D: 10,E: Impossible. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1478.png"
+    ],
+    "id": 1478
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards shown are pasted to two boxes. Each box has numbers adding to the same sum. Which number must be in the box with the number 2? A: 13,B: 2,C: 1,D: 9,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1479.png"
+    ],
+    "id": 1479
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards pictured are painted to two pots. The sums of the numbers in each pot are the same. Which number must be in the pot with the number 6? A: 9,B: 7,C: Impossible,D: 21,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1482.png"
+    ],
+    "id": 1482
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates depicted are stitched to two bags. The numbers in each bag add to the same number. Which number must be in the bag with the number 7? A: 4,B: 14,C: 7,D: 11,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1484.png"
+    ],
+    "id": 1484
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches presented are kept to two packs. Each pack has numbers adding to the same sum. Which number must be in the pack with the number 3? A: 11,B: 9,C: 21,D: 3,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1485.png"
+    ],
+    "id": 1485
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers demonstrated are placed to two cartons. The numbers in each carton add to the same number. Which number must be in the carton with the number 6? A: 20,B: 3,C: 11,D: 6,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1495.png"
+    ],
+    "id": 1495
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes depicted are placed to two boxes. Each box has numbers adding to the same sum. Which number must be in the box with the number 6? A: 4,B: 2,C: 1,D: 3,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1496.png"
+    ],
+    "id": 1496
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards presented are attached to two boxes. The sums of the numbers in each box are the same. Which number must be in the box with the number 7? A: 5,B: 10,C: 1,D: Impossible,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1499.png"
+    ],
+    "id": 1499
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes displayed are pasted to two bags. Each bag has numbers adding to the same sum. Which number must be in the bag with the number 13? A: 9,B: 12,C: 8,D: 13,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1500.png"
+    ],
+    "id": 1500
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers displayed are painted to two packs. Each pack has numbers adding to the same sum. Which number must be in the pack with the number 2? A: 22,B: 2,C: 5,D: 10,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1508.png"
+    ],
+    "id": 1508
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers pictured are painted to two pots. Each pot has numbers adding to the same sum. Which number must be in the pot with the number 3? A: 6,B: 17,C: 9,D: 5,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1513.png"
+    ],
+    "id": 1513
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes presented are attached to two packs. The numbers in each pack add to the same number. Which number must be in the pack with the number 1? A: 1,B: 21,C: 14,D: 2,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1515.png"
+    ],
+    "id": 1515
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes displayed are attached to two boxes. Each box has numbers adding to the same sum. Which number must be in the box with the number 1? A: 7,B: 3,C: 2,D: 11,E: Impossible. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1520.png"
+    ],
+    "id": 1520
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes displayed are placed to two cartons. The numbers in each carton add to the same number. Which number must be in the carton with the number 3? A: 4,B: 11,C: 13,D: Impossible,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1522.png"
+    ],
+    "id": 1522
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches presented are stitched to two bags. The numbers in each bag add to the same number. Which number must be in the bag with the number 13? A: Impossible,B: 6,C: 5,D: 11,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1528.png"
+    ],
+    "id": 1528
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes displayed are attached to two bags. Each bag has numbers adding to the same sum. Which number must be in the bag with the number 8? A: 8,B: 2,C: 4,D: 3,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1529.png"
+    ],
+    "id": 1529
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes displayed are pasted to two boxes. The numbers in each box add to the same number. Which number must be in the box with the number 3? A: 18,B: 1,C: Impossible,D: 8,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1533.png"
+    ],
+    "id": 1533
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards demonstrated are pasted to two packs. The sums of the numbers in each pack are the same. Which number must be in the pack with the number 5? A: 7,B: 12,C: 5,D: 16,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1534.png"
+    ],
+    "id": 1534
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches shown are placed to two boxes. The sums of the numbers in each box are the same. Which number must be in the box with the number 5? A: 7,B: Impossible,C: 4,D: 10,E: 16. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1570.png"
+    ],
+    "id": 1570
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes displayed are stitched to two pots. The numbers in each pot add to the same number. Which number must be in the pot with the number 8? A: 8,B: 11,C: 18,D: 9,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1577.png"
+    ],
+    "id": 1577
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates shown are pasted to two packs. The numbers in each pack add to the same number. Which number must be in the pack with the number 5? A: 12,B: 5,C: 3,D: 10,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1579.png"
+    ],
+    "id": 1579
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes depicted are attached to two pots. The numbers in each pot add to the same number. Which number must be in the pot with the number 2? A: 20,B: 3,C: 12,D: Impossible,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1584.png"
+    ],
+    "id": 1584
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers presented are kept to two boxes. The sums of the numbers in each box are the same. Which number must be in the box with the number 13? A: 6,B: 8,C: 10,D: Impossible,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1585.png"
+    ],
+    "id": 1585
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards demonstrated are stitched to two boxes. The numbers in each box add to the same number. Which number must be in the box with the number 12? A: 7,B: Impossible,C: 2,D: 13,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1589.png"
+    ],
+    "id": 1589
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards depicted are painted to two cartons. The sums of the numbers in each carton are the same. Which number must be in the carton with the number 10? A: 2,B: 7,C: Impossible,D: 6,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1590.png"
+    ],
+    "id": 1590
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes displayed are pasted to two packs. The numbers in each pack add to the same number. Which number must be in the pack with the number 4? A: 1,B: 4,C: 8,D: 2,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1597.png"
+    ],
+    "id": 1597
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards pictured are pasted to two cartons. The numbers in each carton add to the same number. Which number must be in the carton with the number 7? A: 7,B: 10,C: 16,D: 2,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1598.png"
+    ],
+    "id": 1598
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers shown are stitched to two cartons. Each carton has numbers adding to the same sum. Which number must be in the carton with the number 8? A: Impossible,B: 13,C: 5,D: 9,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_161.png"
+    ],
+    "id": 161
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates demonstrated are painted to two packs. The numbers in each pack add to the same number. Which number must be in the pack with the number 12? A: 2,B: 8,C: 7,D: 12,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1631.png"
+    ],
+    "id": 1631
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches pictured are attached to two pots. The sums of the numbers in each pot are the same. Which number must be in the pot with the number 7? A: 2,B: Impossible,C: 8,D: 3,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1633.png"
+    ],
+    "id": 1633
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards pictured are pasted to two boxes. The sums of the numbers in each box are the same. Which number must be in the box with the number 2? A: 16,B: 2,C: 1,D: 7,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1636.png"
+    ],
+    "id": 1636
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes shown are pasted to two packs. Each pack has numbers adding to the same sum. Which number must be in the pack with the number 9? A: 2,B: 11,C: 10,D: 8,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1638.png"
+    ],
+    "id": 1638
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches pictured are attached to two boxes. The sums of the numbers in each box are the same. Which number must be in the box with the number 11? A: 10,B: 2,C: 5,D: Impossible,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1643.png"
+    ],
+    "id": 1643
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers shown are attached to two packs. The numbers in each pack add to the same number. Which number must be in the pack with the number 1? A: 12,B: 4,C: Impossible,D: 22,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1648.png"
+    ],
+    "id": 1648
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates displayed are placed to two pots. The numbers in each pot add to the same number. Which number must be in the pot with the number 5? A: 8,B: 17,C: 11,D: 5,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_166.png"
+    ],
+    "id": 166
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes presented are kept to two pots. The sums of the numbers in each pot are the same. Which number must be in the pot with the number 10? A: 15,B: 10,C: 13,D: 3,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1661.png"
+    ],
+    "id": 1661
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches depicted are placed to two pots. The numbers in each pot add to the same number. Which number must be in the pot with the number 13? A: 13,B: 8,C: 11,D: 9,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1663.png"
+    ],
+    "id": 1663
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes demonstrated are pasted to two pots. The sums of the numbers in each pot are the same. Which number must be in the pot with the number 3? A: 8,B: 2,C: Impossible,D: 4,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1678.png"
+    ],
+    "id": 1678
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers demonstrated are stitched to two packs. Each pack has numbers adding to the same sum. Which number must be in the pack with the number 12? A: 7,B: Impossible,C: 10,D: 1,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1685.png"
+    ],
+    "id": 1685
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers presented are placed to two pots. The sums of the numbers in each pot are the same. Which number must be in the pot with the number 6? A: 4,B: 3,C: Impossible,D: 6,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1687.png"
+    ],
+    "id": 1687
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes depicted are kept to two cartons. Each carton has numbers adding to the same sum. Which number must be in the carton with the number 10? A: 13,B: 11,C: 9,D: 23,E: Impossible. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1695.png"
+    ],
+    "id": 1695
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards displayed are placed to two packs. Each pack has numbers adding to the same sum. Which number must be in the pack with the number 8? A: 4,B: 8,C: 5,D: Impossible,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1698.png"
+    ],
+    "id": 1698
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates demonstrated are placed to two boxes. The numbers in each box add to the same number. Which number must be in the box with the number 2? A: 8,B: 24,C: 2,D: 7,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1700.png"
+    ],
+    "id": 1700
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes depicted are attached to two boxes. The numbers in each box add to the same number. Which number must be in the box with the number 5? A: Impossible,B: 6,C: 25,D: 13,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1705.png"
+    ],
+    "id": 1705
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers presented are kept to two bags. Each bag has numbers adding to the same sum. Which number must be in the bag with the number 4? A: 6,B: Impossible,C: 10,D: 15,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1707.png"
+    ],
+    "id": 1707
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates demonstrated are painted to two pots. The sums of the numbers in each pot are the same. Which number must be in the pot with the number 3? A: 3,B: 21,C: 9,D: 5,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1714.png"
+    ],
+    "id": 1714
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers depicted are placed to two cartons. Each carton has numbers adding to the same sum. Which number must be in the carton with the number 2? A: 7,B: 1,C: 9,D: 2,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1715.png"
+    ],
+    "id": 1715
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes depicted are placed to two packs. Each pack has numbers adding to the same sum. Which number must be in the pack with the number 13? A: 9,B: 4,C: 13,D: 1,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1722.png"
+    ],
+    "id": 1722
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers displayed are kept to two boxes. Each box has numbers adding to the same sum. Which number must be in the box with the number 12? A: 2,B: 5,C: Impossible,D: 6,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1724.png"
+    ],
+    "id": 1724
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers presented are attached to two bags. Each bag has numbers adding to the same sum. Which number must be in the bag with the number 3? A: 22,B: 7,C: Impossible,D: 10,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1725.png"
+    ],
+    "id": 1725
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers demonstrated are kept to two pots. The numbers in each pot add to the same number. Which number must be in the pot with the number 5? A: 5,B: 9,C: 17,D: 6,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1748.png"
+    ],
+    "id": 1748
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards pictured are painted to two pots. Each pot has numbers adding to the same sum. Which number must be in the pot with the number 2? A: 12,B: 1,C: 2,D: 8,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1750.png"
+    ],
+    "id": 1750
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates pictured are painted to two packs. Each pack has numbers adding to the same sum. Which number must be in the pack with the number 4? A: 9,B: 2,C: Impossible,D: 8,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1751.png"
+    ],
+    "id": 1751
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards demonstrated are kept to two packs. The numbers in each pack add to the same number. Which number must be in the pack with the number 1? A: 10,B: 12,C: 4,D: Impossible,E: 25. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1753.png"
+    ],
+    "id": 1753
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes displayed are kept to two pots. The numbers in each pot add to the same number. Which number must be in the pot with the number 3? A: 5,B: 4,C: 12,D: 18,E: Impossible. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1757.png"
+    ],
+    "id": 1757
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards presented are stitched to two pots. The sums of the numbers in each pot are the same. Which number must be in the pot with the number 1? A: 2,B: 4,C: 1,D: 6,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1758.png"
+    ],
+    "id": 1758
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes demonstrated are pasted to two cartons. Each carton has numbers adding to the same sum. Which number must be in the carton with the number 4? A: Impossible,B: 10,C: 18,D: 3,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1762.png"
+    ],
+    "id": 1762
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers displayed are painted to two bags. The numbers in each bag add to the same number. Which number must be in the bag with the number 4? A: 5,B: 28,C: 14,D: 13,E: Impossible. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1772.png"
+    ],
+    "id": 1772
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates pictured are kept to two pots. The numbers in each pot add to the same number. Which number must be in the pot with the number 4? A: Impossible,B: 3,C: 11,D: 10,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1773.png"
+    ],
+    "id": 1773
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes pictured are pasted to two boxes. The numbers in each box add to the same number. Which number must be in the box with the number 10? A: 3,B: 2,C: 9,D: 4,E: Impossible. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1792.png"
+    ],
+    "id": 1792
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards shown are placed to two packs. The numbers in each pack add to the same number. Which number must be in the pack with the number 14? A: 11,B: 9,C: 14,D: 8,E: Impossible. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1795.png"
+    ],
+    "id": 1795
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes depicted are pasted to two packs. The numbers in each pack add to the same number. Which number must be in the pack with the number 12? A: 6,B: 9,C: Impossible,D: 5,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1796.png"
+    ],
+    "id": 1796
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes displayed are kept to two bags. The sums of the numbers in each bag are the same. Which number must be in the bag with the number 8? A: 8,B: 9,C: 7,D: 12,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1806.png"
+    ],
+    "id": 1806
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes presented are stitched to two bags. Each bag has numbers adding to the same sum. Which number must be in the bag with the number 9? A: 1,B: 12,C: Impossible,D: 15,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1808.png"
+    ],
+    "id": 1808
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers shown are painted to two packs. Each pack has numbers adding to the same sum. Which number must be in the pack with the number 11? A: 9,B: 1,C: Impossible,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1823.png"
+    ],
+    "id": 1823
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes demonstrated are pasted to two packs. The numbers in each pack add to the same number. Which number must be in the pack with the number 6? A: 22,B: 3,C: 6,D: 11,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1835.png"
+    ],
+    "id": 1835
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches shown are attached to two packs. The numbers in each pack add to the same number. Which number must be in the pack with the number 9? A: 12,B: 9,C: 11,D: 4,E: 18. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1836.png"
+    ],
+    "id": 1836
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes displayed are attached to two cartons. The numbers in each carton add to the same number. Which number must be in the carton with the number 3? A: 22,B: 8,C: Impossible,D: 13,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1839.png"
+    ],
+    "id": 1839
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes displayed are painted to two cartons. The sums of the numbers in each carton are the same. Which number must be in the carton with the number 9? A: 2,B: 9,C: 4,D: 6,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1841.png"
+    ],
+    "id": 1841
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers presented are painted to two packs. Each pack has numbers adding to the same sum. Which number must be in the pack with the number 10? A: 10,B: 7,C: 4,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1842.png"
+    ],
+    "id": 1842
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes presented are kept to two packs. The numbers in each pack add to the same number. Which number must be in the pack with the number 5? A: 7,B: 3,C: 6,D: Impossible,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1845.png"
+    ],
+    "id": 1845
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates shown are pasted to two boxes. Each box has numbers adding to the same sum. Which number must be in the box with the number 8? A: 3,B: 6,C: 4,D: Impossible,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1848.png"
+    ],
+    "id": 1848
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates displayed are placed to two boxes. The numbers in each box add to the same number. Which number must be in the box with the number 12? A: 20,B: 11,C: 12,D: 13,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1851.png"
+    ],
+    "id": 1851
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards pictured are pasted to two pots. Each pot has numbers adding to the same sum. Which number must be in the pot with the number 4? A: 12,B: 4,C: 7,D: 1,E: 16. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1862.png"
+    ],
+    "id": 1862
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers depicted are pasted to two bags. Each bag has numbers adding to the same sum. Which number must be in the bag with the number 3? A: Impossible,B: 11,C: 7,D: 27,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1863.png"
+    ],
+    "id": 1863
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates demonstrated are pasted to two boxes. The numbers in each box add to the same number. Which number must be in the box with the number 4? A: 1,B: 2,C: 6,D: 4,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_187.png"
+    ],
+    "id": 187
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards demonstrated are stitched to two packs. The numbers in each pack add to the same number. Which number must be in the pack with the number 14? A: 7,B: 11,C: 13,D: 14,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1880.png"
+    ],
+    "id": 1880
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes displayed are painted to two cartons. The sums of the numbers in each carton are the same. Which number must be in the carton with the number 10? A: 8,B: 1,C: 6,D: 11,E: Impossible. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1885.png"
+    ],
+    "id": 1885
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards shown are kept to two boxes. The numbers in each box add to the same number. Which number must be in the box with the number 7? A: 1,B: 5,C: 2,D: 7,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1886.png"
+    ],
+    "id": 1886
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards shown are placed to two bags. The sums of the numbers in each bag are the same. Which number must be in the bag with the number 11? A: 6,B: 3,C: 9,D: Impossible,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_189.png"
+    ],
+    "id": 189
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards depicted are stitched to two bags. The sums of the numbers in each bag are the same. Which number must be in the bag with the number 6? A: 1,B: 3,C: 6,D: 10,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1891.png"
+    ],
+    "id": 1891
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards pictured are stitched to two pots. The numbers in each pot add to the same number. Which number must be in the pot with the number 3? A: 5,B: 15,C: 3,D: 4,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1895.png"
+    ],
+    "id": 1895
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches demonstrated are placed to two packs. The numbers in each pack add to the same number. Which number must be in the pack with the number 4? A: Impossible,B: 8,C: 2,D: 3,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1899.png"
+    ],
+    "id": 1899
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates presented are stitched to two cartons. The numbers in each carton add to the same number. Which number must be in the carton with the number 3? A: 8,B: 5,C: 4,D: Impossible,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1900.png"
+    ],
+    "id": 1900
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes demonstrated are pasted to two pots. The numbers in each pot add to the same number. Which number must be in the pot with the number 12? A: 9,B: 8,C: 2,D: 7,E: Impossible. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1901.png"
+    ],
+    "id": 1901
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches depicted are placed to two boxes. The numbers in each box add to the same number. Which number must be in the box with the number 7? A: Impossible,B: 20,C: 4,D: 12,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1915.png"
+    ],
+    "id": 1915
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates shown are painted to two pots. Each pot has numbers adding to the same sum. Which number must be in the pot with the number 14? A: Impossible,B: 6,C: 7,D: 12,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1925.png"
+    ],
+    "id": 1925
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes shown are placed to two cartons. The numbers in each carton add to the same number. Which number must be in the carton with the number 3? A: Impossible,B: 11,C: 27,D: 10,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1951.png"
+    ],
+    "id": 1951
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards shown are placed to two packs. Each pack has numbers adding to the same sum. Which number must be in the pack with the number 14? A: 2,B: 5,C: 6,D: 14,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1952.png"
+    ],
+    "id": 1952
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes depicted are placed to two boxes. The numbers in each box add to the same number. Which number must be in the box with the number 14? A: 3,B: 2,C: Impossible,D: 10,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_197.png"
+    ],
+    "id": 197
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes presented are pasted to two boxes. Each box has numbers adding to the same sum. Which number must be in the box with the number 11? A: 3,B: Impossible,C: 7,D: 4,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1970.png"
+    ],
+    "id": 1970
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers demonstrated are attached to two bags. Each bag has numbers adding to the same sum. Which number must be in the bag with the number 4? A: Impossible,B: 1,C: 19,D: 13,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_1996.png"
+    ],
+    "id": 1996
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes demonstrated are painted to two packs. Each pack has numbers adding to the same sum. Which number must be in the pack with the number 12? A: 12,B: 8,C: 11,D: 2,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_20.png"
+    ],
+    "id": 20
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers pictured are attached to two pots. Each pot has numbers adding to the same sum. Which number must be in the pot with the number 8? A: Impossible,B: 10,C: 6,D: 3,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_200.png"
+    ],
+    "id": 200
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes displayed are kept to two boxes. The sums of the numbers in each box are the same. Which number must be in the box with the number 2? A: 12,B: 4,C: 17,D: 2,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_201.png"
+    ],
+    "id": 201
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches displayed are attached to two boxes. Each box has numbers adding to the same sum. Which number must be in the box with the number 7? A: 4,B: 11,C: Impossible,D: 9,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_202.png"
+    ],
+    "id": 202
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes depicted are kept to two bags. Each bag has numbers adding to the same sum. Which number must be in the bag with the number 10? A: 1,B: 9,C: Impossible,D: 11,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_205.png"
+    ],
+    "id": 205
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers presented are painted to two packs. The sums of the numbers in each pack are the same. Which number must be in the pack with the number 4? A: 2,B: 13,C: 17,D: 6,E: Impossible. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_206.png"
+    ],
+    "id": 206
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates presented are attached to two cartons. The sums of the numbers in each carton are the same. Which number must be in the carton with the number 5? A: 3,B: 12,C: 1,D: 11,E: Impossible. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_21.png"
+    ],
+    "id": 21
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards presented are attached to two packs. The sums of the numbers in each pack are the same. Which number must be in the pack with the number 6? A: 8,B: 7,C: 11,D: 2,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_216.png"
+    ],
+    "id": 216
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates depicted are pasted to two bags. The sums of the numbers in each bag are the same. Which number must be in the bag with the number 9? A: 1,B: 4,C: 9,D: 6,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_219.png"
+    ],
+    "id": 219
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes demonstrated are painted to two pots. The sums of the numbers in each pot are the same. Which number must be in the pot with the number 9? A: 12,B: Impossible,C: 15,D: 4,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_230.png"
+    ],
+    "id": 230
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes depicted are attached to two cartons. The sums of the numbers in each carton are the same. Which number must be in the carton with the number 5? A: Impossible,B: 4,C: 3,D: 13,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_241.png"
+    ],
+    "id": 241
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes displayed are painted to two boxes. The numbers in each box add to the same number. Which number must be in the box with the number 14? A: 9,B: Impossible,C: 5,D: 10,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_246.png"
+    ],
+    "id": 246
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards presented are pasted to two boxes. Each box has numbers adding to the same sum. Which number must be in the box with the number 10? A: 5,B: 8,C: 4,D: 10,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_252.png"
+    ],
+    "id": 252
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards presented are kept to two pots. The numbers in each pot add to the same number. Which number must be in the pot with the number 10? A: 4,B: 5,C: 3,D: 2,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_269.png"
+    ],
+    "id": 269
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches pictured are stitched to two cartons. Each carton has numbers adding to the same sum. Which number must be in the carton with the number 5? A: 11,B: 18,C: 4,D: 5,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_276.png"
+    ],
+    "id": 276
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards demonstrated are pasted to two bags. The numbers in each bag add to the same number. Which number must be in the bag with the number 2? A: Impossible,B: 26,C: 14,D: 9,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_279.png"
+    ],
+    "id": 279
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers pictured are pasted to two boxes. The sums of the numbers in each box are the same. Which number must be in the box with the number 7? A: 10,B: Impossible,C: 8,D: 14,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_288.png"
+    ],
+    "id": 288
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards demonstrated are kept to two bags. The sums of the numbers in each bag are the same. Which number must be in the bag with the number 3? A: 4,B: 16,C: Impossible,D: 9,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_293.png"
+    ],
+    "id": 293
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches displayed are kept to two pots. Each pot has numbers adding to the same sum. Which number must be in the pot with the number 8? A: 5,B: 14,C: 10,D: 7,E: Impossible. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_295.png"
+    ],
+    "id": 295
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards presented are kept to two packs. The numbers in each pack add to the same number. Which number must be in the pack with the number 10? A: 2,B: 9,C: 10,D: 7,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_315.png"
+    ],
+    "id": 315
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates depicted are attached to two bags. The numbers in each bag add to the same number. Which number must be in the bag with the number 12? A: 4,B: 9,C: 12,D: 10,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_317.png"
+    ],
+    "id": 317
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards shown are placed to two cartons. The numbers in each carton add to the same number. Which number must be in the carton with the number 8? A: 4,B: 1,C: 5,D: Impossible,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_330.png"
+    ],
+    "id": 330
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers demonstrated are kept to two boxes. Each box has numbers adding to the same sum. Which number must be in the box with the number 10? A: 3,B: 9,C: 5,D: 10,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_337.png"
+    ],
+    "id": 337
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches shown are placed to two pots. Each pot has numbers adding to the same sum. Which number must be in the pot with the number 7? A: 13,B: 3,C: 7,D: 6,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_34.png"
+    ],
+    "id": 34
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates presented are painted to two pots. Each pot has numbers adding to the same sum. Which number must be in the pot with the number 3? A: Impossible,B: 4,C: 7,D: 10,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_343.png"
+    ],
+    "id": 343
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes shown are pasted to two boxes. The sums of the numbers in each box are the same. Which number must be in the box with the number 11? A: 2,B: 7,C: Impossible,D: 8,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_378.png"
+    ],
+    "id": 378
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers pictured are stitched to two boxes. The sums of the numbers in each box are the same. Which number must be in the box with the number 7? A: 11,B: 5,C: 7,D: 10,E: 19. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_379.png"
+    ],
+    "id": 379
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards displayed are pasted to two pots. The sums of the numbers in each pot are the same. Which number must be in the pot with the number 10? A: 10,B: 1,C: 2,D: Impossible,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_384.png"
+    ],
+    "id": 384
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers demonstrated are painted to two packs. The sums of the numbers in each pack are the same. Which number must be in the pack with the number 2? A: 4,B: 2,C: 5,D: 10,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_385.png"
+    ],
+    "id": 385
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches pictured are stitched to two pots. The numbers in each pot add to the same number. Which number must be in the pot with the number 2? A: 7,B: 19,C: 9,D: Impossible,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_387.png"
+    ],
+    "id": 387
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates shown are attached to two bags. The numbers in each bag add to the same number. Which number must be in the bag with the number 10? A: 1,B: 6,C: 8,D: 5,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_391.png"
+    ],
+    "id": 391
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards depicted are pasted to two boxes. The sums of the numbers in each box are the same. Which number must be in the box with the number 5? A: 9,B: 17,C: 6,D: 7,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_392.png"
+    ],
+    "id": 392
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards displayed are stitched to two pots. The sums of the numbers in each pot are the same. Which number must be in the pot with the number 8? A: 2,B: 10,C: 13,D: 9,E: Impossible. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_397.png"
+    ],
+    "id": 397
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches displayed are painted to two cartons. The numbers in each carton add to the same number. Which number must be in the carton with the number 5? A: 5,B: 10,C: 4,D: 2,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_40.png"
+    ],
+    "id": 40
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes pictured are placed to two cartons. The numbers in each carton add to the same number. Which number must be in the carton with the number 4? A: 7,B: 1,C: 10,D: 14,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_400.png"
+    ],
+    "id": 400
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches pictured are attached to two packs. The sums of the numbers in each pack are the same. Which number must be in the pack with the number 6? A: 4,B: 10,C: 11,D: 1,E: Impossible. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_401.png"
+    ],
+    "id": 401
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates demonstrated are pasted to two cartons. Each carton has numbers adding to the same sum. Which number must be in the carton with the number 10? A: 1,B: Impossible,C: 5,D: 8,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_406.png"
+    ],
+    "id": 406
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes displayed are painted to two pots. The sums of the numbers in each pot are the same. Which number must be in the pot with the number 7? A: 10,B: 7,C: 1,D: 6,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_418.png"
+    ],
+    "id": 418
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes pictured are pasted to two packs. The sums of the numbers in each pack are the same. Which number must be in the pack with the number 8? A: 8,B: 3,C: 9,D: 6,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_441.png"
+    ],
+    "id": 441
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers depicted are placed to two packs. Each pack has numbers adding to the same sum. Which number must be in the pack with the number 12? A: 12,B: 8,C: 10,D: 1,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_455.png"
+    ],
+    "id": 455
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates pictured are kept to two cartons. The sums of the numbers in each carton are the same. Which number must be in the carton with the number 2? A: 10,B: Impossible,C: 8,D: 3,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_459.png"
+    ],
+    "id": 459
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards demonstrated are painted to two packs. Each pack has numbers adding to the same sum. Which number must be in the pack with the number 4? A: 4,B: 9,C: 15,D: 8,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_466.png"
+    ],
+    "id": 466
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates depicted are placed to two boxes. The sums of the numbers in each box are the same. Which number must be in the box with the number 3? A: 4,B: 8,C: Impossible,D: 1,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_474.png"
+    ],
+    "id": 474
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates shown are painted to two bags. The numbers in each bag add to the same number. Which number must be in the bag with the number 7? A: 3,B: 4,C: 5,D: 1,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_484.png"
+    ],
+    "id": 484
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards demonstrated are stitched to two packs. The sums of the numbers in each pack are the same. Which number must be in the pack with the number 4? A: 21,B: 12,C: 7,D: Impossible,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_492.png"
+    ],
+    "id": 492
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes depicted are painted to two cartons. The numbers in each carton add to the same number. Which number must be in the carton with the number 6? A: 21,B: 12,C: 14,D: 6,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_502.png"
+    ],
+    "id": 502
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards presented are attached to two boxes. The numbers in each box add to the same number. Which number must be in the box with the number 6? A: 8,B: 10,C: 1,D: 13,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_508.png"
+    ],
+    "id": 508
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes pictured are kept to two cartons. The numbers in each carton add to the same number. Which number must be in the carton with the number 12? A: 13,B: 9,C: Impossible,D: 11,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_510.png"
+    ],
+    "id": 510
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes depicted are stitched to two packs. The numbers in each pack add to the same number. Which number must be in the pack with the number 9? A: Impossible,B: 4,C: 1,D: 5,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_520.png"
+    ],
+    "id": 520
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes demonstrated are painted to two pots. Each pot has numbers adding to the same sum. Which number must be in the pot with the number 14? A: 13,B: 9,C: 14,D: 6,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_524.png"
+    ],
+    "id": 524
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes presented are kept to two cartons. The numbers in each carton add to the same number. Which number must be in the carton with the number 5? A: 2,B: 14,C: 9,D: 5,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_540.png"
+    ],
+    "id": 540
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers depicted are attached to two cartons. The sums of the numbers in each carton are the same. Which number must be in the carton with the number 1? A: 10,B: Impossible,C: 4,D: 5,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_556.png"
+    ],
+    "id": 556
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes depicted are painted to two packs. The numbers in each pack add to the same number. Which number must be in the pack with the number 1? A: 19,B: 9,C: 7,D: 4,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_562.png"
+    ],
+    "id": 562
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches demonstrated are pasted to two boxes. Each box has numbers adding to the same sum. Which number must be in the box with the number 7? A: 1,B: 13,C: 8,D: 7,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_563.png"
+    ],
+    "id": 563
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes demonstrated are attached to two pots. The numbers in each pot add to the same number. Which number must be in the pot with the number 1? A: 1,B: 9,C: 20,D: 4,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_564.png"
+    ],
+    "id": 564
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches demonstrated are painted to two bags. The sums of the numbers in each bag are the same. Which number must be in the bag with the number 14? A: 9,B: 10,C: 18,D: 13,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_565.png"
+    ],
+    "id": 565
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers shown are placed to two boxes. Each box has numbers adding to the same sum. Which number must be in the box with the number 11? A: 28,B: 11,C: 13,D: 12,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_577.png"
+    ],
+    "id": 577
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes displayed are stitched to two pots. Each pot has numbers adding to the same sum. Which number must be in the pot with the number 11? A: 3,B: 5,C: 1,D: 8,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_592.png"
+    ],
+    "id": 592
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes demonstrated are stitched to two packs. Each pack has numbers adding to the same sum. Which number must be in the pack with the number 3? A: 3,B: 8,C: 19,D: 12,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_600.png"
+    ],
+    "id": 600
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches depicted are kept to two cartons. The numbers in each carton add to the same number. Which number must be in the carton with the number 13? A: 13,B: 3,C: 11,D: 9,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_608.png"
+    ],
+    "id": 608
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes demonstrated are kept to two pots. Each pot has numbers adding to the same sum. Which number must be in the pot with the number 5? A: 2,B: 5,C: 7,D: 14,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_612.png"
+    ],
+    "id": 612
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers presented are placed to two pots. The numbers in each pot add to the same number. Which number must be in the pot with the number 2? A: 8,B: Impossible,C: 4,D: 5,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_627.png"
+    ],
+    "id": 627
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes pictured are attached to two cartons. The sums of the numbers in each carton are the same. Which number must be in the carton with the number 1? A: 21,B: 10,C: Impossible,D: 9,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_632.png"
+    ],
+    "id": 632
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes demonstrated are attached to two boxes. The sums of the numbers in each box are the same. Which number must be in the box with the number 13? A: 9,B: 5,C: 13,D: 13,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_64.png"
+    ],
+    "id": 64
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes displayed are attached to two packs. The sums of the numbers in each pack are the same. Which number must be in the pack with the number 2? A: 1,B: 3,C: 6,D: Impossible,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_641.png"
+    ],
+    "id": 641
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers displayed are placed to two boxes. Each box has numbers adding to the same sum. Which number must be in the box with the number 4? A: 22,B: 7,C: 13,D: 6,E: Impossible. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_642.png"
+    ],
+    "id": 642
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches shown are placed to two boxes. The sums of the numbers in each box are the same. Which number must be in the box with the number 6? A: 2,B: 11,C: 12,D: 6,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_645.png"
+    ],
+    "id": 645
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes depicted are pasted to two boxes. Each box has numbers adding to the same sum. Which number must be in the box with the number 7? A: 12,B: 21,C: 11,D: 7,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_646.png"
+    ],
+    "id": 646
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers pictured are kept to two cartons. Each carton has numbers adding to the same sum. Which number must be in the carton with the number 1? A: 8,B: 2,C: 18,D: Impossible,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_647.png"
+    ],
+    "id": 647
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes displayed are kept to two packs. Each pack has numbers adding to the same sum. Which number must be in the pack with the number 12? A: 6,B: 12,C: 3,D: 4,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_648.png"
+    ],
+    "id": 648
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes depicted are painted to two cartons. The numbers in each carton add to the same number. Which number must be in the carton with the number 7? A: 9,B: 8,C: Impossible,D: 3,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_663.png"
+    ],
+    "id": 663
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes presented are pasted to two packs. Each pack has numbers adding to the same sum. Which number must be in the pack with the number 11? A: 7,B: Impossible,C: 18,D: 9,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_681.png"
+    ],
+    "id": 681
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches demonstrated are kept to two pots. The numbers in each pot add to the same number. Which number must be in the pot with the number 13? A: 5,B: 7,C: 8,D: 3,E: Impossible. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_683.png"
+    ],
+    "id": 683
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes presented are kept to two packs. Each pack has numbers adding to the same sum. Which number must be in the pack with the number 11? A: 7,B: 2,C: 4,D: 6,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_686.png"
+    ],
+    "id": 686
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers shown are painted to two boxes. The numbers in each box add to the same number. Which number must be in the box with the number 1? A: 8,B: 1,C: 5,D: 16,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_698.png"
+    ],
+    "id": 698
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates depicted are kept to two boxes. The numbers in each box add to the same number. Which number must be in the box with the number 9? A: 5,B: 8,C: 9,D: 7,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_699.png"
+    ],
+    "id": 699
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes presented are attached to two pots. The numbers in each pot add to the same number. Which number must be in the pot with the number 8? A: 2,B: 5,C: Impossible,D: 4,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_702.png"
+    ],
+    "id": 702
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes displayed are kept to two cartons. The numbers in each carton add to the same number. Which number must be in the carton with the number 8? A: 13,B: 7,C: 6,D: 18,E: Impossible. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_709.png"
+    ],
+    "id": 709
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes demonstrated are painted to two pots. The numbers in each pot add to the same number. Which number must be in the pot with the number 3? A: 14,B: 20,C: 4,D: 3,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_719.png"
+    ],
+    "id": 719
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers depicted are painted to two packs. The sums of the numbers in each pack are the same. Which number must be in the pack with the number 7? A: 10,B: 8,C: 6,D: 7,E: 17. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_725.png"
+    ],
+    "id": 725
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes demonstrated are kept to two pots. The sums of the numbers in each pot are the same. Which number must be in the pot with the number 3? A: 3,B: 6,C: 11,D: 1,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_729.png"
+    ],
+    "id": 729
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes pictured are pasted to two pots. The sums of the numbers in each pot are the same. Which number must be in the pot with the number 5? A: 3,B: 12,C: 6,D: 8,E: Impossible. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_742.png"
+    ],
+    "id": 742
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates pictured are kept to two cartons. The sums of the numbers in each carton are the same. Which number must be in the carton with the number 10? A: 10,B: 2,C: 6,D: 9,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_747.png"
+    ],
+    "id": 747
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers displayed are pasted to two cartons. The sums of the numbers in each carton are the same. Which number must be in the carton with the number 3? A: 14,B: 2,C: 7,D: 8,E: Impossible. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_748.png"
+    ],
+    "id": 748
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes presented are kept to two packs. The numbers in each pack add to the same number. Which number must be in the pack with the number 4? A: Impossible,B: 9,C: 12,D: 6,E: 23. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_751.png"
+    ],
+    "id": 751
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes demonstrated are placed to two cartons. The sums of the numbers in each carton are the same. Which number must be in the carton with the number 3? A: 27,B: 11,C: 9,D: Impossible,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_763.png"
+    ],
+    "id": 763
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers pictured are placed to two cartons. The numbers in each carton add to the same number. Which number must be in the carton with the number 1? A: 4,B: 9,C: 18,D: 6,E: Impossible. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_766.png"
+    ],
+    "id": 766
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards pictured are placed to two bags. Each bag has numbers adding to the same sum. Which number must be in the bag with the number 4? A: 8,B: 7,C: 4,D: 13,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_769.png"
+    ],
+    "id": 769
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes shown are painted to two boxes. The numbers in each box add to the same number. Which number must be in the box with the number 8? A: 14,B: 2,C: 11,D: 8,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_775.png"
+    ],
+    "id": 775
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates depicted are painted to two cartons. The numbers in each carton add to the same number. Which number must be in the carton with the number 8? A: 8,B: Impossible,C: 2,D: 4,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_776.png"
+    ],
+    "id": 776
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates shown are placed to two bags. The numbers in each bag add to the same number. Which number must be in the bag with the number 11? A: 3,B: 10,C: 11,D: 9,E: Impossible. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_779.png"
+    ],
+    "id": 779
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches displayed are placed to two pots. The numbers in each pot add to the same number. Which number must be in the pot with the number 3? A: Impossible,B: 10,C: 2,D: 6,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_791.png"
+    ],
+    "id": 791
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers pictured are kept to two pots. The numbers in each pot add to the same number. Which number must be in the pot with the number 4? A: 4,B: 6,C: 3,D: 2,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_794.png"
+    ],
+    "id": 794
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards displayed are attached to two bags. The numbers in each bag add to the same number. Which number must be in the bag with the number 7? A: 8,B: 5,C: Impossible,D: 12,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_795.png"
+    ],
+    "id": 795
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers demonstrated are attached to two cartons. The sums of the numbers in each carton are the same. Which number must be in the carton with the number 6? A: 9,B: 13,C: 3,D: 6,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_804.png"
+    ],
+    "id": 804
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards presented are stitched to two pots. The sums of the numbers in each pot are the same. Which number must be in the pot with the number 8? A: 8,B: 1,C: 5,D: 8,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_805.png"
+    ],
+    "id": 805
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches depicted are pasted to two bags. The sums of the numbers in each bag are the same. Which number must be in the bag with the number 8? A: 7,B: 2,C: Impossible,D: 5,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_815.png"
+    ],
+    "id": 815
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes presented are painted to two pots. The numbers in each pot add to the same number. Which number must be in the pot with the number 6? A: 9,B: 3,C: 10,D: 6,E: 16. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_831.png"
+    ],
+    "id": 831
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers displayed are painted to two bags. The numbers in each bag add to the same number. Which number must be in the bag with the number 4? A: 4,B: 1,C: 11,D: 10,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_835.png"
+    ],
+    "id": 835
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates displayed are painted to two packs. Each pack has numbers adding to the same sum. Which number must be in the pack with the number 14? A: Impossible,B: 6,C: 3,D: 12,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_840.png"
+    ],
+    "id": 840
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards presented are stitched to two pots. The sums of the numbers in each pot are the same. Which number must be in the pot with the number 12? A: Impossible,B: 6,C: 14,D: 15,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_854.png"
+    ],
+    "id": 854
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates depicted are stitched to two cartons. Each carton has numbers adding to the same sum. Which number must be in the carton with the number 2? A: 8,B: 5,C: Impossible,D: 9,E: 20. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_856.png"
+    ],
+    "id": 856
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes depicted are pasted to two boxes. The sums of the numbers in each box are the same. Which number must be in the box with the number 4? A: 10,B: 6,C: 17,D: 5,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_860.png"
+    ],
+    "id": 860
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes depicted are placed to two cartons. The numbers in each carton add to the same number. Which number must be in the carton with the number 3? A: 5,B: 4,C: Impossible,D: 6,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_863.png"
+    ],
+    "id": 863
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches depicted are pasted to two packs. The sums of the numbers in each pack are the same. Which number must be in the pack with the number 1? A: 5,B: 15,C: 4,D: 7,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_87.png"
+    ],
+    "id": 87
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes shown are placed to two bags. Each bag has numbers adding to the same sum. Which number must be in the bag with the number 3? A: 4,B: 3,C: 5,D: 12,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_870.png"
+    ],
+    "id": 870
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers presented are placed to two boxes. The numbers in each box add to the same number. Which number must be in the box with the number 4? A: 14,B: 4,C: 10,D: 2,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_871.png"
+    ],
+    "id": 871
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches pictured are placed to two cartons. The sums of the numbers in each carton are the same. Which number must be in the carton with the number 3? A: Impossible,B: 25,C: 6,D: 12,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_878.png"
+    ],
+    "id": 878
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers demonstrated are pasted to two boxes. The sums of the numbers in each box are the same. Which number must be in the box with the number 3? A: 11,B: 7,C: 1,D: 16,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_883.png"
+    ],
+    "id": 883
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The cards depicted are attached to two pots. Each pot has numbers adding to the same sum. Which number must be in the pot with the number 9? A: 1,B: 5,C: 10,D: 3,E: Impossible. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_891.png"
+    ],
+    "id": 891
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates depicted are painted to two cartons. Each carton has numbers adding to the same sum. Which number must be in the carton with the number 7? A: 6,B: 14,C: 5,D: 7,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_897.png"
+    ],
+    "id": 897
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The patches pictured are pasted to two packs. Each pack has numbers adding to the same sum. Which number must be in the pack with the number 9? A: Impossible,B: 11,C: 10,D: 6,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_91.png"
+    ],
+    "id": 91
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes pictured are stitched to two bags. Each bag has numbers adding to the same sum. Which number must be in the bag with the number 7? A: 11,B: 18,C: Impossible,D: 2,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_929.png"
+    ],
+    "id": 929
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates displayed are stitched to two cartons. The sums of the numbers in each carton are the same. Which number must be in the carton with the number 8? A: 12,B: 5,C: 4,D: 8,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_95.png"
+    ],
+    "id": 95
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates depicted are painted to two boxes. Each box has numbers adding to the same sum. Which number must be in the box with the number 2? A: 11,B: Impossible,C: 5,D: 1,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_951.png"
+    ],
+    "id": 951
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes shown are attached to two cartons. The sums of the numbers in each carton are the same. Which number must be in the carton with the number 7? A: 5,B: 15,C: Impossible,D: 8,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_955.png"
+    ],
+    "id": 955
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes pictured are placed to two bags. The sums of the numbers in each bag are the same. Which number must be in the bag with the number 11? A: 7,B: Impossible,C: 11,D: 9,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_957.png"
+    ],
+    "id": 957
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The plates presented are stitched to two pots. Each pot has numbers adding to the same sum. Which number must be in the pot with the number 7? A: 8,B: Impossible,C: 6,D: 11,E: 18. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_960.png"
+    ],
+    "id": 960
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes pictured are attached to two boxes. Each box has numbers adding to the same sum. Which number must be in the box with the number 1? A: 2,B: 9,C: 13,D: 1,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_972.png"
+    ],
+    "id": 972
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers displayed are attached to two packs. The sums of the numbers in each pack are the same. Which number must be in the pack with the number 9? A: 3,B: 2,C: Impossible,D: 4,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_975.png"
+    ],
+    "id": 975
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The shapes presented are painted to two boxes. The numbers in each box add to the same number. Which number must be in the box with the number 9? A: 11,B: 5,C: 9,D: 7,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_98.png"
+    ],
+    "id": 98
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The papers depicted are painted to two bags. The numbers in each bag add to the same number. Which number must be in the bag with the number 5? A: 3,B: 7,C: 1,D: 8,E: Impossible. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_981.png"
+    ],
+    "id": 981
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The boxes shown are attached to two cartons. Each carton has numbers adding to the same sum. Which number must be in the carton with the number 3? A: 10,B: 11,C: 9,D: 3,E: 27. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/101/img/puzzle_101_995.png"
+    ],
+    "id": 995
+  }
+]

@@ -230,7 +230,7 @@ def main(args):
     test_df =  df[df['sub_puzzle_id'].isin(test_ids)]
 
     # generate LLava fine-tunning output
-    for output_data_type in ['pretrain-inference', 'pretrain-cot', 'finetune-inference', 'finetune-cot', 'implicit-cot']:
+    for output_data_type in args.output_data_types.split(','):
         generate_llava_fune_tune_output(args, train_df, val_df, test_df, output_data_type)
 
 if __name__ == "__main__":
@@ -282,6 +282,12 @@ if __name__ == "__main__":
         default=1,
         help="The number of stage to skip when generate stage level data."
     )
+    parser.add_argument(
+        "--output-data-types",
+        required=True,
+        type=str,
+        help="The output-data type: 'pretrain-inference', 'pretrain-cot', 'finetune-inference', 'finetune-cot', 'implicit-cot'.",
+    )
     parser.add_argument('--split-sub-qa', action='store_true', help='Whether to split sub-question and sub-answer into individual records')
     parser.add_argument('--debug', action='store_true', help='Enable debug logging')
 
@@ -301,6 +307,11 @@ if __name__ == "__main__":
 
     if args.split_type not in ['branch', 'question']:
         raise 'unknown split type {} for finetune dataset: only accept value branch or question'.format(args.split_type)
+
+    output_data_types = args.output_data_types.split(',')
+    for output_data_types in output_data_types:
+        if output_data_types not in ['pretrain-inference', 'pretrain-cot', 'finetune-inference', 'finetune-cot', 'implicit-cot']:
+            raise ValueError("unknown output_data_types {}. Valid values are pretrain-inference, pretrain-cot, finetune-inference, finetune-cot, implicit-cot.".format(infer_type))
 
     # setup logging
     logging_level = logging.INFO

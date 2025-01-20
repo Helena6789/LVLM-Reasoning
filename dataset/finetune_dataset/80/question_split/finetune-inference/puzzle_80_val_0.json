@@ -1,0 +1,1602 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many kangaroos must be tranferred from one park to the other to have the balanced count of kangaroos in each park? A: 0,B: 5,C: 4,D: 3,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1014.png"
+    ],
+    "id": 1014
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many fishes must be tranferred from one fish tank to the other to have the balanced count of fishes in each fish tank? A: 2,B: 7,C: 5,D: 3,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_103.png"
+    ],
+    "id": 103
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many felines must be moved from one zoo to the other to have the identical number of felines in each zoo? A: 9,B: 2,C: 1,D: 7,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1045.png"
+    ],
+    "id": 1045
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many fishes must be tranferred from one fish tank to the other to get the comparable number of fishes in each fish tank? A: 7,B: 6,C: 2,D: 0,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1060.png"
+    ],
+    "id": 1060
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many felines must be moved from one cage to the other to have the commensurate count of felines in each cage? A: 7,B: 10,C: 1,D: 3,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1122.png"
+    ],
+    "id": 1122
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many felines must be moved from one cage to the other to have the corresponding count of felines in each cage? A: 2,B: 9,C: 5,D: 8,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1135.png"
+    ],
+    "id": 1135
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many felines must be moved from one zoo to the other in order to get the same number of felines in each zoo? A: 9,B: 1,C: 8,D: 5,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1143.png"
+    ],
+    "id": 1143
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many fishes must be tranferred from one fish bowl to the other in order to get the equal number of fishes in each fish bowl? A: 5,B: 10,C: 3,D: 8,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1147.png"
+    ],
+    "id": 1147
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many kangaroos must be tranferred from one park to the other to have the equivalent count of kangaroos in each park? A: 5,B: 0,C: 4,D: 9,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1158.png"
+    ],
+    "id": 1158
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many kangaroos must be tranferred from one park to the other to get the same count of kangaroos in each park? A: 7,B: 0,C: 4,D: 1,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1171.png"
+    ],
+    "id": 1171
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many felines must be moved from one zoo to the other in order to get the corresponding number of felines in each zoo? A: 4,B: 2,C: 5,D: 0,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1186.png"
+    ],
+    "id": 1186
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many kangaroos must be tranferred from one bush to the other in order to get the same count of kangaroos in each bush? A: 0,B: 4,C: 8,D: 7,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1218.png"
+    ],
+    "id": 1218
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many kangaroos must be moved from one park to the other in order to get the equal count of kangaroos in each park? A: 2,B: 3,C: 4,D: 0,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1250.png"
+    ],
+    "id": 1250
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many fishes must be tranferred from one fish tank to the other to have the equal count of fishes in each fish tank? A: 1,B: 6,C: 7,D: 0,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1300.png"
+    ],
+    "id": 1300
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many kangaroos must be moved from one park to the other in order to get the identical number of kangaroos in each park? A: 3,B: 8,C: 10,D: 11,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1321.png"
+    ],
+    "id": 1321
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many felines must be moved from one zoo to the other to get the same number of felines in each zoo? A: 9,B: 3,C: 0,D: 5,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1327.png"
+    ],
+    "id": 1327
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many fishes must be tranferred from one fish tank to the other to have the equal count of fishes in each fish tank? A: 7,B: 3,C: 0,D: 4,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1349.png"
+    ],
+    "id": 1349
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many felines must be tranferred from one zoo to the other to get the balanced count of felines in each zoo? A: 9,B: 8,C: 0,D: 2,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1372.png"
+    ],
+    "id": 1372
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many felines must be moved from one zoo to the other to have the corresponding count of felines in each zoo? A: 5,B: 9,C: 1,D: 0,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1388.png"
+    ],
+    "id": 1388
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many kangaroos must be moved from one bush to the other to have the corresponding count of kangaroos in each bush? A: 8,B: 3,C: 6,D: 1,E: 11",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1398.png"
+    ],
+    "id": 1398
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many fishes must be tranferred from one bowl to the other to have the same count of fishes in each bowl? A: 4,B: 1,C: 8,D: 2,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1415.png"
+    ],
+    "id": 1415
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many kangaroos must be moved from one bush to the other in order to get the equivalent number of kangaroos in each bush? A: 4,B: 6,C: 8,D: 1,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1438.png"
+    ],
+    "id": 1438
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many kangaroos must be tranferred from one zoo to the other to have the identical number of kangaroos in each zoo? A: 11,B: 3,C: 4,D: 7,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1443.png"
+    ],
+    "id": 1443
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many fishes must be moved from one fish tank to the other to have the identical count of fishes in each fish tank? A: 10,B: 3,C: 7,D: 11,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1445.png"
+    ],
+    "id": 1445
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many fishes must be moved from one aquarium to the other to have the balanced count of fishes in each aquarium? A: 5,B: 7,C: 4,D: 11,E: 10",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_146.png"
+    ],
+    "id": 146
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many fishes must be moved from one bowl to the other to get the balanced number of fishes in each bowl? A: 2,B: 1,C: 3,D: 4,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_150.png"
+    ],
+    "id": 150
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many kangaroos must be tranferred from one park to the other to have the identical number of kangaroos in each park? A: 1,B: 3,C: 8,D: 4,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_151.png"
+    ],
+    "id": 151
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many felines must be tranferred from one cage to the other to get the equal count of felines in each cage? A: 0,B: 4,C: 1,D: 6,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_152.png"
+    ],
+    "id": 152
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many kangaroos must be tranferred from one park to the other in order to get the comparable count of kangaroos in each park? A: 4,B: 10,C: 14,D: 7,E: 0",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1527.png"
+    ],
+    "id": 1527
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many felines must be tranferred from one cage to the other in order to get the equivalent count of felines in each cage? A: 9,B: 0,C: 1,D: 8,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1595.png"
+    ],
+    "id": 1595
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many felines must be moved from one cage to the other in order to get the equivalent count of felines in each cage? A: 8,B: 9,C: 7,D: 1,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_160.png"
+    ],
+    "id": 160
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many felines must be moved from one cage to the other to have the same count of felines in each cage? A: 5,B: 10,C: 3,D: 1,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1603.png"
+    ],
+    "id": 1603
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many felines must be moved from one cage to the other to get the commensurate count of felines in each cage? A: 8,B: 1,C: 2,D: 0,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1626.png"
+    ],
+    "id": 1626
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many felines must be tranferred from one zoo to the other to have the equivalent number of felines in each zoo? A: 6,B: 8,C: 1,D: 0,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1634.png"
+    ],
+    "id": 1634
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many fishes must be moved from one tank to the other to get the equal count of fishes in each tank? A: 1,B: 4,C: 2,D: 6,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1655.png"
+    ],
+    "id": 1655
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many felines must be tranferred from one zoo to the other in order to get the equal number of felines in each zoo? A: 4,B: 10,C: 7,D: 0,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1681.png"
+    ],
+    "id": 1681
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many felines must be tranferred from one zoo to the other to get the identical count of felines in each zoo? A: 3,B: 1,C: 6,D: 0,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1683.png"
+    ],
+    "id": 1683
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many kangaroos must be tranferred from one park to the other in order to get the comparable count of kangaroos in each park? A: 13,B: 15,C: 7,D: 4,E: 14",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1692.png"
+    ],
+    "id": 1692
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many fishes must be moved from one fish bowl to the other in order to get the same count of fishes in each fish bowl? A: 3,B: 6,C: 8,D: 4,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1702.png"
+    ],
+    "id": 1702
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many kangaroos must be moved from one zoo to the other to get the equivalent number of kangaroos in each zoo? A: 7,B: 1,C: 5,D: 4,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1704.png"
+    ],
+    "id": 1704
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many fishes must be tranferred from one aquarium to the other to have the same number of fishes in each aquarium? A: 3,B: 8,C: 1,D: 4,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1712.png"
+    ],
+    "id": 1712
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many fishes must be tranferred from one fish tank to the other to get the equivalent number of fishes in each fish tank? A: 5,B: 7,C: 1,D: 0,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1733.png"
+    ],
+    "id": 1733
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many fishes must be tranferred from one aquarium to the other to have the balanced count of fishes in each aquarium? A: 1,B: 3,C: 7,D: 0,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1768.png"
+    ],
+    "id": 1768
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many fishes must be moved from one bowl to the other in order to get the corresponding count of fishes in each bowl? A: 9,B: 3,C: 4,D: 6,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1770.png"
+    ],
+    "id": 1770
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many felines must be moved from one cage to the other to get the equivalent number of felines in each cage? A: 4,B: 9,C: 0,D: 3,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1776.png"
+    ],
+    "id": 1776
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many kangaroos must be moved from one zoo to the other in order to get the balanced number of kangaroos in each zoo? A: 9,B: 6,C: 8,D: 4,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1779.png"
+    ],
+    "id": 1779
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many felines must be moved from one cage to the other in order to get the commensurate number of felines in each cage? A: 5,B: 3,C: 6,D: 1,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1811.png"
+    ],
+    "id": 1811
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many kangaroos must be tranferred from one bush to the other to have the same count of kangaroos in each bush? A: 6,B: 4,C: 5,D: 2,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1822.png"
+    ],
+    "id": 1822
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many fishes must be tranferred from one fish bowl to the other to get the same number of fishes in each fish bowl? A: 3,B: 8,C: 6,D: 7,E: 0",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1843.png"
+    ],
+    "id": 1843
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many kangaroos must be tranferred from one bush to the other to have the corresponding number of kangaroos in each bush? A: 3,B: 8,C: 6,D: 10,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_186.png"
+    ],
+    "id": 186
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many kangaroos must be moved from one park to the other to have the identical number of kangaroos in each park? A: 2,B: 9,C: 1,D: 0,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1870.png"
+    ],
+    "id": 1870
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many felines must be tranferred from one zoo to the other in order to get the identical number of felines in each zoo? A: 11,B: 3,C: 0,D: 5,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1877.png"
+    ],
+    "id": 1877
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many kangaroos must be tranferred from one zoo to the other to have the equivalent number of kangaroos in each zoo? A: 6,B: 1,C: 8,D: 0,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1882.png"
+    ],
+    "id": 1882
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many felines must be moved from one zoo to the other in order to get the comparable number of felines in each zoo? A: 1,B: 9,C: 8,D: 5,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1888.png"
+    ],
+    "id": 1888
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many kangaroos must be tranferred from one zoo to the other to have the equivalent number of kangaroos in each zoo? A: 4,B: 9,C: 2,D: 7,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1890.png"
+    ],
+    "id": 1890
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many kangaroos must be tranferred from one park to the other to get the commensurate count of kangaroos in each park? A: 7,B: 0,C: 6,D: 2,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1894.png"
+    ],
+    "id": 1894
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many fishes must be tranferred from one fish bowl to the other to get the same count of fishes in each fish bowl? A: 4,B: 10,C: 0,D: 3,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1906.png"
+    ],
+    "id": 1906
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many kangaroos must be tranferred from one zoo to the other to have the corresponding number of kangaroos in each zoo? A: 6,B: 5,C: 9,D: 3,E: 0",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1928.png"
+    ],
+    "id": 1928
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many felines must be tranferred from one cage to the other in order to get the comparable count of felines in each cage? A: 6,B: 7,C: 2,D: 9,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1942.png"
+    ],
+    "id": 1942
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many fishes must be tranferred from one fish tank to the other to have the same count of fishes in each fish tank? A: 1,B: 9,C: 3,D: 7,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1948.png"
+    ],
+    "id": 1948
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many fishes must be moved from one bowl to the other to get the identical number of fishes in each bowl? A: 3,B: 5,C: 4,D: 0,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1967.png"
+    ],
+    "id": 1967
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many fishes must be tranferred from one tank to the other to have the commensurate count of fishes in each tank? A: 6,B: 10,C: 3,D: 9,E: 8",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_1982.png"
+    ],
+    "id": 1982
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many kangaroos must be tranferred from one zoo to the other in order to get the balanced number of kangaroos in each zoo? A: 3,B: 0,C: 9,D: 6,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_207.png"
+    ],
+    "id": 207
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many felines must be tranferred from one zoo to the other in order to get the commensurate number of felines in each zoo? A: 11,B: 2,C: 4,D: 7,E: 8",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_225.png"
+    ],
+    "id": 225
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many kangaroos must be moved from one bush to the other to get the corresponding count of kangaroos in each bush? A: 8,B: 3,C: 0,D: 5,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_229.png"
+    ],
+    "id": 229
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many fishes must be moved from one fish tank to the other to get the equivalent count of fishes in each fish tank? A: 2,B: 4,C: 9,D: 5,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_253.png"
+    ],
+    "id": 253
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many kangaroos must be tranferred from one park to the other to get the identical count of kangaroos in each park? A: 7,B: 4,C: 8,D: 5,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_26.png"
+    ],
+    "id": 26
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many fishes must be moved from one bowl to the other to get the identical count of fishes in each bowl? A: 1,B: 7,C: 8,D: 6,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_262.png"
+    ],
+    "id": 262
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many kangaroos must be moved from one bush to the other to have the balanced number of kangaroos in each bush? A: 1,B: 14,C: 6,D: 10,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_283.png"
+    ],
+    "id": 283
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many fishes must be tranferred from one aquarium to the other to have the identical count of fishes in each aquarium? A: 8,B: 0,C: 4,D: 5,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_345.png"
+    ],
+    "id": 345
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many felines must be tranferred from one cage to the other in order to get the equal number of felines in each cage? A: 4,B: 1,C: 0,D: 6,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_37.png"
+    ],
+    "id": 37
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many fishes must be tranferred from one bowl to the other to get the equal number of fishes in each bowl? A: 1,B: 7,C: 0,D: 4,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_402.png"
+    ],
+    "id": 402
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many kangaroos must be tranferred from one zoo to the other to have the same count of kangaroos in each zoo? A: 14,B: 15,C: 6,D: 4,E: 10",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_403.png"
+    ],
+    "id": 403
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many felines must be tranferred from one cage to the other in order to get the same count of felines in each cage? A: 8,B: 1,C: 2,D: 6,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_437.png"
+    ],
+    "id": 437
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many kangaroos must be moved from one zoo to the other in order to get the balanced count of kangaroos in each zoo? A: 0,B: 8,C: 5,D: 3,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_452.png"
+    ],
+    "id": 452
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many felines must be moved from one cage to the other to have the equal count of felines in each cage? A: 7,B: 1,C: 0,D: 2,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_463.png"
+    ],
+    "id": 463
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many kangaroos must be tranferred from one bush to the other to have the equal count of kangaroos in each bush? A: 6,B: 0,C: 1,D: 9,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_469.png"
+    ],
+    "id": 469
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many felines must be moved from one cage to the other to have the equal number of felines in each cage? A: 9,B: 7,C: 4,D: 1,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_472.png"
+    ],
+    "id": 472
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many felines must be tranferred from one zoo to the other in order to get the comparable number of felines in each zoo? A: 6,B: 9,C: 0,D: 5,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_488.png"
+    ],
+    "id": 488
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many fishes must be tranferred from one aquarium to the other in order to get the identical count of fishes in each aquarium? A: 3,B: 9,C: 5,D: 1,E: 0",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_509.png"
+    ],
+    "id": 509
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many fishes must be tranferred from one fish tank to the other to get the comparable number of fishes in each fish tank? A: 2,B: 3,C: 4,D: 8,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_53.png"
+    ],
+    "id": 53
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many kangaroos must be tranferred from one bush to the other in order to get the corresponding number of kangaroos in each bush? A: 2,B: 8,C: 5,D: 9,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_550.png"
+    ],
+    "id": 550
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many felines must be moved from one cage to the other to get the commensurate count of felines in each cage? A: 5,B: 0,C: 1,D: 7,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_586.png"
+    ],
+    "id": 586
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many kangaroos must be tranferred from one zoo to the other to get the identical number of kangaroos in each zoo? A: 9,B: 4,C: 0,D: 8,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_623.png"
+    ],
+    "id": 623
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many kangaroos must be moved from one bush to the other to get the same count of kangaroos in each bush? A: 5,B: 1,C: 6,D: 4,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_639.png"
+    ],
+    "id": 639
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many felines must be moved from one cage to the other in order to get the same number of felines in each cage? A: 2,B: 3,C: 5,D: 4,E: 8",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_640.png"
+    ],
+    "id": 640
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many felines must be tranferred from one zoo to the other to have the comparable number of felines in each zoo? A: 0,B: 6,C: 1,D: 8,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_659.png"
+    ],
+    "id": 659
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many fishes must be tranferred from one tank to the other to have the comparable count of fishes in each tank? A: 7,B: 1,C: 0,D: 8,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_687.png"
+    ],
+    "id": 687
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many felines must be moved from one cage to the other in order to get the same number of felines in each cage? A: 0,B: 4,C: 8,D: 9,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_749.png"
+    ],
+    "id": 749
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many fishes must be tranferred from one bowl to the other to get the commensurate count of fishes in each bowl? A: 5,B: 8,C: 6,D: 1,E: 0",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_797.png"
+    ],
+    "id": 797
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many felines must be tranferred from one cage to the other in order to get the commensurate count of felines in each cage? A: 9,B: 4,C: 3,D: 1,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_8.png"
+    ],
+    "id": 8
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many kangaroos must be moved from one zoo to the other to get the corresponding number of kangaroos in each zoo? A: 9,B: 2,C: 8,D: 1,E: 0",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_800.png"
+    ],
+    "id": 800
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many felines must be moved from one cage to the other in order to get the comparable number of felines in each cage? A: 3,B: 0,C: 8,D: 7,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_821.png"
+    ],
+    "id": 821
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many kangaroos must be tranferred from one park to the other to get the identical number of kangaroos in each park? A: 8,B: 7,C: 4,D: 1,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_877.png"
+    ],
+    "id": 877
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many felines must be moved from one cage to the other to get the equal count of felines in each cage? A: 3,B: 7,C: 6,D: 11,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_880.png"
+    ],
+    "id": 880
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many felines must be moved from one cage to the other to get the balanced count of felines in each cage? A: 5,B: 9,C: 4,D: 1,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_896.png"
+    ],
+    "id": 896
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many felines must be moved from one zoo to the other in order to get the commensurate number of felines in each zoo? A: 6,B: 8,C: 9,D: 1,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_913.png"
+    ],
+    "id": 913
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many fishes must be moved from one tank to the other to get the balanced number of fishes in each tank? A: 2,B: 3,C: 4,D: 1,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_928.png"
+    ],
+    "id": 928
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many felines must be tranferred from one cage to the other in order to get the equivalent number of felines in each cage? A: 8,B: 5,C: 4,D: 7,E: 0",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_954.png"
+    ],
+    "id": 954
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHow many fishes must be moved from one aquarium to the other to have the identical number of fishes in each aquarium? A: 3,B: 0,C: 6,D: 1,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/80/img/puzzle_80_956.png"
+    ],
+    "id": 956
+  }
+]

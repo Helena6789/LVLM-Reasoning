@@ -1,0 +1,4802 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on 2 flowers. One value on a flower is concealed. The sums of the values on the two flowers are identical. What is the concealed value? A: 22,B: 15,C: 17,D: 7,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1.png"
+    ],
+    "id": 1
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on 2 flowers. One number on a flower is concealed. If you add the numbers on each flower, you get the same number. What is the concealed number? A: 9,B: 8,C: 5,D: 0,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1012.png"
+    ],
+    "id": 1012
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on a pair of flowers. One number on a flower is concealed. If you add the numbers on each flower, you get the same number. What is the concealed number? A: 11,B: 8,C: 14,D: 15,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1016.png"
+    ],
+    "id": 1016
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on 2 flowers. One number on a flower is concealed. If you add the numbers on each flower, you get the same number. What is the concealed number? A: 2,B: 10,C: 8,D: 6,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1017.png"
+    ],
+    "id": 1017
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on a pair of flowers. One number on a flower is covered. If you add the numbers on each flower, you get the same number. What is the covered number? A: 4,B: 6,C: 1,D: 9,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1020.png"
+    ],
+    "id": 1020
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on a pair of flowers. One number on a flower is covered. If you add the numbers on each flower, you get the same number. What is the covered number? A: 12,B: 4,C: 10,D: 6,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1021.png"
+    ],
+    "id": 1021
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on 2 flowers. One value on a flower is covered. If you add the values on each flower, you get the same value. What is the covered value? A: 5,B: 6,C: 1,D: 2,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1025.png"
+    ],
+    "id": 1025
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on a pair of flowers. One value on a flower is covered. The sums of the values on the two flowers are identical. What is the covered value? A: 2,B: 0,C: 5,D: 1,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1028.png"
+    ],
+    "id": 1028
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on two flowers. One value on a flower is hidden. If you add the values on each flower, you get the same value. What is the hidden value? A: 1,B: 8,C: 5,D: 7,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1038.png"
+    ],
+    "id": 1038
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on 2 flowers. One value on a flower is hidden. The sums of the values on the two flowers are identical. What is the hidden value? A: 2,B: 10,C: 6,D: 7,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1044.png"
+    ],
+    "id": 1044
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on 2 flowers. One value on a flower is concealed. If you add the values on each flower, you get the same value. What is the concealed value? A: 23,B: 15,C: 21,D: 7,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1051.png"
+    ],
+    "id": 1051
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on 2 flowers. One number on a flower is concealed. If you add the numbers on each flower, you get the same number. What is the concealed number? A: 2,B: 8,C: 5,D: 9,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1056.png"
+    ],
+    "id": 1056
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on two flowers. One value on a flower is covered. If you add the values on each flower, you get the same value. What is the covered value? A: 9,B: 0,C: 1,D: 11,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1059.png"
+    ],
+    "id": 1059
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on a pair of flowers. One value on a flower is hidden. If you add the values on each flower, you get the same value. What is the hidden value? A: 1,B: 7,C: 0,D: 2,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1064.png"
+    ],
+    "id": 1064
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on a pair of flowers. One number on a flower is hidden. If you add the numbers on each flower, you get the same number. What is the hidden number? A: 13,B: 10,C: 9,D: 4,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1071.png"
+    ],
+    "id": 1071
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on 2 flowers. One value on a flower is covered. If you add the values on each flower, you get the same value. What is the covered value? A: 11,B: 14,C: 5,D: 15,E: 17. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1076.png"
+    ],
+    "id": 1076
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on 2 flowers. One value on a flower is covered. The sums of the values on the two flowers are identical. What is the covered value? A: 0,B: 10,C: 15,D: 6,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1082.png"
+    ],
+    "id": 1082
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on two flowers. One value on a flower is hidden. The sums of the values on the two flowers are balanced. What is the hidden value? A: 18,B: 4,C: 17,D: 32,E: 33. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1086.png"
+    ],
+    "id": 1086
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on 2 flowers. One number on a flower is concealed. If you add the numbers on each flower, you get the same number. What is the concealed number? A: 19,B: 17,C: 25,D: 23,E: 34. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1095.png"
+    ],
+    "id": 1095
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on a pair of flowers. One number on a flower is hidden. If you add the numbers on each flower, you get the same number. What is the hidden number? A: 2,B: 7,C: 0,D: 8,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1104.png"
+    ],
+    "id": 1104
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on 2 flowers. One number on a flower is concealed. The sums of the numbers on the two flowers are equal. What is the concealed number? A: 11,B: 14,C: 5,D: 17,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1109.png"
+    ],
+    "id": 1109
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on a pair of flowers. One number on a flower is covered. The sums of the numbers on the two flowers are balanced. What is the covered number? A: 12,B: 17,C: 8,D: 19,E: 18. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_112.png"
+    ],
+    "id": 112
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on two flowers. One value on a flower is concealed. The sums of the values on the two flowers are equal. What is the concealed value? A: 3,B: 6,C: 0,D: 8,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1123.png"
+    ],
+    "id": 1123
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on 2 flowers. One number on a flower is hidden. The sums of the numbers on the two flowers are balanced. What is the hidden number? A: 18,B: 14,C: 11,D: 9,E: 17. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1126.png"
+    ],
+    "id": 1126
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on a pair of flowers. One value on a flower is covered. The sums of the values on the two flowers are identical. What is the covered value? A: 6,B: 7,C: 18,D: 11,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1129.png"
+    ],
+    "id": 1129
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on a pair of flowers. One value on a flower is covered. The sums of the values on the two flowers are identical. What is the covered value? A: 4,B: 2,C: 3,D: 5,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1130.png"
+    ],
+    "id": 1130
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on 2 flowers. One value on a flower is concealed. If you add the values on each flower, you get the same value. What is the concealed value? A: 19,B: 24,C: 13,D: 10,E: 23. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1136.png"
+    ],
+    "id": 1136
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on two flowers. One value on a flower is covered. If you add the values on each flower, you get the same value. What is the covered value? A: 17,B: 29,C: 32,D: 11,E: 30. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1152.png"
+    ],
+    "id": 1152
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on two flowers. One number on a flower is concealed. If you add the numbers on each flower, you get the same number. What is the concealed number? A: 6,B: 0,C: 10,D: 16,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1153.png"
+    ],
+    "id": 1153
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on a pair of flowers. One value on a flower is hidden. If you add the values on each flower, you get the same value. What is the hidden value? A: 2,B: 3,C: 5,D: 0,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1154.png"
+    ],
+    "id": 1154
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on 2 flowers. One value on a flower is hidden. The sums of the values on the two flowers are equal. What is the hidden value? A: 13,B: 15,C: 8,D: 11,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1162.png"
+    ],
+    "id": 1162
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on two flowers. One number on a flower is hidden. The sums of the numbers on the two flowers are balanced. What is the hidden number? A: 13,B: 1,C: 15,D: 9,E: 24. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1180.png"
+    ],
+    "id": 1180
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on two flowers. One value on a flower is covered. If you add the values on each flower, you get the same value. What is the covered value? A: 2,B: 1,C: 4,D: 8,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1183.png"
+    ],
+    "id": 1183
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on a pair of flowers. One value on a flower is concealed. If you add the values on each flower, you get the same value. What is the concealed value? A: 4,B: 15,C: 11,D: 6,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1184.png"
+    ],
+    "id": 1184
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on a pair of flowers. One value on a flower is concealed. The sums of the values on the two flowers are identical. What is the concealed value? A: 13,B: 21,C: 9,D: 23,E: 22. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1194.png"
+    ],
+    "id": 1194
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on two flowers. One value on a flower is covered. The sums of the values on the two flowers are equal. What is the covered value? A: 4,B: 9,C: 6,D: 2,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1207.png"
+    ],
+    "id": 1207
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on a pair of flowers. One value on a flower is covered. If you add the values on each flower, you get the same value. What is the covered value? A: 16,B: 12,C: 2,D: 10,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_121.png"
+    ],
+    "id": 121
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on a pair of flowers. One value on a flower is hidden. If you add the values on each flower, you get the same value. What is the hidden value? A: 12,B: 19,C: 16,D: 22,E: 24. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1215.png"
+    ],
+    "id": 1215
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on 2 flowers. One number on a flower is concealed. If you add the numbers on each flower, you get the same number. What is the concealed number? A: 6,B: 1,C: 2,D: 9,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_122.png"
+    ],
+    "id": 122
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on 2 flowers. One value on a flower is hidden. The sums of the values on the two flowers are balanced. What is the hidden value? A: 3,B: 0,C: 7,D: 9,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1224.png"
+    ],
+    "id": 1224
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on 2 flowers. One number on a flower is hidden. If you add the numbers on each flower, you get the same number. What is the hidden number? A: 15,B: 6,C: 9,D: 10,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1238.png"
+    ],
+    "id": 1238
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on a pair of flowers. One value on a flower is covered. The sums of the values on the two flowers are balanced. What is the covered value? A: 14,B: 12,C: 16,D: 22,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1241.png"
+    ],
+    "id": 1241
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on 2 flowers. One value on a flower is covered. If you add the values on each flower, you get the same value. What is the covered value? A: 8,B: 3,C: 9,D: 5,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1248.png"
+    ],
+    "id": 1248
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on 2 flowers. One value on a flower is covered. The sums of the values on the two flowers are equal. What is the covered value? A: 0,B: 6,C: 11,D: 21,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1254.png"
+    ],
+    "id": 1254
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on a pair of flowers. One number on a flower is hidden. The sums of the numbers on the two flowers are equal. What is the hidden number? A: 9,B: 7,C: 3,D: 5,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1256.png"
+    ],
+    "id": 1256
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on a pair of flowers. One number on a flower is concealed. If you add the numbers on each flower, you get the same number. What is the concealed number? A: 12,B: 10,C: 1,D: 7,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1257.png"
+    ],
+    "id": 1257
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on 2 flowers. One value on a flower is hidden. The sums of the values on the two flowers are equal. What is the hidden value? A: 12,B: 10,C: 20,D: 8,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1264.png"
+    ],
+    "id": 1264
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on 2 flowers. One value on a flower is concealed. If you add the values on each flower, you get the same value. What is the concealed value? A: 0,B: 4,C: 7,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1266.png"
+    ],
+    "id": 1266
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on two flowers. One number on a flower is hidden. If you add the numbers on each flower, you get the same number. What is the hidden number? A: 1,B: 2,C: 7,D: 9,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1267.png"
+    ],
+    "id": 1267
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on a pair of flowers. One value on a flower is covered. The sums of the values on the two flowers are equal. What is the covered value? A: 9,B: 3,C: 5,D: 8,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1275.png"
+    ],
+    "id": 1275
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on 2 flowers. One value on a flower is hidden. The sums of the values on the two flowers are equal. What is the hidden value? A: 32,B: 23,C: 19,D: 14,E: 31. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1282.png"
+    ],
+    "id": 1282
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on a pair of flowers. One value on a flower is hidden. If you add the values on each flower, you get the same value. What is the hidden value? A: 4,B: 1,C: 8,D: 12,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1291.png"
+    ],
+    "id": 1291
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on a pair of flowers. One value on a flower is hidden. The sums of the values on the two flowers are balanced. What is the hidden value? A: 13,B: 16,C: 15,D: 20,E: 17. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1294.png"
+    ],
+    "id": 1294
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on 2 flowers. One value on a flower is concealed. The sums of the values on the two flowers are balanced. What is the concealed value? A: 3,B: 4,C: 13,D: 9,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1297.png"
+    ],
+    "id": 1297
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on a pair of flowers. One value on a flower is covered. If you add the values on each flower, you get the same value. What is the covered value? A: 5,B: 0,C: 9,D: 6,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_13.png"
+    ],
+    "id": 13
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on two flowers. One number on a flower is concealed. If you add the numbers on each flower, you get the same number. What is the concealed number? A: 17,B: 11,C: 14,D: 15,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_130.png"
+    ],
+    "id": 130
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on two flowers. One value on a flower is covered. The sums of the values on the two flowers are equal. What is the covered value? A: 8,B: 14,C: 4,D: 7,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1306.png"
+    ],
+    "id": 1306
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on two flowers. One value on a flower is hidden. The sums of the values on the two flowers are balanced. What is the hidden value? A: 6,B: 14,C: 4,D: 8,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1332.png"
+    ],
+    "id": 1332
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on a pair of flowers. One number on a flower is concealed. The sums of the numbers on the two flowers are equal. What is the concealed number? A: 16,B: 9,C: 23,D: 3,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1337.png"
+    ],
+    "id": 1337
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on 2 flowers. One value on a flower is covered. The sums of the values on the two flowers are identical. What is the covered value? A: 9,B: 4,C: 3,D: 5,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_134.png"
+    ],
+    "id": 134
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on 2 flowers. One value on a flower is hidden. If you add the values on each flower, you get the same value. What is the hidden value? A: 0,B: 2,C: 3,D: 9,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1354.png"
+    ],
+    "id": 1354
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on a pair of flowers. One value on a flower is concealed. If you add the values on each flower, you get the same value. What is the concealed value? A: 6,B: 7,C: 1,D: 3,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1363.png"
+    ],
+    "id": 1363
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on two flowers. One number on a flower is covered. The sums of the numbers on the two flowers are equal. What is the covered number? A: 2,B: 7,C: 0,D: 8,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1367.png"
+    ],
+    "id": 1367
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on a pair of flowers. One number on a flower is concealed. If you add the numbers on each flower, you get the same number. What is the concealed number? A: 5,B: 1,C: 6,D: 7,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1369.png"
+    ],
+    "id": 1369
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on two flowers. One number on a flower is concealed. The sums of the numbers on the two flowers are balanced. What is the concealed number? A: 12,B: 11,C: 16,D: 30,E: 20. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1371.png"
+    ],
+    "id": 1371
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on two flowers. One value on a flower is concealed. If you add the values on each flower, you get the same value. What is the concealed value? A: 4,B: 3,C: 2,D: 5,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1382.png"
+    ],
+    "id": 1382
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on 2 flowers. One number on a flower is concealed. The sums of the numbers on the two flowers are balanced. What is the concealed number? A: 3,B: 1,C: 2,D: 7,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1390.png"
+    ],
+    "id": 1390
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on two flowers. One number on a flower is hidden. The sums of the numbers on the two flowers are balanced. What is the hidden number? A: 1,B: 3,C: 8,D: 6,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1396.png"
+    ],
+    "id": 1396
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on a pair of flowers. One number on a flower is hidden. If you add the numbers on each flower, you get the same number. What is the hidden number? A: 11,B: 7,C: 15,D: 20,E: 21. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1397.png"
+    ],
+    "id": 1397
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on 2 flowers. One number on a flower is concealed. The sums of the numbers on the two flowers are equal. What is the concealed number? A: 5,B: 2,C: 4,D: 10,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_14.png"
+    ],
+    "id": 14
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on 2 flowers. One value on a flower is covered. If you add the values on each flower, you get the same value. What is the covered value? A: 0,B: 10,C: 8,D: 15,E: 22. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1400.png"
+    ],
+    "id": 1400
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on a pair of flowers. One value on a flower is covered. If you add the values on each flower, you get the same value. What is the covered value? A: 1,B: 7,C: 8,D: 6,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1408.png"
+    ],
+    "id": 1408
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on a pair of flowers. One value on a flower is hidden. If you add the values on each flower, you get the same value. What is the hidden value? A: 2,B: 1,C: 11,D: 6,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1409.png"
+    ],
+    "id": 1409
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on two flowers. One number on a flower is concealed. If you add the numbers on each flower, you get the same number. What is the concealed number? A: 7,B: 28,C: 3,D: 15,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1410.png"
+    ],
+    "id": 1410
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on 2 flowers. One value on a flower is concealed. If you add the values on each flower, you get the same value. What is the concealed value? A: 9,B: 3,C: 8,D: 2,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1411.png"
+    ],
+    "id": 1411
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on two flowers. One number on a flower is concealed. If you add the numbers on each flower, you get the same number. What is the concealed number? A: 15,B: 0,C: 11,D: 21,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1413.png"
+    ],
+    "id": 1413
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on two flowers. One number on a flower is covered. The sums of the numbers on the two flowers are equal. What is the covered number? A: 8,B: 1,C: 4,D: 5,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1426.png"
+    ],
+    "id": 1426
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on a pair of flowers. One number on a flower is covered. The sums of the numbers on the two flowers are identical. What is the covered number? A: 6,B: 5,C: 9,D: 1,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_143.png"
+    ],
+    "id": 143
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on two flowers. One number on a flower is concealed. The sums of the numbers on the two flowers are balanced. What is the concealed number? A: 4,B: 11,C: 17,D: 21,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1430.png"
+    ],
+    "id": 1430
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on two flowers. One value on a flower is hidden. The sums of the values on the two flowers are equal. What is the hidden value? A: 7,B: 19,C: 11,D: 9,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1434.png"
+    ],
+    "id": 1434
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on 2 flowers. One number on a flower is hidden. If you add the numbers on each flower, you get the same number. What is the hidden number? A: 17,B: 14,C: 10,D: 1,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1437.png"
+    ],
+    "id": 1437
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on two flowers. One number on a flower is hidden. If you add the numbers on each flower, you get the same number. What is the hidden number? A: 13,B: 10,C: 11,D: 1,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1439.png"
+    ],
+    "id": 1439
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on a pair of flowers. One number on a flower is hidden. If you add the numbers on each flower, you get the same number. What is the hidden number? A: 4,B: 11,C: 10,D: 14,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1451.png"
+    ],
+    "id": 1451
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on a pair of flowers. One value on a flower is covered. If you add the values on each flower, you get the same value. What is the covered value? A: 10,B: 6,C: 7,D: 0,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1459.png"
+    ],
+    "id": 1459
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on a pair of flowers. One number on a flower is concealed. The sums of the numbers on the two flowers are equal. What is the concealed number? A: 20,B: 5,C: 0,D: 16,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1462.png"
+    ],
+    "id": 1462
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on a pair of flowers. One value on a flower is covered. The sums of the values on the two flowers are balanced. What is the covered value? A: 11,B: 17,C: 29,D: 30,E: 16. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1478.png"
+    ],
+    "id": 1478
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on 2 flowers. One number on a flower is concealed. The sums of the numbers on the two flowers are equal. What is the concealed number? A: 19,B: 18,C: 12,D: 9,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1479.png"
+    ],
+    "id": 1479
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on a pair of flowers. One value on a flower is covered. The sums of the values on the two flowers are equal. What is the covered value? A: 12,B: 5,C: 9,D: 8,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1482.png"
+    ],
+    "id": 1482
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on a pair of flowers. One value on a flower is hidden. The sums of the values on the two flowers are balanced. What is the hidden value? A: 15,B: 21,C: 16,D: 23,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1484.png"
+    ],
+    "id": 1484
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on 2 flowers. One value on a flower is hidden. If you add the values on each flower, you get the same value. What is the hidden value? A: 0,B: 4,C: 2,D: 6,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1485.png"
+    ],
+    "id": 1485
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on a pair of flowers. One value on a flower is concealed. The sums of the values on the two flowers are balanced. What is the concealed value? A: 11,B: 9,C: 3,D: 2,E: 19. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1495.png"
+    ],
+    "id": 1495
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on 2 flowers. One value on a flower is covered. If you add the values on each flower, you get the same value. What is the covered value? A: 5,B: 0,C: 2,D: 8,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1496.png"
+    ],
+    "id": 1496
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on a pair of flowers. One value on a flower is covered. The sums of the values on the two flowers are identical. What is the covered value? A: 18,B: 24,C: 16,D: 5,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1499.png"
+    ],
+    "id": 1499
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on a pair of flowers. One number on a flower is concealed. If you add the numbers on each flower, you get the same number. What is the concealed number? A: 9,B: 2,C: 7,D: 3,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1500.png"
+    ],
+    "id": 1500
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on two flowers. One number on a flower is concealed. If you add the numbers on each flower, you get the same number. What is the concealed number? A: 7,B: 5,C: 10,D: 6,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1508.png"
+    ],
+    "id": 1508
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on two flowers. One number on a flower is concealed. If you add the numbers on each flower, you get the same number. What is the concealed number? A: 18,B: 5,C: 16,D: 15,E: 27. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1513.png"
+    ],
+    "id": 1513
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on 2 flowers. One value on a flower is concealed. If you add the values on each flower, you get the same value. What is the concealed value? A: 7,B: 18,C: 11,D: 0,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1515.png"
+    ],
+    "id": 1515
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on a pair of flowers. One value on a flower is concealed. If you add the values on each flower, you get the same value. What is the concealed value? A: 6,B: 1,C: 2,D: 8,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1520.png"
+    ],
+    "id": 1520
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on 2 flowers. One value on a flower is concealed. If you add the values on each flower, you get the same value. What is the concealed value? A: 27,B: 15,C: 18,D: 30,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1522.png"
+    ],
+    "id": 1522
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on a pair of flowers. One value on a flower is covered. If you add the values on each flower, you get the same value. What is the covered value? A: 0,B: 7,C: 4,D: 6,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1528.png"
+    ],
+    "id": 1528
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on a pair of flowers. One number on a flower is covered. The sums of the numbers on the two flowers are balanced. What is the covered number? A: 2,B: 0,C: 3,D: 5,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1529.png"
+    ],
+    "id": 1529
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on 2 flowers. One value on a flower is hidden. The sums of the values on the two flowers are identical. What is the hidden value? A: 17,B: 7,C: 23,D: 4,E: 26. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1533.png"
+    ],
+    "id": 1533
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on a pair of flowers. One value on a flower is concealed. The sums of the values on the two flowers are identical. What is the concealed value? A: 1,B: 0,C: 4,D: 5,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1534.png"
+    ],
+    "id": 1534
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on a pair of flowers. One value on a flower is hidden. The sums of the values on the two flowers are equal. What is the hidden value? A: 16,B: 23,C: 13,D: 30,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1570.png"
+    ],
+    "id": 1570
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on 2 flowers. One value on a flower is covered. The sums of the values on the two flowers are identical. What is the covered value? A: 13,B: 12,C: 17,D: 4,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1577.png"
+    ],
+    "id": 1577
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on a pair of flowers. One number on a flower is concealed. The sums of the numbers on the two flowers are equal. What is the concealed number? A: 3,B: 2,C: 4,D: 1,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1579.png"
+    ],
+    "id": 1579
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on a pair of flowers. One number on a flower is covered. The sums of the numbers on the two flowers are balanced. What is the covered number? A: 17,B: 6,C: 13,D: 1,E: 25. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1584.png"
+    ],
+    "id": 1584
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on two flowers. One number on a flower is covered. The sums of the numbers on the two flowers are equal. What is the covered number? A: 28,B: 18,C: 16,D: 15,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1585.png"
+    ],
+    "id": 1585
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on a pair of flowers. One value on a flower is covered. If you add the values on each flower, you get the same value. What is the covered value? A: 0,B: 5,C: 7,D: 9,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1589.png"
+    ],
+    "id": 1589
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on 2 flowers. One number on a flower is covered. If you add the numbers on each flower, you get the same number. What is the covered number? A: 8,B: 0,C: 6,D: 5,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1590.png"
+    ],
+    "id": 1590
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on two flowers. One value on a flower is covered. The sums of the values on the two flowers are balanced. What is the covered value? A: 12,B: 18,C: 2,D: 9,E: 19. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1597.png"
+    ],
+    "id": 1597
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on two flowers. One number on a flower is concealed. The sums of the numbers on the two flowers are identical. What is the concealed number? A: 19,B: 14,C: 3,D: 2,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1598.png"
+    ],
+    "id": 1598
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on 2 flowers. One number on a flower is hidden. If you add the numbers on each flower, you get the same number. What is the hidden number? A: 13,B: 23,C: 12,D: 8,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_161.png"
+    ],
+    "id": 161
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on 2 flowers. One value on a flower is hidden. If you add the values on each flower, you get the same value. What is the hidden value? A: 2,B: 4,C: 3,D: 7,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1631.png"
+    ],
+    "id": 1631
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on two flowers. One value on a flower is hidden. The sums of the values on the two flowers are balanced. What is the hidden value? A: 10,B: 3,C: 0,D: 6,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1633.png"
+    ],
+    "id": 1633
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on 2 flowers. One number on a flower is hidden. The sums of the numbers on the two flowers are equal. What is the hidden number? A: 9,B: 17,C: 8,D: 0,E: 30. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1636.png"
+    ],
+    "id": 1636
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on a pair of flowers. One number on a flower is hidden. The sums of the numbers on the two flowers are balanced. What is the hidden number? A: 0,B: 5,C: 3,D: 1,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1638.png"
+    ],
+    "id": 1638
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on 2 flowers. One value on a flower is hidden. The sums of the values on the two flowers are balanced. What is the hidden value? A: 11,B: 18,C: 32,D: 0,E: 28. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1643.png"
+    ],
+    "id": 1643
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on 2 flowers. One value on a flower is covered. If you add the values on each flower, you get the same value. What is the covered value? A: 3,B: 7,C: 5,D: 8,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1648.png"
+    ],
+    "id": 1648
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on two flowers. One value on a flower is covered. If you add the values on each flower, you get the same value. What is the covered value? A: 1,B: 3,C: 15,D: 9,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_166.png"
+    ],
+    "id": 166
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on a pair of flowers. One number on a flower is covered. If you add the numbers on each flower, you get the same number. What is the covered number? A: 14,B: 10,C: 3,D: 0,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1661.png"
+    ],
+    "id": 1661
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on 2 flowers. One number on a flower is covered. The sums of the numbers on the two flowers are balanced. What is the covered number? A: 31,B: 8,C: 7,D: 19,E: 37. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1663.png"
+    ],
+    "id": 1663
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on a pair of flowers. One value on a flower is hidden. The sums of the values on the two flowers are balanced. What is the hidden value? A: 2,B: 7,C: 3,D: 1,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1678.png"
+    ],
+    "id": 1678
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on a pair of flowers. One value on a flower is concealed. If you add the values on each flower, you get the same value. What is the concealed value? A: 9,B: 10,C: 8,D: 7,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1685.png"
+    ],
+    "id": 1685
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on 2 flowers. One number on a flower is covered. If you add the numbers on each flower, you get the same number. What is the covered number? A: 3,B: 7,C: 6,D: 5,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1687.png"
+    ],
+    "id": 1687
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on 2 flowers. One value on a flower is concealed. If you add the values on each flower, you get the same value. What is the concealed value? A: 26,B: 15,C: 1,D: 28,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1695.png"
+    ],
+    "id": 1695
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on a pair of flowers. One value on a flower is concealed. If you add the values on each flower, you get the same value. What is the concealed value? A: 13,B: 24,C: 7,D: 8,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1698.png"
+    ],
+    "id": 1698
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on two flowers. One number on a flower is hidden. The sums of the numbers on the two flowers are identical. What is the hidden number? A: 4,B: 3,C: 1,D: 6,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1700.png"
+    ],
+    "id": 1700
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on 2 flowers. One number on a flower is covered. If you add the numbers on each flower, you get the same number. What is the covered number? A: 1,B: 8,C: 13,D: 3,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1705.png"
+    ],
+    "id": 1705
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on 2 flowers. One value on a flower is hidden. The sums of the values on the two flowers are equal. What is the hidden value? A: 9,B: 8,C: 6,D: 1,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1707.png"
+    ],
+    "id": 1707
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on 2 flowers. One number on a flower is concealed. The sums of the numbers on the two flowers are equal. What is the concealed number? A: 23,B: 21,C: 31,D: 10,E: 19. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1714.png"
+    ],
+    "id": 1714
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on 2 flowers. One value on a flower is covered. The sums of the values on the two flowers are balanced. What is the covered value? A: 5,B: 12,C: 7,D: 13,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1715.png"
+    ],
+    "id": 1715
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on a pair of flowers. One value on a flower is concealed. If you add the values on each flower, you get the same value. What is the concealed value? A: 9,B: 5,C: 6,D: 7,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1722.png"
+    ],
+    "id": 1722
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on 2 flowers. One number on a flower is covered. If you add the numbers on each flower, you get the same number. What is the covered number? A: 24,B: 14,C: 3,D: 7,E: 16. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1724.png"
+    ],
+    "id": 1724
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on a pair of flowers. One number on a flower is covered. The sums of the numbers on the two flowers are identical. What is the covered number? A: 2,B: 1,C: 8,D: 4,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1725.png"
+    ],
+    "id": 1725
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on two flowers. One value on a flower is concealed. The sums of the values on the two flowers are identical. What is the concealed value? A: 2,B: 12,C: 8,D: 4,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1748.png"
+    ],
+    "id": 1748
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on 2 flowers. One number on a flower is hidden. The sums of the numbers on the two flowers are balanced. What is the hidden number? A: 2,B: 9,C: 0,D: 4,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1750.png"
+    ],
+    "id": 1750
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on 2 flowers. One number on a flower is covered. The sums of the numbers on the two flowers are balanced. What is the covered number? A: 6,B: 8,C: 23,D: 19,E: 21. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1751.png"
+    ],
+    "id": 1751
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on 2 flowers. One number on a flower is concealed. If you add the numbers on each flower, you get the same number. What is the concealed number? A: 7,B: 0,C: 5,D: 3,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1753.png"
+    ],
+    "id": 1753
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on two flowers. One value on a flower is hidden. The sums of the values on the two flowers are equal. What is the hidden value? A: 0,B: 6,C: 2,D: 1,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1757.png"
+    ],
+    "id": 1757
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on 2 flowers. One value on a flower is covered. The sums of the values on the two flowers are equal. What is the covered value? A: 9,B: 6,C: 7,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1758.png"
+    ],
+    "id": 1758
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on a pair of flowers. One value on a flower is hidden. If you add the values on each flower, you get the same value. What is the hidden value? A: 30,B: 18,C: 5,D: 2,E: 23. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1762.png"
+    ],
+    "id": 1762
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on 2 flowers. One value on a flower is concealed. The sums of the values on the two flowers are equal. What is the concealed value? A: 14,B: 16,C: 3,D: 0,E: 20. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1772.png"
+    ],
+    "id": 1772
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on a pair of flowers. One value on a flower is hidden. If you add the values on each flower, you get the same value. What is the hidden value? A: 6,B: 2,C: 7,D: 0,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1773.png"
+    ],
+    "id": 1773
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on a pair of flowers. One value on a flower is covered. If you add the values on each flower, you get the same value. What is the covered value? A: 0,B: 3,C: 1,D: 5,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1792.png"
+    ],
+    "id": 1792
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on a pair of flowers. One number on a flower is hidden. The sums of the numbers on the two flowers are balanced. What is the hidden number? A: 12,B: 15,C: 2,D: 23,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1795.png"
+    ],
+    "id": 1795
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on a pair of flowers. One value on a flower is concealed. The sums of the values on the two flowers are identical. What is the concealed value? A: 23,B: 0,C: 20,D: 19,E: 25. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1796.png"
+    ],
+    "id": 1796
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on two flowers. One value on a flower is covered. If you add the values on each flower, you get the same value. What is the covered value? A: 19,B: 20,C: 21,D: 32,E: 17. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1806.png"
+    ],
+    "id": 1806
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on a pair of flowers. One value on a flower is covered. If you add the values on each flower, you get the same value. What is the covered value? A: 7,B: 9,C: 4,D: 2,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1808.png"
+    ],
+    "id": 1808
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on two flowers. One number on a flower is covered. The sums of the numbers on the two flowers are equal. What is the covered number? A: 9,B: 5,C: 3,D: 1,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1823.png"
+    ],
+    "id": 1823
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on two flowers. One value on a flower is concealed. If you add the values on each flower, you get the same value. What is the concealed value? A: 9,B: 11,C: 6,D: 2,E: 16. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1835.png"
+    ],
+    "id": 1835
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on 2 flowers. One number on a flower is hidden. The sums of the numbers on the two flowers are balanced. What is the hidden number? A: 8,B: 11,C: 7,D: 1,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1836.png"
+    ],
+    "id": 1836
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on two flowers. One value on a flower is hidden. If you add the values on each flower, you get the same value. What is the hidden value? A: 6,B: 0,C: 3,D: 5,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1839.png"
+    ],
+    "id": 1839
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on 2 flowers. One number on a flower is concealed. If you add the numbers on each flower, you get the same number. What is the concealed number? A: 17,B: 27,C: 6,D: 26,E: 33. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1841.png"
+    ],
+    "id": 1841
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on 2 flowers. One number on a flower is hidden. The sums of the numbers on the two flowers are identical. What is the hidden number? A: 6,B: 1,C: 11,D: 0,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1842.png"
+    ],
+    "id": 1842
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on two flowers. One number on a flower is covered. The sums of the numbers on the two flowers are balanced. What is the covered number? A: 0,B: 6,C: 4,D: 2,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1845.png"
+    ],
+    "id": 1845
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on 2 flowers. One value on a flower is covered. The sums of the values on the two flowers are identical. What is the covered value? A: 9,B: 19,C: 27,D: 37,E: 20. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1848.png"
+    ],
+    "id": 1848
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on a pair of flowers. One value on a flower is hidden. If you add the values on each flower, you get the same value. What is the hidden value? A: 14,B: 4,C: 1,D: 20,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1851.png"
+    ],
+    "id": 1851
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on two flowers. One value on a flower is covered. If you add the values on each flower, you get the same value. What is the covered value? A: 12,B: 23,C: 7,D: 8,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1862.png"
+    ],
+    "id": 1862
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on a pair of flowers. One value on a flower is concealed. If you add the values on each flower, you get the same value. What is the concealed value? A: 11,B: 15,C: 19,D: 21,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1863.png"
+    ],
+    "id": 1863
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on a pair of flowers. One number on a flower is covered. The sums of the numbers on the two flowers are balanced. What is the covered number? A: 3,B: 20,C: 29,D: 15,E: 26. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_187.png"
+    ],
+    "id": 187
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on two flowers. One number on a flower is hidden. If you add the numbers on each flower, you get the same number. What is the hidden number? A: 7,B: 2,C: 8,D: 9,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1880.png"
+    ],
+    "id": 1880
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on two flowers. One value on a flower is covered. The sums of the values on the two flowers are balanced. What is the covered value? A: 7,B: 2,C: 6,D: 9,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1885.png"
+    ],
+    "id": 1885
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on 2 flowers. One number on a flower is concealed. If you add the numbers on each flower, you get the same number. What is the concealed number? A: 8,B: 9,C: 11,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1886.png"
+    ],
+    "id": 1886
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on 2 flowers. One value on a flower is covered. If you add the values on each flower, you get the same value. What is the covered value? A: 7,B: 5,C: 3,D: 4,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_189.png"
+    ],
+    "id": 189
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on a pair of flowers. One value on a flower is hidden. The sums of the values on the two flowers are equal. What is the hidden value? A: 2,B: 5,C: 3,D: 6,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1891.png"
+    ],
+    "id": 1891
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on 2 flowers. One value on a flower is hidden. The sums of the values on the two flowers are equal. What is the hidden value? A: 17,B: 8,C: 22,D: 18,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1895.png"
+    ],
+    "id": 1895
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on a pair of flowers. One value on a flower is covered. If you add the values on each flower, you get the same value. What is the covered value? A: 3,B: 8,C: 2,D: 9,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1899.png"
+    ],
+    "id": 1899
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on 2 flowers. One number on a flower is covered. If you add the numbers on each flower, you get the same number. What is the covered number? A: 9,B: 10,C: 7,D: 4,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1900.png"
+    ],
+    "id": 1900
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on two flowers. One number on a flower is covered. The sums of the numbers on the two flowers are balanced. What is the covered number? A: 17,B: 4,C: 13,D: 12,E: 22. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1901.png"
+    ],
+    "id": 1901
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on two flowers. One number on a flower is covered. The sums of the numbers on the two flowers are balanced. What is the covered number? A: 11,B: 9,C: 16,D: 2,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1915.png"
+    ],
+    "id": 1915
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on a pair of flowers. One number on a flower is concealed. The sums of the numbers on the two flowers are identical. What is the concealed number? A: 4,B: 7,C: 25,D: 17,E: 20. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1925.png"
+    ],
+    "id": 1925
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on a pair of flowers. One number on a flower is covered. The sums of the numbers on the two flowers are balanced. What is the covered number? A: 4,B: 6,C: 3,D: 0,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1951.png"
+    ],
+    "id": 1951
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on a pair of flowers. One value on a flower is covered. The sums of the values on the two flowers are balanced. What is the covered value? A: 0,B: 3,C: 9,D: 2,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1952.png"
+    ],
+    "id": 1952
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on 2 flowers. One value on a flower is concealed. If you add the values on each flower, you get the same value. What is the concealed value? A: 7,B: 29,C: 8,D: 22,E: 16. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_197.png"
+    ],
+    "id": 197
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on 2 flowers. One value on a flower is concealed. The sums of the values on the two flowers are balanced. What is the concealed value? A: 14,B: 6,C: 16,D: 32,E: 19. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1970.png"
+    ],
+    "id": 1970
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on two flowers. One number on a flower is hidden. The sums of the numbers on the two flowers are equal. What is the hidden number? A: 30,B: 12,C: 6,D: 17,E: 32. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_1996.png"
+    ],
+    "id": 1996
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on two flowers. One number on a flower is covered. If you add the numbers on each flower, you get the same number. What is the covered number? A: 8,B: 6,C: 17,D: 15,E: 21. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_20.png"
+    ],
+    "id": 20
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on 2 flowers. One value on a flower is covered. The sums of the values on the two flowers are balanced. What is the covered value? A: 6,B: 1,C: 8,D: 9,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_200.png"
+    ],
+    "id": 200
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on two flowers. One number on a flower is concealed. If you add the numbers on each flower, you get the same number. What is the concealed number? A: 0,B: 2,C: 8,D: 7,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_201.png"
+    ],
+    "id": 201
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on 2 flowers. One number on a flower is covered. If you add the numbers on each flower, you get the same number. What is the covered number? A: 19,B: 15,C: 2,D: 3,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_202.png"
+    ],
+    "id": 202
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on a pair of flowers. One number on a flower is covered. The sums of the numbers on the two flowers are balanced. What is the covered number? A: 13,B: 15,C: 4,D: 3,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_205.png"
+    ],
+    "id": 205
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on a pair of flowers. One number on a flower is hidden. If you add the numbers on each flower, you get the same number. What is the hidden number? A: 19,B: 20,C: 29,D: 17,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_206.png"
+    ],
+    "id": 206
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on a pair of flowers. One value on a flower is hidden. The sums of the values on the two flowers are balanced. What is the hidden value? A: 7,B: 14,C: 9,D: 1,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_21.png"
+    ],
+    "id": 21
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on a pair of flowers. One value on a flower is concealed. If you add the values on each flower, you get the same value. What is the concealed value? A: 7,B: 5,C: 6,D: 9,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_216.png"
+    ],
+    "id": 216
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on 2 flowers. One value on a flower is hidden. If you add the values on each flower, you get the same value. What is the hidden value? A: 0,B: 4,C: 1,D: 2,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_219.png"
+    ],
+    "id": 219
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on two flowers. One value on a flower is covered. If you add the values on each flower, you get the same value. What is the covered value? A: 6,B: 16,C: 5,D: 0,E: 18. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_230.png"
+    ],
+    "id": 230
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on a pair of flowers. One number on a flower is hidden. If you add the numbers on each flower, you get the same number. What is the hidden number? A: 16,B: 24,C: 22,D: 14,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_241.png"
+    ],
+    "id": 241
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on two flowers. One number on a flower is concealed. If you add the numbers on each flower, you get the same number. What is the concealed number? A: 30,B: 15,C: 17,D: 32,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_246.png"
+    ],
+    "id": 246
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on 2 flowers. One value on a flower is hidden. If you add the values on each flower, you get the same value. What is the hidden value? A: 4,B: 33,C: 28,D: 30,E: 17. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_252.png"
+    ],
+    "id": 252
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on 2 flowers. One value on a flower is concealed. If you add the values on each flower, you get the same value. What is the concealed value? A: 0,B: 13,C: 16,D: 10,E: 24. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_269.png"
+    ],
+    "id": 269
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on two flowers. One value on a flower is hidden. The sums of the values on the two flowers are equal. What is the hidden value? A: 11,B: 10,C: 14,D: 17,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_276.png"
+    ],
+    "id": 276
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on 2 flowers. One number on a flower is covered. If you add the numbers on each flower, you get the same number. What is the covered number? A: 18,B: 27,C: 30,D: 23,E: 22. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_279.png"
+    ],
+    "id": 279
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on a pair of flowers. One value on a flower is covered. If you add the values on each flower, you get the same value. What is the covered value? A: 2,B: 1,C: 0,D: 7,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_288.png"
+    ],
+    "id": 288
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on two flowers. One value on a flower is covered. The sums of the values on the two flowers are identical. What is the covered value? A: 17,B: 2,C: 10,D: 14,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_293.png"
+    ],
+    "id": 293
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on 2 flowers. One value on a flower is concealed. The sums of the values on the two flowers are identical. What is the concealed value? A: 14,B: 0,C: 8,D: 12,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_295.png"
+    ],
+    "id": 295
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on 2 flowers. One number on a flower is hidden. The sums of the numbers on the two flowers are identical. What is the hidden number? A: 5,B: 8,C: 0,D: 6,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_315.png"
+    ],
+    "id": 315
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on a pair of flowers. One value on a flower is covered. The sums of the values on the two flowers are identical. What is the covered value? A: 10,B: 27,C: 15,D: 19,E: 22. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_317.png"
+    ],
+    "id": 317
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on 2 flowers. One number on a flower is covered. The sums of the numbers on the two flowers are equal. What is the covered number? A: 25,B: 4,C: 16,D: 28,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_330.png"
+    ],
+    "id": 330
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on 2 flowers. One value on a flower is hidden. The sums of the values on the two flowers are equal. What is the hidden value? A: 0,B: 5,C: 1,D: 3,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_337.png"
+    ],
+    "id": 337
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on two flowers. One value on a flower is concealed. The sums of the values on the two flowers are balanced. What is the concealed value? A: 5,B: 6,C: 13,D: 9,E: 16. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_34.png"
+    ],
+    "id": 34
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on a pair of flowers. One number on a flower is hidden. If you add the numbers on each flower, you get the same number. What is the hidden number? A: 14,B: 0,C: 11,D: 2,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_343.png"
+    ],
+    "id": 343
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on 2 flowers. One value on a flower is covered. If you add the values on each flower, you get the same value. What is the covered value? A: 4,B: 16,C: 8,D: 21,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_378.png"
+    ],
+    "id": 378
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on a pair of flowers. One number on a flower is concealed. The sums of the numbers on the two flowers are identical. What is the concealed number? A: 3,B: 2,C: 6,D: 5,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_379.png"
+    ],
+    "id": 379
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on two flowers. One number on a flower is covered. The sums of the numbers on the two flowers are equal. What is the covered number? A: 2,B: 8,C: 6,D: 4,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_384.png"
+    ],
+    "id": 384
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on two flowers. One value on a flower is hidden. If you add the values on each flower, you get the same value. What is the hidden value? A: 16,B: 2,C: 23,D: 19,E: 28. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_385.png"
+    ],
+    "id": 385
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on a pair of flowers. One number on a flower is covered. The sums of the numbers on the two flowers are equal. What is the covered number? A: 2,B: 5,C: 7,D: 9,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_387.png"
+    ],
+    "id": 387
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on two flowers. One value on a flower is covered. The sums of the values on the two flowers are identical. What is the covered value? A: 8,B: 2,C: 1,D: 7,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_391.png"
+    ],
+    "id": 391
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on a pair of flowers. One value on a flower is hidden. The sums of the values on the two flowers are balanced. What is the hidden value? A: 8,B: 3,C: 6,D: 0,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_392.png"
+    ],
+    "id": 392
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on two flowers. One number on a flower is concealed. If you add the numbers on each flower, you get the same number. What is the concealed number? A: 2,B: 16,C: 17,D: 10,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_397.png"
+    ],
+    "id": 397
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on a pair of flowers. One value on a flower is hidden. The sums of the values on the two flowers are identical. What is the hidden value? A: 11,B: 12,C: 6,D: 1,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_40.png"
+    ],
+    "id": 40
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on a pair of flowers. One value on a flower is covered. If you add the values on each flower, you get the same value. What is the covered value? A: 4,B: 11,C: 9,D: 0,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_400.png"
+    ],
+    "id": 400
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on a pair of flowers. One value on a flower is covered. If you add the values on each flower, you get the same value. What is the covered value? A: 1,B: 8,C: 14,D: 6,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_401.png"
+    ],
+    "id": 401
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on 2 flowers. One number on a flower is covered. The sums of the numbers on the two flowers are balanced. What is the covered number? A: 32,B: 12,C: 23,D: 18,E: 26. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_406.png"
+    ],
+    "id": 406
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on 2 flowers. One number on a flower is hidden. The sums of the numbers on the two flowers are equal. What is the hidden number? A: 7,B: 4,C: 1,D: 5,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_418.png"
+    ],
+    "id": 418
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on a pair of flowers. One number on a flower is covered. If you add the numbers on each flower, you get the same number. What is the covered number? A: 1,B: 19,C: 23,D: 8,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_441.png"
+    ],
+    "id": 441
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on 2 flowers. One number on a flower is covered. If you add the numbers on each flower, you get the same number. What is the covered number? A: 5,B: 0,C: 1,D: 3,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_455.png"
+    ],
+    "id": 455
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on a pair of flowers. One value on a flower is hidden. The sums of the values on the two flowers are equal. What is the hidden value? A: 10,B: 14,C: 15,D: 19,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_459.png"
+    ],
+    "id": 459
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on two flowers. One number on a flower is covered. The sums of the numbers on the two flowers are balanced. What is the covered number? A: 5,B: 3,C: 2,D: 8,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_466.png"
+    ],
+    "id": 466
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on two flowers. One value on a flower is concealed. The sums of the values on the two flowers are balanced. What is the concealed value? A: 21,B: 17,C: 12,D: 0,E: 20. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_474.png"
+    ],
+    "id": 474
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on two flowers. One value on a flower is hidden. If you add the values on each flower, you get the same value. What is the hidden value? A: 6,B: 5,C: 7,D: 3,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_484.png"
+    ],
+    "id": 484
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on two flowers. One value on a flower is covered. If you add the values on each flower, you get the same value. What is the covered value? A: 5,B: 8,C: 4,D: 0,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_492.png"
+    ],
+    "id": 492
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on a pair of flowers. One number on a flower is concealed. The sums of the numbers on the two flowers are identical. What is the concealed number? A: 2,B: 17,C: 1,D: 10,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_502.png"
+    ],
+    "id": 502
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on two flowers. One number on a flower is concealed. If you add the numbers on each flower, you get the same number. What is the concealed number? A: 14,B: 0,C: 29,D: 19,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_508.png"
+    ],
+    "id": 508
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on a pair of flowers. One number on a flower is covered. The sums of the numbers on the two flowers are balanced. What is the covered number? A: 2,B: 0,C: 28,D: 9,E: 18. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_510.png"
+    ],
+    "id": 510
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on two flowers. One value on a flower is concealed. The sums of the values on the two flowers are equal. What is the concealed value? A: 7,B: 6,C: 20,D: 15,E: 18. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_520.png"
+    ],
+    "id": 520
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on two flowers. One value on a flower is covered. If you add the values on each flower, you get the same value. What is the covered value? A: 10,B: 6,C: 5,D: 4,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_524.png"
+    ],
+    "id": 524
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on two flowers. One number on a flower is concealed. If you add the numbers on each flower, you get the same number. What is the concealed number? A: 7,B: 2,C: 4,D: 1,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_540.png"
+    ],
+    "id": 540
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on two flowers. One value on a flower is covered. The sums of the values on the two flowers are equal. What is the covered value? A: 8,B: 5,C: 0,D: 6,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_556.png"
+    ],
+    "id": 556
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on two flowers. One number on a flower is hidden. If you add the numbers on each flower, you get the same number. What is the hidden number? A: 1,B: 3,C: 9,D: 6,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_562.png"
+    ],
+    "id": 562
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on 2 flowers. One value on a flower is concealed. The sums of the values on the two flowers are balanced. What is the concealed value? A: 6,B: 9,C: 4,D: 0,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_563.png"
+    ],
+    "id": 563
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on two flowers. One number on a flower is covered. If you add the numbers on each flower, you get the same number. What is the covered number? A: 6,B: 1,C: 5,D: 3,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_564.png"
+    ],
+    "id": 564
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on 2 flowers. One value on a flower is concealed. If you add the values on each flower, you get the same value. What is the concealed value? A: 7,B: 33,C: 27,D: 5,E: 19. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_565.png"
+    ],
+    "id": 565
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on two flowers. One value on a flower is concealed. If you add the values on each flower, you get the same value. What is the concealed value? A: 20,B: 2,C: 17,D: 12,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_577.png"
+    ],
+    "id": 577
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on two flowers. One number on a flower is hidden. The sums of the numbers on the two flowers are balanced. What is the hidden number? A: 0,B: 4,C: 8,D: 3,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_592.png"
+    ],
+    "id": 592
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on two flowers. One value on a flower is covered. If you add the values on each flower, you get the same value. What is the covered value? A: 15,B: 6,C: 10,D: 4,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_600.png"
+    ],
+    "id": 600
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on two flowers. One number on a flower is hidden. The sums of the numbers on the two flowers are identical. What is the hidden number? A: 1,B: 13,C: 20,D: 19,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_608.png"
+    ],
+    "id": 608
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on a pair of flowers. One number on a flower is hidden. If you add the numbers on each flower, you get the same number. What is the hidden number? A: 5,B: 27,C: 19,D: 24,E: 29. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_612.png"
+    ],
+    "id": 612
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on 2 flowers. One value on a flower is hidden. If you add the values on each flower, you get the same value. What is the hidden value? A: 5,B: 7,C: 6,D: 0,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_627.png"
+    ],
+    "id": 627
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on two flowers. One number on a flower is hidden. If you add the numbers on each flower, you get the same number. What is the hidden number? A: 18,B: 11,C: 4,D: 20,E: 16. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_632.png"
+    ],
+    "id": 632
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on two flowers. One number on a flower is covered. The sums of the numbers on the two flowers are equal. What is the covered number? A: 0,B: 3,C: 9,D: 1,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_64.png"
+    ],
+    "id": 64
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on two flowers. One value on a flower is concealed. If you add the values on each flower, you get the same value. What is the concealed value? A: 5,B: 12,C: 4,D: 8,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_641.png"
+    ],
+    "id": 641
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on two flowers. One number on a flower is covered. If you add the numbers on each flower, you get the same number. What is the covered number? A: 3,B: 13,C: 27,D: 14,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_642.png"
+    ],
+    "id": 642
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on a pair of flowers. One value on a flower is covered. The sums of the values on the two flowers are equal. What is the covered value? A: 19,B: 10,C: 13,D: 14,E: 18. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_645.png"
+    ],
+    "id": 645
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on two flowers. One value on a flower is hidden. The sums of the values on the two flowers are balanced. What is the hidden value? A: 6,B: 4,C: 3,D: 5,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_646.png"
+    ],
+    "id": 646
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on a pair of flowers. One number on a flower is concealed. If you add the numbers on each flower, you get the same number. What is the concealed number? A: 25,B: 32,C: 2,D: 18,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_647.png"
+    ],
+    "id": 647
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on 2 flowers. One value on a flower is concealed. The sums of the values on the two flowers are balanced. What is the concealed value? A: 26,B: 25,C: 33,D: 19,E: 17. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_648.png"
+    ],
+    "id": 648
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on two flowers. One value on a flower is hidden. The sums of the values on the two flowers are equal. What is the hidden value? A: 6,B: 9,C: 14,D: 3,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_663.png"
+    ],
+    "id": 663
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on 2 flowers. One value on a flower is concealed. The sums of the values on the two flowers are equal. What is the concealed value? A: 13,B: 10,C: 12,D: 16,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_681.png"
+    ],
+    "id": 681
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on two flowers. One number on a flower is hidden. If you add the numbers on each flower, you get the same number. What is the hidden number? A: 5,B: 4,C: 2,D: 3,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_683.png"
+    ],
+    "id": 683
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on 2 flowers. One number on a flower is concealed. If you add the numbers on each flower, you get the same number. What is the concealed number? A: 0,B: 16,C: 9,D: 27,E: 23. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_686.png"
+    ],
+    "id": 686
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on 2 flowers. One number on a flower is hidden. The sums of the numbers on the two flowers are identical. What is the hidden number? A: 4,B: 5,C: 2,D: 0,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_698.png"
+    ],
+    "id": 698
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on 2 flowers. One value on a flower is hidden. The sums of the values on the two flowers are equal. What is the hidden value? A: 9,B: 8,C: 4,D: 3,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_699.png"
+    ],
+    "id": 699
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on two flowers. One number on a flower is covered. The sums of the numbers on the two flowers are balanced. What is the covered number? A: 8,B: 5,C: 9,D: 3,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_702.png"
+    ],
+    "id": 702
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on a pair of flowers. One number on a flower is hidden. If you add the numbers on each flower, you get the same number. What is the hidden number? A: 1,B: 6,C: 4,D: 9,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_709.png"
+    ],
+    "id": 709
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on 2 flowers. One value on a flower is hidden. If you add the values on each flower, you get the same value. What is the hidden value? A: 2,B: 9,C: 6,D: 8,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_719.png"
+    ],
+    "id": 719
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on 2 flowers. One number on a flower is concealed. If you add the numbers on each flower, you get the same number. What is the concealed number? A: 4,B: 9,C: 2,D: 1,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_725.png"
+    ],
+    "id": 725
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on a pair of flowers. One value on a flower is covered. The sums of the values on the two flowers are identical. What is the covered value? A: 2,B: 17,C: 19,D: 31,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_729.png"
+    ],
+    "id": 729
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on a pair of flowers. One value on a flower is covered. If you add the values on each flower, you get the same value. What is the covered value? A: 18,B: 2,C: 13,D: 7,E: 23. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_742.png"
+    ],
+    "id": 742
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on two flowers. One value on a flower is concealed. The sums of the values on the two flowers are equal. What is the concealed value? A: 3,B: 7,C: 6,D: 0,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_747.png"
+    ],
+    "id": 747
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on two flowers. One value on a flower is hidden. If you add the values on each flower, you get the same value. What is the hidden value? A: 8,B: 10,C: 13,D: 6,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_748.png"
+    ],
+    "id": 748
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on two flowers. One value on a flower is concealed. If you add the values on each flower, you get the same value. What is the concealed value? A: 8,B: 17,C: 14,D: 5,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_751.png"
+    ],
+    "id": 751
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on a pair of flowers. One number on a flower is hidden. If you add the numbers on each flower, you get the same number. What is the hidden number? A: 23,B: 17,C: 15,D: 7,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_763.png"
+    ],
+    "id": 763
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on 2 flowers. One value on a flower is hidden. The sums of the values on the two flowers are equal. What is the hidden value? A: 14,B: 11,C: 15,D: 9,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_766.png"
+    ],
+    "id": 766
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on two flowers. One value on a flower is concealed. The sums of the values on the two flowers are identical. What is the concealed value? A: 19,B: 7,C: 8,D: 11,E: 21. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_769.png"
+    ],
+    "id": 769
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on 2 flowers. One value on a flower is covered. If you add the values on each flower, you get the same value. What is the covered value? A: 9,B: 8,C: 1,D: 5,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_775.png"
+    ],
+    "id": 775
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on a pair of flowers. One value on a flower is hidden. The sums of the values on the two flowers are balanced. What is the hidden value? A: 3,B: 9,C: 4,D: 7,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_776.png"
+    ],
+    "id": 776
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on a pair of flowers. One value on a flower is hidden. If you add the values on each flower, you get the same value. What is the hidden value? A: 8,B: 4,C: 3,D: 1,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_779.png"
+    ],
+    "id": 779
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on a pair of flowers. One number on a flower is concealed. The sums of the numbers on the two flowers are equal. What is the concealed number? A: 33,B: 27,C: 17,D: 30,E: 19. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_791.png"
+    ],
+    "id": 791
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on two flowers. One number on a flower is hidden. If you add the numbers on each flower, you get the same number. What is the hidden number? A: 21,B: 17,C: 13,D: 1,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_794.png"
+    ],
+    "id": 794
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on 2 flowers. One value on a flower is concealed. If you add the values on each flower, you get the same value. What is the concealed value? A: 7,B: 2,C: 3,D: 4,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_795.png"
+    ],
+    "id": 795
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on two flowers. One number on a flower is hidden. If you add the numbers on each flower, you get the same number. What is the hidden number? A: 9,B: 4,C: 8,D: 2,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_804.png"
+    ],
+    "id": 804
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on a pair of flowers. One value on a flower is concealed. The sums of the values on the two flowers are equal. What is the concealed value? A: 0,B: 8,C: 2,D: 6,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_805.png"
+    ],
+    "id": 805
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on two flowers. One value on a flower is concealed. The sums of the values on the two flowers are identical. What is the concealed value? A: 3,B: 4,C: 2,D: 9,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_815.png"
+    ],
+    "id": 815
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on 2 flowers. One number on a flower is covered. If you add the numbers on each flower, you get the same number. What is the covered number? A: 13,B: 9,C: 4,D: 11,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_831.png"
+    ],
+    "id": 831
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on two flowers. One value on a flower is concealed. The sums of the values on the two flowers are equal. What is the concealed value? A: 10,B: 18,C: 3,D: 14,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_835.png"
+    ],
+    "id": 835
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on 2 flowers. One value on a flower is hidden. The sums of the values on the two flowers are balanced. What is the hidden value? A: 12,B: 10,C: 7,D: 0,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_840.png"
+    ],
+    "id": 840
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on 2 flowers. One value on a flower is hidden. If you add the values on each flower, you get the same value. What is the hidden value? A: 4,B: 12,C: 0,D: 17,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_854.png"
+    ],
+    "id": 854
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on two flowers. One value on a flower is covered. If you add the values on each flower, you get the same value. What is the covered value? A: 7,B: 4,C: 10,D: 5,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_856.png"
+    ],
+    "id": 856
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on two flowers. One number on a flower is concealed. The sums of the numbers on the two flowers are equal. What is the concealed number? A: 10,B: 9,C: 8,D: 5,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_860.png"
+    ],
+    "id": 860
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on a pair of flowers. One number on a flower is concealed. The sums of the numbers on the two flowers are identical. What is the concealed number? A: 19,B: 15,C: 7,D: 4,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_863.png"
+    ],
+    "id": 863
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on 2 flowers. One number on a flower is concealed. If you add the numbers on each flower, you get the same number. What is the concealed number? A: 5,B: 16,C: 13,D: 25,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_87.png"
+    ],
+    "id": 87
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on a pair of flowers. One number on a flower is hidden. The sums of the numbers on the two flowers are equal. What is the hidden number? A: 10,B: 4,C: 14,D: 13,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_870.png"
+    ],
+    "id": 870
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on a pair of flowers. One value on a flower is concealed. The sums of the values on the two flowers are balanced. What is the concealed value? A: 24,B: 8,C: 17,D: 20,E: 21. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_871.png"
+    ],
+    "id": 871
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on 2 flowers. One number on a flower is hidden. If you add the numbers on each flower, you get the same number. What is the hidden number? A: 2,B: 1,C: 5,D: 9,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_878.png"
+    ],
+    "id": 878
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on a pair of flowers. One value on a flower is hidden. The sums of the values on the two flowers are identical. What is the hidden value? A: 2,B: 7,C: 3,D: 8,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_883.png"
+    ],
+    "id": 883
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on two flowers. One number on a flower is concealed. The sums of the numbers on the two flowers are equal. What is the concealed number? A: 2,B: 1,C: 6,D: 0,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_891.png"
+    ],
+    "id": 891
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct numbers are written on two flowers. One number on a flower is concealed. The sums of the numbers on the two flowers are equal. What is the concealed number? A: 16,B: 14,C: 30,D: 2,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_897.png"
+    ],
+    "id": 897
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on two flowers. One value on a flower is covered. The sums of the values on the two flowers are equal. What is the covered value? A: 15,B: 19,C: 30,D: 10,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_91.png"
+    ],
+    "id": 91
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on 2 flowers. One value on a flower is hidden. If you add the values on each flower, you get the same value. What is the hidden value? A: 4,B: 18,C: 3,D: 0,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_929.png"
+    ],
+    "id": 929
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on two flowers. One value on a flower is hidden. The sums of the values on the two flowers are identical. What is the hidden value? A: 23,B: 6,C: 19,D: 18,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_95.png"
+    ],
+    "id": 95
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on 2 flowers. One value on a flower is hidden. If you add the values on each flower, you get the same value. What is the hidden value? A: 10,B: 3,C: 6,D: 17,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_951.png"
+    ],
+    "id": 951
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on 2 flowers. One number on a flower is concealed. If you add the numbers on each flower, you get the same number. What is the concealed number? A: 25,B: 11,C: 27,D: 15,E: 18. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_955.png"
+    ],
+    "id": 955
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on 2 flowers. One value on a flower is hidden. The sums of the values on the two flowers are identical. What is the hidden value? A: 0,B: 3,C: 8,D: 9,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_957.png"
+    ],
+    "id": 957
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on 2 flowers. One number on a flower is hidden. If you add the numbers on each flower, you get the same number. What is the hidden number? A: 3,B: 4,C: 0,D: 1,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_960.png"
+    ],
+    "id": 960
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique numbers are written on 2 flowers. One number on a flower is covered. If you add the numbers on each flower, you get the same number. What is the covered number? A: 2,B: 9,C: 1,D: 14,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_972.png"
+    ],
+    "id": 972
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Unique values are written on two flowers. One value on a flower is concealed. If you add the values on each flower, you get the same value. What is the concealed value? A: 0,B: 19,C: 26,D: 24,E: 16. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_975.png"
+    ],
+    "id": 975
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on 2 flowers. One value on a flower is hidden. If you add the values on each flower, you get the same value. What is the hidden value? A: 8,B: 6,C: 7,D: 9,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_98.png"
+    ],
+    "id": 98
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on two flowers. One value on a flower is hidden. If you add the values on each flower, you get the same value. What is the hidden value? A: 10,B: 8,C: 7,D: 6,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_981.png"
+    ],
+    "id": 981
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Distinct values are written on a pair of flowers. One value on a flower is concealed. If you add the values on each flower, you get the same value. What is the concealed value? A: 9,B: 6,C: 1,D: 2,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/76/img/puzzle_76_995.png"
+    ],
+    "id": 995
+  }
+]

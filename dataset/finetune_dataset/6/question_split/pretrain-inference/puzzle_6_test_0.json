@@ -1,0 +1,4802 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 58, 63, 86, 93, and 98 that can be used more than once such that the equality is correct. A total of four different numbers are used. Which number is not used? A: 86,B: 93,C: 63,D: 98,E: 58. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1013.png"
+    ],
+    "id": 1013
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 15, 36, 40, 41, and 45 that can be used more than once such that the equality is correct. A total of four different numbers are used. Which number is not used? A: 15,B: 40,C: 45,D: 41,E: 36. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1017.png"
+    ],
+    "id": 1017
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 18, 19, 22, 23, and 34 are used, one in each polygon, such that the equality is correct. Each of the used numbers can be used more than once. Which number is not used? A: 22,B: 34,C: 19,D: 23,E: 18. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1018.png"
+    ],
+    "id": 1018
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 0, 11, 76, 87, and 99 are used, one in each polygon, such that the equality is correct. Each of the used numbers can be used more than once. Which number is not used? A: 11,B: 0,C: 87,D: 76,E: 99. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1021.png"
+    ],
+    "id": 1021
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 35, 69, 73, 86, and 90, one in each polygon, so that the equality is correct. Each number can be used more than once. Which number is not used? A: 86,B: 73,C: 35,D: 90,E: 69. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1022.png"
+    ],
+    "id": 1022
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 25, 26, 39, 41, and 92, one in each polygon, to make the equality correct. Each number can be used more than once. Which number is not used? A: 25,B: 39,C: 26,D: 41,E: 92. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1026.png"
+    ],
+    "id": 1026
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 53, 61, 85, 90, and 93 can be used more than once such that the equality is correct (one number per polygon). Which number is not used? A: 93,B: 53,C: 90,D: 61,E: 85. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1029.png"
+    ],
+    "id": 1029
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 6, 14, 34, 42, and 75 can be used in the equality such that the equality is correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 14,B: 42,C: 34,D: 6,E: 75. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1039.png"
+    ],
+    "id": 1039
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 6, 9, 30, 38, and 74 can be used in the equality to make it correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 74,B: 6,C: 30,D: 38,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1045.png"
+    ],
+    "id": 1045
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 53, 74, 75, 97, and 98 can be used more than once such that the equality is correct (one number per polygon). Which number is not used? A: 53,B: 98,C: 74,D: 75,E: 97. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1052.png"
+    ],
+    "id": 1052
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 14, 30, 33, 45, and 61 are used, one in each polygon, to make the equality correct. Each of the used numbers can be used more than once. Which number is not used? A: 30,B: 33,C: 45,D: 14,E: 61. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1057.png"
+    ],
+    "id": 1057
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 25, 43, 46, 78, and 81 can be used in the equality, so that the equality is correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 25,B: 78,C: 81,D: 46,E: 43. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1060.png"
+    ],
+    "id": 1060
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 4, 11, 28, 39, and 46 that can be used more than once, so that the equality is correct. A total of four different numbers are used. Which number is not used? A: 4,B: 28,C: 39,D: 46,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1065.png"
+    ],
+    "id": 1065
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 1, 22, 36, 55, and 76 can be used in the equality, so that the equality is correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 1,B: 22,C: 55,D: 76,E: 36. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1072.png"
+    ],
+    "id": 1072
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 8, 21, 63, 76, and 77 are used, one in each polygon, to make the equality correct. Each of the used numbers can be used more than once. Which number is not used? A: 8,B: 21,C: 77,D: 63,E: 76. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1077.png"
+    ],
+    "id": 1077
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 39, 70, 75, 89, and 94 can be used more than once, so that the equality is correct (one number per polygon). Which number is not used? A: 94,B: 39,C: 70,D: 75,E: 89. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1083.png"
+    ],
+    "id": 1083
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 2, 22, 72, 74, and 94 are used, one in each polygon, so that the equality is correct. Each of the used numbers can be used more than once. Which number is not used? A: 22,B: 94,C: 2,D: 72,E: 74. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1087.png"
+    ],
+    "id": 1087
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 18, 27, 41, 86, and 100 can be used more than once (one in each polygon), so that the equality is correct. A total of four different numbers are used. Which number is not used? A: 41,B: 18,C: 86,D: 100,E: 27. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1096.png"
+    ],
+    "id": 1096
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 13, 30, 59, 76, and 82 can be used more than once such that the equality is correct (one number per polygon). Which number is not used? A: 76,B: 30,C: 13,D: 82,E: 59. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1105.png"
+    ],
+    "id": 1105
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 18, 37, 61, 73, and 92 that can be used more than once to make the equality correct. A total of four different numbers are used. Which number is not used? A: 73,B: 18,C: 37,D: 92,E: 61. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1110.png"
+    ],
+    "id": 1110
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 2, 14, 43, 80, and 96 can be used more than once to make the equality correct (one number per polygon). Which number is not used? A: 80,B: 2,C: 43,D: 14,E: 96. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1124.png"
+    ],
+    "id": 1124
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 47, 57, 62, 74, and 89 can be used more than once, so that the equality is correct (one number per polygon). Which number is not used? A: 74,B: 89,C: 47,D: 57,E: 62. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1127.png"
+    ],
+    "id": 1127
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 12, 18, 45, 50, and 51 that can be used more than once, so that the equality is correct. A total of four different numbers are used. Which number is not used? A: 18,B: 50,C: 51,D: 45,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_113.png"
+    ],
+    "id": 113
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 37, 46, 69, 89, and 98 are used, one in each polygon, to make the equality correct. Each of the used numbers can be used more than once. Which number is not used? A: 89,B: 98,C: 46,D: 37,E: 69. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1130.png"
+    ],
+    "id": 1130
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 8, 13, 19, 51, and 78 can be used more than once (one in each polygon) to make the equality correct. A total of four different numbers are used. Which number is not used? A: 19,B: 51,C: 8,D: 78,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1131.png"
+    ],
+    "id": 1131
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 25, 50, 60, 73, and 83 can be used in the equality to make it correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 83,B: 25,C: 73,D: 60,E: 50. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1137.png"
+    ],
+    "id": 1137
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 8, 34, 35, 61, and 86 can be used in the equality, so that the equality is correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 61,B: 35,C: 34,D: 86,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1153.png"
+    ],
+    "id": 1153
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 5, 9, 61, 74, and 78 can be used more than once, so that the equality is correct (one number per polygon). Which number is not used? A: 9,B: 78,C: 74,D: 61,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1154.png"
+    ],
+    "id": 1154
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 11, 18, 30, 78, and 85 are used, one in each polygon, to make the equality correct. Each of the used numbers can be used more than once. Which number is not used? A: 85,B: 18,C: 30,D: 78,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1155.png"
+    ],
+    "id": 1155
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 1, 22, 49, 70, and 100 can be used more than once such that the equality is correct (one number per polygon). Which number is not used? A: 1,B: 100,C: 70,D: 49,E: 22. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1163.png"
+    ],
+    "id": 1163
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 20, 32, 66, 70, and 78 that can be used more than once such that the equality is correct. A total of four different numbers are used. Which number is not used? A: 32,B: 78,C: 20,D: 66,E: 70. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1181.png"
+    ],
+    "id": 1181
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 7, 13, 35, 54, and 82 can be used more than once to make the equality correct (one number per polygon). Which number is not used? A: 54,B: 7,C: 35,D: 82,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1184.png"
+    ],
+    "id": 1184
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 15, 17, 51, 72, and 74 can be used more than once to make the equality correct (one number per polygon). Which number is not used? A: 74,B: 15,C: 72,D: 51,E: 17. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1185.png"
+    ],
+    "id": 1185
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 10, 15, 33, 75, and 80 that can be used more than once, so that the equality is correct. A total of four different numbers are used. Which number is not used? A: 15,B: 33,C: 80,D: 10,E: 75. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1195.png"
+    ],
+    "id": 1195
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 33, 48, 59, 74, and 94 that can be used more than once, so that the equality is correct. A total of four different numbers are used. Which number is not used? A: 48,B: 33,C: 74,D: 59,E: 94. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1208.png"
+    ],
+    "id": 1208
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 10, 40, 47, 51, and 77, one in each polygon, so that the equality is correct. Each number can be used more than once. Which number is not used? A: 51,B: 47,C: 10,D: 77,E: 40. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1216.png"
+    ],
+    "id": 1216
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 6, 19, 45, 47, and 58 are used, one in each polygon, so that the equality is correct. Each of the used numbers can be used more than once. Which number is not used? A: 6,B: 45,C: 58,D: 19,E: 47. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_122.png"
+    ],
+    "id": 122
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 5, 18, 19, 43, and 44 can be used more than once such that the equality is correct (one number per polygon). Which number is not used? A: 18,B: 19,C: 43,D: 44,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1225.png"
+    ],
+    "id": 1225
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 19, 23, 57, 58, and 61 are used, one in each polygon, such that the equality is correct. Each of the used numbers can be used more than once. Which number is not used? A: 61,B: 57,C: 19,D: 58,E: 23. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_123.png"
+    ],
+    "id": 123
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 6, 18, 26, 42, and 74 are used, one in each polygon, such that the equality is correct. Each of the used numbers can be used more than once. Which number is not used? A: 26,B: 74,C: 18,D: 6,E: 42. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1239.png"
+    ],
+    "id": 1239
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 18, 43, 67, 76, and 100 can be used in the equality to make it correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 18,B: 43,C: 76,D: 67,E: 100. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1242.png"
+    ],
+    "id": 1242
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 9, 21, 45, 49, and 79 can be used in the equality to make it correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 79,B: 21,C: 49,D: 45,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1249.png"
+    ],
+    "id": 1249
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 1, 12, 41, 54, and 88 are used, one in each polygon, to make the equality correct. Each of the used numbers can be used more than once. Which number is not used? A: 41,B: 88,C: 1,D: 12,E: 54. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1255.png"
+    ],
+    "id": 1255
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 14, 16, 32, 48, and 66 are used, one in each polygon, such that the equality is correct. Each of the used numbers can be used more than once. Which number is not used? A: 66,B: 32,C: 16,D: 14,E: 48. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1257.png"
+    ],
+    "id": 1257
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 8, 10, 19, 21, and 81, one in each polygon, such that the equality is correct. Each number can be used more than once. Which number is not used? A: 81,B: 8,C: 21,D: 10,E: 19. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1258.png"
+    ],
+    "id": 1258
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 49, 65, 66, 73, and 74 can be used more than once to make the equality correct (one number per polygon). Which number is not used? A: 65,B: 74,C: 49,D: 73,E: 66. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1265.png"
+    ],
+    "id": 1265
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 49, 58, 61, 70, and 98 can be used more than once (one in each polygon) such that the equality is correct. A total of four different numbers are used. Which number is not used? A: 70,B: 98,C: 58,D: 49,E: 61. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1267.png"
+    ],
+    "id": 1267
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 27, 32, 35, 59, and 64 can be used in the equality to make it correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 64,B: 35,C: 32,D: 59,E: 27. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1268.png"
+    ],
+    "id": 1268
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 17, 26, 38, 47, and 72 can be used in the equality, so that the equality is correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 38,B: 47,C: 26,D: 17,E: 72. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1276.png"
+    ],
+    "id": 1276
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 26, 43, 57, 78, and 92 can be used more than once, so that the equality is correct (one number per polygon). Which number is not used? A: 43,B: 57,C: 92,D: 78,E: 26. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1283.png"
+    ],
+    "id": 1283
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 2, 16, 34, 48, and 99, one in each polygon, such that the equality is correct. Each number can be used more than once. Which number is not used? A: 48,B: 2,C: 99,D: 34,E: 16. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1292.png"
+    ],
+    "id": 1292
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 23, 32, 35, 36, and 48 are used, one in each polygon, so that the equality is correct. Each of the used numbers can be used more than once. Which number is not used? A: 48,B: 23,C: 36,D: 32,E: 35. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1295.png"
+    ],
+    "id": 1295
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 15, 21, 25, 28, and 64 can be used more than once (one in each polygon), so that the equality is correct. A total of four different numbers are used. Which number is not used? A: 21,B: 25,C: 64,D: 15,E: 28. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1298.png"
+    ],
+    "id": 1298
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 1, 14, 39, 47, and 54, one in each polygon, such that the equality is correct. Each number can be used more than once. Which number is not used? A: 14,B: 39,C: 1,D: 47,E: 54. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1307.png"
+    ],
+    "id": 1307
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 0, 5, 55, 62, and 67, one in each polygon, so that the equality is correct. Each number can be used more than once. Which number is not used? A: 0,B: 55,C: 67,D: 62,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_131.png"
+    ],
+    "id": 131
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 0, 5, 6, 71, and 72 can be used in the equality, so that the equality is correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 5,B: 6,C: 71,D: 72,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1333.png"
+    ],
+    "id": 1333
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 27, 40, 48, 91, and 99, one in each polygon, so that the equality is correct. Each number can be used more than once. Which number is not used? A: 91,B: 48,C: 27,D: 99,E: 40. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1338.png"
+    ],
+    "id": 1338
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 2, 8, 28, 39, and 69 that can be used more than once, so that the equality is correct. A total of four different numbers are used. Which number is not used? A: 2,B: 8,C: 28,D: 69,E: 39. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_135.png"
+    ],
+    "id": 135
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 28, 44, 51, 81, and 88 can be used more than once (one in each polygon), so that the equality is correct. A total of four different numbers are used. Which number is not used? A: 88,B: 51,C: 81,D: 44,E: 28. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1355.png"
+    ],
+    "id": 1355
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 3, 14, 36, 47, and 57, one in each polygon, such that the equality is correct. Each number can be used more than once. Which number is not used? A: 3,B: 57,C: 14,D: 36,E: 47. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1364.png"
+    ],
+    "id": 1364
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 15, 18, 29, 39, and 62 can be used more than once such that the equality is correct (one number per polygon). Which number is not used? A: 39,B: 62,C: 29,D: 15,E: 18. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1368.png"
+    ],
+    "id": 1368
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 9, 26, 47, 67, and 84 can be used more than once (one in each polygon), so that the equality is correct. A total of four different numbers are used. Which number is not used? A: 9,B: 47,C: 26,D: 67,E: 84. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1370.png"
+    ],
+    "id": 1370
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 26, 34, 40, 60, and 68 can be used more than once (one in each polygon) such that the equality is correct. A total of four different numbers are used. Which number is not used? A: 40,B: 34,C: 60,D: 26,E: 68. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1372.png"
+    ],
+    "id": 1372
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 22, 31, 49, 54, and 81 can be used more than once, so that the equality is correct (one number per polygon). Which number is not used? A: 22,B: 54,C: 81,D: 31,E: 49. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1383.png"
+    ],
+    "id": 1383
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 9, 15, 27, 40, and 58 are used, one in each polygon, to make the equality correct. Each of the used numbers can be used more than once. Which number is not used? A: 40,B: 15,C: 27,D: 58,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1391.png"
+    ],
+    "id": 1391
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 8, 14, 49, 71, and 82 can be used more than once, so that the equality is correct (one number per polygon). Which number is not used? A: 8,B: 71,C: 82,D: 14,E: 49. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1397.png"
+    ],
+    "id": 1397
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 10, 46, 52, 77, and 88, one in each polygon, such that the equality is correct. Each number can be used more than once. Which number is not used? A: 46,B: 10,C: 88,D: 77,E: 52. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1398.png"
+    ],
+    "id": 1398
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 42, 63, 64, 76, and 97, one in each polygon, to make the equality correct. Each number can be used more than once. Which number is not used? A: 97,B: 63,C: 42,D: 64,E: 76. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_14.png"
+    ],
+    "id": 14
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 28, 33, 42, 59, and 68 can be used more than once (one in each polygon), so that the equality is correct. A total of four different numbers are used. Which number is not used? A: 68,B: 59,C: 42,D: 28,E: 33. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1401.png"
+    ],
+    "id": 1401
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 1, 4, 10, 68, and 79 are used, one in each polygon, such that the equality is correct. Each of the used numbers can be used more than once. Which number is not used? A: 4,B: 79,C: 1,D: 68,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1409.png"
+    ],
+    "id": 1409
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 3, 14, 21, 62, and 86 are used, one in each polygon, so that the equality is correct. Each of the used numbers can be used more than once. Which number is not used? A: 21,B: 3,C: 62,D: 86,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1410.png"
+    ],
+    "id": 1410
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 13, 17, 44, 74, and 88 can be used more than once to make the equality correct (one number per polygon). Which number is not used? A: 17,B: 74,C: 44,D: 88,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1411.png"
+    ],
+    "id": 1411
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 6, 22, 27, 54, and 70 that can be used more than once, so that the equality is correct. A total of four different numbers are used. Which number is not used? A: 22,B: 70,C: 6,D: 27,E: 54. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1412.png"
+    ],
+    "id": 1412
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 8, 24, 31, 47, and 74 that can be used more than once, so that the equality is correct. A total of four different numbers are used. Which number is not used? A: 74,B: 24,C: 31,D: 8,E: 47. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1414.png"
+    ],
+    "id": 1414
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 20, 27, 32, 92, and 97 can be used in the equality such that the equality is correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 92,B: 32,C: 97,D: 27,E: 20. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1427.png"
+    ],
+    "id": 1427
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 9, 11, 23, 56, and 76, one in each polygon, such that the equality is correct. Each number can be used more than once. Which number is not used? A: 23,B: 76,C: 11,D: 9,E: 56. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1431.png"
+    ],
+    "id": 1431
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 3, 11, 15, 63, and 89 can be used more than once, so that the equality is correct (one number per polygon). Which number is not used? A: 89,B: 11,C: 63,D: 15,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1435.png"
+    ],
+    "id": 1435
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 2, 22, 23, 70, and 91 can be used in the equality, so that the equality is correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 70,B: 23,C: 91,D: 2,E: 22. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1438.png"
+    ],
+    "id": 1438
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 5, 8, 9, 95, and 98 that can be used more than once to make the equality correct. A total of four different numbers are used. Which number is not used? A: 9,B: 95,C: 5,D: 8,E: 98. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_144.png"
+    ],
+    "id": 144
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 12, 32, 36, 56, and 62 that can be used more than once, so that the equality is correct. A total of four different numbers are used. Which number is not used? A: 12,B: 56,C: 62,D: 32,E: 36. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1440.png"
+    ],
+    "id": 1440
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 3, 17, 24, 73, and 93 that can be used more than once to make the equality correct. A total of four different numbers are used. Which number is not used? A: 17,B: 3,C: 73,D: 93,E: 24. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1452.png"
+    ],
+    "id": 1452
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 6, 17, 49, 60, and 98 can be used more than once (one in each polygon) to make the equality correct. A total of four different numbers are used. Which number is not used? A: 98,B: 17,C: 60,D: 6,E: 49. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1460.png"
+    ],
+    "id": 1460
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 5, 36, 37, 46, and 78, one in each polygon, so that the equality is correct. Each number can be used more than once. Which number is not used? A: 37,B: 78,C: 36,D: 5,E: 46. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1463.png"
+    ],
+    "id": 1463
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 2, 14, 46, 55, and 99 are used, one in each polygon, so that the equality is correct. Each of the used numbers can be used more than once. Which number is not used? A: 99,B: 2,C: 46,D: 55,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1479.png"
+    ],
+    "id": 1479
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 22, 33, 48, 59, and 78 can be used more than once, so that the equality is correct (one number per polygon). Which number is not used? A: 33,B: 22,C: 59,D: 48,E: 78. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1480.png"
+    ],
+    "id": 1480
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 14, 42, 50, 56, and 92, one in each polygon, such that the equality is correct. Each number can be used more than once. Which number is not used? A: 56,B: 42,C: 14,D: 50,E: 92. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1483.png"
+    ],
+    "id": 1483
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 13, 17, 21, 40, and 51 that can be used more than once such that the equality is correct. A total of four different numbers are used. Which number is not used? A: 21,B: 40,C: 17,D: 51,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1485.png"
+    ],
+    "id": 1485
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 11, 21, 23, 36, and 38 that can be used more than once, so that the equality is correct. A total of four different numbers are used. Which number is not used? A: 11,B: 36,C: 21,D: 38,E: 23. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1486.png"
+    ],
+    "id": 1486
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 2, 21, 22, 77, and 97 can be used more than once (one in each polygon) to make the equality correct. A total of four different numbers are used. Which number is not used? A: 2,B: 21,C: 22,D: 77,E: 97. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1496.png"
+    ],
+    "id": 1496
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 17, 26, 41, 49, and 84 are used, one in each polygon, such that the equality is correct. Each of the used numbers can be used more than once. Which number is not used? A: 26,B: 41,C: 17,D: 49,E: 84. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1497.png"
+    ],
+    "id": 1497
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 5, 9, 48, 52, and 100 are used, one in each polygon, so that the equality is correct. Each of the used numbers can be used more than once. Which number is not used? A: 9,B: 5,C: 48,D: 100,E: 52. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_15.png"
+    ],
+    "id": 15
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 22, 23, 27, 29, and 30 are used, one in each polygon, so that the equality is correct. Each of the used numbers can be used more than once. Which number is not used? A: 29,B: 27,C: 23,D: 22,E: 30. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1500.png"
+    ],
+    "id": 1500
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 19, 27, 45, 87, and 95 that can be used more than once to make the equality correct. A total of four different numbers are used. Which number is not used? A: 27,B: 19,C: 87,D: 45,E: 95. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1501.png"
+    ],
+    "id": 1501
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 20, 35, 44, 49, and 99 are used, one in each polygon, to make the equality correct. Each of the used numbers can be used more than once. Which number is not used? A: 44,B: 35,C: 49,D: 20,E: 99. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1509.png"
+    ],
+    "id": 1509
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 2, 32, 69, 73, and 99 are used, one in each polygon, to make the equality correct. Each of the used numbers can be used more than once. Which number is not used? A: 32,B: 2,C: 99,D: 69,E: 73. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1514.png"
+    ],
+    "id": 1514
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 3, 48, 51, 56, and 59 are used, one in each polygon, such that the equality is correct. Each of the used numbers can be used more than once. Which number is not used? A: 3,B: 51,C: 59,D: 48,E: 56. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1516.png"
+    ],
+    "id": 1516
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 5, 11, 24, 30, and 57 can be used in the equality, so that the equality is correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 57,B: 30,C: 5,D: 24,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1521.png"
+    ],
+    "id": 1521
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 17, 34, 45, 95, and 96 that can be used more than once to make the equality correct. A total of four different numbers are used. Which number is not used? A: 34,B: 95,C: 96,D: 17,E: 45. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1523.png"
+    ],
+    "id": 1523
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 61, 65, 66, 91, and 95 can be used more than once (one in each polygon), so that the equality is correct. A total of four different numbers are used. Which number is not used? A: 95,B: 65,C: 66,D: 61,E: 91. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1529.png"
+    ],
+    "id": 1529
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 56, 57, 58, 59, and 92 can be used more than once (one in each polygon), so that the equality is correct. A total of four different numbers are used. Which number is not used? A: 59,B: 56,C: 57,D: 92,E: 58. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1530.png"
+    ],
+    "id": 1530
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 20, 41, 61, 63, and 82, one in each polygon, so that the equality is correct. Each number can be used more than once. Which number is not used? A: 41,B: 61,C: 82,D: 20,E: 63. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1534.png"
+    ],
+    "id": 1534
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 22, 25, 45, 69, and 72 can be used more than once (one in each polygon), so that the equality is correct. A total of four different numbers are used. Which number is not used? A: 45,B: 22,C: 69,D: 72,E: 25. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1535.png"
+    ],
+    "id": 1535
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 11, 27, 81, 87, and 97 can be used in the equality such that the equality is correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 81,B: 11,C: 87,D: 27,E: 97. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1571.png"
+    ],
+    "id": 1571
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 0, 6, 13, 48, and 55 that can be used more than once such that the equality is correct. A total of four different numbers are used. Which number is not used? A: 6,B: 55,C: 13,D: 48,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1578.png"
+    ],
+    "id": 1578
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 1, 9, 39, 68, and 78 can be used more than once, so that the equality is correct (one number per polygon). Which number is not used? A: 39,B: 9,C: 68,D: 78,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1580.png"
+    ],
+    "id": 1580
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 8, 15, 32, 79, and 96 are used, one in each polygon, to make the equality correct. Each of the used numbers can be used more than once. Which number is not used? A: 15,B: 32,C: 79,D: 8,E: 96. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1585.png"
+    ],
+    "id": 1585
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 20, 53, 55, 88, and 89 are used, one in each polygon, to make the equality correct. Each of the used numbers can be used more than once. Which number is not used? A: 89,B: 55,C: 53,D: 20,E: 88. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1586.png"
+    ],
+    "id": 1586
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 13, 24, 49, 86, and 100 that can be used more than once to make the equality correct. A total of four different numbers are used. Which number is not used? A: 49,B: 100,C: 24,D: 86,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1590.png"
+    ],
+    "id": 1590
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 18, 37, 45, 62, and 100 can be used in the equality, so that the equality is correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 100,B: 45,C: 62,D: 37,E: 18. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1591.png"
+    ],
+    "id": 1591
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 3, 72, 77, 92, and 97 can be used more than once, so that the equality is correct (one number per polygon). Which number is not used? A: 3,B: 97,C: 92,D: 77,E: 72. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1598.png"
+    ],
+    "id": 1598
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 8, 26, 36, 48, and 92 can be used more than once to make the equality correct (one number per polygon). Which number is not used? A: 48,B: 92,C: 26,D: 8,E: 36. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1599.png"
+    ],
+    "id": 1599
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 37, 48, 49, 82, and 83 are used, one in each polygon, so that the equality is correct. Each of the used numbers can be used more than once. Which number is not used? A: 37,B: 82,C: 49,D: 83,E: 48. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_162.png"
+    ],
+    "id": 162
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 14, 18, 24, 74, and 84 can be used more than once (one in each polygon) to make the equality correct. A total of four different numbers are used. Which number is not used? A: 84,B: 18,C: 14,D: 24,E: 74. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1632.png"
+    ],
+    "id": 1632
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 33, 40, 42, 59, and 61 are used, one in each polygon, so that the equality is correct. Each of the used numbers can be used more than once. Which number is not used? A: 59,B: 42,C: 40,D: 33,E: 61. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1634.png"
+    ],
+    "id": 1634
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 66, 71, 80, 86, and 91 can be used more than once to make the equality correct (one number per polygon). Which number is not used? A: 71,B: 86,C: 80,D: 91,E: 66. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1637.png"
+    ],
+    "id": 1637
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 33, 50, 56, 63, and 80 can be used more than once to make the equality correct (one number per polygon). Which number is not used? A: 33,B: 50,C: 56,D: 63,E: 80. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1639.png"
+    ],
+    "id": 1639
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 0, 20, 49, 51, and 69 can be used more than once (one in each polygon) such that the equality is correct. A total of four different numbers are used. Which number is not used? A: 69,B: 51,C: 20,D: 49,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1644.png"
+    ],
+    "id": 1644
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 1, 3, 4, 45, and 46 can be used more than once (one in each polygon) to make the equality correct. A total of four different numbers are used. Which number is not used? A: 1,B: 3,C: 45,D: 4,E: 46. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1649.png"
+    ],
+    "id": 1649
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 16, 58, 61, 90, and 93 can be used in the equality to make it correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 16,B: 90,C: 58,D: 61,E: 93. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1662.png"
+    ],
+    "id": 1662
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 12, 19, 80, 87, and 90 that can be used more than once such that the equality is correct. A total of four different numbers are used. Which number is not used? A: 19,B: 80,C: 90,D: 87,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1664.png"
+    ],
+    "id": 1664
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 4, 19, 50, 62, and 93, one in each polygon, such that the equality is correct. Each number can be used more than once. Which number is not used? A: 50,B: 19,C: 4,D: 62,E: 93. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_167.png"
+    ],
+    "id": 167
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 2, 9, 83, 94, and 99 can be used more than once, so that the equality is correct (one number per polygon). Which number is not used? A: 83,B: 99,C: 94,D: 2,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1679.png"
+    ],
+    "id": 1679
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 5, 8, 26, 49, and 62 can be used more than once (one in each polygon), so that the equality is correct. A total of four different numbers are used. Which number is not used? A: 5,B: 8,C: 26,D: 62,E: 49. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1686.png"
+    ],
+    "id": 1686
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 71, 76, 87, 94, and 99 can be used more than once (one in each polygon), so that the equality is correct. A total of four different numbers are used. Which number is not used? A: 94,B: 76,C: 99,D: 87,E: 71. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1688.png"
+    ],
+    "id": 1688
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 64, 72, 82, 90, and 91 can be used in the equality such that the equality is correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 64,B: 72,C: 91,D: 90,E: 82. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1696.png"
+    ],
+    "id": 1696
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 31, 52, 67, 86, and 88 can be used more than once (one in each polygon) such that the equality is correct. A total of four different numbers are used. Which number is not used? A: 31,B: 86,C: 67,D: 88,E: 52. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1699.png"
+    ],
+    "id": 1699
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 12, 33, 38, 45, and 95 are used, one in each polygon, so that the equality is correct. Each of the used numbers can be used more than once. Which number is not used? A: 38,B: 45,C: 12,D: 95,E: 33. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1701.png"
+    ],
+    "id": 1701
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 4, 16, 54, 56, and 94 are used, one in each polygon, so that the equality is correct. Each of the used numbers can be used more than once. Which number is not used? A: 54,B: 94,C: 56,D: 4,E: 16. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1706.png"
+    ],
+    "id": 1706
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 8, 24, 45, 51, and 72 can be used more than once (one in each polygon) such that the equality is correct. A total of four different numbers are used. Which number is not used? A: 8,B: 72,C: 45,D: 24,E: 51. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1708.png"
+    ],
+    "id": 1708
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 14, 26, 49, 79, and 89 are used, one in each polygon, to make the equality correct. Each of the used numbers can be used more than once. Which number is not used? A: 79,B: 14,C: 89,D: 26,E: 49. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1715.png"
+    ],
+    "id": 1715
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 7, 9, 27, 46, and 64 can be used more than once to make the equality correct (one number per polygon). Which number is not used? A: 27,B: 64,C: 9,D: 7,E: 46. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1716.png"
+    ],
+    "id": 1716
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 22, 37, 42, 70, and 85 that can be used more than once such that the equality is correct. A total of four different numbers are used. Which number is not used? A: 22,B: 70,C: 37,D: 42,E: 85. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1723.png"
+    ],
+    "id": 1723
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 14, 23, 34, 71, and 82 can be used more than once (one in each polygon) such that the equality is correct. A total of four different numbers are used. Which number is not used? A: 71,B: 34,C: 82,D: 23,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1725.png"
+    ],
+    "id": 1725
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 1, 15, 16, 26, and 43 can be used more than once (one in each polygon) to make the equality correct. A total of four different numbers are used. Which number is not used? A: 26,B: 15,C: 43,D: 1,E: 16. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1726.png"
+    ],
+    "id": 1726
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 5, 8, 34, 47, and 58 can be used more than once (one in each polygon) such that the equality is correct. A total of four different numbers are used. Which number is not used? A: 47,B: 5,C: 8,D: 34,E: 58. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1749.png"
+    ],
+    "id": 1749
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 45, 60, 65, 71, and 86 that can be used more than once to make the equality correct. A total of four different numbers are used. Which number is not used? A: 86,B: 45,C: 71,D: 60,E: 65. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1751.png"
+    ],
+    "id": 1751
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 34, 47, 82, 85, and 95 can be used more than once (one in each polygon) such that the equality is correct. A total of four different numbers are used. Which number is not used? A: 85,B: 82,C: 95,D: 34,E: 47. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1752.png"
+    ],
+    "id": 1752
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 6, 8, 57, 67, and 69 can be used more than once (one in each polygon), so that the equality is correct. A total of four different numbers are used. Which number is not used? A: 57,B: 8,C: 6,D: 67,E: 69. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1754.png"
+    ],
+    "id": 1754
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 17, 40, 47, 70, and 96 can be used in the equality such that the equality is correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 70,B: 96,C: 47,D: 40,E: 17. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1758.png"
+    ],
+    "id": 1758
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 1, 14, 21, 36, and 75 are used, one in each polygon, so that the equality is correct. Each of the used numbers can be used more than once. Which number is not used? A: 21,B: 14,C: 75,D: 1,E: 36. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1759.png"
+    ],
+    "id": 1759
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 16, 21, 36, 41, and 64, one in each polygon, such that the equality is correct. Each number can be used more than once. Which number is not used? A: 16,B: 64,C: 36,D: 21,E: 41. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1763.png"
+    ],
+    "id": 1763
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 33, 39, 57, 70, and 88 can be used more than once, so that the equality is correct (one number per polygon). Which number is not used? A: 33,B: 57,C: 39,D: 70,E: 88. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1773.png"
+    ],
+    "id": 1773
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 19, 30, 47, 63, and 80 that can be used more than once such that the equality is correct. A total of four different numbers are used. Which number is not used? A: 63,B: 47,C: 80,D: 19,E: 30. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1774.png"
+    ],
+    "id": 1774
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 4, 36, 48, 56, and 88 can be used more than once (one in each polygon), so that the equality is correct. A total of four different numbers are used. Which number is not used? A: 56,B: 36,C: 4,D: 88,E: 48. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1793.png"
+    ],
+    "id": 1793
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 13, 15, 26, 60, and 62 can be used more than once (one in each polygon) such that the equality is correct. A total of four different numbers are used. Which number is not used? A: 26,B: 60,C: 15,D: 62,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1796.png"
+    ],
+    "id": 1796
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 28, 54, 67, 79, and 92 that can be used more than once to make the equality correct. A total of four different numbers are used. Which number is not used? A: 54,B: 92,C: 28,D: 79,E: 67. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1797.png"
+    ],
+    "id": 1797
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 1, 56, 59, 62, and 65 can be used more than once (one in each polygon) such that the equality is correct. A total of four different numbers are used. Which number is not used? A: 59,B: 56,C: 65,D: 1,E: 62. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1807.png"
+    ],
+    "id": 1807
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 5, 17, 80, 87, and 92 are used, one in each polygon, so that the equality is correct. Each of the used numbers can be used more than once. Which number is not used? A: 17,B: 80,C: 5,D: 92,E: 87. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1809.png"
+    ],
+    "id": 1809
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 13, 33, 51, 81, and 99 that can be used more than once such that the equality is correct. A total of four different numbers are used. Which number is not used? A: 13,B: 51,C: 81,D: 33,E: 99. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1824.png"
+    ],
+    "id": 1824
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 3, 8, 62, 68, and 79 can be used more than once, so that the equality is correct (one number per polygon). Which number is not used? A: 62,B: 79,C: 8,D: 3,E: 68. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1836.png"
+    ],
+    "id": 1836
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 19, 20, 54, 93, and 94 can be used more than once, so that the equality is correct (one number per polygon). Which number is not used? A: 94,B: 20,C: 19,D: 93,E: 54. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1837.png"
+    ],
+    "id": 1837
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 6, 10, 13, 17, and 50 can be used in the equality such that the equality is correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 13,B: 50,C: 17,D: 6,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1840.png"
+    ],
+    "id": 1840
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 4, 21, 32, 39, and 67 are used, one in each polygon, such that the equality is correct. Each of the used numbers can be used more than once. Which number is not used? A: 32,B: 21,C: 39,D: 67,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1842.png"
+    ],
+    "id": 1842
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 2, 40, 45, 53, and 95 are used, one in each polygon, to make the equality correct. Each of the used numbers can be used more than once. Which number is not used? A: 95,B: 53,C: 40,D: 45,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1843.png"
+    ],
+    "id": 1843
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 26, 28, 45, 49, and 99 that can be used more than once, so that the equality is correct. A total of four different numbers are used. Which number is not used? A: 99,B: 26,C: 45,D: 28,E: 49. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1846.png"
+    ],
+    "id": 1846
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 6, 12, 34, 47, and 75 can be used more than once (one in each polygon) to make the equality correct. A total of four different numbers are used. Which number is not used? A: 12,B: 75,C: 47,D: 6,E: 34. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1849.png"
+    ],
+    "id": 1849
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 44, 45, 66, 72, and 94 can be used in the equality such that the equality is correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 72,B: 94,C: 44,D: 66,E: 45. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1852.png"
+    ],
+    "id": 1852
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 2, 5, 16, 55, and 76 that can be used more than once, so that the equality is correct. A total of four different numbers are used. Which number is not used? A: 5,B: 2,C: 76,D: 16,E: 55. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1863.png"
+    ],
+    "id": 1863
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 30, 31, 68, 95, and 96, one in each polygon, such that the equality is correct. Each number can be used more than once. Which number is not used? A: 95,B: 96,C: 31,D: 68,E: 30. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1864.png"
+    ],
+    "id": 1864
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 9, 26, 31, 48, and 87, one in each polygon, to make the equality correct. Each number can be used more than once. Which number is not used? A: 48,B: 9,C: 31,D: 87,E: 26. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_188.png"
+    ],
+    "id": 188
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 30, 48, 58, 72, and 82 are used, one in each polygon, to make the equality correct. Each of the used numbers can be used more than once. Which number is not used? A: 30,B: 82,C: 48,D: 58,E: 72. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1881.png"
+    ],
+    "id": 1881
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 1, 13, 39, 51, and 58 can be used more than once, so that the equality is correct (one number per polygon). Which number is not used? A: 39,B: 58,C: 13,D: 51,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1886.png"
+    ],
+    "id": 1886
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 46, 49, 76, 79, and 93 that can be used more than once, so that the equality is correct. A total of four different numbers are used. Which number is not used? A: 76,B: 46,C: 49,D: 93,E: 79. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1887.png"
+    ],
+    "id": 1887
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 36, 41, 51, 56, and 75, one in each polygon, so that the equality is correct. Each number can be used more than once. Which number is not used? A: 56,B: 51,C: 41,D: 36,E: 75. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1892.png"
+    ],
+    "id": 1892
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 3, 27, 51, 66, and 96 can be used more than once (one in each polygon) to make the equality correct. A total of four different numbers are used. Which number is not used? A: 96,B: 51,C: 66,D: 27,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1896.png"
+    ],
+    "id": 1896
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 7, 26, 48, 50, and 91 can be used more than once (one in each polygon) such that the equality is correct. A total of four different numbers are used. Which number is not used? A: 26,B: 7,C: 50,D: 48,E: 91. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_190.png"
+    ],
+    "id": 190
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 6, 30, 46, 62, and 98 that can be used more than once, so that the equality is correct. A total of four different numbers are used. Which number is not used? A: 62,B: 30,C: 98,D: 6,E: 46. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1900.png"
+    ],
+    "id": 1900
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 16, 19, 29, 34, and 69, one in each polygon, to make the equality correct. Each number can be used more than once. Which number is not used? A: 34,B: 19,C: 29,D: 16,E: 69. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1901.png"
+    ],
+    "id": 1901
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 44, 65, 70, 73, and 78 can be used more than once (one in each polygon), so that the equality is correct. A total of four different numbers are used. Which number is not used? A: 73,B: 65,C: 78,D: 70,E: 44. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1902.png"
+    ],
+    "id": 1902
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 3, 18, 60, 75, and 82, one in each polygon, to make the equality correct. Each number can be used more than once. Which number is not used? A: 60,B: 82,C: 3,D: 75,E: 18. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1916.png"
+    ],
+    "id": 1916
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 15, 23, 46, 48, and 71, one in each polygon, so that the equality is correct. Each number can be used more than once. Which number is not used? A: 23,B: 15,C: 48,D: 71,E: 46. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1926.png"
+    ],
+    "id": 1926
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 6, 22, 60, 69, and 85 that can be used more than once such that the equality is correct. A total of four different numbers are used. Which number is not used? A: 60,B: 69,C: 22,D: 6,E: 85. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1952.png"
+    ],
+    "id": 1952
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 16, 42, 68, 69, and 94 can be used in the equality to make it correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 69,B: 94,C: 68,D: 42,E: 16. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1953.png"
+    ],
+    "id": 1953
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 0, 7, 65, 71, and 72 that can be used more than once, so that the equality is correct. A total of four different numbers are used. Which number is not used? A: 0,B: 71,C: 65,D: 72,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1971.png"
+    ],
+    "id": 1971
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 4, 34, 49, 63, and 93 are used, one in each polygon, to make the equality correct. Each of the used numbers can be used more than once. Which number is not used? A: 49,B: 63,C: 93,D: 4,E: 34. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_198.png"
+    ],
+    "id": 198
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 25, 34, 61, 74, and 83, one in each polygon, to make the equality correct. Each number can be used more than once. Which number is not used? A: 74,B: 25,C: 34,D: 61,E: 83. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_1997.png"
+    ],
+    "id": 1997
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 13, 29, 46, 75, and 92 can be used more than once (one in each polygon) such that the equality is correct. A total of four different numbers are used. Which number is not used? A: 29,B: 13,C: 46,D: 92,E: 75. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_2.png"
+    ],
+    "id": 2
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 4, 19, 35, 76, and 99 can be used more than once such that the equality is correct (one number per polygon). Which number is not used? A: 4,B: 19,C: 99,D: 35,E: 76. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_201.png"
+    ],
+    "id": 201
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 21, 23, 37, 44, and 60 can be used in the equality such that the equality is correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 23,B: 21,C: 37,D: 44,E: 60. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_202.png"
+    ],
+    "id": 202
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 11, 20, 27, 45, and 92, one in each polygon, to make the equality correct. Each number can be used more than once. Which number is not used? A: 27,B: 45,C: 92,D: 11,E: 20. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_203.png"
+    ],
+    "id": 203
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 5, 65, 77, 78, and 90 can be used more than once (one in each polygon) such that the equality is correct. A total of four different numbers are used. Which number is not used? A: 5,B: 77,C: 90,D: 78,E: 65. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_206.png"
+    ],
+    "id": 206
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 6, 18, 43, 55, and 63 can be used in the equality, so that the equality is correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 55,B: 6,C: 43,D: 63,E: 18. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_207.png"
+    ],
+    "id": 207
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 21, 31, 33, 43, and 62 can be used in the equality, so that the equality is correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 21,B: 62,C: 33,D: 31,E: 43. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_21.png"
+    ],
+    "id": 21
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 3, 35, 50, 54, and 86 that can be used more than once to make the equality correct. A total of four different numbers are used. Which number is not used? A: 35,B: 54,C: 3,D: 50,E: 86. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_217.png"
+    ],
+    "id": 217
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 16, 17, 33, 35, and 66 that can be used more than once to make the equality correct. A total of four different numbers are used. Which number is not used? A: 17,B: 33,C: 16,D: 35,E: 66. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_22.png"
+    ],
+    "id": 22
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 4, 12, 36, 44, and 71 can be used more than once, so that the equality is correct (one number per polygon). Which number is not used? A: 4,B: 71,C: 12,D: 36,E: 44. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_220.png"
+    ],
+    "id": 220
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 17, 38, 68, 69, and 90, one in each polygon, so that the equality is correct. Each number can be used more than once. Which number is not used? A: 69,B: 68,C: 90,D: 17,E: 38. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_231.png"
+    ],
+    "id": 231
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 6, 56, 60, 73, and 77 that can be used more than once such that the equality is correct. A total of four different numbers are used. Which number is not used? A: 73,B: 6,C: 60,D: 56,E: 77. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_242.png"
+    ],
+    "id": 242
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 17, 19, 30, 40, and 87 can be used in the equality, so that the equality is correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 40,B: 19,C: 30,D: 87,E: 17. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_247.png"
+    ],
+    "id": 247
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 56, 63, 64, 86, and 94, one in each polygon, to make the equality correct. Each number can be used more than once. Which number is not used? A: 56,B: 64,C: 63,D: 86,E: 94. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_253.png"
+    ],
+    "id": 253
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 6, 8, 18, 60, and 74 can be used in the equality to make it correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 60,B: 18,C: 6,D: 8,E: 74. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_270.png"
+    ],
+    "id": 270
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 27, 52, 73, 84, and 98 can be used in the equality to make it correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 52,B: 98,C: 73,D: 84,E: 27. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_277.png"
+    ],
+    "id": 277
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 9, 15, 69, 75, and 97 can be used in the equality to make it correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 15,B: 69,C: 9,D: 97,E: 75. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_280.png"
+    ],
+    "id": 280
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 8, 14, 54, 58, and 64 that can be used more than once, so that the equality is correct. A total of four different numbers are used. Which number is not used? A: 14,B: 64,C: 58,D: 54,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_289.png"
+    ],
+    "id": 289
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 2, 6, 25, 66, and 97, one in each polygon, such that the equality is correct. Each number can be used more than once. Which number is not used? A: 2,B: 6,C: 25,D: 66,E: 97. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_294.png"
+    ],
+    "id": 294
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 0, 21, 30, 59, and 80 are used, one in each polygon, to make the equality correct. Each of the used numbers can be used more than once. Which number is not used? A: 30,B: 59,C: 0,D: 80,E: 21. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_296.png"
+    ],
+    "id": 296
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 11, 20, 31, 62, and 94 are used, one in each polygon, such that the equality is correct. Each of the used numbers can be used more than once. Which number is not used? A: 62,B: 11,C: 20,D: 31,E: 94. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_316.png"
+    ],
+    "id": 316
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 9, 18, 67, 70, and 94 that can be used more than once to make the equality correct. A total of four different numbers are used. Which number is not used? A: 70,B: 67,C: 18,D: 9,E: 94. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_318.png"
+    ],
+    "id": 318
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 7, 10, 13, 59, and 79 that can be used more than once such that the equality is correct. A total of four different numbers are used. Which number is not used? A: 13,B: 59,C: 7,D: 10,E: 79. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_331.png"
+    ],
+    "id": 331
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 45, 60, 63, 78, and 92 that can be used more than once to make the equality correct. A total of four different numbers are used. Which number is not used? A: 45,B: 92,C: 63,D: 78,E: 60. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_338.png"
+    ],
+    "id": 338
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 10, 21, 45, 54, and 65, one in each polygon, to make the equality correct. Each number can be used more than once. Which number is not used? A: 65,B: 21,C: 54,D: 10,E: 45. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_344.png"
+    ],
+    "id": 344
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 5, 7, 12, 23, and 30, one in each polygon, such that the equality is correct. Each number can be used more than once. Which number is not used? A: 23,B: 5,C: 30,D: 12,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_35.png"
+    ],
+    "id": 35
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 24, 26, 27, 47, and 98 can be used more than once (one in each polygon), so that the equality is correct. A total of four different numbers are used. Which number is not used? A: 27,B: 26,C: 47,D: 98,E: 24. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_379.png"
+    ],
+    "id": 379
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 1, 25, 47, 68, and 73 that can be used more than once to make the equality correct. A total of four different numbers are used. Which number is not used? A: 1,B: 73,C: 47,D: 68,E: 25. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_380.png"
+    ],
+    "id": 380
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 4, 12, 41, 57, and 66 are used, one in each polygon, so that the equality is correct. Each of the used numbers can be used more than once. Which number is not used? A: 4,B: 41,C: 12,D: 57,E: 66. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_385.png"
+    ],
+    "id": 385
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 12, 42, 48, 49, and 85 can be used in the equality, so that the equality is correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 12,B: 49,C: 85,D: 42,E: 48. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_386.png"
+    ],
+    "id": 386
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 15, 20, 25, 32, and 67 can be used more than once such that the equality is correct (one number per polygon). Which number is not used? A: 25,B: 67,C: 15,D: 32,E: 20. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_388.png"
+    ],
+    "id": 388
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 9, 75, 78, 87, and 90 that can be used more than once to make the equality correct. A total of four different numbers are used. Which number is not used? A: 78,B: 90,C: 87,D: 9,E: 75. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_392.png"
+    ],
+    "id": 392
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 2, 11, 16, 21, and 48 are used, one in each polygon, so that the equality is correct. Each of the used numbers can be used more than once. Which number is not used? A: 21,B: 48,C: 2,D: 16,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_393.png"
+    ],
+    "id": 393
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 2, 8, 22, 67, and 73 are used, one in each polygon, such that the equality is correct. Each of the used numbers can be used more than once. Which number is not used? A: 8,B: 22,C: 2,D: 67,E: 73. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_398.png"
+    ],
+    "id": 398
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 6, 40, 42, 56, and 92 that can be used more than once such that the equality is correct. A total of four different numbers are used. Which number is not used? A: 56,B: 92,C: 40,D: 6,E: 42. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_401.png"
+    ],
+    "id": 401
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 1, 10, 21, 65, and 96 are used, one in each polygon, so that the equality is correct. Each of the used numbers can be used more than once. Which number is not used? A: 21,B: 65,C: 10,D: 1,E: 96. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_402.png"
+    ],
+    "id": 402
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 16, 22, 50, 88, and 89 can be used in the equality such that the equality is correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 50,B: 22,C: 89,D: 16,E: 88. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_407.png"
+    ],
+    "id": 407
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 5, 12, 40, 47, and 99 that can be used more than once to make the equality correct. A total of four different numbers are used. Which number is not used? A: 40,B: 99,C: 5,D: 47,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_41.png"
+    ],
+    "id": 41
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 25, 30, 44, 84, and 89 can be used more than once such that the equality is correct (one number per polygon). Which number is not used? A: 30,B: 89,C: 25,D: 44,E: 84. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_419.png"
+    ],
+    "id": 419
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 10, 22, 59, 69, and 91, one in each polygon, to make the equality correct. Each number can be used more than once. Which number is not used? A: 91,B: 69,C: 10,D: 22,E: 59. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_442.png"
+    ],
+    "id": 442
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 1, 28, 61, 68, and 95, one in each polygon, so that the equality is correct. Each number can be used more than once. Which number is not used? A: 28,B: 1,C: 95,D: 68,E: 61. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_456.png"
+    ],
+    "id": 456
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 5, 43, 52, 61, and 100 are used, one in each polygon, to make the equality correct. Each of the used numbers can be used more than once. Which number is not used? A: 100,B: 43,C: 5,D: 52,E: 61. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_460.png"
+    ],
+    "id": 460
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 12, 13, 41, 42, and 45 can be used more than once (one in each polygon) such that the equality is correct. A total of four different numbers are used. Which number is not used? A: 42,B: 13,C: 12,D: 45,E: 41. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_467.png"
+    ],
+    "id": 467
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 30, 32, 35, 58, and 97 can be used more than once (one in each polygon) to make the equality correct. A total of four different numbers are used. Which number is not used? A: 32,B: 35,C: 97,D: 58,E: 30. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_475.png"
+    ],
+    "id": 475
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 35, 59, 69, 72, and 82 can be used in the equality to make it correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 82,B: 59,C: 69,D: 72,E: 35. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_485.png"
+    ],
+    "id": 485
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 33, 54, 66, 84, and 87 are used, one in each polygon, to make the equality correct. Each of the used numbers can be used more than once. Which number is not used? A: 84,B: 33,C: 54,D: 87,E: 66. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_493.png"
+    ],
+    "id": 493
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 16, 21, 65, 70, and 94 can be used more than once (one in each polygon) such that the equality is correct. A total of four different numbers are used. Which number is not used? A: 21,B: 16,C: 94,D: 70,E: 65. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_503.png"
+    ],
+    "id": 503
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 12, 13, 26, 51, and 93, one in each polygon, so that the equality is correct. Each number can be used more than once. Which number is not used? A: 13,B: 93,C: 51,D: 12,E: 26. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_509.png"
+    ],
+    "id": 509
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 22, 71, 79, 88, and 96 are used, one in each polygon, to make the equality correct. Each of the used numbers can be used more than once. Which number is not used? A: 22,B: 71,C: 79,D: 88,E: 96. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_511.png"
+    ],
+    "id": 511
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 29, 36, 58, 64, and 71 can be used more than once, so that the equality is correct (one number per polygon). Which number is not used? A: 58,B: 64,C: 36,D: 71,E: 29. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_521.png"
+    ],
+    "id": 521
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 4, 42, 50, 57, and 65 can be used more than once such that the equality is correct (one number per polygon). Which number is not used? A: 50,B: 57,C: 65,D: 4,E: 42. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_525.png"
+    ],
+    "id": 525
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 24, 34, 55, 65, and 92 can be used in the equality to make it correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 65,B: 55,C: 34,D: 24,E: 92. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_541.png"
+    ],
+    "id": 541
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 6, 20, 47, 69, and 96 can be used more than once (one in each polygon) such that the equality is correct. A total of four different numbers are used. Which number is not used? A: 69,B: 6,C: 96,D: 47,E: 20. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_557.png"
+    ],
+    "id": 557
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 8, 13, 15, 36, and 49, one in each polygon, so that the equality is correct. Each number can be used more than once. Which number is not used? A: 49,B: 8,C: 15,D: 13,E: 36. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_563.png"
+    ],
+    "id": 563
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 32, 36, 55, 84, and 88 are used, one in each polygon, to make the equality correct. Each of the used numbers can be used more than once. Which number is not used? A: 32,B: 36,C: 84,D: 88,E: 55. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_564.png"
+    ],
+    "id": 564
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 4, 6, 38, 41, and 85 can be used more than once (one in each polygon) such that the equality is correct. A total of four different numbers are used. Which number is not used? A: 4,B: 41,C: 38,D: 85,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_565.png"
+    ],
+    "id": 565
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 27, 34, 61, 64, and 68 that can be used more than once, so that the equality is correct. A total of four different numbers are used. Which number is not used? A: 68,B: 64,C: 61,D: 34,E: 27. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_566.png"
+    ],
+    "id": 566
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 69, 72, 91, 94, and 95 are used, one in each polygon, so that the equality is correct. Each of the used numbers can be used more than once. Which number is not used? A: 69,B: 94,C: 95,D: 91,E: 72. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_578.png"
+    ],
+    "id": 578
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 5, 14, 60, 73, and 82 that can be used more than once, so that the equality is correct. A total of four different numbers are used. Which number is not used? A: 60,B: 14,C: 73,D: 82,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_593.png"
+    ],
+    "id": 593
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 1, 2, 57, 67, and 70 that can be used more than once, so that the equality is correct. A total of four different numbers are used. Which number is not used? A: 2,B: 57,C: 1,D: 67,E: 70. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_601.png"
+    ],
+    "id": 601
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 5, 8, 59, 60, and 62 that can be used more than once to make the equality correct. A total of four different numbers are used. Which number is not used? A: 8,B: 60,C: 5,D: 62,E: 59. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_609.png"
+    ],
+    "id": 609
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 12, 46, 52, 53, and 59, one in each polygon, to make the equality correct. Each number can be used more than once. Which number is not used? A: 59,B: 46,C: 53,D: 12,E: 52. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_613.png"
+    ],
+    "id": 613
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 17, 32, 51, 62, and 96, one in each polygon, such that the equality is correct. Each number can be used more than once. Which number is not used? A: 32,B: 51,C: 17,D: 62,E: 96. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_628.png"
+    ],
+    "id": 628
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 8, 13, 15, 49, and 77 can be used more than once (one in each polygon), so that the equality is correct. A total of four different numbers are used. Which number is not used? A: 77,B: 13,C: 15,D: 8,E: 49. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_633.png"
+    ],
+    "id": 633
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 42, 55, 60, 67, and 85 that can be used more than once to make the equality correct. A total of four different numbers are used. Which number is not used? A: 67,B: 55,C: 85,D: 60,E: 42. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_642.png"
+    ],
+    "id": 642
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 48, 58, 66, 73, and 81, one in each polygon, to make the equality correct. Each number can be used more than once. Which number is not used? A: 73,B: 81,C: 48,D: 58,E: 66. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_643.png"
+    ],
+    "id": 643
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 16, 24, 37, 61, and 69 can be used in the equality, so that the equality is correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 16,B: 69,C: 37,D: 24,E: 61. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_646.png"
+    ],
+    "id": 646
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 23, 27, 43, 47, and 48 are used, one in each polygon, to make the equality correct. Each of the used numbers can be used more than once. Which number is not used? A: 48,B: 23,C: 27,D: 47,E: 43. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_647.png"
+    ],
+    "id": 647
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 6, 7, 78, 85, and 91, one in each polygon, to make the equality correct. Each number can be used more than once. Which number is not used? A: 6,B: 7,C: 85,D: 78,E: 91. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_648.png"
+    ],
+    "id": 648
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 6, 9, 13, 16, and 95, one in each polygon, to make the equality correct. Each number can be used more than once. Which number is not used? A: 95,B: 9,C: 16,D: 6,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_649.png"
+    ],
+    "id": 649
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 11, 24, 73, 79, and 86 are used, one in each polygon, such that the equality is correct. Each of the used numbers can be used more than once. Which number is not used? A: 11,B: 86,C: 73,D: 24,E: 79. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_65.png"
+    ],
+    "id": 65
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 2, 28, 42, 66, and 72 that can be used more than once to make the equality correct. A total of four different numbers are used. Which number is not used? A: 28,B: 66,C: 42,D: 72,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_664.png"
+    ],
+    "id": 664
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 11, 20, 48, 79, and 99, one in each polygon, such that the equality is correct. Each number can be used more than once. Which number is not used? A: 11,B: 20,C: 48,D: 79,E: 99. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_682.png"
+    ],
+    "id": 682
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 48, 58, 65, 77, and 94 can be used in the equality, so that the equality is correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 48,B: 77,C: 94,D: 65,E: 58. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_684.png"
+    ],
+    "id": 684
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 54, 62, 72, 77, and 87, one in each polygon, such that the equality is correct. Each number can be used more than once. Which number is not used? A: 62,B: 77,C: 72,D: 87,E: 54. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_687.png"
+    ],
+    "id": 687
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 25, 45, 62, 72, and 82 can be used more than once such that the equality is correct (one number per polygon). Which number is not used? A: 72,B: 25,C: 62,D: 45,E: 82. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_699.png"
+    ],
+    "id": 699
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 11, 24, 37, 50, and 65 can be used more than once to make the equality correct (one number per polygon). Which number is not used? A: 11,B: 65,C: 37,D: 24,E: 50. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_700.png"
+    ],
+    "id": 700
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 10, 18, 34, 36, and 60 are used, one in each polygon, such that the equality is correct. Each of the used numbers can be used more than once. Which number is not used? A: 18,B: 60,C: 34,D: 10,E: 36. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_703.png"
+    ],
+    "id": 703
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 6, 33, 47, 72, and 86 can be used in the equality, so that the equality is correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 72,B: 33,C: 47,D: 6,E: 86. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_710.png"
+    ],
+    "id": 710
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 35, 61, 67, 94, and 100 are used, one in each polygon, to make the equality correct. Each of the used numbers can be used more than once. Which number is not used? A: 67,B: 94,C: 35,D: 100,E: 61. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_720.png"
+    ],
+    "id": 720
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 28, 30, 46, 62, and 64 that can be used more than once such that the equality is correct. A total of four different numbers are used. Which number is not used? A: 62,B: 30,C: 46,D: 64,E: 28. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_726.png"
+    ],
+    "id": 726
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 7, 44, 48, 57, and 61 that can be used more than once such that the equality is correct. A total of four different numbers are used. Which number is not used? A: 48,B: 44,C: 57,D: 7,E: 61. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_730.png"
+    ],
+    "id": 730
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 5, 32, 49, 86, and 93, one in each polygon, so that the equality is correct. Each number can be used more than once. Which number is not used? A: 5,B: 93,C: 49,D: 32,E: 86. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_743.png"
+    ],
+    "id": 743
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 28, 29, 52, 60, and 83, one in each polygon, to make the equality correct. Each number can be used more than once. Which number is not used? A: 28,B: 29,C: 60,D: 52,E: 83. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_748.png"
+    ],
+    "id": 748
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 24, 39, 52, 71, and 99 are used, one in each polygon, to make the equality correct. Each of the used numbers can be used more than once. Which number is not used? A: 24,B: 52,C: 71,D: 99,E: 39. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_749.png"
+    ],
+    "id": 749
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 18, 33, 76, 79, and 91 are used, one in each polygon, to make the equality correct. Each of the used numbers can be used more than once. Which number is not used? A: 79,B: 18,C: 91,D: 76,E: 33. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_752.png"
+    ],
+    "id": 752
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 14, 23, 24, 40, and 78 can be used more than once (one in each polygon) such that the equality is correct. A total of four different numbers are used. Which number is not used? A: 24,B: 14,C: 23,D: 78,E: 40. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_764.png"
+    ],
+    "id": 764
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 38, 52, 66, 80, and 86, one in each polygon, such that the equality is correct. Each number can be used more than once. Which number is not used? A: 66,B: 86,C: 38,D: 52,E: 80. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_767.png"
+    ],
+    "id": 767
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 1, 11, 42, 52, and 78 that can be used more than once to make the equality correct. A total of four different numbers are used. Which number is not used? A: 11,B: 1,C: 52,D: 42,E: 78. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_770.png"
+    ],
+    "id": 770
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 4, 40, 45, 84, and 89, one in each polygon, so that the equality is correct. Each number can be used more than once. Which number is not used? A: 89,B: 4,C: 40,D: 45,E: 84. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_776.png"
+    ],
+    "id": 776
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 5, 24, 34, 75, and 94 can be used in the equality to make it correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 5,B: 75,C: 34,D: 94,E: 24. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_777.png"
+    ],
+    "id": 777
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 66, 69, 71, 81, and 84 can be used more than once such that the equality is correct (one number per polygon). Which number is not used? A: 71,B: 84,C: 69,D: 81,E: 66. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_780.png"
+    ],
+    "id": 780
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 28, 35, 62, 69, and 83 can be used more than once, so that the equality is correct (one number per polygon). Which number is not used? A: 69,B: 35,C: 28,D: 83,E: 62. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_792.png"
+    ],
+    "id": 792
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 24, 38, 65, 78, and 79 can be used more than once such that the equality is correct (one number per polygon). Which number is not used? A: 65,B: 24,C: 78,D: 79,E: 38. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_795.png"
+    ],
+    "id": 795
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 11, 43, 49, 92, and 98 can be used in the equality, so that the equality is correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 98,B: 11,C: 49,D: 43,E: 92. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_796.png"
+    ],
+    "id": 796
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 9, 23, 40, 81, and 95 that can be used more than once to make the equality correct. A total of four different numbers are used. Which number is not used? A: 9,B: 95,C: 40,D: 81,E: 23. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_805.png"
+    ],
+    "id": 805
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 0, 26, 51, 77, and 93 can be used more than once (one in each polygon) to make the equality correct. A total of four different numbers are used. Which number is not used? A: 77,B: 26,C: 93,D: 51,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_806.png"
+    ],
+    "id": 806
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 17, 18, 25, 26, and 63 can be used in the equality such that the equality is correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 63,B: 18,C: 26,D: 17,E: 25. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_816.png"
+    ],
+    "id": 816
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 26, 42, 78, 90, and 94 can be used in the equality to make it correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 42,B: 78,C: 90,D: 26,E: 94. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_832.png"
+    ],
+    "id": 832
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 11, 35, 39, 60, and 85, one in each polygon, to make the equality correct. Each number can be used more than once. Which number is not used? A: 85,B: 35,C: 11,D: 39,E: 60. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_836.png"
+    ],
+    "id": 836
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 3, 24, 41, 49, and 68 that can be used more than once such that the equality is correct. A total of four different numbers are used. Which number is not used? A: 3,B: 24,C: 68,D: 49,E: 41. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_841.png"
+    ],
+    "id": 841
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 5, 13, 31, 45, and 63 are used, one in each polygon, so that the equality is correct. Each of the used numbers can be used more than once. Which number is not used? A: 31,B: 63,C: 5,D: 13,E: 45. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_855.png"
+    ],
+    "id": 855
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 22, 23, 54, 62, and 93 are used, one in each polygon, to make the equality correct. Each of the used numbers can be used more than once. Which number is not used? A: 54,B: 93,C: 22,D: 23,E: 62. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_857.png"
+    ],
+    "id": 857
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 50, 57, 64, 68, and 82 can be used more than once (one in each polygon), so that the equality is correct. A total of four different numbers are used. Which number is not used? A: 50,B: 64,C: 57,D: 68,E: 82. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_861.png"
+    ],
+    "id": 861
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 5, 58, 59, 96, and 97 are used, one in each polygon, to make the equality correct. Each of the used numbers can be used more than once. Which number is not used? A: 96,B: 58,C: 5,D: 97,E: 59. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_864.png"
+    ],
+    "id": 864
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 25, 39, 76, 80, and 94 can be used in the equality to make it correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 80,B: 25,C: 39,D: 76,E: 94. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_871.png"
+    ],
+    "id": 871
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 14, 18, 20, 52, and 74 can be used more than once to make the equality correct (one number per polygon). Which number is not used? A: 52,B: 14,C: 18,D: 74,E: 20. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_872.png"
+    ],
+    "id": 872
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 22, 39, 52, 69, and 85, one in each polygon, such that the equality is correct. Each number can be used more than once. Which number is not used? A: 39,B: 69,C: 22,D: 52,E: 85. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_879.png"
+    ],
+    "id": 879
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 36, 50, 70, 76, and 96 are used, one in each polygon, such that the equality is correct. Each of the used numbers can be used more than once. Which number is not used? A: 50,B: 70,C: 76,D: 96,E: 36. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_88.png"
+    ],
+    "id": 88
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 3, 19, 30, 85, and 96 are used, one in each polygon, so that the equality is correct. Each of the used numbers can be used more than once. Which number is not used? A: 3,B: 30,C: 85,D: 96,E: 19. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_884.png"
+    ],
+    "id": 884
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 6, 9, 29, 40, and 44 that can be used more than once, so that the equality is correct. A total of four different numbers are used. Which number is not used? A: 40,B: 44,C: 29,D: 6,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_892.png"
+    ],
+    "id": 892
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 33, 48, 62, 82, and 97 that can be used more than once such that the equality is correct. A total of four different numbers are used. Which number is not used? A: 82,B: 97,C: 48,D: 62,E: 33. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_898.png"
+    ],
+    "id": 898
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 23, 24, 29, 76, and 87 that can be used more than once such that the equality is correct. A total of four different numbers are used. Which number is not used? A: 76,B: 23,C: 29,D: 24,E: 87. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_92.png"
+    ],
+    "id": 92
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 23, 37, 69, 84, and 98 can be used in the equality, so that the equality is correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 69,B: 84,C: 98,D: 37,E: 23. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_930.png"
+    ],
+    "id": 930
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 41, 43, 62, 66, and 85 can be used more than once to make the equality correct (one number per polygon). Which number is not used? A: 66,B: 62,C: 41,D: 85,E: 43. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_952.png"
+    ],
+    "id": 952
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 9, 16, 21, 75, and 82 can be used in the equality to make it correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 16,B: 9,C: 82,D: 75,E: 21. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_956.png"
+    ],
+    "id": 956
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 8, 24, 32, 48, and 58 can be used in the equality, so that the equality is correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 8,B: 32,C: 24,D: 48,E: 58. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_958.png"
+    ],
+    "id": 958
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 32, 37, 48, 53, and 67 that can be used more than once to make the equality correct. A total of four different numbers are used. Which number is not used? A: 53,B: 48,C: 67,D: 37,E: 32. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_96.png"
+    ],
+    "id": 96
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 41, 42, 59, 60, and 87 can be used more than once (one in each polygon) such that the equality is correct. A total of four different numbers are used. Which number is not used? A: 41,B: 60,C: 42,D: 87,E: 59. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_961.png"
+    ],
+    "id": 961
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The problem requires the use of four different numbers from 0, 9, 62, 71, and 79, one in each polygon, so that the equality is correct. Each number can be used more than once. Which number is not used? A: 0,B: 71,C: 9,D: 79,E: 62. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_973.png"
+    ],
+    "id": 973
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Each number from 41, 54, 58, 71, and 77 can be used more than once (one in each polygon) to make the equality correct. A total of four different numbers are used. Which number is not used? A: 77,B: 41,C: 54,D: 58,E: 71. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_976.png"
+    ],
+    "id": 976
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: In each polygon of the equalty, there are four numbers from 7, 17, 65, 71, and 95 that can be used more than once to make the equality correct. A total of four different numbers are used. Which number is not used? A: 17,B: 7,C: 71,D: 65,E: 95. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_982.png"
+    ],
+    "id": 982
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The numbers from 1, 2, 24, 78, and 100 can be used in the equality, so that the equality is correct (one in each polygon). Each number can be used more than once. A total of four different numbers are used. Which number is not used? A: 78,B: 100,C: 24,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_99.png"
+    ],
+    "id": 99
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Four different numbers from 42, 61, 64, 97, and 100 are used, one in each polygon, to make the equality correct. Each of the used numbers can be used more than once. Which number is not used? A: 42,B: 100,C: 64,D: 97,E: 61. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/6/img/puzzle_6_e_996.png"
+    ],
+    "id": 996
+  }
+]

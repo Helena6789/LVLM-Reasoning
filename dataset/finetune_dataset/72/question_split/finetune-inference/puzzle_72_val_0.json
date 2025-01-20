@@ -1,0 +1,1602 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<image>\nCrystal desires to write values [10 11 12 15 16 17] within the 6 squares of the figure. She desires a unique value in every square. She desires both the sum of the values in the brown squares and the sum of the values in the white squares to be 33. What value must she write in the square with the question mark? A: 10,B: 15,C: 11,D: 12,E: 20",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1014.png"
+    ],
+    "id": 1014
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nJennifer wants to write numbers [0 1 2 3 6 7] inside the 6 squares of the figure. She wants a unique number in every square. She wants both the sum of the numbers in the blue squares and the sum of the numbers in the white squares to be 8. What number should she write in the square with the question mark? A: 6,B: 3,C: 2,D: 0,E: 10",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_103.png"
+    ],
+    "id": 103
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFelicia desires to write digits [ 3  4  7  8  9 10] inside the 6 blocks of the picture. She desires a different digit in each block. She desires both the sum of the digits in the red blocks and the sum of the digits in the white blocks to be 19. What digit should she write in the block with the question mark? A: 8,B: 13,C: 7,D: 3,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1045.png"
+    ],
+    "id": 1045
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWilliam wants to write values [ 5  6  7 10 11 13] inside the 6 blocks of the picture. He wants a distinct value in each block. He wants both the sum of the values in the white blocks and the sum of the values in the red blocks to be 23. What value must he write in the block with the question mark? A: 7,B: 6,C: 5,D: 15,E: 11",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1060.png"
+    ],
+    "id": 1060
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBrian desires to write values [0 3 4 6 7 8] inside the 6 squares of the drawing. He desires a different value in each square. He desires both the sum of the values in the brown squares and the sum of the values in the red squares to be 11. What value must he write in the square with the question mark? A: 6,B: 3,C: 8,D: 11,E: 0",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1122.png"
+    ],
+    "id": 1122
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nKathryn wants to write numbers [ 6  7  8  9 11 13] within the 6 squares of the figure. She wants a different number in each square. She wants both the sum of the numbers in the green squares and the sum of the numbers in the brown squares to be 24. What number must she write in the square with the question mark? A: 6,B: 8,C: 17,D: 9,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1135.png"
+    ],
+    "id": 1135
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nKatherine desires to write numbers [ 5  6  7  8  9 11 12 13] within the 8 squares of the figure. She desires a different number in each square. She desires both the sum of the numbers in the blue squares and the sum of the numbers in the gray squares to be 31. What number should she write in the square with the question mark? A: 9,B: 6,C: 12,D: 5,E: 8",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1143.png"
+    ],
+    "id": 1143
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nJohn desires to write numbers [ 3  4  5  6  7  8  9 10] within the 8 squares of the figure. He desires a distinct number in each square. He desires both the sum of the numbers in the blue squares and the sum of the numbers in the brown squares to be 22. What number must he write in the square with the question mark? A: 10,B: 8,C: 5,D: 3,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1147.png"
+    ],
+    "id": 1147
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nChristine wants to write digits [1 2 5 6 7 8] within the 6 squares of the drawing. She wants a distinct digit in each square. She wants both the sum of the digits in the blue squares and the sum of the digits in the red squares to be 14. What digit should she write in the square with the question mark? A: 11,B: 7,C: 2,D: 5,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1158.png"
+    ],
+    "id": 1158
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nRachel desires to write values [ 2  5  6  7  8 10] inside the 6 blocks of the drawing. She desires a different value in each block. She desires both the sum of the values in the blue blocks and the sum of the values in the red blocks to be 18. What value should she write in the block with the question mark? A: 2,B: 7,C: 6,D: 5,E: 14",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1171.png"
+    ],
+    "id": 1171
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nDustin desires to write digits [ 6  7  8  9 10 11 12 14] inside the 8 squares of the drawing. He desires a unique digit in each square. He desires both the sum of the digits in the brown squares and the sum of the digits in the blue squares to be 35. What digit must he write in the square with the question mark? A: 12,B: 6,C: 7,D: 9,E: 8",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1186.png"
+    ],
+    "id": 1186
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nStephen desires to write digits [ 6  7  9 10 12 14] within the 6 blocks of the drawing. He desires a unique digit in every block. He desires both the sum of the digits in the red blocks and the sum of the digits in the blue blocks to be 23. What digit should he write in the block with the question mark? A: 6,B: 12,C: 10,D: 7,E: 15",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1218.png"
+    ],
+    "id": 1218
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAriel desires to write digits [0 1 3 4 6 7] within the 6 blocks of the picture. He desires a different digit in every block. He desires both the sum of the digits in the brown blocks and the sum of the digits in the white blocks to be 7. What digit should he write in the block with the question mark? A: 3,B: 4,C: 8,D: 0,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1250.png"
+    ],
+    "id": 1250
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nDaniel desires to write values [ 4  5  6  7  8  9 11 12] within the 8 squares of the picture. He desires a different value in every square. He desires both the sum of the values in the white squares and the sum of the values in the gray squares to be 29. What value should he write in the square with the question mark? A: 7,B: 4,C: 8,D: 9,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1300.png"
+    ],
+    "id": 1300
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nJoseph wants to write digits [ 6  7  8  9 11 12] within the 6 blocks of the drawing. He wants a unique digit in each block. He wants both the sum of the digits in the gray blocks and the sum of the digits in the green blocks to be 21. What digit must he write in the block with the question mark? A: 6,B: 7,C: 8,D: 11,E: 16",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1321.png"
+    ],
+    "id": 1321
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nJasmine wants to write values [ 4  5  6  7  8  9 11 12] within the 8 squares of the picture. She wants a distinct value in each square. She wants both the sum of the values in the red squares and the sum of the values in the gray squares to be 29. What value must she write in the square with the question mark? A: 5,B: 9,C: 7,D: 8,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1327.png"
+    ],
+    "id": 1327
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLisa wants to write values [1 2 3 4 5 6 7 8] inside the 8 blocks of the drawing. She wants a distinct value in every block. She wants both the sum of the values in the gray blocks and the sum of the values in the red blocks to be 16. What value should she write in the block with the question mark? A: 6,B: 2,C: 1,D: 7,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1349.png"
+    ],
+    "id": 1349
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPamela wants to write numbers [2 3 5 7 8 9] within the 6 squares of the picture. She wants a different number in every square. She wants both the sum of the numbers in the white squares and the sum of the numbers in the red squares to be 16. What number must she write in the square with the question mark? A: 5,B: 2,C: 13,D: 8,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1372.png"
+    ],
+    "id": 1372
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nMichele wants to write digits [ 6  7  8 10 11 13] inside the 6 squares of the figure. She wants a unique digit in every square. She wants both the sum of the digits in the green squares and the sum of the digits in the white squares to be 21. What digit must she write in the square with the question mark? A: 7,B: 8,C: 15,D: 6,E: 13",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1388.png"
+    ],
+    "id": 1388
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nTyler desires to write digits [ 4  5  6  9 11 12] inside the 6 squares of the picture. She desires a unique digit in each square. She desires both the sum of the digits in the red squares and the sum of the digits in the gray squares to be 18. What digit should she write in the square with the question mark? A: 9,B: 4,C: 14,D: 11,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1398.png"
+    ],
+    "id": 1398
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAmy desires to write digits [ 6  7  8  9 10 12 13 14] inside the 8 squares of the drawing. She desires a unique digit in each square. She desires both the sum of the digits in the green squares and the sum of the digits in the red squares to be 33. What digit should she write in the square with the question mark? A: 13,B: 6,C: 12,D: 8,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1415.png"
+    ],
+    "id": 1415
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAriel desires to write digits [ 9 10 11 12 13 14 15 17] inside the 8 blocks of the picture. He desires a different digit in each block. He desires both the sum of the digits in the blue blocks and the sum of the digits in the red blocks to be 44. What digit should he write in the block with the question mark? A: 13,B: 10,C: 11,D: 9,E: 14",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1438.png"
+    ],
+    "id": 1438
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHolly desires to write digits [ 2  3  4  5  6  7  8 10] within the 8 squares of the figure. She desires a unique digit in every square. She desires both the sum of the digits in the blue squares and the sum of the digits in the green squares to be 19. What digit should she write in the square with the question mark? A: 5,B: 7,C: 8,D: 4,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1443.png"
+    ],
+    "id": 1443
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nJon wants to write digits [ 7  9 10 12 14 15] inside the 6 squares of the figure. He wants a unique digit in each square. He wants both the sum of the digits in the gray squares and the sum of the digits in the blue squares to be 26. What digit should he write in the square with the question mark? A: 15,B: 10,C: 7,D: 18,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1445.png"
+    ],
+    "id": 1445
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLawrence desires to write values [ 4  5  6  7  8 11] within the 6 squares of the figure. He desires a unique value in each square. He desires both the sum of the values in the blue squares and the sum of the values in the green squares to be 17. What value must he write in the square with the question mark? A: 5,B: 12,C: 8,D: 7,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_146.png"
+    ],
+    "id": 146
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nKevin desires to write numbers [2 3 4 5 6 8] within the 6 blocks of the figure. He desires a unique number in each block. He desires both the sum of the numbers in the brown blocks and the sum of the numbers in the white blocks to be 10. What number must he write in the block with the question mark? A: 5,B: 2,C: 3,D: 10,E: 8",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_150.png"
+    ],
+    "id": 150
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nJohnny wants to write values [ 2  3  5  6  7  8  9 10] within the 8 blocks of the figure. He wants a unique value in every block. He wants both the sum of the values in the gray blocks and the sum of the values in the red blocks to be 24. What value must he write in the block with the question mark? A: 8,B: 3,C: 2,D: 7,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_151.png"
+    ],
+    "id": 151
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nMelissa desires to write numbers [ 7  8  9 10 11 12 14 15] within the 8 blocks of the drawing. She desires a distinct number in each block. She desires both the sum of the numbers in the green blocks and the sum of the numbers in the white blocks to be 37. What number should she write in the block with the question mark? A: 11,B: 10,C: 12,D: 7,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_152.png"
+    ],
+    "id": 152
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nJon desires to write numbers [0 2 3 5 6 8] inside the 6 squares of the drawing. He desires a different number in each square. He desires both the sum of the numbers in the brown squares and the sum of the numbers in the red squares to be 8. What number must he write in the square with the question mark? A: 5,B: 0,C: 8,D: 11,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1527.png"
+    ],
+    "id": 1527
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nJulie wants to write numbers [0 2 3 4 6 7] inside the 6 blocks of the figure. She wants a different number in every block. She wants both the sum of the numbers in the white blocks and the sum of the numbers in the blue blocks to be 9. What number must she write in the block with the question mark? A: 4,B: 6,C: 10,D: 3,E: 0",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1595.png"
+    ],
+    "id": 1595
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAriel desires to write values [ 4  6  7  8  9 10] within the 6 blocks of the drawing. He desires a distinct value in each block. He desires both the sum of the values in the gray blocks and the sum of the values in the white blocks to be 19. What value must he write in the block with the question mark? A: 8,B: 6,C: 13,D: 4,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_160.png"
+    ],
+    "id": 160
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nJoseph desires to write digits [ 6  7  8  9 11 12 13 14] inside the 8 squares of the drawing. He desires a different digit in every square. He desires both the sum of the digits in the blue squares and the sum of the digits in the red squares to be 34. What digit must he write in the square with the question mark? A: 6,B: 11,C: 12,D: 8,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1603.png"
+    ],
+    "id": 1603
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nDustin wants to write digits [2 3 4 6 7 8] within the 6 squares of the figure. He wants a different digit in each square. He wants both the sum of the digits in the red squares and the sum of the digits in the green squares to be 13. What digit must he write in the square with the question mark? A: 2,B: 12,C: 3,D: 8,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1626.png"
+    ],
+    "id": 1626
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHolly wants to write numbers [0 3 4 5 6 7] inside the 6 blocks of the picture. She wants a distinct number in every block. She wants both the sum of the numbers in the red blocks and the sum of the numbers in the white blocks to be 9. What number should she write in the block with the question mark? A: 5,B: 0,C: 7,D: 4,E: 8",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1634.png"
+    ],
+    "id": 1634
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nGabriel desires to write digits [ 3  4  5  6  8  9 10 11] inside the 8 squares of the drawing. He desires a unique digit in each square. He desires both the sum of the digits in the white squares and the sum of the digits in the red squares to be 23. What digit must he write in the square with the question mark? A: 5,B: 8,C: 4,D: 6,E: 10",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1655.png"
+    ],
+    "id": 1655
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nDenise wants to write digits [0 1 3 4 5 6 7 8] inside the 8 squares of the picture. She wants a different digit in each square. She wants both the sum of the digits in the green squares and the sum of the digits in the red squares to be 15. What digit should she write in the square with the question mark? A: 7,B: 3,C: 0,D: 5,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1681.png"
+    ],
+    "id": 1681
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAmber wants to write numbers [1 2 3 4 5 6 7 8] within the 8 squares of the figure. She wants a unique number in each square. She wants both the sum of the numbers in the red squares and the sum of the numbers in the gray squares to be 17. What number should she write in the square with the question mark? A: 6,B: 2,C: 7,D: 1,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1683.png"
+    ],
+    "id": 1683
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nDerrick wants to write digits [0 1 2 3 4 5 7 8] inside the 8 blocks of the picture. He wants a distinct digit in each block. He wants both the sum of the digits in the red blocks and the sum of the digits in the blue blocks to be 15. What digit must he write in the block with the question mark? A: 1,B: 0,C: 4,D: 8,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1692.png"
+    ],
+    "id": 1692
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nMichael wants to write numbers [0 3 4 5 6 7] within the 6 blocks of the picture. He wants a distinct number in each block. He wants both the sum of the numbers in the red blocks and the sum of the numbers in the white blocks to be 11. What number must he write in the block with the question mark? A: 3,B: 8,C: 6,D: 0,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1702.png"
+    ],
+    "id": 1702
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nJose wants to write values [ 6  7  8  9 10 11 12 14] inside the 8 squares of the picture. He wants a different value in each square. He wants both the sum of the values in the blue squares and the sum of the values in the gray squares to be 33. What value must he write in the square with the question mark? A: 8,B: 12,C: 7,D: 6,E: 11",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1704.png"
+    ],
+    "id": 1704
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBrenda wants to write numbers [ 3  5  6  7  8  9 10 11] within the 8 blocks of the picture. She wants a distinct number in each block. She wants both the sum of the numbers in the red blocks and the sum of the numbers in the brown blocks to be 24. What number must she write in the block with the question mark? A: 3,B: 11,C: 8,D: 6,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1712.png"
+    ],
+    "id": 1712
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nNicholas desires to write values [1 2 3 4 6 8] inside the 6 blocks of the picture. He desires a unique value in each block. He desires both the sum of the values in the brown blocks and the sum of the values in the red blocks to be 9. What value should he write in the block with the question mark? A: 6,B: 2,C: 3,D: 4,E: 12",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1733.png"
+    ],
+    "id": 1733
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nTracy desires to write digits [ 6  8  9 10 11 12 13 14] within the 8 squares of the drawing. She desires a unique digit in each square. She desires both the sum of the digits in the white squares and the sum of the digits in the brown squares to be 36. What digit should she write in the square with the question mark? A: 8,B: 13,C: 9,D: 11,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1768.png"
+    ],
+    "id": 1768
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nMichael desires to write values [1 2 3 4 5 6 7 8] within the 8 blocks of the drawing. He desires a distinct value in every block. He desires both the sum of the values in the gray blocks and the sum of the values in the white blocks to be 15. What value should he write in the block with the question mark? A: 2,B: 4,C: 6,D: 8,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1770.png"
+    ],
+    "id": 1770
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWilliam desires to write values [ 7  8  9 10 11 14] inside the 6 squares of the drawing. He desires a unique value in every square. He desires both the sum of the values in the gray squares and the sum of the values in the brown squares to be 25. What value must he write in the square with the question mark? A: 10,B: 8,C: 16,D: 7,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1776.png"
+    ],
+    "id": 1776
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nCrystal wants to write numbers [ 3  4  5  8  9 10] inside the 6 squares of the picture. She wants a unique number in every square. She wants both the sum of the numbers in the red squares and the sum of the numbers in the blue squares to be 17. What number should she write in the square with the question mark? A: 5,B: 3,C: 10,D: 4,E: 13",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1779.png"
+    ],
+    "id": 1779
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLawrence desires to write values [ 4  5  6  8  9 10 11 12] inside the 8 blocks of the picture. He desires a different value in each block. He desires both the sum of the values in the gray blocks and the sum of the values in the red blocks to be 30. What value must he write in the block with the question mark? A: 11,B: 4,C: 9,D: 5,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1811.png"
+    ],
+    "id": 1811
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nCharles wants to write digits [ 4  5  6  7  8  9 11 12] inside the 8 blocks of the figure. He wants a unique digit in every block. He wants both the sum of the digits in the white blocks and the sum of the digits in the blue blocks to be 28. What digit should he write in the block with the question mark? A: 9,B: 8,C: 7,D: 4,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1822.png"
+    ],
+    "id": 1822
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nJennifer wants to write numbers [ 2  4  5  6  7 10] inside the 6 blocks of the figure. She wants a distinct number in each block. She wants both the sum of the numbers in the green blocks and the sum of the numbers in the blue blocks to be 12. What number must she write in the block with the question mark? A: 6,B: 4,C: 2,D: 14,E: 10",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1843.png"
+    ],
+    "id": 1843
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nJustin wants to write values [0 1 3 5 6 7] inside the 6 blocks of the figure. He wants a different value in every block. He wants both the sum of the values in the brown blocks and the sum of the values in the white blocks to be 11. What value must he write in the block with the question mark? A: 8,B: 3,C: 7,D: 1,E: 0",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_186.png"
+    ],
+    "id": 186
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nMatthew wants to write digits [0 1 2 3 4 5 6 7] within the 8 squares of the picture. He wants a different digit in every square. He wants both the sum of the digits in the brown squares and the sum of the digits in the gray squares to be 13. What digit should he write in the square with the question mark? A: 4,B: 3,C: 2,D: 1,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1870.png"
+    ],
+    "id": 1870
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nMelissa wants to write values [ 4  5  6  8  9 10] inside the 6 squares of the picture. She wants a unique value in every square. She wants both the sum of the values in the brown squares and the sum of the values in the gray squares to be 19. What value should she write in the square with the question mark? A: 5,B: 8,C: 6,D: 12,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1877.png"
+    ],
+    "id": 1877
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nCrystal wants to write values [ 7  8  9 10 12 15] inside the 6 squares of the drawing. She wants a distinct value in every square. She wants both the sum of the values in the brown squares and the sum of the values in the gray squares to be 27. What value should she write in the square with the question mark? A: 7,B: 9,C: 8,D: 10,E: 19",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1882.png"
+    ],
+    "id": 1882
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBruce desires to write numbers [ 7  8  9 10 11 12 13 15] within the 8 squares of the figure. He desires a distinct number in every square. He desires both the sum of the numbers in the red squares and the sum of the numbers in the white squares to be 37. What number must he write in the square with the question mark? A: 10,B: 7,C: 11,D: 8,E: 12",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1888.png"
+    ],
+    "id": 1888
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPaige wants to write numbers [0 2 3 4 5 6] inside the 6 squares of the drawing. She wants a unique number in each square. She wants both the sum of the numbers in the green squares and the sum of the numbers in the gray squares to be 9. What number must she write in the square with the question mark? A: 2,B: 4,C: 0,D: 8,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1890.png"
+    ],
+    "id": 1890
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nMelissa wants to write numbers [ 5  7  8  9 10 12] inside the 6 squares of the picture. She wants a distinct number in every square. She wants both the sum of the numbers in the blue squares and the sum of the numbers in the brown squares to be 22. What number should she write in the square with the question mark? A: 5,B: 9,C: 7,D: 13,E: 8",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1894.png"
+    ],
+    "id": 1894
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nKristin desires to write numbers [ 3  4  5  6  7  8  9 10] inside the 8 squares of the figure. She desires a different number in every square. She desires both the sum of the numbers in the blue squares and the sum of the numbers in the gray squares to be 24. What number must she write in the square with the question mark? A: 9,B: 3,C: 5,D: 7,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1906.png"
+    ],
+    "id": 1906
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nJoshua wants to write values [ 4  5  6  7  8 10 11 12] inside the 8 squares of the figure. He wants a unique value in every square. He wants both the sum of the values in the brown squares and the sum of the values in the green squares to be 29. What value must he write in the square with the question mark? A: 5,B: 4,C: 7,D: 12,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1928.png"
+    ],
+    "id": 1928
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nJose desires to write numbers [0 1 2 3 4 6 7 8] inside the 8 blocks of the figure. He desires a distinct number in each block. He desires both the sum of the numbers in the green blocks and the sum of the numbers in the blue blocks to be 12. What number must he write in the block with the question mark? A: 2,B: 3,C: 6,D: 7,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1942.png"
+    ],
+    "id": 1942
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nChristian wants to write digits [ 9 10 11 12 13 14 15 17] inside the 8 squares of the drawing. He wants a unique digit in every square. He wants both the sum of the digits in the gray squares and the sum of the digits in the red squares to be 42. What digit should he write in the square with the question mark? A: 9,B: 11,C: 12,D: 17,E: 10",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1948.png"
+    ],
+    "id": 1948
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nDerrick wants to write digits [ 6  7  8  9 10 12 13 14] within the 8 blocks of the drawing. He wants a different digit in every block. He wants both the sum of the digits in the red blocks and the sum of the digits in the brown blocks to be 36. What digit should he write in the block with the question mark? A: 12,B: 7,C: 8,D: 6,E: 10",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1967.png"
+    ],
+    "id": 1967
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nDanielle wants to write digits [ 5  8  9 10 11 12] inside the 6 squares of the drawing. She wants a unique digit in every square. She wants both the sum of the digits in the red squares and the sum of the digits in the gray squares to be 23. What digit should she write in the square with the question mark? A: 9,B: 15,C: 8,D: 10,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_1982.png"
+    ],
+    "id": 1982
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nMichele wants to write digits [1 2 3 4 5 6 7 9] inside the 8 blocks of the figure. She wants a different digit in each block. She wants both the sum of the digits in the green blocks and the sum of the digits in the red blocks to be 18. What digit must she write in the block with the question mark? A: 7,B: 3,C: 6,D: 2,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_207.png"
+    ],
+    "id": 207
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nKatherine desires to write values [ 6  9 11 12 13 14] within the 6 blocks of the drawing. She desires a unique value in each block. She desires both the sum of the values in the gray blocks and the sum of the values in the brown blocks to be 26. What value should she write in the block with the question mark? A: 11,B: 15,C: 6,D: 9,E: 13",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_225.png"
+    ],
+    "id": 225
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBruce desires to write numbers [ 4  7  9 10 11 12] within the 6 squares of the drawing. He desires a distinct number in every square. He desires both the sum of the numbers in the red squares and the sum of the numbers in the green squares to be 22. What number should he write in the square with the question mark? A: 11,B: 7,C: 4,D: 9,E: 13",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_229.png"
+    ],
+    "id": 229
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nNicholas desires to write digits [1 2 4 5 7 9] within the 6 blocks of the picture. He desires a unique digit in each block. He desires both the sum of the digits in the brown blocks and the sum of the digits in the blue blocks to be 12. What digit must he write in the block with the question mark? A: 11,B: 9,C: 4,D: 1,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_253.png"
+    ],
+    "id": 253
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nMichael desires to write digits [ 8  9 10 11 12 13 14 15] inside the 8 blocks of the picture. He desires a different digit in each block. He desires both the sum of the digits in the red blocks and the sum of the digits in the gray blocks to be 41. What digit should he write in the block with the question mark? A: 8,B: 13,C: 9,D: 11,E: 10",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_26.png"
+    ],
+    "id": 26
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPaige wants to write digits [ 8  9 10 11 12 16] inside the 6 blocks of the picture. She wants a unique digit in each block. She wants both the sum of the digits in the brown blocks and the sum of the digits in the white blocks to be 27. What digit should she write in the block with the question mark? A: 12,B: 19,C: 9,D: 8,E: 10",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_262.png"
+    ],
+    "id": 262
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nGabriel wants to write numbers [1 2 3 4 5 6 7 8] inside the 8 squares of the figure. He wants a unique number in each square. He wants both the sum of the numbers in the blue squares and the sum of the numbers in the white squares to be 14. What number must he write in the square with the question mark? A: 1,B: 8,C: 4,D: 6,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_283.png"
+    ],
+    "id": 283
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nKenneth wants to write values [ 4  5  7  8 10 12] inside the 6 blocks of the picture. He wants a unique value in every block. He wants both the sum of the values in the brown blocks and the sum of the values in the green blocks to be 19. What value should he write in the block with the question mark? A: 16,B: 8,C: 4,D: 10,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_345.png"
+    ],
+    "id": 345
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nKathryn wants to write digits [10 11 12 13 14 15 16 17] within the 8 squares of the drawing. She wants a different digit in each square. She wants both the sum of the digits in the red squares and the sum of the digits in the brown squares to be 46. What digit should she write in the square with the question mark? A: 13,B: 16,C: 12,D: 11,E: 10",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_37.png"
+    ],
+    "id": 37
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nJerry desires to write numbers [ 5  7  8 10 11 13] within the 6 blocks of the picture. He desires a different number in each block. He desires both the sum of the numbers in the brown blocks and the sum of the numbers in the gray blocks to be 23. What number should he write in the block with the question mark? A: 8,B: 5,C: 7,D: 11,E: 15",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_402.png"
+    ],
+    "id": 402
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nJose desires to write digits [ 8  9 10 11 12 14 15 16] within the 8 blocks of the drawing. He desires a different digit in each block. He desires both the sum of the digits in the blue blocks and the sum of the digits in the brown blocks to be 40. What digit must he write in the block with the question mark? A: 15,B: 12,C: 11,D: 8,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_403.png"
+    ],
+    "id": 403
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nCrystal desires to write digits [1 3 4 5 6 8] inside the 6 blocks of the figure. She desires a distinct digit in each block. She desires both the sum of the digits in the red blocks and the sum of the digits in the brown blocks to be 12. What digit should she write in the block with the question mark? A: 1,B: 6,C: 5,D: 3,E: 10",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_437.png"
+    ],
+    "id": 437
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBrenda wants to write values [ 7  8 10 11 12 13] inside the 6 blocks of the drawing. She wants a unique value in every block. She wants both the sum of the values in the gray blocks and the sum of the values in the white blocks to be 25. What value should she write in the block with the question mark? A: 10,B: 17,C: 8,D: 7,E: 11",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_452.png"
+    ],
+    "id": 452
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nErin wants to write numbers [ 7  8  9 10 11 12 14 15] within the 8 squares of the drawing. She wants a different number in every square. She wants both the sum of the numbers in the brown squares and the sum of the numbers in the red squares to be 38. What number should she write in the square with the question mark? A: 8,B: 14,C: 9,D: 10,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_463.png"
+    ],
+    "id": 463
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAmy desires to write numbers [1 2 3 4 5 6] inside the 6 squares of the drawing. She desires a unique number in every square. She desires both the sum of the numbers in the brown squares and the sum of the numbers in the white squares to be 9. What number should she write in the square with the question mark? A: 1,B: 6,C: 2,D: 8,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_469.png"
+    ],
+    "id": 469
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nKevin desires to write numbers [ 3  4  6  9 10 11] inside the 6 squares of the picture. He desires a unique number in every square. He desires both the sum of the numbers in the brown squares and the sum of the numbers in the green squares to be 16. What number should he write in the square with the question mark? A: 11,B: 4,C: 9,D: 12,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_472.png"
+    ],
+    "id": 472
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFelicia wants to write values [0 2 4 5 6 7] within the 6 blocks of the figure. She wants a unique value in every block. She wants both the sum of the values in the gray blocks and the sum of the values in the brown blocks to be 9. What value should she write in the block with the question mark? A: 6,B: 4,C: 5,D: 0,E: 8",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_488.png"
+    ],
+    "id": 488
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nChristine wants to write values [0 1 2 5 6 8] within the 6 blocks of the drawing. She wants a distinct value in each block. She wants both the sum of the values in the brown blocks and the sum of the values in the red blocks to be 8. What value must she write in the block with the question mark? A: 1,B: 5,C: 11,D: 2,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_509.png"
+    ],
+    "id": 509
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nTina desires to write digits [ 7  8  9 10 11 13 14 15] inside the 8 blocks of the drawing. She desires a unique digit in every block. She desires both the sum of the digits in the brown blocks and the sum of the digits in the red blocks to be 36. What digit should she write in the block with the question mark? A: 11,B: 8,C: 15,D: 10,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_53.png"
+    ],
+    "id": 53
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHannah desires to write numbers [ 3  4  5  6  7  8  9 10] within the 8 blocks of the picture. She desires a distinct number in each block. She desires both the sum of the numbers in the blue blocks and the sum of the numbers in the brown blocks to be 23. What number must she write in the block with the question mark? A: 3,B: 8,C: 6,D: 7,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_550.png"
+    ],
+    "id": 550
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nNicholas wants to write values [ 8 10 11 12 15 16] within the 6 squares of the picture. He wants a unique value in each square. He wants both the sum of the values in the green squares and the sum of the values in the brown squares to be 31. What value should he write in the square with the question mark? A: 12,B: 8,C: 10,D: 11,E: 18",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_586.png"
+    ],
+    "id": 586
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nMelissa wants to write values [1 2 3 4 5 6 7 8] inside the 8 blocks of the picture. She wants a different value in each block. She wants both the sum of the values in the blue blocks and the sum of the values in the brown blocks to be 17. What value should she write in the block with the question mark? A: 5,B: 2,C: 1,D: 3,E: 8",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_623.png"
+    ],
+    "id": 623
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nJohn wants to write digits [ 4  5  7  8  9 10 11 12] inside the 8 blocks of the figure. He wants a unique digit in each block. He wants both the sum of the digits in the white blocks and the sum of the digits in the blue blocks to be 31. What digit must he write in the block with the question mark? A: 7,B: 10,C: 5,D: 9,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_639.png"
+    ],
+    "id": 639
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHolly wants to write values [ 3  5  6  7 10 11] within the 6 blocks of the drawing. She wants a different value in each block. She wants both the sum of the values in the green blocks and the sum of the values in the gray blocks to be 18. What value should she write in the block with the question mark? A: 5,B: 10,C: 3,D: 15,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_640.png"
+    ],
+    "id": 640
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nCharles wants to write values [1 2 3 4 5 6 8 9] inside the 8 squares of the picture. He wants a unique value in every square. He wants both the sum of the values in the gray squares and the sum of the values in the green squares to be 15. What value must he write in the square with the question mark? A: 5,B: 1,C: 8,D: 6,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_659.png"
+    ],
+    "id": 659
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nEmily wants to write digits [0 1 5 6 7 8] inside the 6 blocks of the drawing. She wants a unique digit in every block. She wants both the sum of the digits in the brown blocks and the sum of the digits in the red blocks to be 13. What digit should she write in the block with the question mark? A: 7,B: 11,C: 1,D: 0,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_687.png"
+    ],
+    "id": 687
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nDaniel wants to write numbers [0 1 2 3 4 5 6 7] inside the 8 squares of the drawing. He wants a distinct number in each square. He wants both the sum of the numbers in the gray squares and the sum of the numbers in the green squares to be 12. What number must he write in the square with the question mark? A: 0,B: 4,C: 5,D: 1,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_749.png"
+    ],
+    "id": 749
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nDaniel wants to write values [1 4 5 6 7 9] inside the 6 blocks of the figure. He wants a distinct value in every block. He wants both the sum of the values in the brown blocks and the sum of the values in the white blocks to be 14. What value must he write in the block with the question mark? A: 13,B: 1,C: 6,D: 7,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_797.png"
+    ],
+    "id": 797
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWilliam wants to write numbers [ 2  3  4  6  7  8  9 10] inside the 8 blocks of the drawing. He wants a distinct number in each block. He wants both the sum of the numbers in the gray blocks and the sum of the numbers in the white blocks to be 23. What number must he write in the block with the question mark? A: 10,B: 7,C: 2,D: 4,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_8.png"
+    ],
+    "id": 8
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWayne desires to write digits [ 5  6  9 10 11 12] inside the 6 squares of the picture. He desires a distinct digit in every square. He desires both the sum of the digits in the green squares and the sum of the digits in the brown squares to be 22. What digit should he write in the square with the question mark? A: 13,B: 6,C: 11,D: 9,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_800.png"
+    ],
+    "id": 800
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nKevin wants to write digits [1 2 3 5 8 9] within the 6 blocks of the figure. He wants a different digit in each block. He wants both the sum of the digits in the blue blocks and the sum of the digits in the gray blocks to be 13. What digit must he write in the block with the question mark? A: 13,B: 3,C: 2,D: 1,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_821.png"
+    ],
+    "id": 821
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nKatherine wants to write digits [ 2  4  5  6  7  8  9 10] inside the 8 squares of the drawing. She wants a unique digit in every square. She wants both the sum of the digits in the brown squares and the sum of the digits in the blue squares to be 21. What digit should she write in the square with the question mark? A: 8,B: 5,C: 9,D: 6,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_877.png"
+    ],
+    "id": 877
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWayne desires to write values [ 5  7  9 10 11 13] within the 6 squares of the picture. He desires a different value in each square. He desires both the sum of the values in the white squares and the sum of the values in the blue squares to be 24. What value should he write in the square with the question mark? A: 5,B: 14,C: 10,D: 9,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_880.png"
+    ],
+    "id": 880
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nCarl desires to write numbers [0 1 2 5 6 7] within the 6 squares of the drawing. He desires a distinct number in every square. He desires both the sum of the numbers in the red squares and the sum of the numbers in the blue squares to be 7. What number must he write in the square with the question mark? A: 6,B: 0,C: 8,D: 1,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_896.png"
+    ],
+    "id": 896
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nJennifer wants to write numbers [ 8  9 11 12 13 14 15 16] within the 8 blocks of the figure. She wants a distinct number in every block. She wants both the sum of the numbers in the red blocks and the sum of the numbers in the brown blocks to be 45. What number must she write in the block with the question mark? A: 8,B: 13,C: 11,D: 9,E: 12",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_913.png"
+    ],
+    "id": 913
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nStephen desires to write values [2 3 5 6 7 9] inside the 6 blocks of the picture. He desires a different value in every block. He desires both the sum of the values in the white blocks and the sum of the values in the red blocks to be 15. What value must he write in the block with the question mark? A: 3,B: 10,C: 2,D: 5,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_928.png"
+    ],
+    "id": 928
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nMelissa wants to write digits [0 1 3 5 6 7] inside the 6 blocks of the drawing. She wants a different digit in each block. She wants both the sum of the digits in the blue blocks and the sum of the digits in the red blocks to be 8. What digit must she write in the block with the question mark? A: 1,B: 10,C: 7,D: 6,E: 0",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_954.png"
+    ],
+    "id": 954
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nJoseph wants to write digits [2 3 5 7 8 9] inside the 6 squares of the figure. He wants a unique digit in every square. He wants both the sum of the digits in the green squares and the sum of the digits in the brown squares to be 16. What digit must he write in the square with the question mark? A: 2,B: 3,C: 5,D: 8,E: 13",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/72/img/puzzle_72_956.png"
+    ],
+    "id": 956
+  }
+]

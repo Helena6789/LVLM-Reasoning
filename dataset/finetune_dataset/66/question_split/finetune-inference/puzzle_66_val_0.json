@@ -1,0 +1,1602 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is cheaper than the first. For example, thing B is cheaper than thing A. Which is the cheapest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1014.png"
+    ],
+    "id": 1014
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is lighter than the first. For example, thing B is lighter than thing A. Which is the lightest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_103.png"
+    ],
+    "id": 103
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is stranger than the first. For example, thing B is stranger than thing A. Which is the strangest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1045.png"
+    ],
+    "id": 1045
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is more expensive than the first. For example, thing B is more expensive than thing A. Which is the most expensive thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1060.png"
+    ],
+    "id": 1060
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is friendlier than the first. For example, thing B is friendlier than thing A. Which is the friendliest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1122.png"
+    ],
+    "id": 1122
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is smoother than the first. For example, thing B is smoother than thing A. Which is the smoothest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1135.png"
+    ],
+    "id": 1135
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is prouder than the first. For example, thing B is prouder than thing A. Which is the proudest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1143.png"
+    ],
+    "id": 1143
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is sunnier than the first. For example, thing B is sunnier than thing A. Which is the sunniest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1147.png"
+    ],
+    "id": 1147
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is noisier than the first. For example, thing B is noisier than thing A. Which is the noisiest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1158.png"
+    ],
+    "id": 1158
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is windier than the first. For example, thing B is windier than thing A. Which is the windiest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1171.png"
+    ],
+    "id": 1171
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is poorer than the first. For example, thing B is poorer than thing A. Which is the poorest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1186.png"
+    ],
+    "id": 1186
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is narrower than the first. For example, thing B is narrower than thing A. Which is the narrowest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1218.png"
+    ],
+    "id": 1218
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is blander than the first. For example, thing B is blander than thing A. Which is the blandest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1250.png"
+    ],
+    "id": 1250
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is lonelier than the first. For example, thing B is lonelier than thing A. Which is the loneliest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1300.png"
+    ],
+    "id": 1300
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is quicker than the first. For example, thing B is quicker than thing A. Which is the quickest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1321.png"
+    ],
+    "id": 1321
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is narrower than the first. For example, thing B is narrower than thing A. Which is the narrowest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1327.png"
+    ],
+    "id": 1327
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is likelier than the first. For example, thing B is likelier than thing A. Which is the likeliest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1349.png"
+    ],
+    "id": 1349
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is safer than the first. For example, thing B is safer than thing A. Which is the safest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1372.png"
+    ],
+    "id": 1372
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is tinier than the first. For example, thing B is tinier than thing A. Which is the tiniest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1388.png"
+    ],
+    "id": 1388
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is softer than the first. For example, thing B is softer than thing A. Which is the softest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1398.png"
+    ],
+    "id": 1398
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is stricter than the first. For example, thing B is stricter than thing A. Which is the strictest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1415.png"
+    ],
+    "id": 1415
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is younger than the first. For example, thing B is younger than thing A. Which is the younges thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1438.png"
+    ],
+    "id": 1438
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is nearer than the first. For example, thing B is nearer than thing A. Which is the nearest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1443.png"
+    ],
+    "id": 1443
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is stronger than the first. For example, thing B is stronger than thing A. Which is the strongest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1445.png"
+    ],
+    "id": 1445
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is plainer than the first. For example, thing B is plainer than thing A. Which is the plainest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_146.png"
+    ],
+    "id": 146
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is icier than the first. For example, thing B is icier than thing A. Which is the iciest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_150.png"
+    ],
+    "id": 150
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is braver than the first. For example, thing B is braver than thing A. Which is the bravest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_151.png"
+    ],
+    "id": 151
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is fancier than the first. For example, thing B is fancier than thing A. Which is the fanciest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_152.png"
+    ],
+    "id": 152
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is lighter than the first. For example, thing B is lighter than thing A. Which is the lightest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1527.png"
+    ],
+    "id": 1527
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is warmer than the first. For example, thing B is warmer than thing A. Which is the warmest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1595.png"
+    ],
+    "id": 1595
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is littler than the first. For example, thing B is littler than thing A. Which is the littlest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_160.png"
+    ],
+    "id": 160
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is thicker than the first. For example, thing B is thicker than thing A. Which is the thickest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1603.png"
+    ],
+    "id": 1603
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is busier than the first. For example, thing B is busier than thing A. Which is the busiest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1626.png"
+    ],
+    "id": 1626
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is more difficult than the first. For example, thing B is more difficult than thing A. Which is the most difficult thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1634.png"
+    ],
+    "id": 1634
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is smaller than the first. For example, thing B is smaller than thing A. Which is the smallest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1655.png"
+    ],
+    "id": 1655
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is poorer than the first. For example, thing B is poorer than thing A. Which is the poorest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1681.png"
+    ],
+    "id": 1681
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is deeper than the first. For example, thing B is deeper than thing A. Which is the deepest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1683.png"
+    ],
+    "id": 1683
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is flatter than the first. For example, thing B is flatter than thing A. Which is the flattest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1692.png"
+    ],
+    "id": 1692
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is grander than the first. For example, thing B is grander than thing A. Which is the grandest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1702.png"
+    ],
+    "id": 1702
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is narrower than the first. For example, thing B is narrower than thing A. Which is the narrowest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1704.png"
+    ],
+    "id": 1704
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is easier than the first. For example, thing B is easier than thing A. Which is the easiest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1712.png"
+    ],
+    "id": 1712
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is quicker than the first. For example, thing B is quicker than thing A. Which is the quickest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1733.png"
+    ],
+    "id": 1733
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is windier than the first. For example, thing B is windier than thing A. Which is the windiest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1768.png"
+    ],
+    "id": 1768
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is nearer than the first. For example, thing B is nearer than thing A. Which is the nearest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1770.png"
+    ],
+    "id": 1770
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is faster than the first. For example, thing B is faster than thing A. Which is the fastest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1776.png"
+    ],
+    "id": 1776
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is quieter than the first. For example, thing B is quieter than thing A. Which is the quietest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1779.png"
+    ],
+    "id": 1779
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is rawer than the first. For example, thing B is rawer than thing A. Which is the rawest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1811.png"
+    ],
+    "id": 1811
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is rustier than the first. For example, thing B is rustier than thing A. Which is the rustiest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1822.png"
+    ],
+    "id": 1822
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is tinier than the first. For example, thing B is tinier than thing A. Which is the tiniest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1843.png"
+    ],
+    "id": 1843
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is narrower than the first. For example, thing B is narrower than thing A. Which is the narrowest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_186.png"
+    ],
+    "id": 186
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is worse than the first. For example, thing B is worse than thing A. Which is the worst thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1870.png"
+    ],
+    "id": 1870
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is denser than the first. For example, thing B is denser than thing A. Which is the densest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1877.png"
+    ],
+    "id": 1877
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is worse than the first. For example, thing B is worse than thing A. Which is the worst thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1882.png"
+    ],
+    "id": 1882
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is stricter than the first. For example, thing B is stricter than thing A. Which is the strictest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1888.png"
+    ],
+    "id": 1888
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is stronger than the first. For example, thing B is stronger than thing A. Which is the strongest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1890.png"
+    ],
+    "id": 1890
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is smaller than the first. For example, thing B is smaller than thing A. Which is the smallest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1894.png"
+    ],
+    "id": 1894
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is greasier than the first. For example, thing B is greasier than thing A. Which is the greasiest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1906.png"
+    ],
+    "id": 1906
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is flatter than the first. For example, thing B is flatter than thing A. Which is the flattest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1928.png"
+    ],
+    "id": 1928
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is rawer than the first. For example, thing B is rawer than thing A. Which is the rawest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1942.png"
+    ],
+    "id": 1942
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is greater than the first. For example, thing B is greater than thing A. Which is the greatest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1948.png"
+    ],
+    "id": 1948
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is tinier than the first. For example, thing B is tinier than thing A. Which is the tiniest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1967.png"
+    ],
+    "id": 1967
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is purer than the first. For example, thing B is purer than thing A. Which is the purest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_1982.png"
+    ],
+    "id": 1982
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is quicker than the first. For example, thing B is quicker than thing A. Which is the quickest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_207.png"
+    ],
+    "id": 207
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is lonelier than the first. For example, thing B is lonelier than thing A. Which is the loneliest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_225.png"
+    ],
+    "id": 225
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is flatter than the first. For example, thing B is flatter than thing A. Which is the flattest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_229.png"
+    ],
+    "id": 229
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is larger than the first. For example, thing B is larger than thing A. Which is the largest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_253.png"
+    ],
+    "id": 253
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is more interesting than the first. For example, thing B is more interesting than thing A. Which is the most interesting thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_26.png"
+    ],
+    "id": 26
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is cleaner than the first. For example, thing B is cleaner than thing A. Which is the cleanest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_262.png"
+    ],
+    "id": 262
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is noisier than the first. For example, thing B is noisier than thing A. Which is the noisiest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_283.png"
+    ],
+    "id": 283
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is finer than the first. For example, thing B is finer than thing A. Which is the finest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_345.png"
+    ],
+    "id": 345
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is smaller than the first. For example, thing B is smaller than thing A. Which is the smallest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_37.png"
+    ],
+    "id": 37
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is longer than the first. For example, thing B is longer than thing A. Which is the longest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_402.png"
+    ],
+    "id": 402
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is bigger than the first. For example, thing B is bigger than thing A. Which is the biggest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_403.png"
+    ],
+    "id": 403
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is fuller than the first. For example, thing B is fuller than thing A. Which is the fullest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_437.png"
+    ],
+    "id": 437
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is milder than the first. For example, thing B is milder than thing A. Which is the mildest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_452.png"
+    ],
+    "id": 452
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is noisier than the first. For example, thing B is noisier than thing A. Which is the noisiest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_463.png"
+    ],
+    "id": 463
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is healthier than the first. For example, thing B is healthier than thing A. Which is the healthiest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_469.png"
+    ],
+    "id": 469
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is rarer than the first. For example, thing B is rarer than thing A. Which is the rarest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_472.png"
+    ],
+    "id": 472
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is flatter than the first. For example, thing B is flatter than thing A. Which is the flattest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_488.png"
+    ],
+    "id": 488
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is steeper than the first. For example, thing B is steeper than thing A. Which is the steepest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_509.png"
+    ],
+    "id": 509
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is prouder than the first. For example, thing B is prouder than thing A. Which is the proudest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_53.png"
+    ],
+    "id": 53
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is needier than the first. For example, thing B is needier than thing A. Which is the neediest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_550.png"
+    ],
+    "id": 550
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is warmer than the first. For example, thing B is warmer than thing A. Which is the warmest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_586.png"
+    ],
+    "id": 586
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is graver than the first. For example, thing B is graver than thing A. Which is the gravest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_623.png"
+    ],
+    "id": 623
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is finer than the first. For example, thing B is finer than thing A. Which is the finest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_639.png"
+    ],
+    "id": 639
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is more interesting than the first. For example, thing B is more interesting than thing A. Which is the most interesting thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_640.png"
+    ],
+    "id": 640
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is safer than the first. For example, thing B is safer than thing A. Which is the safest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_659.png"
+    ],
+    "id": 659
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is lonelier than the first. For example, thing B is lonelier than thing A. Which is the loneliest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_687.png"
+    ],
+    "id": 687
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is faster than the first. For example, thing B is faster than thing A. Which is the fastest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_749.png"
+    ],
+    "id": 749
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is finer than the first. For example, thing B is finer than thing A. Which is the finest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_797.png"
+    ],
+    "id": 797
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is poorer than the first. For example, thing B is poorer than thing A. Which is the poorest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_8.png"
+    ],
+    "id": 8
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is shorter than the first. For example, thing B is shorter than thing A. Which is the shortest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_800.png"
+    ],
+    "id": 800
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is greedier than the first. For example, thing B is greedier than thing A. Which is the greediest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_821.png"
+    ],
+    "id": 821
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is younger than the first. For example, thing B is younger than thing A. Which is the younges thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_877.png"
+    ],
+    "id": 877
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is greedier than the first. For example, thing B is greedier than thing A. Which is the greediest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_880.png"
+    ],
+    "id": 880
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is shinier than the first. For example, thing B is shinier than thing A. Which is the shiniest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_896.png"
+    ],
+    "id": 896
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is longer than the first. For example, thing B is longer than thing A. Which is the longest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_913.png"
+    ],
+    "id": 913
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is poorer than the first. For example, thing B is poorer than thing A. Which is the poorest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_928.png"
+    ],
+    "id": 928
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is quieter than the first. For example, thing B is quieter than thing A. Which is the quietest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_954.png"
+    ],
+    "id": 954
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAn arrow pointing from one thing to another means that the second thing is healthier than the first. For example, thing B is healthier than thing A. Which is the healthiest thing? A: A,B: B,C: C,D: D,E: E",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/66/img/puzzle_66_956.png"
+    ],
+    "id": 956
+  }
+]

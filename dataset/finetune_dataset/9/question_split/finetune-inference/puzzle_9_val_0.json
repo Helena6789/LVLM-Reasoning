@@ -1,0 +1,1602 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<image>\nThere are 20 people standing in line, including Sinclare and Tirrell. Sinclare knows that there are 2 people in front of him. If Sinclare is in front of Tirrell and there are 14 people between Sinclare and Tirrell, how many of the people in the line are behind Tirrell? A: 5,B: 4,C: 3,D: 6,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1015.png"
+    ],
+    "id": 1015
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThere are 27 people standing in line, including Claus and Leonhard. Claus knows that there are 6 people in front of him. If Claus is in front of Leonhard and there are 10 people between Claus and Leonhard, how many of the people in the line are behind Leonhard? A: 7,B: 5,C: 13,D: 9,E: 11",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_104.png"
+    ],
+    "id": 104
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nKerry and Gregg are standing in line. Kerry knows that there are 8 people in front of him. Gregg knows that there is a total of 29 people in the line. If Kerry is in front of Gregg and there are 7 people between Kerry and Gregg, how many of the people in the line are behind Gregg? A: 12,B: 14,C: 15,D: 16,E: 10",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1046.png"
+    ],
+    "id": 1046
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAlphonse and Chaddy are waiting in line, and there are 14 people in the line. Alphonse knows that there are 5 people in front of him. If Alphonse is in front of Chaddy and there are 6 people between Alphonse and Chaddy, how many of the people in the line are behind Chaddy? A: 5,B: 4,C: 3,D: 2,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1061.png"
+    ],
+    "id": 1061
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nJesse and Arvy are standing in a line consisting of 19 people. Jesse knows that there are 2 people in front of him. If Jesse is in front of Arvy and there are 14 people between Jesse and Arvy, how many of the people in the line are behind Arvy? A: 4,B: 3,C: 5,D: 1,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1123.png"
+    ],
+    "id": 1123
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nInglebert and Westley are standing in line. Inglebert knows that there are 2 people in front of him. Westley knows that there is a total of 21 people in the line. If Inglebert is in front of Westley and there are 6 people between Inglebert and Westley, how many of the people in the line are behind Westley? A: 7,B: 14,C: 11,D: 15,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1136.png"
+    ],
+    "id": 1136
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSilas and Kimmo are waiting in line, and there are 28 people in the line. Silas knows that there are 12 people in front of him. If Silas is in front of Kimmo and there are 8 people between Silas and Kimmo, how many of the people in the line are behind Kimmo? A: 10,B: 6,C: 2,D: 8,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1144.png"
+    ],
+    "id": 1144
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nKelvin and Kenton are standing in a line consisting of 29 people. Kelvin knows that there are 13 people in front of him. If Kelvin is in front of Kenton and there are 6 people between Kelvin and Kenton, how many of the people in the line are behind Kenton? A: 11,B: 4,C: 8,D: 6,E: 10",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1148.png"
+    ],
+    "id": 1148
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nJoachim and Cole are standing in line. Joachim knows that there are 12 people in front of him. Cole knows that there is a total of 25 people in the line. If Joachim is in front of Cole and there are 6 people between Joachim and Cole, how many of the people in the line are behind Cole? A: 3,B: 5,C: 1,D: 4,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1159.png"
+    ],
+    "id": 1159
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nMatteo and Rafael are standing in line. Matteo knows that there are 4 people in front of him. Rafael knows that there is a total of 28 people in the line. If Matteo is in front of Rafael and there are 13 people between Matteo and Rafael, how many of the people in the line are behind Rafael? A: 9,B: 5,C: 11,D: 8,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1172.png"
+    ],
+    "id": 1172
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThere are 28 people standing in line, including Theodoric and Erik. Theodoric knows that there are 19 people in front of him. If Theodoric is in front of Erik and there are 6 people between Theodoric and Erik, how many of the people in the line are behind Erik? A: 3,B: 2,C: 4,D: 1,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1187.png"
+    ],
+    "id": 1187
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSergei and Ev are waiting in line. Sergei knows that there are 6 people in front of him. Ev knows that there is a total of 27 people in the line. If Sergei is in front of Ev and there are 13 people between Sergei and Ev, how many of the people in the line are behind Ev? A: 9,B: 8,C: 3,D: 6,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1219.png"
+    ],
+    "id": 1219
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nNed and Renaldo are waiting in line. Ned knows that there are 9 people in front of him. Renaldo knows that there is a total of 30 people in the line. If Ned is in front of Renaldo and there are 8 people between Ned and Renaldo, how many of the people in the line are behind Renaldo? A: 14,B: 11,C: 15,D: 7,E: 13",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1251.png"
+    ],
+    "id": 1251
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSholom and Sly are standing in line. Sholom knows that there are 3 people in front of him. Sly knows that there is a total of 30 people in the line. If Sholom is in front of Sly and there are 21 people between Sholom and Sly, how many of the people in the line are behind Sly? A: 4,B: 8,C: 7,D: 2,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1301.png"
+    ],
+    "id": 1301
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAxel and Bishop are waiting in a line consisting of 13 people. Axel knows that there are 7 people in front of him. If Axel is in front of Bishop and there are 3 people between Axel and Bishop, how many of the people in the line are behind Bishop? A: 5,B: 4,C: 2,D: 3,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1322.png"
+    ],
+    "id": 1322
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThere are 18 people standing in line, including Socrates and Ash. Socrates knows that there are 4 people in front of him. If Socrates is in front of Ash and there are 6 people between Socrates and Ash, how many of the people in the line are behind Ash? A: 4,B: 6,C: 10,D: 3,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1328.png"
+    ],
+    "id": 1328
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nJakob and Elisha are waiting in line, and there are 27 people in the line. Jakob knows that there are 14 people in front of him. If Jakob is in front of Elisha and there are 8 people between Jakob and Elisha, how many of the people in the line are behind Elisha? A: 4,B: 3,C: 6,D: 2,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1350.png"
+    ],
+    "id": 1350
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThere are 23 people standing in line, including Ricardo and Erek. Ricardo knows that there are 4 people in front of him. If Ricardo is in front of Erek and there are 10 people between Ricardo and Erek, how many of the people in the line are behind Erek? A: 5,B: 11,C: 7,D: 10,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1373.png"
+    ],
+    "id": 1373
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThere are 20 people standing in line, including Praneetf and Rice. Praneetf knows that there are 4 people in front of him. If Praneetf is in front of Rice and there are 4 people between Praneetf and Rice, how many of the people in the line are behind Rice? A: 14,B: 6,C: 8,D: 13,E: 10",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1389.png"
+    ],
+    "id": 1389
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nNorthrop and Marius are standing in a line consisting of 22 people. Northrop knows that there are 4 people in front of him. If Northrop is in front of Marius and there are 7 people between Northrop and Marius, how many of the people in the line are behind Marius? A: 6,B: 10,C: 9,D: 13,E: 12",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1399.png"
+    ],
+    "id": 1399
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nDickie and Royal are waiting in line. Dickie knows that there are 15 people in front of him. Royal knows that there is a total of 23 people in the line. If Dickie is in front of Royal and there are 5 people between Dickie and Royal, how many of the people in the line are behind Royal? A: 1,B: 3,C: 2,D: 4,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1416.png"
+    ],
+    "id": 1416
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThere are 30 people standing in line, including Levin and Blake. Levin knows that there are 10 people in front of him. If Levin is in front of Blake and there are 11 people between Levin and Blake, how many of the people in the line are behind Blake? A: 3,B: 6,C: 5,D: 10,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1439.png"
+    ],
+    "id": 1439
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIchabod and Pierson are standing in a line consisting of 22 people. Ichabod knows that there are 5 people in front of him. If Ichabod is in front of Pierson and there are 6 people between Ichabod and Pierson, how many of the people in the line are behind Pierson? A: 11,B: 5,C: 12,D: 9,E: 13",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1444.png"
+    ],
+    "id": 1444
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThere are 17 people standing in line, including Andy and Ferdy. Andy knows that there are 7 people in front of him. If Andy is in front of Ferdy and there are 3 people between Andy and Ferdy, how many of the people in the line are behind Ferdy? A: 5,B: 9,C: 7,D: 6,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1446.png"
+    ],
+    "id": 1446
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWiatt and Dale are standing in a line consisting of 22 people. Wiatt knows that there are 4 people in front of him. If Wiatt is in front of Dale and there are 13 people between Wiatt and Dale, how many of the people in the line are behind Dale? A: 3,B: 6,C: 5,D: 7,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_147.png"
+    ],
+    "id": 147
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAndrus and Gustav are waiting in line, and there are 15 people in the line. Andrus knows that there are 8 people in front of him. If Andrus is in front of Gustav and there are 4 people between Andrus and Gustav, how many of the people in the line are behind Gustav? A: 3,B: 2,C: 1,D: 5,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_151.png"
+    ],
+    "id": 151
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nRamesh and Terrill are standing in line. Ramesh knows that there are 9 people in front of him. Terrill knows that there is a total of 24 people in the line. If Ramesh is in front of Terrill and there are 7 people between Ramesh and Terrill, how many of the people in the line are behind Terrill? A: 5,B: 6,C: 2,D: 8,E: 10",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_152.png"
+    ],
+    "id": 152
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nXavier and Cris are waiting in line. Xavier knows that there are 2 people in front of him. Cris knows that there is a total of 13 people in the line. If Xavier is in front of Cris and there are 8 people between Xavier and Cris, how many of the people in the line are behind Cris? A: 2,B: 1,C: 4,D: 3,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1528.png"
+    ],
+    "id": 1528
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nMarion and Menard are waiting in a line consisting of 29 people. Marion knows that there are 4 people in front of him. If Marion is in front of Menard and there are 9 people between Marion and Menard, how many of the people in the line are behind Menard? A: 14,B: 15,C: 12,D: 10,E: 18",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_153.png"
+    ],
+    "id": 153
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFilbert and Orion are waiting in line, and there are 30 people in the line. Filbert knows that there are 22 people in front of him. If Filbert is in front of Orion and there are 4 people between Filbert and Orion, how many of the people in the line are behind Orion? A: 2,B: 3,C: 1,D: 4,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1596.png"
+    ],
+    "id": 1596
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWilt and Laurie are standing in a line consisting of 15 people. Wilt knows that there are 5 people in front of him. If Wilt is in front of Laurie and there are 2 people between Wilt and Laurie, how many of the people in the line are behind Laurie? A: 6,B: 4,C: 7,D: 8,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1604.png"
+    ],
+    "id": 1604
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWilfred and Skelly are standing in a line consisting of 24 people. Wilfred knows that there are 4 people in front of him. If Wilfred is in front of Skelly and there are 14 people between Wilfred and Skelly, how many of the people in the line are behind Skelly? A: 3,B: 7,C: 2,D: 8,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_161.png"
+    ],
+    "id": 161
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThere are 25 people waiting in line, including Hashim and Ash. Hashim knows that there are 9 people in front of him. If Hashim is in front of Ash and there are 5 people between Hashim and Ash, how many of the people in the line are behind Ash? A: 7,B: 9,C: 12,D: 5,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1627.png"
+    ],
+    "id": 1627
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nTaber and Willy are waiting in line, and there are 22 people in the line. Taber knows that there are 4 people in front of him. If Taber is in front of Willy and there are 10 people between Taber and Willy, how many of the people in the line are behind Willy? A: 2,B: 6,C: 9,D: 3,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1635.png"
+    ],
+    "id": 1635
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFranz and Angel are standing in line, and there are 24 people in the line. Franz knows that there are 13 people in front of him. If Franz is in front of Angel and there are 6 people between Franz and Angel, how many of the people in the line are behind Angel? A: 5,B: 4,C: 2,D: 3,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1656.png"
+    ],
+    "id": 1656
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAntin and Rawley are waiting in line, and there are 29 people in the line. Antin knows that there are 7 people in front of him. If Antin is in front of Rawley and there are 15 people between Antin and Rawley, how many of the people in the line are behind Rawley? A: 8,B: 5,C: 9,D: 6,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1682.png"
+    ],
+    "id": 1682
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nLogan and Richardo are waiting in line. Logan knows that there are 12 people in front of him. Richardo knows that there is a total of 30 people in the line. If Logan is in front of Richardo and there are 13 people between Logan and Richardo, how many of the people in the line are behind Richardo? A: 2,B: 5,C: 3,D: 4,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1684.png"
+    ],
+    "id": 1684
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThere are 20 people standing in line, including Hiram and Thane. Hiram knows that there are 3 people in front of him. If Hiram is in front of Thane and there are 4 people between Hiram and Thane, how many of the people in the line are behind Thane? A: 8,B: 14,C: 9,D: 11,E: 10",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1693.png"
+    ],
+    "id": 1693
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nElliott and Rodger are standing in line. Elliott knows that there are 17 people in front of him. Rodger knows that there is a total of 27 people in the line. If Elliott is in front of Rodger and there are 4 people between Elliott and Rodger, how many of the people in the line are behind Rodger? A: 4,B: 1,C: 8,D: 3,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1703.png"
+    ],
+    "id": 1703
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThere are 30 people waiting in line, including Kenyon and Lin. Kenyon knows that there are 5 people in front of him. If Kenyon is in front of Lin and there are 13 people between Kenyon and Lin, how many of the people in the line are behind Lin? A: 11,B: 10,C: 14,D: 9,E: 13",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1705.png"
+    ],
+    "id": 1705
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nJoseph and Gunter are waiting in line, and there are 19 people in the line. Joseph knows that there are 12 people in front of him. If Joseph is in front of Gunter and there are 3 people between Joseph and Gunter, how many of the people in the line are behind Gunter? A: 4,B: 1,C: 6,D: 2,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1713.png"
+    ],
+    "id": 1713
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nTirrell and Wakefield are standing in line, and there are 30 people in the line. Tirrell knows that there are 3 people in front of him. If Tirrell is in front of Wakefield and there are 3 people between Tirrell and Wakefield, how many of the people in the line are behind Wakefield? A: 25,B: 24,C: 22,D: 19,E: 21",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1734.png"
+    ],
+    "id": 1734
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThere are 18 people standing in line, including Townie and David. Townie knows that there are 4 people in front of him. If Townie is in front of David and there are 2 people between Townie and David, how many of the people in the line are behind David? A: 10,B: 9,C: 11,D: 6,E: 8",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1769.png"
+    ],
+    "id": 1769
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nGerald and Joshuah are standing in line, and there are 25 people in the line. Gerald knows that there are 6 people in front of him. If Gerald is in front of Joshuah and there are 10 people between Gerald and Joshuah, how many of the people in the line are behind Joshuah? A: 8,B: 3,C: 11,D: 7,E: 10",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1771.png"
+    ],
+    "id": 1771
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAlbert and Godwin are standing in line. Albert knows that there are 3 people in front of him. Godwin knows that there is a total of 27 people in the line. If Albert is in front of Godwin and there are 17 people between Albert and Godwin, how many of the people in the line are behind Godwin? A: 6,B: 7,C: 2,D: 5,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1777.png"
+    ],
+    "id": 1777
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nJulie and Marlowe are waiting in line. Julie knows that there are 13 people in front of him. Marlowe knows that there is a total of 24 people in the line. If Julie is in front of Marlowe and there are 4 people between Julie and Marlowe, how many of the people in the line are behind Marlowe? A: 4,B: 2,C: 9,D: 6,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1780.png"
+    ],
+    "id": 1780
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHal and Armand are standing in a line consisting of 18 people. Hal knows that there are 11 people in front of him. If Hal is in front of Armand and there are 2 people between Hal and Armand, how many of the people in the line are behind Armand? A: 7,B: 6,C: 3,D: 4,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1812.png"
+    ],
+    "id": 1812
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHagen and Torrey are standing in line. Hagen knows that there are 9 people in front of him. Torrey knows that there is a total of 26 people in the line. If Hagen is in front of Torrey and there are 11 people between Hagen and Torrey, how many of the people in the line are behind Torrey? A: 7,B: 8,C: 3,D: 1,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1823.png"
+    ],
+    "id": 1823
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAlston and Don are waiting in line, and there are 30 people in the line. Alston knows that there are 8 people in front of him. If Alston is in front of Don and there are 13 people between Alston and Don, how many of the people in the line are behind Don? A: 7,B: 4,C: 3,D: 10,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1844.png"
+    ],
+    "id": 1844
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThere are 28 people waiting in line, including Odin and Tull. Odin knows that there are 12 people in front of him. If Odin is in front of Tull and there are 9 people between Odin and Tull, how many of the people in the line are behind Tull? A: 5,B: 3,C: 9,D: 8,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_187.png"
+    ],
+    "id": 187
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nMarlo and Millicent are standing in a line consisting of 25 people. Marlo knows that there are 13 people in front of him. If Marlo is in front of Millicent and there are 3 people between Marlo and Millicent, how many of the people in the line are behind Millicent? A: 6,B: 9,C: 10,D: 8,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1871.png"
+    ],
+    "id": 1871
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThere are 27 people waiting in line, including Eugene and Burke. Eugene knows that there are 16 people in front of him. If Eugene is in front of Burke and there are 3 people between Eugene and Burke, how many of the people in the line are behind Burke? A: 7,B: 2,C: 5,D: 9,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1878.png"
+    ],
+    "id": 1878
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThere are 23 people waiting in line, including Thaddeus and Jean-Christophe. Thaddeus knows that there are 15 people in front of him. If Thaddeus is in front of Jean-Christophe and there are 3 people between Thaddeus and Jean-Christophe, how many of the people in the line are behind Jean-Christophe? A: 4,B: 2,C: 6,D: 1,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1883.png"
+    ],
+    "id": 1883
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBrooks and Noah are waiting in line, and there are 29 people in the line. Brooks knows that there are 8 people in front of him. If Brooks is in front of Noah and there are 13 people between Brooks and Noah, how many of the people in the line are behind Noah? A: 7,B: 8,C: 6,D: 5,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1889.png"
+    ],
+    "id": 1889
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nGideon and Hymie are standing in line. Gideon knows that there are 4 people in front of him. Hymie knows that there is a total of 21 people in the line. If Gideon is in front of Hymie and there are 2 people between Gideon and Hymie, how many of the people in the line are behind Hymie? A: 15,B: 14,C: 9,D: 13,E: 17",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1891.png"
+    ],
+    "id": 1891
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nArther and Yale are waiting in line. Arther knows that there are 6 people in front of him. Yale knows that there is a total of 21 people in the line. If Arther is in front of Yale and there are 6 people between Arther and Yale, how many of the people in the line are behind Yale? A: 11,B: 6,C: 10,D: 3,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1895.png"
+    ],
+    "id": 1895
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThere are 23 people standing in line, including Dabney and Amadeus. Dabney knows that there are 11 people in front of him. If Dabney is in front of Amadeus and there are 8 people between Dabney and Amadeus, how many of the people in the line are behind Amadeus? A: 6,B: 4,C: 2,D: 3,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1907.png"
+    ],
+    "id": 1907
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nDerick and Stern are waiting in a line consisting of 26 people. Derick knows that there are 11 people in front of him. If Derick is in front of Stern and there are 10 people between Derick and Stern, how many of the people in the line are behind Stern? A: 2,B: 3,C: 1,D: 4,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1929.png"
+    ],
+    "id": 1929
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nSinclair and Pincas are waiting in a line consisting of 28 people. Sinclair knows that there are 7 people in front of him. If Sinclair is in front of Pincas and there are 17 people between Sinclair and Pincas, how many of the people in the line are behind Pincas? A: 2,B: 5,C: 1,D: 4,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1943.png"
+    ],
+    "id": 1943
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nDory and Niels are standing in a line consisting of 22 people. Dory knows that there are 3 people in front of him. If Dory is in front of Niels and there are 15 people between Dory and Niels, how many of the people in the line are behind Niels? A: 5,B: 2,C: 4,D: 6,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1949.png"
+    ],
+    "id": 1949
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThere are 18 people standing in line, including Sancho and Stuart. Sancho knows that there are 5 people in front of him. If Sancho is in front of Stuart and there are 3 people between Sancho and Stuart, how many of the people in the line are behind Stuart? A: 7,B: 11,C: 4,D: 10,E: 8",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1968.png"
+    ],
+    "id": 1968
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nConnie and Allan are waiting in line, and there are 26 people in the line. Connie knows that there are 9 people in front of him. If Connie is in front of Allan and there are 9 people between Connie and Allan, how many of the people in the line are behind Allan? A: 6,B: 10,C: 8,D: 4,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_1983.png"
+    ],
+    "id": 1983
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThere are 29 people waiting in line, including Clarance and Gustave. Clarance knows that there are 2 people in front of him. If Clarance is in front of Gustave and there are 19 people between Clarance and Gustave, how many of the people in the line are behind Gustave? A: 9,B: 6,C: 4,D: 3,E: 10",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_208.png"
+    ],
+    "id": 208
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nYardley and Tomas are standing in line. Yardley knows that there are 20 people in front of him. Tomas knows that there is a total of 29 people in the line. If Yardley is in front of Tomas and there are 6 people between Yardley and Tomas, how many of the people in the line are behind Tomas? A: 1,B: 4,C: 5,D: 3,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_226.png"
+    ],
+    "id": 226
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nJeffie and Vladamir are standing in a line consisting of 23 people. Jeffie knows that there are 9 people in front of him. If Jeffie is in front of Vladamir and there are 6 people between Jeffie and Vladamir, how many of the people in the line are behind Vladamir? A: 7,B: 9,C: 6,D: 8,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_230.png"
+    ],
+    "id": 230
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nMartie and Denny are waiting in line, and there are 30 people in the line. Martie knows that there are 8 people in front of him. If Martie is in front of Denny and there are 6 people between Martie and Denny, how many of the people in the line are behind Denny? A: 16,B: 12,C: 18,D: 14,E: 11",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_254.png"
+    ],
+    "id": 254
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nCammy and Cam are waiting in line. Cammy knows that there are 9 people in front of him. Cam knows that there is a total of 17 people in the line. If Cammy is in front of Cam and there are 5 people between Cammy and Cam, how many of the people in the line are behind Cam? A: 1,B: 2,C: 4,D: 5,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_263.png"
+    ],
+    "id": 263
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nMorton and Gerhardt are waiting in a line consisting of 14 people. Morton knows that there are 2 people in front of him. If Morton is in front of Gerhardt and there are 5 people between Morton and Gerhardt, how many of the people in the line are behind Gerhardt? A: 6,B: 2,C: 3,D: 1,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_27.png"
+    ],
+    "id": 27
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nGardiner and Lars are standing in line. Gardiner knows that there are 7 people in front of him. Lars knows that there is a total of 30 people in the line. If Gardiner is in front of Lars and there are 12 people between Gardiner and Lars, how many of the people in the line are behind Lars? A: 11,B: 5,C: 8,D: 9,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_284.png"
+    ],
+    "id": 284
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nTerry and Lazlo are standing in line, and there are 19 people in the line. Terry knows that there are 4 people in front of him. If Terry is in front of Lazlo and there are 10 people between Terry and Lazlo, how many of the people in the line are behind Lazlo? A: 4,B: 1,C: 3,D: 5,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_346.png"
+    ],
+    "id": 346
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThere are 18 people standing in line, including Troy and Davide. Troy knows that there are 8 people in front of him. If Troy is in front of Davide and there are 5 people between Troy and Davide, how many of the people in the line are behind Davide? A: 6,B: 4,C: 2,D: 3,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_38.png"
+    ],
+    "id": 38
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThere are 28 people standing in line, including Neil and Matt. Neil knows that there are 22 people in front of him. If Neil is in front of Matt and there are 2 people between Neil and Matt, how many of the people in the line are behind Matt? A: 2,B: 6,C: 1,D: 5,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_403.png"
+    ],
+    "id": 403
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHuey and Wylie are waiting in a line consisting of 16 people. Huey knows that there are 5 people in front of him. If Huey is in front of Wylie and there are 8 people between Huey and Wylie, how many of the people in the line are behind Wylie? A: 2,B: 5,C: 4,D: 1,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_404.png"
+    ],
+    "id": 404
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nMerrick and Bartel are waiting in line, and there are 23 people in the line. Merrick knows that there are 3 people in front of him. If Merrick is in front of Bartel and there are 12 people between Merrick and Bartel, how many of the people in the line are behind Bartel? A: 5,B: 7,C: 10,D: 6,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_438.png"
+    ],
+    "id": 438
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFulton and Griffith are waiting in a line consisting of 30 people. Fulton knows that there are 3 people in front of him. If Fulton is in front of Griffith and there are 9 people between Fulton and Griffith, how many of the people in the line are behind Griffith? A: 16,B: 17,C: 20,D: 15,E: 18",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_453.png"
+    ],
+    "id": 453
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nVictor and Raphael are standing in a line consisting of 20 people. Victor knows that there are 8 people in front of him. If Victor is in front of Raphael and there are 9 people between Victor and Raphael, how many of the people in the line are behind Raphael? A: 3,B: 5,C: 2,D: 4,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_464.png"
+    ],
+    "id": 464
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThere are 22 people standing in line, including Royal and Clancy. Royal knows that there are 5 people in front of him. If Royal is in front of Clancy and there are 14 people between Royal and Clancy, how many of the people in the line are behind Clancy? A: 1,B: 2,C: 5,D: 3,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_470.png"
+    ],
+    "id": 470
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThere are 18 people waiting in line, including Thornton and Gershon. Thornton knows that there are 3 people in front of him. If Thornton is in front of Gershon and there are 9 people between Thornton and Gershon, how many of the people in the line are behind Gershon? A: 5,B: 8,C: 1,D: 6,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_473.png"
+    ],
+    "id": 473
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nTyrone and Schuyler are waiting in line. Tyrone knows that there are 20 people in front of him. Schuyler knows that there is a total of 28 people in the line. If Tyrone is in front of Schuyler and there are 4 people between Tyrone and Schuyler, how many of the people in the line are behind Schuyler? A: 5,B: 2,C: 3,D: 6,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_489.png"
+    ],
+    "id": 489
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWolfie and Rourke are standing in line. Wolfie knows that there are 7 people in front of him. Rourke knows that there is a total of 21 people in the line. If Wolfie is in front of Rourke and there are 10 people between Wolfie and Rourke, how many of the people in the line are behind Rourke? A: 2,B: 4,C: 3,D: 1,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_510.png"
+    ],
+    "id": 510
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nAhmed and Elliot are standing in a line consisting of 27 people. Ahmed knows that there are 19 people in front of him. If Ahmed is in front of Elliot and there are 3 people between Ahmed and Elliot, how many of the people in the line are behind Elliot? A: 5,B: 3,C: 6,D: 1,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_54.png"
+    ],
+    "id": 54
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThere are 25 people waiting in line, including Kenyon and Shannan. Kenyon knows that there are 2 people in front of him. If Kenyon is in front of Shannan and there are 14 people between Kenyon and Shannan, how many of the people in the line are behind Shannan? A: 3,B: 9,C: 8,D: 11,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_551.png"
+    ],
+    "id": 551
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThere are 28 people standing in line, including Herold and Russ. Herold knows that there are 6 people in front of him. If Herold is in front of Russ and there are 14 people between Herold and Russ, how many of the people in the line are behind Russ? A: 4,B: 5,C: 3,D: 6,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_587.png"
+    ],
+    "id": 587
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nTammy and Lawerence are standing in line, and there are 27 people in the line. Tammy knows that there are 4 people in front of him. If Tammy is in front of Lawerence and there are 8 people between Tammy and Lawerence, how many of the people in the line are behind Lawerence? A: 12,B: 14,C: 16,D: 11,E: 13",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_624.png"
+    ],
+    "id": 624
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThere are 27 people waiting in line, including Ali and Francesco. Ali knows that there are 2 people in front of him. If Ali is in front of Francesco and there are 4 people between Ali and Francesco, how many of the people in the line are behind Francesco? A: 18,B: 20,C: 22,D: 16,E: 19",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_640.png"
+    ],
+    "id": 640
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nChristian and Brad are standing in a line consisting of 30 people. Christian knows that there are 20 people in front of him. If Christian is in front of Brad and there are 5 people between Christian and Brad, how many of the people in the line are behind Brad? A: 5,B: 4,C: 7,D: 3,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_641.png"
+    ],
+    "id": 641
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nRobinson and Goddart are waiting in line, and there are 21 people in the line. Robinson knows that there are 8 people in front of him. If Robinson is in front of Goddart and there are 7 people between Robinson and Goddart, how many of the people in the line are behind Goddart? A: 6,B: 4,C: 7,D: 3,E: 8",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_660.png"
+    ],
+    "id": 660
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThere are 22 people standing in line, including Englebart and Alford. Englebart knows that there are 11 people in front of him. If Englebart is in front of Alford and there are 7 people between Englebart and Alford, how many of the people in the line are behind Alford? A: 2,B: 1,C: 3,D: 5,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_688.png"
+    ],
+    "id": 688
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nMaurits and Harlin are waiting in line, and there are 23 people in the line. Maurits knows that there are 6 people in front of him. If Maurits is in front of Harlin and there are 8 people between Maurits and Harlin, how many of the people in the line are behind Harlin? A: 3,B: 11,C: 9,D: 7,E: 10",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_750.png"
+    ],
+    "id": 750
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nTerence and Francesco are standing in a line consisting of 18 people. Terence knows that there are 5 people in front of him. If Terence is in front of Francesco and there are 4 people between Terence and Francesco, how many of the people in the line are behind Francesco? A: 6,B: 4,C: 7,D: 11,E: 8",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_798.png"
+    ],
+    "id": 798
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nTheodoric and Ole are waiting in line, and there are 30 people in the line. Theodoric knows that there are 14 people in front of him. If Theodoric is in front of Ole and there are 3 people between Theodoric and Ole, how many of the people in the line are behind Ole? A: 12,B: 14,C: 11,D: 15,E: 8",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_801.png"
+    ],
+    "id": 801
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThere are 16 people standing in line, including Kristos and Husein. Kristos knows that there are 3 people in front of him. If Kristos is in front of Husein and there are 5 people between Kristos and Husein, how many of the people in the line are behind Husein? A: 6,B: 2,C: 4,D: 8,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_822.png"
+    ],
+    "id": 822
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nEnglebart and Murdoch are waiting in a line consisting of 27 people. Englebart knows that there are 3 people in front of him. If Englebart is in front of Murdoch and there are 21 people between Englebart and Murdoch, how many of the people in the line are behind Murdoch? A: 3,B: 4,C: 1,D: 2,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_878.png"
+    ],
+    "id": 878
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThere are 19 people waiting in line, including Augie and Skelly. Augie knows that there are 5 people in front of him. If Augie is in front of Skelly and there are 5 people between Augie and Skelly, how many of the people in the line are behind Skelly? A: 4,B: 11,C: 8,D: 6,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_881.png"
+    ],
+    "id": 881
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThere are 29 people waiting in line, including Hiralal and Collin. Hiralal knows that there are 12 people in front of him. If Hiralal is in front of Collin and there are 3 people between Hiralal and Collin, how many of the people in the line are behind Collin? A: 12,B: 10,C: 16,D: 13,E: 11",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_897.png"
+    ],
+    "id": 897
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThere are 27 people standing in line, including Lazlo and Godfree. Lazlo knows that there are 17 people in front of him. If Lazlo is in front of Godfree and there are 7 people between Lazlo and Godfree, how many of the people in the line are behind Godfree? A: 2,B: 3,C: 4,D: 5,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_9.png"
+    ],
+    "id": 9
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nGil and Tedd are standing in line. Gil knows that there are 11 people in front of him. Tedd knows that there is a total of 29 people in the line. If Gil is in front of Tedd and there are 15 people between Gil and Tedd, how many of the people in the line are behind Tedd? A: 3,B: 5,C: 4,D: 2,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_914.png"
+    ],
+    "id": 914
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nBurt and Del are standing in line. Burt knows that there are 10 people in front of him. Del knows that there is a total of 26 people in the line. If Burt is in front of Del and there are 10 people between Burt and Del, how many of the people in the line are behind Del? A: 6,B: 5,C: 4,D: 8,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_929.png"
+    ],
+    "id": 929
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nHeinz and Henrik are standing in line, and there are 19 people in the line. Heinz knows that there are 6 people in front of him. If Heinz is in front of Henrik and there are 6 people between Heinz and Henrik, how many of the people in the line are behind Henrik? A: 9,B: 5,C: 3,D: 4,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_955.png"
+    ],
+    "id": 955
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nMarchall and Trevar are standing in a line consisting of 23 people. Marchall knows that there are 2 people in front of him. If Marchall is in front of Trevar and there are 6 people between Marchall and Trevar, how many of the people in the line are behind Trevar? A: 10,B: 15,C: 11,D: 17,E: 13",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/9/img/puzzle_9_e_957.png"
+    ],
+    "id": 957
+  }
+]

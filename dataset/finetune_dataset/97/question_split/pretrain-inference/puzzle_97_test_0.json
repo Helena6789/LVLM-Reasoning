@@ -1,0 +1,4802 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Julie cuts a yarn as depicted in the cartoon. How many portions of the yarn did she land up with? A: 1,B: 6,C: 2,D: 5,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1.png"
+    ],
+    "id": 1
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Tina tears a wire as pictured in the image. How many portions of the wire did she land up with? A: 3,B: 7,C: 20,D: 10,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1012.png"
+    ],
+    "id": 1012
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel divides a string as presented in the image. How many fragments of the string did she make? A: 6,B: 5,C: 9,D: 4,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1016.png"
+    ],
+    "id": 1016
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michael cuts a hair as displayed in the cartoon. How many portions of the hair did he get? A: 10,B: 1,C: 4,D: 3,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1017.png"
+    ],
+    "id": 1017
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Anthony breaks a cord as demonstrated in the picture. How many sections of the cord did he get? A: 1,B: 5,C: 8,D: 4,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1020.png"
+    ],
+    "id": 1020
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jennifer cuts a string as demonstrated in the cartoon. How many bits of the string did she end up with? A: 1,B: 8,C: 15,D: 9,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1021.png"
+    ],
+    "id": 1021
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jon divides a fiber as shown in the picture. How many bits of the fiber did he end up with? A: 8,B: 3,C: 7,D: 9,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1025.png"
+    ],
+    "id": 1025
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joseph breaks a yarn as presented in the image. How many sections of the yarn did he obtain? A: 3,B: 0,C: 9,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1028.png"
+    ],
+    "id": 1028
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel tears a tape as shown in the figure. How many sections of the tape did she make? A: 4,B: 9,C: 16,D: 5,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1038.png"
+    ],
+    "id": 1038
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michael breaks a strand as depicted in the cartoon. How many portions of the strand did he end up with? A: 11,B: 0,C: 13,D: 15,E: 21. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1044.png"
+    ],
+    "id": 1044
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Derrick splits a fiber as presented in the drawing. How many pieces of the fiber did he make? A: 0,B: 7,C: 3,D: 6,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1051.png"
+    ],
+    "id": 1051
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Gabriel divides a thread as depicted in the drawing. How many pieces of the thread did he obtain? A: 2,B: 17,C: 8,D: 12,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1056.png"
+    ],
+    "id": 1056
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Daniel tears a hair as displayed in the image. How many segments of the hair did he make? A: 7,B: 8,C: 9,D: 4,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1059.png"
+    ],
+    "id": 1059
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Nathan tears a ribbon as demonstrated in the figure. How many pieces of the ribbon did he end up with? A: 4,B: 9,C: 2,D: 0,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1064.png"
+    ],
+    "id": 1064
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Katherine divides a tape as presented in the figure. How many sections of the tape did she obtain? A: 7,B: 3,C: 6,D: 13,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1071.png"
+    ],
+    "id": 1071
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Melissa partitions a cord as displayed in the drawing. How many sections of the cord did she end up with? A: 11,B: 10,C: 1,D: 7,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1076.png"
+    ],
+    "id": 1076
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joshua divides a wire as demonstrated in the cartoon. How many slices of the wire did he make? A: 3,B: 6,C: 8,D: 5,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1082.png"
+    ],
+    "id": 1082
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Emily divides a fiber as pictured in the cartoon. How many portions of the fiber did she make? A: 19,B: 17,C: 13,D: 4,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1086.png"
+    ],
+    "id": 1086
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: John cuts a yarn as presented in the picture. How many segments of the yarn did he make? A: 6,B: 12,C: 0,D: 9,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1095.png"
+    ],
+    "id": 1095
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Natalie breaks a tape as shown in the cartoon. How many sections of the tape did she obtain? A: 1,B: 5,C: 11,D: 0,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1104.png"
+    ],
+    "id": 1104
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Dustin splits a wire as pictured in the drawing. How many bits of the wire did he make? A: 4,B: 6,C: 3,D: 2,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1109.png"
+    ],
+    "id": 1109
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joshua partitions a hair as shown in the figure. How many sections of the hair did he have? A: 12,B: 5,C: 8,D: 3,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_112.png"
+    ],
+    "id": 112
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joseph partitions a ribbon as demonstrated in the image. How many portions of the ribbon did he make? A: 4,B: 2,C: 8,D: 7,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1123.png"
+    ],
+    "id": 1123
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jasmine cuts a string as demonstrated in the image. How many fragments of the string did she make? A: 1,B: 7,C: 8,D: 6,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1126.png"
+    ],
+    "id": 1126
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michael breaks a strand as presented in the picture. How many sections of the strand did he make? A: 0,B: 7,C: 3,D: 2,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1129.png"
+    ],
+    "id": 1129
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Amber cuts a string as pictured in the picture. How many segments of the string did she get? A: 1,B: 0,C: 10,D: 7,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1130.png"
+    ],
+    "id": 1130
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Sandra tears a cord as demonstrated in the cartoon. How many pieces of the cord did she obtain? A: 2,B: 6,C: 7,D: 5,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1136.png"
+    ],
+    "id": 1136
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kenneth splits a hair as pictured in the image. How many sections of the hair did he land up with? A: 7,B: 2,C: 8,D: 9,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1152.png"
+    ],
+    "id": 1152
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel splits a ribbon as shown in the image. How many portions of the ribbon did she land up with? A: 4,B: 6,C: 3,D: 0,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1153.png"
+    ],
+    "id": 1153
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jerry tears a ribbon as pictured in the image. How many portions of the ribbon did he make? A: 0,B: 6,C: 8,D: 3,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1154.png"
+    ],
+    "id": 1154
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Tina partitions a wire as pictured in the drawing. How many pieces of the wire did she land up with? A: 7,B: 4,C: 0,D: 5,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1162.png"
+    ],
+    "id": 1162
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Anthony breaks a cord as pictured in the figure. How many portions of the cord did he obtain? A: 15,B: 4,C: 2,D: 8,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1180.png"
+    ],
+    "id": 1180
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Anthony splits a cord as pictured in the drawing. How many portions of the cord did he obtain? A: 4,B: 0,C: 8,D: 1,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1183.png"
+    ],
+    "id": 1183
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Pamela tears a tape as shown in the figure. How many sections of the tape did she end up with? A: 4,B: 0,C: 3,D: 5,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1184.png"
+    ],
+    "id": 1184
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Julie splits a tape as demonstrated in the image. How many segments of the tape did she get? A: 13,B: 12,C: 6,D: 7,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1194.png"
+    ],
+    "id": 1194
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Robert breaks a yarn as demonstrated in the picture. How many slices of the yarn did he get? A: 7,B: 8,C: 11,D: 13,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1207.png"
+    ],
+    "id": 1207
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Thomas tears a tape as presented in the figure. How many segments of the tape did he make? A: 7,B: 11,C: 5,D: 6,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_121.png"
+    ],
+    "id": 121
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel breaks a strand as displayed in the picture. How many portions of the strand did she get? A: 11,B: 1,C: 7,D: 2,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1215.png"
+    ],
+    "id": 1215
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Carrie splits a ribbon as demonstrated in the image. How many pieces of the ribbon did she make? A: 11,B: 8,C: 3,D: 14,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_122.png"
+    ],
+    "id": 122
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michael cuts a strand as demonstrated in the figure. How many slices of the strand did he end up with? A: 2,B: 6,C: 0,D: 10,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1224.png"
+    ],
+    "id": 1224
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Justin cuts a strand as demonstrated in the image. How many bits of the strand did he have? A: 13,B: 7,C: 11,D: 8,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1238.png"
+    ],
+    "id": 1238
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Dustin partitions a fiber as presented in the picture. How many portions of the fiber did he make? A: 7,B: 1,C: 10,D: 3,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1241.png"
+    ],
+    "id": 1241
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Amy divides a wire as shown in the cartoon. How many segments of the wire did she land up with? A: 6,B: 3,C: 7,D: 2,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1248.png"
+    ],
+    "id": 1248
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michelle divides a yarn as depicted in the picture. How many fragments of the yarn did she get? A: 8,B: 13,C: 3,D: 1,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1254.png"
+    ],
+    "id": 1254
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel partitions a yarn as displayed in the cartoon. How many pieces of the yarn did she end up with? A: 9,B: 16,C: 11,D: 4,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1256.png"
+    ],
+    "id": 1256
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Katherine splits a yarn as depicted in the image. How many portions of the yarn did she land up with? A: 5,B: 2,C: 3,D: 9,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1257.png"
+    ],
+    "id": 1257
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Wayne breaks a strand as shown in the picture. How many pieces of the strand did he get? A: 0,B: 2,C: 5,D: 3,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1264.png"
+    ],
+    "id": 1264
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Felicia divides a cord as shown in the figure. How many portions of the cord did she have? A: 3,B: 9,C: 5,D: 0,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1266.png"
+    ],
+    "id": 1266
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joseph divides a ribbon as displayed in the cartoon. How many fragments of the ribbon did he have? A: 10,B: 8,C: 5,D: 12,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1267.png"
+    ],
+    "id": 1267
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Nicholas splits a strand as presented in the figure. How many segments of the strand did he get? A: 7,B: 2,C: 3,D: 6,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1275.png"
+    ],
+    "id": 1275
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Danielle tears a hair as displayed in the image. How many bits of the hair did she end up with? A: 6,B: 0,C: 11,D: 12,E: 18. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1282.png"
+    ],
+    "id": 1282
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Derrick tears a fiber as shown in the drawing. How many portions of the fiber did he have? A: 0,B: 6,C: 13,D: 8,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1291.png"
+    ],
+    "id": 1291
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Karen breaks a string as demonstrated in the cartoon. How many portions of the string did she obtain? A: 9,B: 3,C: 4,D: 6,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1294.png"
+    ],
+    "id": 1294
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Charles tears a wire as displayed in the cartoon. How many fragments of the wire did he get? A: 0,B: 8,C: 6,D: 5,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1297.png"
+    ],
+    "id": 1297
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Derrick partitions a thread as displayed in the image. How many fragments of the thread did he land up with? A: 5,B: 3,C: 8,D: 6,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_13.png"
+    ],
+    "id": 13
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Derrick partitions a strand as depicted in the drawing. How many fragments of the strand did he end up with? A: 4,B: 7,C: 8,D: 5,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_130.png"
+    ],
+    "id": 130
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Derrick splits a hair as depicted in the cartoon. How many segments of the hair did he end up with? A: 9,B: 11,C: 1,D: 6,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1306.png"
+    ],
+    "id": 1306
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Christopher partitions a tape as presented in the picture. How many portions of the tape did he make? A: 9,B: 5,C: 6,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1332.png"
+    ],
+    "id": 1332
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: William cuts a tape as displayed in the drawing. How many sections of the tape did he get? A: 9,B: 3,C: 7,D: 13,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1337.png"
+    ],
+    "id": 1337
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kristin divides a strand as presented in the picture. How many fragments of the strand did she land up with? A: 8,B: 11,C: 6,D: 5,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_134.png"
+    ],
+    "id": 134
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michael tears a hair as demonstrated in the drawing. How many sections of the hair did he get? A: 6,B: 1,C: 8,D: 12,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1354.png"
+    ],
+    "id": 1354
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Paige tears a cord as depicted in the image. How many portions of the cord did she have? A: 9,B: 15,C: 3,D: 12,E: 21. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1363.png"
+    ],
+    "id": 1363
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Carrie cuts a hair as demonstrated in the image. How many portions of the hair did she have? A: 6,B: 11,C: 8,D: 7,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1367.png"
+    ],
+    "id": 1367
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Tina splits a tape as displayed in the drawing. How many portions of the tape did she have? A: 3,B: 17,C: 9,D: 16,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1369.png"
+    ],
+    "id": 1369
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jennifer tears a string as depicted in the figure. How many portions of the string did she end up with? A: 9,B: 8,C: 7,D: 11,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1371.png"
+    ],
+    "id": 1371
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Anthony tears a cord as shown in the image. How many portions of the cord did he end up with? A: 6,B: 12,C: 9,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1382.png"
+    ],
+    "id": 1382
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rebecca divides a wire as pictured in the drawing. How many sections of the wire did she obtain? A: 6,B: 10,C: 1,D: 8,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1390.png"
+    ],
+    "id": 1390
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jeff breaks a fiber as depicted in the cartoon. How many portions of the fiber did he end up with? A: 2,B: 5,C: 0,D: 1,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1396.png"
+    ],
+    "id": 1396
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jerry divides a tape as presented in the drawing. How many segments of the tape did he obtain? A: 8,B: 10,C: 9,D: 3,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1397.png"
+    ],
+    "id": 1397
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: William partitions a cord as presented in the cartoon. How many segments of the cord did he end up with? A: 13,B: 8,C: 3,D: 0,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_14.png"
+    ],
+    "id": 14
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Derrick breaks a fiber as displayed in the image. How many slices of the fiber did he get? A: 4,B: 5,C: 10,D: 12,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1400.png"
+    ],
+    "id": 1400
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel breaks a wire as presented in the drawing. How many pieces of the wire did she end up with? A: 5,B: 14,C: 7,D: 8,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1408.png"
+    ],
+    "id": 1408
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Gina partitions a tape as presented in the image. How many sections of the tape did she obtain? A: 6,B: 7,C: 9,D: 11,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1409.png"
+    ],
+    "id": 1409
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Nicholas cuts a thread as presented in the cartoon. How many slices of the thread did he land up with? A: 4,B: 0,C: 1,D: 5,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1410.png"
+    ],
+    "id": 1410
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joseph cuts a cord as pictured in the figure. How many fragments of the cord did he land up with? A: 7,B: 5,C: 8,D: 13,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1411.png"
+    ],
+    "id": 1411
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Danielle partitions a hair as depicted in the image. How many portions of the hair did she obtain? A: 5,B: 6,C: 0,D: 9,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1413.png"
+    ],
+    "id": 1413
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Carl partitions a cord as depicted in the image. How many portions of the cord did he get? A: 5,B: 2,C: 4,D: 6,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1426.png"
+    ],
+    "id": 1426
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Ariel splits a fiber as pictured in the image. How many portions of the fiber did he obtain? A: 5,B: 4,C: 3,D: 10,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_143.png"
+    ],
+    "id": 143
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Danielle cuts a strand as presented in the cartoon. How many fragments of the strand did she make? A: 6,B: 8,C: 4,D: 5,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1430.png"
+    ],
+    "id": 1430
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michael divides a wire as displayed in the figure. How many pieces of the wire did he obtain? A: 7,B: 15,C: 11,D: 10,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1434.png"
+    ],
+    "id": 1434
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Nicholas splits a fiber as shown in the image. How many fragments of the fiber did he obtain? A: 9,B: 12,C: 0,D: 8,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1437.png"
+    ],
+    "id": 1437
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Crystal cuts a thread as presented in the drawing. How many portions of the thread did she end up with? A: 12,B: 4,C: 7,D: 9,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1439.png"
+    ],
+    "id": 1439
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Victor breaks a thread as displayed in the cartoon. How many slices of the thread did he end up with? A: 4,B: 6,C: 0,D: 2,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1451.png"
+    ],
+    "id": 1451
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Sandra cuts a strand as demonstrated in the figure. How many fragments of the strand did she land up with? A: 16,B: 2,C: 12,D: 1,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1459.png"
+    ],
+    "id": 1459
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Cristina splits a hair as demonstrated in the drawing. How many pieces of the hair did she make? A: 13,B: 2,C: 12,D: 5,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1462.png"
+    ],
+    "id": 1462
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michael divides a wire as displayed in the drawing. How many fragments of the wire did he land up with? A: 2,B: 5,C: 9,D: 4,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1478.png"
+    ],
+    "id": 1478
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jerry breaks a wire as shown in the cartoon. How many sections of the wire did he obtain? A: 9,B: 8,C: 5,D: 3,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1479.png"
+    ],
+    "id": 1479
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Melissa tears a yarn as shown in the picture. How many portions of the yarn did she have? A: 6,B: 10,C: 8,D: 1,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1482.png"
+    ],
+    "id": 1482
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel splits a string as shown in the drawing. How many bits of the string did she have? A: 4,B: 1,C: 0,D: 5,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1484.png"
+    ],
+    "id": 1484
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joseph splits a tape as shown in the image. How many bits of the tape did he have? A: 12,B: 8,C: 11,D: 5,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1485.png"
+    ],
+    "id": 1485
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Christian splits a wire as depicted in the cartoon. How many portions of the wire did he land up with? A: 11,B: 16,C: 10,D: 1,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1495.png"
+    ],
+    "id": 1495
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel splits a yarn as demonstrated in the drawing. How many slices of the yarn did she have? A: 3,B: 6,C: 7,D: 2,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1496.png"
+    ],
+    "id": 1496
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: William splits a wire as pictured in the image. How many bits of the wire did he make? A: 3,B: 5,C: 7,D: 8,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1499.png"
+    ],
+    "id": 1499
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jasmine divides a thread as demonstrated in the drawing. How many segments of the thread did she make? A: 7,B: 0,C: 9,D: 8,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1500.png"
+    ],
+    "id": 1500
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kathryn partitions a cord as displayed in the cartoon. How many bits of the cord did she get? A: 20,B: 19,C: 4,D: 11,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1508.png"
+    ],
+    "id": 1508
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Carl partitions a yarn as demonstrated in the figure. How many sections of the yarn did he get? A: 12,B: 23,C: 10,D: 19,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1513.png"
+    ],
+    "id": 1513
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Brenda divides a yarn as demonstrated in the cartoon. How many bits of the yarn did she get? A: 0,B: 4,C: 1,D: 9,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1515.png"
+    ],
+    "id": 1515
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Melissa partitions a cord as pictured in the figure. How many portions of the cord did she get? A: 8,B: 9,C: 1,D: 0,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1520.png"
+    ],
+    "id": 1520
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Victor divides a hair as displayed in the drawing. How many slices of the hair did he land up with? A: 1,B: 2,C: 5,D: 9,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1522.png"
+    ],
+    "id": 1522
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Albert breaks a ribbon as pictured in the cartoon. How many segments of the ribbon did he have? A: 4,B: 0,C: 1,D: 5,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1528.png"
+    ],
+    "id": 1528
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: William divides a hair as demonstrated in the drawing. How many portions of the hair did he obtain? A: 4,B: 6,C: 0,D: 9,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1529.png"
+    ],
+    "id": 1529
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michael breaks a tape as shown in the drawing. How many slices of the tape did he have? A: 4,B: 2,C: 9,D: 11,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1533.png"
+    ],
+    "id": 1533
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Christine breaks a string as shown in the drawing. How many slices of the string did she get? A: 6,B: 9,C: 7,D: 2,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1534.png"
+    ],
+    "id": 1534
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Derrick tears a cord as presented in the figure. How many segments of the cord did he land up with? A: 2,B: 6,C: 8,D: 5,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1570.png"
+    ],
+    "id": 1570
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Wayne breaks a wire as depicted in the image. How many pieces of the wire did he end up with? A: 11,B: 10,C: 9,D: 0,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1577.png"
+    ],
+    "id": 1577
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Derrick breaks a string as displayed in the figure. How many slices of the string did he have? A: 9,B: 6,C: 11,D: 7,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1579.png"
+    ],
+    "id": 1579
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Gabriel partitions a yarn as shown in the figure. How many bits of the yarn did he land up with? A: 5,B: 1,C: 2,D: 6,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1584.png"
+    ],
+    "id": 1584
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Christine splits a tape as pictured in the drawing. How many portions of the tape did she end up with? A: 5,B: 7,C: 6,D: 1,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1585.png"
+    ],
+    "id": 1585
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Deborah breaks a strand as depicted in the picture. How many segments of the strand did she have? A: 2,B: 6,C: 8,D: 10,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1589.png"
+    ],
+    "id": 1589
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: William tears a hair as displayed in the cartoon. How many bits of the hair did he make? A: 8,B: 6,C: 1,D: 0,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1590.png"
+    ],
+    "id": 1590
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Natalie divides a yarn as displayed in the drawing. How many bits of the yarn did she land up with? A: 7,B: 4,C: 6,D: 1,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1597.png"
+    ],
+    "id": 1597
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Justin divides a wire as pictured in the drawing. How many slices of the wire did he land up with? A: 2,B: 4,C: 7,D: 6,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1598.png"
+    ],
+    "id": 1598
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: William divides a strand as presented in the picture. How many portions of the strand did he obtain? A: 2,B: 6,C: 1,D: 7,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_161.png"
+    ],
+    "id": 161
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michelle tears a yarn as depicted in the cartoon. How many portions of the yarn did she make? A: 8,B: 1,C: 5,D: 2,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1631.png"
+    ],
+    "id": 1631
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Melissa tears a yarn as shown in the image. How many pieces of the yarn did she get? A: 3,B: 12,C: 7,D: 0,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1633.png"
+    ],
+    "id": 1633
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Amy splits a strand as depicted in the cartoon. How many portions of the strand did she land up with? A: 1,B: 7,C: 3,D: 5,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1636.png"
+    ],
+    "id": 1636
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Karen divides a yarn as shown in the image. How many sections of the yarn did she make? A: 2,B: 4,C: 7,D: 1,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1638.png"
+    ],
+    "id": 1638
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: John tears a tape as displayed in the image. How many portions of the tape did he have? A: 4,B: 8,C: 7,D: 5,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1643.png"
+    ],
+    "id": 1643
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michele splits a strand as demonstrated in the image. How many pieces of the strand did she have? A: 1,B: 2,C: 17,D: 10,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1648.png"
+    ],
+    "id": 1648
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kevin cuts a cord as pictured in the picture. How many pieces of the cord did he end up with? A: 10,B: 8,C: 15,D: 19,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_166.png"
+    ],
+    "id": 166
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Natalie cuts a strand as shown in the image. How many slices of the strand did she end up with? A: 16,B: 9,C: 6,D: 3,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1661.png"
+    ],
+    "id": 1661
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Ariel breaks a cord as depicted in the picture. How many fragments of the cord did he make? A: 7,B: 5,C: 4,D: 6,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1663.png"
+    ],
+    "id": 1663
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Chelsea splits a tape as shown in the cartoon. How many portions of the tape did she get? A: 10,B: 4,C: 3,D: 7,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1678.png"
+    ],
+    "id": 1678
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Tina divides a tape as shown in the image. How many bits of the tape did she obtain? A: 3,B: 8,C: 17,D: 13,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1685.png"
+    ],
+    "id": 1685
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Katherine cuts a strand as shown in the figure. How many segments of the strand did she end up with? A: 7,B: 14,C: 4,D: 9,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1687.png"
+    ],
+    "id": 1687
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Gina splits a tape as demonstrated in the picture. How many segments of the tape did she have? A: 7,B: 9,C: 6,D: 11,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1695.png"
+    ],
+    "id": 1695
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joshua divides a cord as pictured in the drawing. How many segments of the cord did he land up with? A: 11,B: 6,C: 4,D: 1,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1698.png"
+    ],
+    "id": 1698
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Crystal tears a ribbon as demonstrated in the picture. How many portions of the ribbon did she have? A: 10,B: 4,C: 9,D: 6,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1700.png"
+    ],
+    "id": 1700
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Gina splits a cord as pictured in the picture. How many portions of the cord did she obtain? A: 9,B: 7,C: 8,D: 0,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1705.png"
+    ],
+    "id": 1705
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Wayne divides a strand as shown in the cartoon. How many bits of the strand did he obtain? A: 8,B: 6,C: 1,D: 2,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1707.png"
+    ],
+    "id": 1707
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Chelsea partitions a hair as presented in the figure. How many bits of the hair did she make? A: 9,B: 4,C: 0,D: 5,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1714.png"
+    ],
+    "id": 1714
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Denise tears a fiber as shown in the image. How many fragments of the fiber did she make? A: 5,B: 15,C: 10,D: 4,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1715.png"
+    ],
+    "id": 1715
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Lawrence splits a tape as depicted in the drawing. How many sections of the tape did he land up with? A: 11,B: 5,C: 2,D: 17,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1722.png"
+    ],
+    "id": 1722
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Derrick breaks a cord as presented in the figure. How many fragments of the cord did he land up with? A: 10,B: 1,C: 3,D: 2,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1724.png"
+    ],
+    "id": 1724
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Pamela cuts a strand as displayed in the cartoon. How many sections of the strand did she get? A: 2,B: 3,C: 16,D: 12,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1725.png"
+    ],
+    "id": 1725
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Catherine divides a cord as shown in the drawing. How many portions of the cord did she make? A: 4,B: 10,C: 5,D: 12,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1748.png"
+    ],
+    "id": 1748
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Matthew breaks a cord as depicted in the figure. How many portions of the cord did he make? A: 3,B: 9,C: 0,D: 1,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1750.png"
+    ],
+    "id": 1750
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joshua splits a cord as depicted in the drawing. How many sections of the cord did he have? A: 0,B: 1,C: 5,D: 2,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1751.png"
+    ],
+    "id": 1751
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Lisa breaks a hair as shown in the picture. How many segments of the hair did she make? A: 9,B: 3,C: 6,D: 8,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1753.png"
+    ],
+    "id": 1753
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Matthew partitions a wire as demonstrated in the picture. How many pieces of the wire did he make? A: 8,B: 9,C: 4,D: 3,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1757.png"
+    ],
+    "id": 1757
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Amy partitions a strand as shown in the image. How many bits of the strand did she end up with? A: 1,B: 3,C: 4,D: 0,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1758.png"
+    ],
+    "id": 1758
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Christine breaks a fiber as depicted in the figure. How many portions of the fiber did she make? A: 6,B: 8,C: 10,D: 1,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1762.png"
+    ],
+    "id": 1762
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Denise tears a wire as displayed in the drawing. How many portions of the wire did she end up with? A: 13,B: 3,C: 15,D: 8,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1772.png"
+    ],
+    "id": 1772
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jeff breaks a cord as presented in the cartoon. How many segments of the cord did he make? A: 5,B: 0,C: 1,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1773.png"
+    ],
+    "id": 1773
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Ariel splits a ribbon as shown in the image. How many fragments of the ribbon did he end up with? A: 8,B: 0,C: 4,D: 5,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1792.png"
+    ],
+    "id": 1792
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Julie partitions a wire as demonstrated in the figure. How many bits of the wire did she land up with? A: 3,B: 0,C: 7,D: 1,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1795.png"
+    ],
+    "id": 1795
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joseph splits a hair as shown in the cartoon. How many slices of the hair did he end up with? A: 14,B: 8,C: 6,D: 0,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1796.png"
+    ],
+    "id": 1796
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Victor partitions a thread as pictured in the picture. How many fragments of the thread did he have? A: 6,B: 7,C: 4,D: 9,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1806.png"
+    ],
+    "id": 1806
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joseph splits a thread as demonstrated in the figure. How many fragments of the thread did he have? A: 6,B: 2,C: 7,D: 11,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1808.png"
+    ],
+    "id": 1808
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jose cuts a strand as demonstrated in the picture. How many portions of the strand did he have? A: 9,B: 10,C: 18,D: 1,E: 19. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1823.png"
+    ],
+    "id": 1823
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jennifer divides a tape as presented in the picture. How many portions of the tape did she end up with? A: 6,B: 4,C: 3,D: 5,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1835.png"
+    ],
+    "id": 1835
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Gabriel tears a fiber as pictured in the cartoon. How many pieces of the fiber did he obtain? A: 2,B: 8,C: 6,D: 0,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1836.png"
+    ],
+    "id": 1836
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Thomas divides a thread as shown in the figure. How many sections of the thread did he get? A: 5,B: 7,C: 0,D: 4,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1839.png"
+    ],
+    "id": 1839
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Natalie tears a strand as shown in the image. How many portions of the strand did she obtain? A: 8,B: 9,C: 6,D: 11,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1841.png"
+    ],
+    "id": 1841
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Emily partitions a fiber as depicted in the picture. How many sections of the fiber did she land up with? A: 12,B: 13,C: 11,D: 8,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1842.png"
+    ],
+    "id": 1842
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Chelsea divides a wire as pictured in the picture. How many pieces of the wire did she obtain? A: 16,B: 13,C: 5,D: 11,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1845.png"
+    ],
+    "id": 1845
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Tyler cuts a wire as displayed in the picture. How many bits of the wire did she make? A: 5,B: 9,C: 0,D: 6,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1848.png"
+    ],
+    "id": 1848
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Sandra divides a string as displayed in the drawing. How many segments of the string did she land up with? A: 14,B: 9,C: 6,D: 12,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1851.png"
+    ],
+    "id": 1851
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Gina breaks a thread as pictured in the picture. How many fragments of the thread did she obtain? A: 8,B: 5,C: 7,D: 6,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1862.png"
+    ],
+    "id": 1862
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Denise cuts a ribbon as pictured in the cartoon. How many pieces of the ribbon did she make? A: 8,B: 9,C: 2,D: 4,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1863.png"
+    ],
+    "id": 1863
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel divides a fiber as displayed in the image. How many fragments of the fiber did she end up with? A: 0,B: 6,C: 5,D: 2,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_187.png"
+    ],
+    "id": 187
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Lawrence tears a yarn as demonstrated in the picture. How many slices of the yarn did he make? A: 6,B: 0,C: 11,D: 19,E: 17. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1880.png"
+    ],
+    "id": 1880
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: John breaks a strand as pictured in the picture. How many pieces of the strand did he have? A: 1,B: 4,C: 6,D: 3,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1885.png"
+    ],
+    "id": 1885
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Anthony cuts a yarn as shown in the picture. How many fragments of the yarn did he have? A: 6,B: 5,C: 9,D: 1,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1886.png"
+    ],
+    "id": 1886
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Katherine tears a fiber as shown in the figure. How many pieces of the fiber did she have? A: 14,B: 6,C: 10,D: 4,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_189.png"
+    ],
+    "id": 189
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Bruce breaks a thread as shown in the figure. How many pieces of the thread did he make? A: 3,B: 5,C: 6,D: 11,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1891.png"
+    ],
+    "id": 1891
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Brenda breaks a tape as shown in the picture. How many sections of the tape did she land up with? A: 0,B: 4,C: 5,D: 9,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1895.png"
+    ],
+    "id": 1895
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Karen tears a wire as pictured in the cartoon. How many portions of the wire did she land up with? A: 6,B: 2,C: 5,D: 0,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1899.png"
+    ],
+    "id": 1899
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Denise splits a ribbon as demonstrated in the picture. How many sections of the ribbon did she make? A: 10,B: 4,C: 13,D: 7,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1900.png"
+    ],
+    "id": 1900
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kristin divides a cord as pictured in the drawing. How many bits of the cord did she land up with? A: 1,B: 7,C: 9,D: 0,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1901.png"
+    ],
+    "id": 1901
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Charles cuts a strand as presented in the picture. How many sections of the strand did he land up with? A: 7,B: 4,C: 8,D: 5,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1915.png"
+    ],
+    "id": 1915
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Gina tears a hair as displayed in the image. How many pieces of the hair did she land up with? A: 13,B: 12,C: 4,D: 10,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1925.png"
+    ],
+    "id": 1925
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Holly tears a yarn as displayed in the picture. How many pieces of the yarn did she have? A: 3,B: 8,C: 2,D: 1,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1951.png"
+    ],
+    "id": 1951
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jorge splits a wire as shown in the picture. How many pieces of the wire did he obtain? A: 11,B: 9,C: 8,D: 6,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1952.png"
+    ],
+    "id": 1952
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Derrick divides a thread as shown in the figure. How many portions of the thread did he have? A: 12,B: 6,C: 0,D: 8,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_197.png"
+    ],
+    "id": 197
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel divides a thread as pictured in the cartoon. How many sections of the thread did she get? A: 9,B: 8,C: 6,D: 5,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1970.png"
+    ],
+    "id": 1970
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Catherine splits a hair as shown in the figure. How many pieces of the hair did she land up with? A: 5,B: 0,C: 6,D: 4,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_1996.png"
+    ],
+    "id": 1996
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Nathan tears a wire as presented in the drawing. How many slices of the wire did he get? A: 15,B: 12,C: 21,D: 4,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_20.png"
+    ],
+    "id": 20
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Derrick cuts a wire as presented in the cartoon. How many slices of the wire did he land up with? A: 0,B: 9,C: 12,D: 6,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_200.png"
+    ],
+    "id": 200
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Robert partitions a ribbon as presented in the cartoon. How many sections of the ribbon did he obtain? A: 11,B: 19,C: 13,D: 12,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_201.png"
+    ],
+    "id": 201
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Frank divides a thread as shown in the cartoon. How many fragments of the thread did he get? A: 4,B: 5,C: 7,D: 0,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_202.png"
+    ],
+    "id": 202
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joseph tears a strand as presented in the cartoon. How many segments of the strand did he make? A: 8,B: 3,C: 7,D: 13,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_205.png"
+    ],
+    "id": 205
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michelle partitions a yarn as pictured in the drawing. How many fragments of the yarn did she get? A: 11,B: 12,C: 10,D: 17,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_206.png"
+    ],
+    "id": 206
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Nicholas cuts a wire as demonstrated in the cartoon. How many slices of the wire did he land up with? A: 2,B: 3,C: 16,D: 1,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_21.png"
+    ],
+    "id": 21
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jon breaks a yarn as presented in the picture. How many bits of the yarn did he get? A: 5,B: 2,C: 7,D: 8,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_216.png"
+    ],
+    "id": 216
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Katherine breaks a ribbon as pictured in the cartoon. How many segments of the ribbon did she make? A: 2,B: 4,C: 8,D: 7,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_219.png"
+    ],
+    "id": 219
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Derrick partitions a tape as depicted in the drawing. How many pieces of the tape did he end up with? A: 10,B: 9,C: 16,D: 7,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_230.png"
+    ],
+    "id": 230
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jorge tears a thread as depicted in the figure. How many segments of the thread did he make? A: 3,B: 6,C: 4,D: 0,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_241.png"
+    ],
+    "id": 241
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: William divides a tape as pictured in the picture. How many bits of the tape did he make? A: 7,B: 0,C: 6,D: 10,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_246.png"
+    ],
+    "id": 246
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Melissa tears a ribbon as pictured in the figure. How many portions of the ribbon did she have? A: 6,B: 4,C: 2,D: 7,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_252.png"
+    ],
+    "id": 252
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Nicholas divides a wire as presented in the picture. How many sections of the wire did he have? A: 6,B: 3,C: 11,D: 10,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_269.png"
+    ],
+    "id": 269
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel breaks a fiber as presented in the image. How many slices of the fiber did she land up with? A: 3,B: 0,C: 9,D: 5,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_276.png"
+    ],
+    "id": 276
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Charles cuts a strand as displayed in the cartoon. How many fragments of the strand did he end up with? A: 2,B: 8,C: 7,D: 17,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_279.png"
+    ],
+    "id": 279
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Pamela tears a ribbon as shown in the picture. How many fragments of the ribbon did she obtain? A: 4,B: 5,C: 8,D: 7,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_288.png"
+    ],
+    "id": 288
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Hannah breaks a hair as shown in the image. How many bits of the hair did she land up with? A: 7,B: 5,C: 1,D: 6,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_293.png"
+    ],
+    "id": 293
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Danielle cuts a ribbon as demonstrated in the figure. How many bits of the ribbon did she end up with? A: 0,B: 12,C: 10,D: 8,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_295.png"
+    ],
+    "id": 295
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Brenda cuts a string as pictured in the figure. How many sections of the string did she make? A: 8,B: 2,C: 3,D: 1,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_315.png"
+    ],
+    "id": 315
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Nathan tears a fiber as presented in the image. How many fragments of the fiber did he obtain? A: 13,B: 6,C: 3,D: 11,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_317.png"
+    ],
+    "id": 317
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel partitions a thread as pictured in the picture. How many portions of the thread did she obtain? A: 9,B: 7,C: 2,D: 5,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_330.png"
+    ],
+    "id": 330
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Tina cuts a cord as displayed in the drawing. How many portions of the cord did she get? A: 6,B: 7,C: 3,D: 2,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_337.png"
+    ],
+    "id": 337
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Melissa partitions a cord as pictured in the cartoon. How many portions of the cord did she end up with? A: 7,B: 2,C: 5,D: 6,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_34.png"
+    ],
+    "id": 34
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Anthony splits a strand as displayed in the drawing. How many portions of the strand did he get? A: 7,B: 8,C: 13,D: 15,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_343.png"
+    ],
+    "id": 343
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Bridget cuts a fiber as depicted in the image. How many fragments of the fiber did she get? A: 3,B: 5,C: 7,D: 9,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_378.png"
+    ],
+    "id": 378
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Emily partitions a hair as depicted in the cartoon. How many portions of the hair did she make? A: 5,B: 0,C: 4,D: 2,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_379.png"
+    ],
+    "id": 379
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Stephen tears a wire as pictured in the figure. How many portions of the wire did he have? A: 3,B: 11,C: 8,D: 0,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_384.png"
+    ],
+    "id": 384
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Tyler breaks a string as demonstrated in the picture. How many fragments of the string did she get? A: 13,B: 5,C: 6,D: 7,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_385.png"
+    ],
+    "id": 385
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Paige tears a ribbon as presented in the drawing. How many pieces of the ribbon did she have? A: 0,B: 3,C: 9,D: 1,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_387.png"
+    ],
+    "id": 387
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Carrie breaks a yarn as displayed in the picture. How many portions of the yarn did she obtain? A: 10,B: 9,C: 16,D: 4,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_391.png"
+    ],
+    "id": 391
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Robert splits a hair as shown in the cartoon. How many bits of the hair did he get? A: 2,B: 6,C: 3,D: 7,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_392.png"
+    ],
+    "id": 392
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Julie divides a cord as pictured in the picture. How many portions of the cord did she make? A: 6,B: 11,C: 3,D: 7,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_397.png"
+    ],
+    "id": 397
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Sylvia breaks a string as shown in the figure. How many fragments of the string did she make? A: 8,B: 0,C: 6,D: 5,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_40.png"
+    ],
+    "id": 40
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Stephen splits a fiber as displayed in the cartoon. How many pieces of the fiber did he get? A: 12,B: 13,C: 18,D: 14,E: 23. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_400.png"
+    ],
+    "id": 400
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Victor divides a ribbon as pictured in the drawing. How many portions of the ribbon did he get? A: 9,B: 10,C: 11,D: 6,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_401.png"
+    ],
+    "id": 401
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Deborah breaks a fiber as demonstrated in the figure. How many fragments of the fiber did she have? A: 8,B: 5,C: 6,D: 1,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_406.png"
+    ],
+    "id": 406
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Albert divides a ribbon as presented in the cartoon. How many portions of the ribbon did he land up with? A: 2,B: 8,C: 4,D: 5,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_418.png"
+    ],
+    "id": 418
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Nicholas partitions a ribbon as pictured in the cartoon. How many bits of the ribbon did he make? A: 0,B: 7,C: 15,D: 8,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_441.png"
+    ],
+    "id": 441
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel tears a thread as demonstrated in the figure. How many sections of the thread did she make? A: 14,B: 12,C: 8,D: 13,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_455.png"
+    ],
+    "id": 455
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Paige divides a thread as shown in the cartoon. How many portions of the thread did she have? A: 7,B: 2,C: 6,D: 1,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_459.png"
+    ],
+    "id": 459
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Felicia partitions a string as demonstrated in the image. How many bits of the string did she obtain? A: 12,B: 3,C: 1,D: 19,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_466.png"
+    ],
+    "id": 466
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jorge cuts a thread as demonstrated in the cartoon. How many portions of the thread did he obtain? A: 4,B: 5,C: 6,D: 7,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_474.png"
+    ],
+    "id": 474
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jon tears a string as demonstrated in the drawing. How many bits of the string did he get? A: 7,B: 6,C: 10,D: 5,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_484.png"
+    ],
+    "id": 484
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Ariel partitions a thread as presented in the figure. How many slices of the thread did he get? A: 5,B: 1,C: 0,D: 4,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_492.png"
+    ],
+    "id": 492
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Anthony breaks a ribbon as displayed in the image. How many slices of the ribbon did he end up with? A: 5,B: 9,C: 6,D: 0,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_502.png"
+    ],
+    "id": 502
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Melissa tears a ribbon as shown in the image. How many segments of the ribbon did she obtain? A: 4,B: 10,C: 3,D: 7,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_508.png"
+    ],
+    "id": 508
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Sandra divides a string as presented in the picture. How many segments of the string did she land up with? A: 13,B: 14,C: 8,D: 0,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_510.png"
+    ],
+    "id": 510
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Erin breaks a hair as depicted in the cartoon. How many slices of the hair did she make? A: 13,B: 15,C: 10,D: 5,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_520.png"
+    ],
+    "id": 520
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Christian tears a yarn as depicted in the drawing. How many portions of the yarn did he land up with? A: 13,B: 11,C: 1,D: 9,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_524.png"
+    ],
+    "id": 524
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jose divides a wire as depicted in the figure. How many sections of the wire did he have? A: 5,B: 0,C: 9,D: 6,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_540.png"
+    ],
+    "id": 540
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joseph tears a wire as depicted in the cartoon. How many bits of the wire did he land up with? A: 14,B: 8,C: 10,D: 2,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_556.png"
+    ],
+    "id": 556
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kevin breaks a thread as presented in the drawing. How many fragments of the thread did he have? A: 19,B: 2,C: 18,D: 10,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_562.png"
+    ],
+    "id": 562
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel breaks a strand as pictured in the figure. How many portions of the strand did she make? A: 8,B: 3,C: 5,D: 11,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_563.png"
+    ],
+    "id": 563
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Chelsea divides a cord as presented in the figure. How many portions of the cord did she end up with? A: 5,B: 8,C: 1,D: 0,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_564.png"
+    ],
+    "id": 564
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Cristina breaks a string as shown in the image. How many sections of the string did she have? A: 9,B: 8,C: 3,D: 6,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_565.png"
+    ],
+    "id": 565
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Sandra divides a yarn as shown in the drawing. How many slices of the yarn did she get? A: 0,B: 5,C: 7,D: 4,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_577.png"
+    ],
+    "id": 577
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Charles breaks a strand as displayed in the cartoon. How many bits of the strand did he obtain? A: 3,B: 5,C: 7,D: 9,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_592.png"
+    ],
+    "id": 592
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Robert tears a yarn as displayed in the cartoon. How many bits of the yarn did he have? A: 11,B: 4,C: 10,D: 12,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_600.png"
+    ],
+    "id": 600
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: John partitions a wire as presented in the picture. How many sections of the wire did he have? A: 8,B: 9,C: 15,D: 10,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_608.png"
+    ],
+    "id": 608
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Nathan divides a fiber as depicted in the picture. How many portions of the fiber did he obtain? A: 12,B: 10,C: 16,D: 15,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_612.png"
+    ],
+    "id": 612
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joseph divides a cord as pictured in the picture. How many portions of the cord did he land up with? A: 10,B: 3,C: 11,D: 1,E: 19. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_627.png"
+    ],
+    "id": 627
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel cuts a strand as pictured in the figure. How many segments of the strand did she get? A: 1,B: 13,C: 8,D: 5,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_632.png"
+    ],
+    "id": 632
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Cristina splits a ribbon as pictured in the cartoon. How many fragments of the ribbon did she make? A: 6,B: 5,C: 9,D: 1,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_64.png"
+    ],
+    "id": 64
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joshua partitions a hair as demonstrated in the picture. How many slices of the hair did he obtain? A: 11,B: 5,C: 9,D: 16,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_641.png"
+    ],
+    "id": 641
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kathryn breaks a thread as presented in the picture. How many portions of the thread did she get? A: 6,B: 3,C: 5,D: 9,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_642.png"
+    ],
+    "id": 642
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Lawrence breaks a string as demonstrated in the image. How many fragments of the string did he end up with? A: 7,B: 5,C: 4,D: 6,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_645.png"
+    ],
+    "id": 645
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Danielle partitions a yarn as depicted in the picture. How many fragments of the yarn did she obtain? A: 4,B: 6,C: 10,D: 2,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_646.png"
+    ],
+    "id": 646
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Hannah partitions a thread as presented in the drawing. How many portions of the thread did she land up with? A: 8,B: 0,C: 3,D: 4,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_647.png"
+    ],
+    "id": 647
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Katherine cuts a tape as depicted in the picture. How many segments of the tape did she end up with? A: 8,B: 7,C: 6,D: 2,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_648.png"
+    ],
+    "id": 648
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Justin breaks a strand as depicted in the figure. How many slices of the strand did he obtain? A: 5,B: 4,C: 1,D: 8,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_663.png"
+    ],
+    "id": 663
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Sandra splits a ribbon as pictured in the figure. How many bits of the ribbon did she have? A: 6,B: 4,C: 3,D: 5,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_681.png"
+    ],
+    "id": 681
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Tina splits a yarn as demonstrated in the image. How many portions of the yarn did she get? A: 17,B: 12,C: 19,D: 10,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_683.png"
+    ],
+    "id": 683
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michelle breaks a thread as displayed in the picture. How many portions of the thread did she end up with? A: 5,B: 0,C: 2,D: 9,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_686.png"
+    ],
+    "id": 686
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jorge divides a yarn as shown in the picture. How many pieces of the yarn did he end up with? A: 7,B: 1,C: 9,D: 5,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_698.png"
+    ],
+    "id": 698
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Thomas cuts a ribbon as pictured in the image. How many pieces of the ribbon did he obtain? A: 1,B: 7,C: 4,D: 6,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_699.png"
+    ],
+    "id": 699
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Gabriel breaks a thread as pictured in the cartoon. How many pieces of the thread did he obtain? A: 5,B: 9,C: 3,D: 14,E: 16. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_702.png"
+    ],
+    "id": 702
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Albert splits a string as presented in the drawing. How many slices of the string did he make? A: 1,B: 5,C: 6,D: 2,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_709.png"
+    ],
+    "id": 709
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Matthew tears a wire as demonstrated in the image. How many fragments of the wire did he obtain? A: 5,B: 4,C: 9,D: 1,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_719.png"
+    ],
+    "id": 719
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Gabriel splits a wire as pictured in the picture. How many pieces of the wire did he make? A: 11,B: 8,C: 7,D: 5,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_725.png"
+    ],
+    "id": 725
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joseph tears a strand as pictured in the drawing. How many portions of the strand did he land up with? A: 9,B: 7,C: 2,D: 3,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_729.png"
+    ],
+    "id": 729
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Gabriel partitions a tape as pictured in the image. How many fragments of the tape did he make? A: 8,B: 3,C: 13,D: 14,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_742.png"
+    ],
+    "id": 742
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Amber partitions a tape as shown in the drawing. How many fragments of the tape did she land up with? A: 3,B: 5,C: 11,D: 4,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_747.png"
+    ],
+    "id": 747
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Gina tears a wire as pictured in the image. How many portions of the wire did she make? A: 19,B: 12,C: 9,D: 11,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_748.png"
+    ],
+    "id": 748
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Melissa partitions a thread as demonstrated in the image. How many pieces of the thread did she land up with? A: 3,B: 12,C: 10,D: 6,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_751.png"
+    ],
+    "id": 751
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Robert splits a strand as depicted in the figure. How many pieces of the strand did he make? A: 9,B: 1,C: 10,D: 8,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_763.png"
+    ],
+    "id": 763
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Carl divides a tape as displayed in the drawing. How many bits of the tape did he land up with? A: 9,B: 18,C: 10,D: 13,E: 17. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_766.png"
+    ],
+    "id": 766
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Derrick breaks a tape as shown in the image. How many segments of the tape did he land up with? A: 0,B: 12,C: 11,D: 15,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_769.png"
+    ],
+    "id": 769
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Bridget tears a wire as presented in the drawing. How many portions of the wire did she end up with? A: 7,B: 10,C: 12,D: 20,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_775.png"
+    ],
+    "id": 775
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kevin divides a cord as depicted in the drawing. How many segments of the cord did he get? A: 0,B: 8,C: 11,D: 14,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_776.png"
+    ],
+    "id": 776
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Brenda breaks a ribbon as presented in the cartoon. How many slices of the ribbon did she have? A: 8,B: 15,C: 6,D: 11,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_779.png"
+    ],
+    "id": 779
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Katherine cuts a fiber as depicted in the drawing. How many pieces of the fiber did she land up with? A: 0,B: 9,C: 5,D: 4,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_791.png"
+    ],
+    "id": 791
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Carl breaks a ribbon as depicted in the drawing. How many fragments of the ribbon did he obtain? A: 10,B: 13,C: 8,D: 6,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_794.png"
+    ],
+    "id": 794
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Lisa divides a hair as demonstrated in the image. How many segments of the hair did she end up with? A: 11,B: 7,C: 5,D: 8,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_795.png"
+    ],
+    "id": 795
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Amber splits a string as displayed in the drawing. How many sections of the string did she have? A: 4,B: 6,C: 3,D: 7,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_804.png"
+    ],
+    "id": 804
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Carrie divides a strand as depicted in the picture. How many portions of the strand did she make? A: 9,B: 5,C: 1,D: 3,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_805.png"
+    ],
+    "id": 805
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Sylvia cuts a thread as depicted in the image. How many pieces of the thread did she have? A: 3,B: 11,C: 6,D: 8,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_815.png"
+    ],
+    "id": 815
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Katherine cuts a wire as depicted in the picture. How many sections of the wire did she end up with? A: 5,B: 6,C: 7,D: 3,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_831.png"
+    ],
+    "id": 831
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Brian breaks a hair as depicted in the drawing. How many portions of the hair did he have? A: 12,B: 6,C: 23,D: 20,E: 17. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_835.png"
+    ],
+    "id": 835
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Sandra divides a cord as depicted in the figure. How many bits of the cord did she obtain? A: 7,B: 3,C: 5,D: 8,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_840.png"
+    ],
+    "id": 840
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: William cuts a fiber as demonstrated in the drawing. How many sections of the fiber did he get? A: 8,B: 5,C: 4,D: 10,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_854.png"
+    ],
+    "id": 854
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Derrick breaks a strand as presented in the picture. How many portions of the strand did he make? A: 10,B: 18,C: 5,D: 8,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_856.png"
+    ],
+    "id": 856
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Charles cuts a strand as depicted in the image. How many segments of the strand did he get? A: 7,B: 6,C: 8,D: 5,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_860.png"
+    ],
+    "id": 860
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rebecca splits a tape as presented in the image. How many bits of the tape did she end up with? A: 4,B: 2,C: 6,D: 1,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_863.png"
+    ],
+    "id": 863
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Gabriel cuts a strand as demonstrated in the cartoon. How many pieces of the strand did he obtain? A: 1,B: 6,C: 0,D: 3,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_87.png"
+    ],
+    "id": 87
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Paul tears a thread as demonstrated in the drawing. How many bits of the thread did he make? A: 12,B: 9,C: 8,D: 11,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_870.png"
+    ],
+    "id": 870
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: John divides a string as depicted in the picture. How many sections of the string did he get? A: 8,B: 9,C: 1,D: 10,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_871.png"
+    ],
+    "id": 871
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Bruce breaks a string as presented in the cartoon. How many slices of the string did he make? A: 6,B: 4,C: 0,D: 1,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_878.png"
+    ],
+    "id": 878
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Sylvia tears a ribbon as depicted in the image. How many slices of the ribbon did she have? A: 5,B: 0,C: 3,D: 1,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_883.png"
+    ],
+    "id": 883
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Chelsea divides a ribbon as shown in the cartoon. How many pieces of the ribbon did she have? A: 5,B: 8,C: 7,D: 4,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_891.png"
+    ],
+    "id": 891
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Sylvia divides a thread as pictured in the image. How many pieces of the thread did she obtain? A: 9,B: 8,C: 2,D: 17,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_897.png"
+    ],
+    "id": 897
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Thomas divides a yarn as depicted in the drawing. How many bits of the yarn did he have? A: 5,B: 4,C: 3,D: 9,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_91.png"
+    ],
+    "id": 91
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Catherine divides a wire as depicted in the cartoon. How many portions of the wire did she obtain? A: 1,B: 11,C: 8,D: 2,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_929.png"
+    ],
+    "id": 929
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michael divides a strand as presented in the drawing. How many sections of the strand did he make? A: 8,B: 7,C: 0,D: 2,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_95.png"
+    ],
+    "id": 95
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Carl splits a thread as pictured in the drawing. How many segments of the thread did he land up with? A: 7,B: 2,C: 4,D: 1,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_951.png"
+    ],
+    "id": 951
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Amber breaks a string as presented in the drawing. How many pieces of the string did she make? A: 3,B: 2,C: 0,D: 4,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_955.png"
+    ],
+    "id": 955
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rebecca breaks a string as pictured in the image. How many bits of the string did she end up with? A: 4,B: 7,C: 3,D: 9,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_957.png"
+    ],
+    "id": 957
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Nathan tears a fiber as demonstrated in the picture. How many segments of the fiber did he land up with? A: 6,B: 8,C: 1,D: 5,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_960.png"
+    ],
+    "id": 960
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Lisa tears a strand as presented in the image. How many fragments of the strand did she end up with? A: 2,B: 8,C: 0,D: 3,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_972.png"
+    ],
+    "id": 972
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Denise partitions a thread as depicted in the image. How many portions of the thread did she obtain? A: 9,B: 6,C: 2,D: 4,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_975.png"
+    ],
+    "id": 975
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Emily divides a cord as presented in the picture. How many slices of the cord did she obtain? A: 10,B: 9,C: 5,D: 17,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_98.png"
+    ],
+    "id": 98
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Brian breaks a string as presented in the drawing. How many portions of the string did he get? A: 9,B: 7,C: 8,D: 0,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_981.png"
+    ],
+    "id": 981
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Tyler splits a ribbon as presented in the figure. How many portions of the ribbon did she have? A: 3,B: 8,C: 4,D: 10,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/97/img/puzzle_97_995.png"
+    ],
+    "id": 995
+  }
+]

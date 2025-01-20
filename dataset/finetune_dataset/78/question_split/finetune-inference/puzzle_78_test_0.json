@@ -1,0 +1,4802 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jasmine had some 7-ray shapes as depicted in the drawing. She attached them together as depicted in the drawing on the right. At minimum, how many shapes did she use? A: 8,B: 4,C: 2,D: 7,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1.png"
+    ],
+    "id": 1
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Bridget had a few 2-ray slices as demonstrated in the drawing. She pasted them together as demonstrated in the drawing on the right. At least how many slices did she use? A: 5,B: 1,C: 2,D: 8,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1012.png"
+    ],
+    "id": 1012
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Thomas had some 2-ray slices as demonstrated in the drawing. He glued them together as demonstrated in the drawing on the right. At least how many slices did he use? A: 8,B: 6,C: 2,D: 4,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1016.png"
+    ],
+    "id": 1016
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Gina had some 5-ray shapes as pictured in the picture. She attached them together as pictured in the picture on the right. At least how many shapes did she use? A: 1,B: 3,C: 6,D: 5,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1017.png"
+    ],
+    "id": 1017
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Derrick had a few 6-ray shapes as pictured in the picture. He attached them together as pictured in the picture on the right. At minimum, how many shapes did he use? A: 4,B: 3,C: 8,D: 6,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1020.png"
+    ],
+    "id": 1020
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Brian had some 4-ray slices as shown in the cartoon. He glued them together as shown in the cartoon on the right. At least how many slices did he use? A: 1,B: 4,C: 7,D: 9,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1021.png"
+    ],
+    "id": 1021
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Melissa had some 2-ray shapes as demonstrated in the figure. She attached them together as demonstrated in the figure on the right. At minimum, how many shapes did she use? A: 2,B: 7,C: 6,D: 4,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1025.png"
+    ],
+    "id": 1025
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Nathan had some 3-ray slices as shown in the image. He attached them together as shown in the image on the right. At minimum, how many slices did he use? A: 9,B: 5,C: 2,D: 7,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1028.png"
+    ],
+    "id": 1028
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michael had some 6-ray shapes as shown in the picture. He pasted them together as shown in the picture on the right. At least how many shapes did he use? A: 5,B: 0,C: 4,D: 2,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1038.png"
+    ],
+    "id": 1038
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Bridget had some 5-ray slices as presented in the cartoon. She attached them together as presented in the cartoon on the right. At least how many slices did she use? A: 9,B: 1,C: 6,D: 0,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1044.png"
+    ],
+    "id": 1044
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kevin had a few 4-ray slices as displayed in the figure. He glued them together as displayed in the figure on the right. At minimum, how many slices did he use? A: 6,B: 2,C: 8,D: 3,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1051.png"
+    ],
+    "id": 1051
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Erin had a few 3-ray shapes as shown in the picture. She glued them together as shown in the picture on the right. At minimum, how many shapes did she use? A: 5,B: 3,C: 1,D: 6,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1056.png"
+    ],
+    "id": 1056
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kristin had some 7-ray shapes as pictured in the image. She glued them together as pictured in the image on the right. At least how many shapes did she use? A: 7,B: 2,C: 8,D: 9,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1059.png"
+    ],
+    "id": 1059
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Crystal had some 7-ray shapes as pictured in the drawing. She attached them together as pictured in the drawing on the right. At least how many shapes did she use? A: 1,B: 7,C: 9,D: 0,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1064.png"
+    ],
+    "id": 1064
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel had a few 5-ray shapes as depicted in the cartoon. She pasted them together as depicted in the cartoon on the right. At least how many shapes did she use? A: 0,B: 9,C: 5,D: 3,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1071.png"
+    ],
+    "id": 1071
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Frank had a few 2-ray slices as demonstrated in the cartoon. He glued them together as demonstrated in the cartoon on the right. At least how many slices did he use? A: 2,B: 0,C: 1,D: 7,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1076.png"
+    ],
+    "id": 1076
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Gabriel had a few 3-ray shapes as pictured in the cartoon. He pasted them together as pictured in the cartoon on the right. At minimum, how many shapes did he use? A: 9,B: 5,C: 4,D: 0,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1082.png"
+    ],
+    "id": 1082
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michelle had some 6-ray shapes as displayed in the cartoon. She glued them together as displayed in the cartoon on the right. At minimum, how many shapes did she use? A: 5,B: 6,C: 2,D: 8,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1086.png"
+    ],
+    "id": 1086
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Tina had some 3-ray slices as presented in the picture. She glued them together as presented in the picture on the right. At minimum, how many slices did she use? A: 4,B: 3,C: 9,D: 0,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1095.png"
+    ],
+    "id": 1095
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: John had a few 5-ray slices as depicted in the figure. He glued them together as depicted in the figure on the right. At least how many slices did he use? A: 2,B: 3,C: 4,D: 0,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1104.png"
+    ],
+    "id": 1104
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Amy had a few 4-ray shapes as shown in the image. She glued them together as shown in the image on the right. At minimum, how many shapes did she use? A: 3,B: 7,C: 6,D: 4,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1109.png"
+    ],
+    "id": 1109
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Robert had some 4-ray shapes as shown in the cartoon. He pasted them together as shown in the cartoon on the right. At minimum, how many shapes did he use? A: 0,B: 1,C: 7,D: 3,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_112.png"
+    ],
+    "id": 112
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Gina had a few 3-ray slices as demonstrated in the cartoon. She attached them together as demonstrated in the cartoon on the right. At minimum, how many slices did she use? A: 1,B: 2,C: 0,D: 3,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1123.png"
+    ],
+    "id": 1123
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Thomas had some 4-ray shapes as shown in the figure. He pasted them together as shown in the figure on the right. At least how many shapes did he use? A: 5,B: 3,C: 7,D: 6,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1126.png"
+    ],
+    "id": 1126
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Danielle had some 5-ray slices as shown in the figure. She attached them together as shown in the figure on the right. At minimum, how many slices did she use? A: 7,B: 3,C: 5,D: 0,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1129.png"
+    ],
+    "id": 1129
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Gina had a few 7-ray shapes as shown in the picture. She attached them together as shown in the picture on the right. At least how many shapes did she use? A: 6,B: 4,C: 7,D: 8,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1130.png"
+    ],
+    "id": 1130
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel had a few 2-ray shapes as demonstrated in the cartoon. She pasted them together as demonstrated in the cartoon on the right. At least how many shapes did she use? A: 3,B: 5,C: 7,D: 9,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1136.png"
+    ],
+    "id": 1136
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Brenda had some 7-ray slices as presented in the cartoon. She pasted them together as presented in the cartoon on the right. At minimum, how many slices did she use? A: 5,B: 9,C: 3,D: 4,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1152.png"
+    ],
+    "id": 1152
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Gina had some 3-ray slices as shown in the figure. She pasted them together as shown in the figure on the right. At least how many slices did she use? A: 6,B: 2,C: 9,D: 5,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1153.png"
+    ],
+    "id": 1153
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Nathan had some 6-ray slices as depicted in the figure. He attached them together as depicted in the figure on the right. At minimum, how many slices did he use? A: 5,B: 2,C: 7,D: 6,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1154.png"
+    ],
+    "id": 1154
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Sylvia had some 6-ray slices as depicted in the cartoon. She glued them together as depicted in the cartoon on the right. At minimum, how many slices did she use? A: 2,B: 7,C: 5,D: 9,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1162.png"
+    ],
+    "id": 1162
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jeff had some 5-ray slices as presented in the drawing. He glued them together as presented in the drawing on the right. At least how many slices did he use? A: 9,B: 2,C: 4,D: 5,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1180.png"
+    ],
+    "id": 1180
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michelle had some 6-ray slices as depicted in the picture. She pasted them together as depicted in the picture on the right. At least how many slices did she use? A: 2,B: 0,C: 5,D: 3,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1183.png"
+    ],
+    "id": 1183
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: John had a few 5-ray slices as depicted in the picture. He glued them together as depicted in the picture on the right. At least how many slices did he use? A: 4,B: 8,C: 9,D: 1,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1184.png"
+    ],
+    "id": 1184
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: William had some 3-ray slices as depicted in the drawing. He pasted them together as depicted in the drawing on the right. At minimum, how many slices did he use? A: 3,B: 9,C: 2,D: 5,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1194.png"
+    ],
+    "id": 1194
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joshua had a few 6-ray shapes as displayed in the picture. He attached them together as displayed in the picture on the right. At least how many shapes did he use? A: 8,B: 6,C: 1,D: 0,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1207.png"
+    ],
+    "id": 1207
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Anthony had some 7-ray slices as displayed in the drawing. He pasted them together as displayed in the drawing on the right. At minimum, how many slices did he use? A: 8,B: 5,C: 2,D: 4,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_121.png"
+    ],
+    "id": 121
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Daniel had a few 4-ray shapes as presented in the figure. He pasted them together as presented in the figure on the right. At minimum, how many shapes did he use? A: 2,B: 5,C: 1,D: 9,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1215.png"
+    ],
+    "id": 1215
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Tyler had some 4-ray slices as displayed in the image. She glued them together as displayed in the image on the right. At least how many slices did she use? A: 0,B: 6,C: 7,D: 3,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_122.png"
+    ],
+    "id": 122
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Derrick had some 2-ray shapes as presented in the picture. He attached them together as presented in the picture on the right. At least how many shapes did he use? A: 4,B: 7,C: 1,D: 8,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1224.png"
+    ],
+    "id": 1224
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Julie had some 2-ray slices as shown in the figure. She glued them together as shown in the figure on the right. At minimum, how many slices did she use? A: 5,B: 6,C: 7,D: 4,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1238.png"
+    ],
+    "id": 1238
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Natalie had some 2-ray shapes as shown in the cartoon. She attached them together as shown in the cartoon on the right. At minimum, how many shapes did she use? A: 5,B: 4,C: 0,D: 8,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1241.png"
+    ],
+    "id": 1241
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Paul had a few 5-ray shapes as shown in the drawing. He glued them together as shown in the drawing on the right. At minimum, how many shapes did he use? A: 2,B: 3,C: 8,D: 9,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1248.png"
+    ],
+    "id": 1248
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Deborah had a few 7-ray slices as displayed in the picture. She attached them together as displayed in the picture on the right. At minimum, how many slices did she use? A: 8,B: 3,C: 1,D: 0,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1254.png"
+    ],
+    "id": 1254
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Katherine had some 6-ray shapes as shown in the picture. She pasted them together as shown in the picture on the right. At least how many shapes did she use? A: 0,B: 3,C: 2,D: 4,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1256.png"
+    ],
+    "id": 1256
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Tina had some 3-ray slices as presented in the drawing. She glued them together as presented in the drawing on the right. At least how many slices did she use? A: 9,B: 6,C: 7,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1257.png"
+    ],
+    "id": 1257
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Derrick had a few 6-ray slices as displayed in the picture. He pasted them together as displayed in the picture on the right. At minimum, how many slices did he use? A: 6,B: 2,C: 5,D: 3,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1264.png"
+    ],
+    "id": 1264
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Brenda had some 5-ray shapes as demonstrated in the picture. She attached them together as demonstrated in the picture on the right. At least how many shapes did she use? A: 6,B: 3,C: 1,D: 8,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1266.png"
+    ],
+    "id": 1266
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Carl had a few 2-ray shapes as pictured in the image. He attached them together as pictured in the image on the right. At minimum, how many shapes did he use? A: 5,B: 1,C: 2,D: 3,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1267.png"
+    ],
+    "id": 1267
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Gina had a few 6-ray shapes as shown in the figure. She attached them together as shown in the figure on the right. At minimum, how many shapes did she use? A: 1,B: 4,C: 2,D: 5,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1275.png"
+    ],
+    "id": 1275
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel had some 3-ray slices as pictured in the drawing. She pasted them together as pictured in the drawing on the right. At least how many slices did she use? A: 6,B: 3,C: 9,D: 8,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1282.png"
+    ],
+    "id": 1282
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Christian had a few 5-ray shapes as presented in the cartoon. He attached them together as presented in the cartoon on the right. At least how many shapes did he use? A: 1,B: 9,C: 7,D: 6,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1291.png"
+    ],
+    "id": 1291
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Bruce had some 3-ray slices as displayed in the figure. He glued them together as displayed in the figure on the right. At minimum, how many slices did he use? A: 1,B: 2,C: 3,D: 6,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1294.png"
+    ],
+    "id": 1294
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kristin had a few 2-ray shapes as displayed in the cartoon. She glued them together as displayed in the cartoon on the right. At least how many shapes did she use? A: 8,B: 0,C: 2,D: 4,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1297.png"
+    ],
+    "id": 1297
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel had a few 7-ray slices as presented in the picture. She glued them together as presented in the picture on the right. At least how many slices did she use? A: 6,B: 5,C: 4,D: 8,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_13.png"
+    ],
+    "id": 13
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Melissa had some 5-ray shapes as demonstrated in the drawing. She pasted them together as demonstrated in the drawing on the right. At minimum, how many shapes did she use? A: 4,B: 6,C: 9,D: 5,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_130.png"
+    ],
+    "id": 130
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Vickie had a few 2-ray slices as depicted in the figure. She pasted them together as depicted in the figure on the right. At least how many slices did she use? A: 8,B: 3,C: 0,D: 5,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1306.png"
+    ],
+    "id": 1306
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Dustin had some 6-ray slices as presented in the picture. He glued them together as presented in the picture on the right. At minimum, how many slices did he use? A: 9,B: 0,C: 5,D: 2,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1332.png"
+    ],
+    "id": 1332
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Paul had a few 6-ray slices as shown in the drawing. He glued them together as shown in the drawing on the right. At minimum, how many slices did he use? A: 4,B: 6,C: 2,D: 5,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1337.png"
+    ],
+    "id": 1337
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Johnny had some 3-ray shapes as displayed in the picture. He pasted them together as displayed in the picture on the right. At least how many shapes did he use? A: 1,B: 5,C: 3,D: 4,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_134.png"
+    ],
+    "id": 134
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Matthew had some 2-ray slices as shown in the picture. He pasted them together as shown in the picture on the right. At minimum, how many slices did he use? A: 5,B: 7,C: 3,D: 4,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1354.png"
+    ],
+    "id": 1354
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Felicia had some 5-ray shapes as pictured in the drawing. She attached them together as pictured in the drawing on the right. At least how many shapes did she use? A: 8,B: 2,C: 5,D: 7,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1363.png"
+    ],
+    "id": 1363
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Karen had some 7-ray shapes as displayed in the drawing. She glued them together as displayed in the drawing on the right. At least how many shapes did she use? A: 4,B: 2,C: 3,D: 8,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1367.png"
+    ],
+    "id": 1367
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: John had a few 5-ray slices as pictured in the picture. He pasted them together as pictured in the picture on the right. At least how many slices did he use? A: 2,B: 7,C: 0,D: 3,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1369.png"
+    ],
+    "id": 1369
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Christian had some 7-ray shapes as depicted in the cartoon. He attached them together as depicted in the cartoon on the right. At minimum, how many shapes did he use? A: 6,B: 5,C: 3,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1371.png"
+    ],
+    "id": 1371
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Albert had some 5-ray shapes as displayed in the drawing. He attached them together as displayed in the drawing on the right. At least how many shapes did he use? A: 1,B: 5,C: 7,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1382.png"
+    ],
+    "id": 1382
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Brenda had a few 2-ray shapes as shown in the image. She pasted them together as shown in the image on the right. At minimum, how many shapes did she use? A: 3,B: 4,C: 2,D: 6,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1390.png"
+    ],
+    "id": 1390
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Catherine had a few 3-ray slices as shown in the drawing. She glued them together as shown in the drawing on the right. At minimum, how many slices did she use? A: 7,B: 2,C: 6,D: 1,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1396.png"
+    ],
+    "id": 1396
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Brenda had a few 5-ray slices as depicted in the drawing. She attached them together as depicted in the drawing on the right. At least how many slices did she use? A: 8,B: 4,C: 1,D: 7,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1397.png"
+    ],
+    "id": 1397
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Lawrence had some 2-ray slices as pictured in the picture. He attached them together as pictured in the picture on the right. At least how many slices did he use? A: 5,B: 2,C: 8,D: 7,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_14.png"
+    ],
+    "id": 14
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Charles had some 2-ray slices as presented in the drawing. He pasted them together as presented in the drawing on the right. At minimum, how many slices did he use? A: 6,B: 8,C: 3,D: 5,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1400.png"
+    ],
+    "id": 1400
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Denise had a few 6-ray slices as pictured in the picture. She pasted them together as pictured in the picture on the right. At minimum, how many slices did she use? A: 6,B: 1,C: 9,D: 3,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1408.png"
+    ],
+    "id": 1408
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jose had a few 5-ray shapes as demonstrated in the drawing. He attached them together as demonstrated in the drawing on the right. At least how many shapes did he use? A: 5,B: 9,C: 8,D: 3,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1409.png"
+    ],
+    "id": 1409
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michelle had a few 7-ray slices as demonstrated in the image. She attached them together as demonstrated in the image on the right. At least how many slices did she use? A: 5,B: 8,C: 7,D: 3,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1410.png"
+    ],
+    "id": 1410
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michelle had a few 3-ray slices as demonstrated in the image. She pasted them together as demonstrated in the image on the right. At least how many slices did she use? A: 4,B: 0,C: 3,D: 6,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1411.png"
+    ],
+    "id": 1411
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel had a few 5-ray slices as presented in the picture. She attached them together as presented in the picture on the right. At least how many slices did she use? A: 9,B: 2,C: 4,D: 1,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1413.png"
+    ],
+    "id": 1413
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kristin had some 2-ray shapes as shown in the image. She attached them together as shown in the image on the right. At least how many shapes did she use? A: 0,B: 8,C: 3,D: 4,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1426.png"
+    ],
+    "id": 1426
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kristin had a few 6-ray shapes as demonstrated in the drawing. She glued them together as demonstrated in the drawing on the right. At minimum, how many shapes did she use? A: 3,B: 6,C: 7,D: 4,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_143.png"
+    ],
+    "id": 143
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Anthony had some 6-ray slices as shown in the image. He attached them together as shown in the image on the right. At least how many slices did he use? A: 4,B: 3,C: 6,D: 1,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1430.png"
+    ],
+    "id": 1430
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joseph had a few 3-ray shapes as displayed in the picture. He pasted them together as displayed in the picture on the right. At minimum, how many shapes did he use? A: 3,B: 7,C: 1,D: 5,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1434.png"
+    ],
+    "id": 1434
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kathryn had a few 5-ray shapes as presented in the picture. She attached them together as presented in the picture on the right. At least how many shapes did she use? A: 5,B: 0,C: 7,D: 8,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1437.png"
+    ],
+    "id": 1437
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Stephen had a few 7-ray shapes as shown in the picture. He attached them together as shown in the picture on the right. At minimum, how many shapes did he use? A: 5,B: 0,C: 6,D: 2,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1439.png"
+    ],
+    "id": 1439
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Stephen had a few 2-ray shapes as presented in the drawing. He glued them together as presented in the drawing on the right. At least how many shapes did he use? A: 2,B: 3,C: 0,D: 7,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1451.png"
+    ],
+    "id": 1451
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Sandra had some 7-ray shapes as displayed in the figure. She glued them together as displayed in the figure on the right. At minimum, how many shapes did she use? A: 2,B: 3,C: 0,D: 5,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1459.png"
+    ],
+    "id": 1459
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Daniel had some 7-ray shapes as depicted in the cartoon. He glued them together as depicted in the cartoon on the right. At minimum, how many shapes did he use? A: 0,B: 4,C: 9,D: 6,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1462.png"
+    ],
+    "id": 1462
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Victor had some 4-ray shapes as displayed in the picture. He glued them together as displayed in the picture on the right. At minimum, how many shapes did he use? A: 7,B: 4,C: 0,D: 5,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1478.png"
+    ],
+    "id": 1478
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Christopher had a few 7-ray shapes as displayed in the cartoon. He pasted them together as displayed in the cartoon on the right. At least how many shapes did he use? A: 9,B: 3,C: 4,D: 5,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1479.png"
+    ],
+    "id": 1479
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: John had a few 7-ray slices as shown in the figure. He pasted them together as shown in the figure on the right. At least how many slices did he use? A: 6,B: 5,C: 7,D: 4,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1482.png"
+    ],
+    "id": 1482
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel had some 3-ray slices as displayed in the picture. She glued them together as displayed in the picture on the right. At least how many slices did she use? A: 0,B: 9,C: 3,D: 1,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1484.png"
+    ],
+    "id": 1484
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Melissa had a few 4-ray slices as shown in the picture. She glued them together as shown in the picture on the right. At minimum, how many slices did she use? A: 4,B: 8,C: 5,D: 2,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1485.png"
+    ],
+    "id": 1485
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: John had a few 2-ray shapes as presented in the cartoon. He glued them together as presented in the cartoon on the right. At minimum, how many shapes did he use? A: 1,B: 5,C: 9,D: 4,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1495.png"
+    ],
+    "id": 1495
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Amy had some 5-ray shapes as displayed in the cartoon. She attached them together as displayed in the cartoon on the right. At minimum, how many shapes did she use? A: 8,B: 6,C: 3,D: 2,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1496.png"
+    ],
+    "id": 1496
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Pamela had some 3-ray shapes as pictured in the image. She attached them together as pictured in the image on the right. At least how many shapes did she use? A: 1,B: 8,C: 3,D: 5,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1499.png"
+    ],
+    "id": 1499
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Deborah had a few 2-ray slices as shown in the image. She glued them together as shown in the image on the right. At minimum, how many slices did she use? A: 4,B: 8,C: 3,D: 2,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1500.png"
+    ],
+    "id": 1500
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jasmine had some 5-ray slices as presented in the image. She glued them together as presented in the image on the right. At least how many slices did she use? A: 2,B: 0,C: 5,D: 9,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1508.png"
+    ],
+    "id": 1508
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: William had a few 3-ray slices as demonstrated in the picture. He attached them together as demonstrated in the picture on the right. At minimum, how many slices did he use? A: 5,B: 0,C: 4,D: 3,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1513.png"
+    ],
+    "id": 1513
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Robert had some 4-ray slices as depicted in the drawing. He attached them together as depicted in the drawing on the right. At minimum, how many slices did he use? A: 4,B: 3,C: 5,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1515.png"
+    ],
+    "id": 1515
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michael had a few 6-ray slices as depicted in the figure. He pasted them together as depicted in the figure on the right. At least how many slices did he use? A: 3,B: 6,C: 2,D: 4,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1520.png"
+    ],
+    "id": 1520
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michelle had some 5-ray slices as pictured in the figure. She pasted them together as pictured in the figure on the right. At minimum, how many slices did she use? A: 8,B: 2,C: 0,D: 5,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1522.png"
+    ],
+    "id": 1522
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kathryn had a few 6-ray slices as displayed in the figure. She attached them together as displayed in the figure on the right. At least how many slices did she use? A: 5,B: 4,C: 2,D: 7,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1528.png"
+    ],
+    "id": 1528
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Derrick had some 6-ray slices as presented in the drawing. He attached them together as presented in the drawing on the right. At least how many slices did he use? A: 2,B: 3,C: 7,D: 6,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1529.png"
+    ],
+    "id": 1529
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michelle had some 5-ray slices as displayed in the image. She attached them together as displayed in the image on the right. At minimum, how many slices did she use? A: 4,B: 5,C: 6,D: 1,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1533.png"
+    ],
+    "id": 1533
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Bridget had some 5-ray slices as demonstrated in the image. She glued them together as demonstrated in the image on the right. At least how many slices did she use? A: 2,B: 6,C: 4,D: 1,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1534.png"
+    ],
+    "id": 1534
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jasmine had some 6-ray slices as demonstrated in the picture. She pasted them together as demonstrated in the picture on the right. At minimum, how many slices did she use? A: 5,B: 4,C: 7,D: 0,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1570.png"
+    ],
+    "id": 1570
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joshua had a few 5-ray slices as shown in the picture. He glued them together as shown in the picture on the right. At minimum, how many slices did he use? A: 2,B: 5,C: 3,D: 0,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1577.png"
+    ],
+    "id": 1577
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Charles had some 7-ray shapes as pictured in the picture. He attached them together as pictured in the picture on the right. At minimum, how many shapes did he use? A: 2,B: 4,C: 1,D: 3,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1579.png"
+    ],
+    "id": 1579
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Brenda had some 2-ray slices as depicted in the figure. She glued them together as depicted in the figure on the right. At least how many slices did she use? A: 5,B: 2,C: 3,D: 1,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1584.png"
+    ],
+    "id": 1584
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Chelsea had a few 7-ray shapes as presented in the picture. She attached them together as presented in the picture on the right. At least how many shapes did she use? A: 4,B: 5,C: 3,D: 7,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1585.png"
+    ],
+    "id": 1585
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Frank had some 4-ray shapes as displayed in the drawing. He attached them together as displayed in the drawing on the right. At minimum, how many shapes did he use? A: 7,B: 0,C: 4,D: 8,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1589.png"
+    ],
+    "id": 1589
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Derrick had some 7-ray shapes as presented in the picture. He pasted them together as presented in the picture on the right. At least how many shapes did he use? A: 5,B: 3,C: 0,D: 7,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1590.png"
+    ],
+    "id": 1590
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Daniel had some 5-ray slices as presented in the figure. He attached them together as presented in the figure on the right. At minimum, how many slices did he use? A: 9,B: 2,C: 8,D: 7,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1597.png"
+    ],
+    "id": 1597
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Sylvia had a few 7-ray slices as displayed in the cartoon. She glued them together as displayed in the cartoon on the right. At least how many slices did she use? A: 0,B: 8,C: 1,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1598.png"
+    ],
+    "id": 1598
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel had a few 2-ray slices as depicted in the figure. She glued them together as depicted in the figure on the right. At least how many slices did she use? A: 5,B: 7,C: 6,D: 4,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_161.png"
+    ],
+    "id": 161
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Chelsea had a few 5-ray slices as pictured in the picture. She attached them together as pictured in the picture on the right. At minimum, how many slices did she use? A: 2,B: 0,C: 5,D: 8,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1631.png"
+    ],
+    "id": 1631
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Hannah had a few 5-ray shapes as presented in the picture. She attached them together as presented in the picture on the right. At least how many shapes did she use? A: 5,B: 9,C: 2,D: 7,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1633.png"
+    ],
+    "id": 1633
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Sylvia had a few 3-ray shapes as pictured in the drawing. She glued them together as pictured in the drawing on the right. At minimum, how many shapes did she use? A: 5,B: 9,C: 2,D: 4,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1636.png"
+    ],
+    "id": 1636
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jasmine had some 4-ray slices as demonstrated in the figure. She attached them together as demonstrated in the figure on the right. At least how many slices did she use? A: 7,B: 1,C: 6,D: 8,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1638.png"
+    ],
+    "id": 1638
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Natalie had a few 7-ray shapes as depicted in the image. She glued them together as depicted in the image on the right. At least how many shapes did she use? A: 9,B: 5,C: 7,D: 0,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1643.png"
+    ],
+    "id": 1643
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Deborah had some 4-ray slices as demonstrated in the cartoon. She pasted them together as demonstrated in the cartoon on the right. At least how many slices did she use? A: 1,B: 7,C: 4,D: 8,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1648.png"
+    ],
+    "id": 1648
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Paige had a few 5-ray shapes as demonstrated in the cartoon. She pasted them together as demonstrated in the cartoon on the right. At minimum, how many shapes did she use? A: 8,B: 7,C: 3,D: 4,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_166.png"
+    ],
+    "id": 166
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Felicia had a few 7-ray shapes as pictured in the cartoon. She glued them together as pictured in the cartoon on the right. At least how many shapes did she use? A: 5,B: 7,C: 3,D: 1,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1661.png"
+    ],
+    "id": 1661
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Sylvia had a few 4-ray shapes as shown in the image. She glued them together as shown in the image on the right. At least how many shapes did she use? A: 5,B: 3,C: 4,D: 6,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1663.png"
+    ],
+    "id": 1663
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Karen had a few 3-ray shapes as demonstrated in the image. She glued them together as demonstrated in the image on the right. At least how many shapes did she use? A: 5,B: 3,C: 9,D: 6,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1678.png"
+    ],
+    "id": 1678
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Paul had some 7-ray slices as presented in the figure. He attached them together as presented in the figure on the right. At minimum, how many slices did he use? A: 1,B: 8,C: 0,D: 5,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1685.png"
+    ],
+    "id": 1685
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Nicholas had some 4-ray slices as depicted in the cartoon. He attached them together as depicted in the cartoon on the right. At least how many slices did he use? A: 3,B: 5,C: 4,D: 7,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1687.png"
+    ],
+    "id": 1687
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jerry had a few 7-ray shapes as pictured in the figure. He glued them together as pictured in the figure on the right. At least how many shapes did he use? A: 2,B: 0,C: 4,D: 8,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1695.png"
+    ],
+    "id": 1695
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rebecca had some 5-ray slices as shown in the picture. She attached them together as shown in the picture on the right. At minimum, how many slices did she use? A: 9,B: 4,C: 6,D: 8,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1698.png"
+    ],
+    "id": 1698
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Victor had a few 3-ray slices as pictured in the drawing. He attached them together as pictured in the drawing on the right. At least how many slices did he use? A: 4,B: 3,C: 6,D: 0,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1700.png"
+    ],
+    "id": 1700
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Felicia had some 7-ray shapes as demonstrated in the drawing. She glued them together as demonstrated in the drawing on the right. At least how many shapes did she use? A: 4,B: 2,C: 9,D: 3,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1705.png"
+    ],
+    "id": 1705
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jerry had a few 6-ray slices as depicted in the image. He glued them together as depicted in the image on the right. At minimum, how many slices did he use? A: 1,B: 3,C: 5,D: 7,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1707.png"
+    ],
+    "id": 1707
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Brenda had a few 5-ray slices as shown in the figure. She attached them together as shown in the figure on the right. At least how many slices did she use? A: 1,B: 5,C: 4,D: 0,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1714.png"
+    ],
+    "id": 1714
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: John had some 7-ray slices as shown in the drawing. He glued them together as shown in the drawing on the right. At least how many slices did he use? A: 0,B: 5,C: 6,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1715.png"
+    ],
+    "id": 1715
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Hannah had some 2-ray slices as shown in the figure. She pasted them together as shown in the figure on the right. At least how many slices did she use? A: 4,B: 0,C: 3,D: 5,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1722.png"
+    ],
+    "id": 1722
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Cristina had some 3-ray slices as pictured in the drawing. She attached them together as pictured in the drawing on the right. At least how many slices did she use? A: 9,B: 1,C: 2,D: 0,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1724.png"
+    ],
+    "id": 1724
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Bruce had some 5-ray shapes as displayed in the drawing. He glued them together as displayed in the drawing on the right. At minimum, how many shapes did he use? A: 9,B: 3,C: 8,D: 0,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1725.png"
+    ],
+    "id": 1725
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Charles had a few 3-ray shapes as shown in the cartoon. He attached them together as shown in the cartoon on the right. At least how many shapes did he use? A: 2,B: 3,C: 5,D: 0,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1748.png"
+    ],
+    "id": 1748
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kathryn had some 7-ray shapes as presented in the figure. She pasted them together as presented in the figure on the right. At least how many shapes did she use? A: 3,B: 1,C: 7,D: 5,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1750.png"
+    ],
+    "id": 1750
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michael had some 2-ray slices as shown in the drawing. He attached them together as shown in the drawing on the right. At minimum, how many slices did he use? A: 5,B: 1,C: 4,D: 8,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1751.png"
+    ],
+    "id": 1751
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Danielle had some 5-ray shapes as presented in the cartoon. She glued them together as presented in the cartoon on the right. At minimum, how many shapes did she use? A: 4,B: 5,C: 1,D: 2,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1753.png"
+    ],
+    "id": 1753
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Carl had some 7-ray shapes as presented in the cartoon. He glued them together as presented in the cartoon on the right. At least how many shapes did he use? A: 5,B: 7,C: 1,D: 9,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1757.png"
+    ],
+    "id": 1757
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michelle had some 2-ray slices as displayed in the cartoon. She attached them together as displayed in the cartoon on the right. At least how many slices did she use? A: 3,B: 2,C: 8,D: 7,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1758.png"
+    ],
+    "id": 1758
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jose had some 2-ray slices as demonstrated in the cartoon. He attached them together as demonstrated in the cartoon on the right. At minimum, how many slices did he use? A: 3,B: 7,C: 4,D: 8,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1762.png"
+    ],
+    "id": 1762
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Anthony had some 7-ray slices as shown in the drawing. He attached them together as shown in the drawing on the right. At least how many slices did he use? A: 3,B: 4,C: 8,D: 5,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1772.png"
+    ],
+    "id": 1772
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Ariel had a few 2-ray shapes as shown in the figure. He glued them together as shown in the figure on the right. At minimum, how many shapes did he use? A: 4,B: 6,C: 5,D: 3,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1773.png"
+    ],
+    "id": 1773
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Carl had a few 6-ray shapes as demonstrated in the image. He glued them together as demonstrated in the image on the right. At minimum, how many shapes did he use? A: 3,B: 7,C: 1,D: 0,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1792.png"
+    ],
+    "id": 1792
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Karen had some 2-ray shapes as shown in the figure. She pasted them together as shown in the figure on the right. At minimum, how many shapes did she use? A: 5,B: 3,C: 9,D: 8,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1795.png"
+    ],
+    "id": 1795
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kevin had a few 2-ray shapes as pictured in the drawing. He pasted them together as pictured in the drawing on the right. At least how many shapes did he use? A: 9,B: 0,C: 3,D: 2,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1796.png"
+    ],
+    "id": 1796
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Matthew had a few 5-ray slices as presented in the picture. He pasted them together as presented in the picture on the right. At least how many slices did he use? A: 8,B: 4,C: 2,D: 5,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1806.png"
+    ],
+    "id": 1806
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Danielle had a few 7-ray shapes as depicted in the cartoon. She pasted them together as depicted in the cartoon on the right. At least how many shapes did she use? A: 4,B: 1,C: 6,D: 8,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1808.png"
+    ],
+    "id": 1808
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Stephen had a few 7-ray shapes as depicted in the drawing. He glued them together as depicted in the drawing on the right. At least how many shapes did he use? A: 4,B: 3,C: 0,D: 2,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1823.png"
+    ],
+    "id": 1823
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Bruce had a few 3-ray slices as depicted in the figure. He pasted them together as depicted in the figure on the right. At minimum, how many slices did he use? A: 1,B: 2,C: 7,D: 0,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1835.png"
+    ],
+    "id": 1835
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Catherine had some 3-ray shapes as displayed in the image. She pasted them together as displayed in the image on the right. At minimum, how many shapes did she use? A: 4,B: 2,C: 0,D: 8,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1836.png"
+    ],
+    "id": 1836
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kenneth had a few 7-ray slices as shown in the image. He pasted them together as shown in the image on the right. At minimum, how many slices did he use? A: 9,B: 7,C: 6,D: 2,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1839.png"
+    ],
+    "id": 1839
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Daniel had a few 4-ray shapes as shown in the drawing. He attached them together as shown in the drawing on the right. At least how many shapes did he use? A: 9,B: 6,C: 2,D: 0,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1841.png"
+    ],
+    "id": 1841
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Nicholas had some 7-ray shapes as displayed in the cartoon. He glued them together as displayed in the cartoon on the right. At minimum, how many shapes did he use? A: 6,B: 2,C: 8,D: 3,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1842.png"
+    ],
+    "id": 1842
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Victor had a few 7-ray slices as depicted in the picture. He attached them together as depicted in the picture on the right. At least how many slices did he use? A: 4,B: 8,C: 7,D: 3,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1845.png"
+    ],
+    "id": 1845
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Natalie had a few 6-ray slices as shown in the picture. She glued them together as shown in the picture on the right. At minimum, how many slices did she use? A: 7,B: 4,C: 2,D: 6,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1848.png"
+    ],
+    "id": 1848
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Derrick had a few 5-ray slices as displayed in the image. He pasted them together as displayed in the image on the right. At least how many slices did he use? A: 0,B: 8,C: 3,D: 5,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1851.png"
+    ],
+    "id": 1851
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Lawrence had some 6-ray slices as pictured in the drawing. He attached them together as pictured in the drawing on the right. At least how many slices did he use? A: 0,B: 9,C: 2,D: 5,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1862.png"
+    ],
+    "id": 1862
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Paul had a few 7-ray slices as pictured in the picture. He pasted them together as pictured in the picture on the right. At least how many slices did he use? A: 5,B: 2,C: 7,D: 1,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1863.png"
+    ],
+    "id": 1863
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joseph had a few 3-ray slices as presented in the picture. He attached them together as presented in the picture on the right. At minimum, how many slices did he use? A: 2,B: 3,C: 5,D: 4,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_187.png"
+    ],
+    "id": 187
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Denise had some 6-ray shapes as presented in the image. She attached them together as presented in the image on the right. At minimum, how many shapes did she use? A: 1,B: 4,C: 0,D: 5,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1880.png"
+    ],
+    "id": 1880
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Derrick had some 3-ray slices as depicted in the figure. He pasted them together as depicted in the figure on the right. At minimum, how many slices did he use? A: 5,B: 6,C: 4,D: 2,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1885.png"
+    ],
+    "id": 1885
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joseph had some 5-ray slices as depicted in the cartoon. He attached them together as depicted in the cartoon on the right. At least how many slices did he use? A: 2,B: 1,C: 3,D: 4,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1886.png"
+    ],
+    "id": 1886
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Danielle had some 6-ray slices as displayed in the figure. She attached them together as displayed in the figure on the right. At minimum, how many slices did she use? A: 7,B: 5,C: 3,D: 4,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_189.png"
+    ],
+    "id": 189
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rebecca had some 6-ray shapes as demonstrated in the cartoon. She attached them together as demonstrated in the cartoon on the right. At least how many shapes did she use? A: 6,B: 4,C: 8,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1891.png"
+    ],
+    "id": 1891
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Sylvia had a few 4-ray shapes as pictured in the drawing. She attached them together as pictured in the drawing on the right. At minimum, how many shapes did she use? A: 3,B: 7,C: 2,D: 1,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1895.png"
+    ],
+    "id": 1895
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Hannah had a few 5-ray shapes as presented in the drawing. She pasted them together as presented in the drawing on the right. At least how many shapes did she use? A: 0,B: 1,C: 5,D: 8,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1899.png"
+    ],
+    "id": 1899
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Bridget had some 7-ray shapes as depicted in the figure. She attached them together as depicted in the figure on the right. At minimum, how many shapes did she use? A: 4,B: 0,C: 7,D: 6,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1900.png"
+    ],
+    "id": 1900
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jose had a few 2-ray shapes as presented in the figure. He glued them together as presented in the figure on the right. At least how many shapes did he use? A: 2,B: 0,C: 5,D: 4,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1901.png"
+    ],
+    "id": 1901
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: William had some 7-ray slices as shown in the picture. He attached them together as shown in the picture on the right. At least how many slices did he use? A: 8,B: 5,C: 9,D: 4,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1915.png"
+    ],
+    "id": 1915
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Vickie had some 6-ray shapes as displayed in the figure. She glued them together as displayed in the figure on the right. At least how many shapes did she use? A: 5,B: 1,C: 3,D: 2,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1925.png"
+    ],
+    "id": 1925
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Tina had some 2-ray slices as pictured in the picture. She attached them together as pictured in the picture on the right. At least how many slices did she use? A: 5,B: 0,C: 6,D: 2,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1951.png"
+    ],
+    "id": 1951
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Christopher had some 4-ray slices as demonstrated in the picture. He pasted them together as demonstrated in the picture on the right. At minimum, how many slices did he use? A: 4,B: 6,C: 5,D: 3,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1952.png"
+    ],
+    "id": 1952
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Charles had a few 2-ray shapes as pictured in the figure. He glued them together as pictured in the figure on the right. At least how many shapes did he use? A: 9,B: 8,C: 2,D: 3,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_197.png"
+    ],
+    "id": 197
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joseph had a few 7-ray slices as presented in the figure. He pasted them together as presented in the figure on the right. At least how many slices did he use? A: 3,B: 9,C: 2,D: 6,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1970.png"
+    ],
+    "id": 1970
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kevin had a few 4-ray slices as shown in the picture. He glued them together as shown in the picture on the right. At least how many slices did he use? A: 6,B: 0,C: 8,D: 5,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_1996.png"
+    ],
+    "id": 1996
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Gabriel had a few 6-ray shapes as depicted in the cartoon. He glued them together as depicted in the cartoon on the right. At least how many shapes did he use? A: 5,B: 0,C: 4,D: 2,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_20.png"
+    ],
+    "id": 20
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joshua had some 2-ray shapes as demonstrated in the drawing. He pasted them together as demonstrated in the drawing on the right. At least how many shapes did he use? A: 8,B: 1,C: 5,D: 3,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_200.png"
+    ],
+    "id": 200
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Sandra had a few 7-ray shapes as demonstrated in the picture. She pasted them together as demonstrated in the picture on the right. At least how many shapes did she use? A: 1,B: 8,C: 4,D: 5,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_201.png"
+    ],
+    "id": 201
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joseph had a few 5-ray slices as presented in the image. He pasted them together as presented in the image on the right. At minimum, how many slices did he use? A: 1,B: 5,C: 4,D: 7,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_202.png"
+    ],
+    "id": 202
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kathryn had some 6-ray slices as demonstrated in the drawing. She attached them together as demonstrated in the drawing on the right. At least how many slices did she use? A: 0,B: 5,C: 1,D: 2,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_205.png"
+    ],
+    "id": 205
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Brenda had some 3-ray slices as displayed in the cartoon. She attached them together as displayed in the cartoon on the right. At least how many slices did she use? A: 7,B: 4,C: 3,D: 9,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_206.png"
+    ],
+    "id": 206
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Erin had some 3-ray slices as presented in the drawing. She pasted them together as presented in the drawing on the right. At least how many slices did she use? A: 1,B: 4,C: 5,D: 3,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_21.png"
+    ],
+    "id": 21
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Dustin had some 5-ray slices as pictured in the figure. He pasted them together as pictured in the figure on the right. At minimum, how many slices did he use? A: 2,B: 3,C: 7,D: 0,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_216.png"
+    ],
+    "id": 216
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Vickie had some 4-ray slices as depicted in the image. She attached them together as depicted in the image on the right. At least how many slices did she use? A: 4,B: 7,C: 6,D: 8,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_219.png"
+    ],
+    "id": 219
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel had some 3-ray slices as depicted in the drawing. She pasted them together as depicted in the drawing on the right. At least how many slices did she use? A: 3,B: 0,C: 4,D: 1,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_230.png"
+    ],
+    "id": 230
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Carrie had some 3-ray shapes as demonstrated in the figure. She glued them together as demonstrated in the figure on the right. At minimum, how many shapes did she use? A: 5,B: 8,C: 1,D: 6,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_241.png"
+    ],
+    "id": 241
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joseph had a few 4-ray shapes as demonstrated in the cartoon. He pasted them together as demonstrated in the cartoon on the right. At least how many shapes did he use? A: 2,B: 6,C: 7,D: 4,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_246.png"
+    ],
+    "id": 246
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Paul had a few 6-ray slices as displayed in the image. He attached them together as displayed in the image on the right. At minimum, how many slices did he use? A: 9,B: 5,C: 4,D: 2,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_252.png"
+    ],
+    "id": 252
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kenneth had a few 4-ray shapes as depicted in the figure. He attached them together as depicted in the figure on the right. At minimum, how many shapes did he use? A: 5,B: 9,C: 4,D: 2,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_269.png"
+    ],
+    "id": 269
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joseph had a few 3-ray shapes as demonstrated in the figure. He glued them together as demonstrated in the figure on the right. At minimum, how many shapes did he use? A: 2,B: 6,C: 0,D: 8,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_276.png"
+    ],
+    "id": 276
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: John had a few 4-ray shapes as presented in the figure. He glued them together as presented in the figure on the right. At least how many shapes did he use? A: 4,B: 6,C: 7,D: 2,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_279.png"
+    ],
+    "id": 279
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Thomas had a few 5-ray shapes as presented in the image. He attached them together as presented in the image on the right. At minimum, how many shapes did he use? A: 1,B: 8,C: 3,D: 4,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_288.png"
+    ],
+    "id": 288
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Lawrence had a few 2-ray shapes as shown in the cartoon. He glued them together as shown in the cartoon on the right. At minimum, how many shapes did he use? A: 7,B: 2,C: 4,D: 0,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_293.png"
+    ],
+    "id": 293
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Johnny had a few 2-ray shapes as depicted in the cartoon. He attached them together as depicted in the cartoon on the right. At least how many shapes did he use? A: 0,B: 6,C: 2,D: 1,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_295.png"
+    ],
+    "id": 295
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Christine had some 3-ray shapes as demonstrated in the cartoon. She attached them together as demonstrated in the cartoon on the right. At least how many shapes did she use? A: 2,B: 7,C: 4,D: 8,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_315.png"
+    ],
+    "id": 315
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel had some 7-ray shapes as presented in the cartoon. She glued them together as presented in the cartoon on the right. At least how many shapes did she use? A: 5,B: 6,C: 9,D: 3,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_317.png"
+    ],
+    "id": 317
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel had a few 2-ray slices as displayed in the drawing. She pasted them together as displayed in the drawing on the right. At least how many slices did she use? A: 3,B: 9,C: 6,D: 1,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_330.png"
+    ],
+    "id": 330
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Nicholas had some 7-ray slices as shown in the drawing. He glued them together as shown in the drawing on the right. At least how many slices did he use? A: 4,B: 0,C: 9,D: 7,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_337.png"
+    ],
+    "id": 337
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Charles had some 2-ray slices as demonstrated in the cartoon. He glued them together as demonstrated in the cartoon on the right. At least how many slices did he use? A: 2,B: 4,C: 5,D: 9,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_34.png"
+    ],
+    "id": 34
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Nicholas had some 2-ray shapes as shown in the figure. He pasted them together as shown in the figure on the right. At minimum, how many shapes did he use? A: 0,B: 9,C: 1,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_343.png"
+    ],
+    "id": 343
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michelle had some 6-ray shapes as displayed in the picture. She pasted them together as displayed in the picture on the right. At minimum, how many shapes did she use? A: 7,B: 8,C: 3,D: 5,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_378.png"
+    ],
+    "id": 378
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Chelsea had some 4-ray slices as pictured in the figure. She pasted them together as pictured in the figure on the right. At minimum, how many slices did she use? A: 3,B: 5,C: 8,D: 7,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_379.png"
+    ],
+    "id": 379
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Cristina had some 6-ray slices as displayed in the drawing. She pasted them together as displayed in the drawing on the right. At minimum, how many slices did she use? A: 5,B: 2,C: 4,D: 3,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_384.png"
+    ],
+    "id": 384
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Melissa had some 5-ray slices as pictured in the cartoon. She attached them together as pictured in the cartoon on the right. At minimum, how many slices did she use? A: 0,B: 9,C: 6,D: 7,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_385.png"
+    ],
+    "id": 385
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Catherine had some 7-ray slices as presented in the cartoon. She attached them together as presented in the cartoon on the right. At minimum, how many slices did she use? A: 4,B: 9,C: 2,D: 5,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_387.png"
+    ],
+    "id": 387
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joshua had some 4-ray slices as depicted in the drawing. He attached them together as depicted in the drawing on the right. At minimum, how many slices did he use? A: 1,B: 4,C: 5,D: 7,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_391.png"
+    ],
+    "id": 391
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Nathan had some 6-ray slices as presented in the figure. He pasted them together as presented in the figure on the right. At least how many slices did he use? A: 7,B: 2,C: 5,D: 9,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_392.png"
+    ],
+    "id": 392
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Katherine had some 2-ray shapes as depicted in the image. She attached them together as depicted in the image on the right. At least how many shapes did she use? A: 5,B: 0,C: 4,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_397.png"
+    ],
+    "id": 397
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Tina had a few 4-ray shapes as pictured in the picture. She pasted them together as pictured in the picture on the right. At minimum, how many shapes did she use? A: 8,B: 0,C: 9,D: 3,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_40.png"
+    ],
+    "id": 40
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Holly had some 4-ray shapes as shown in the cartoon. She attached them together as shown in the cartoon on the right. At least how many shapes did she use? A: 3,B: 0,C: 7,D: 6,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_400.png"
+    ],
+    "id": 400
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Wayne had some 7-ray slices as pictured in the drawing. He glued them together as pictured in the drawing on the right. At minimum, how many slices did he use? A: 4,B: 3,C: 7,D: 8,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_401.png"
+    ],
+    "id": 401
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Tina had a few 3-ray shapes as pictured in the figure. She glued them together as pictured in the figure on the right. At least how many shapes did she use? A: 3,B: 8,C: 9,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_406.png"
+    ],
+    "id": 406
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kevin had a few 3-ray shapes as displayed in the picture. He attached them together as displayed in the picture on the right. At least how many shapes did he use? A: 4,B: 0,C: 1,D: 9,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_418.png"
+    ],
+    "id": 418
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel had a few 7-ray shapes as demonstrated in the drawing. She pasted them together as demonstrated in the drawing on the right. At least how many shapes did she use? A: 0,B: 6,C: 5,D: 9,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_441.png"
+    ],
+    "id": 441
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Paul had a few 2-ray shapes as shown in the figure. He pasted them together as shown in the figure on the right. At least how many shapes did he use? A: 2,B: 6,C: 3,D: 8,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_455.png"
+    ],
+    "id": 455
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Erin had some 5-ray slices as depicted in the picture. She attached them together as depicted in the picture on the right. At minimum, how many slices did she use? A: 3,B: 9,C: 7,D: 1,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_459.png"
+    ],
+    "id": 459
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Tina had some 2-ray shapes as depicted in the figure. She attached them together as depicted in the figure on the right. At minimum, how many shapes did she use? A: 1,B: 0,C: 3,D: 8,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_466.png"
+    ],
+    "id": 466
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jeff had some 6-ray slices as depicted in the cartoon. He attached them together as depicted in the cartoon on the right. At least how many slices did he use? A: 5,B: 3,C: 9,D: 2,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_474.png"
+    ],
+    "id": 474
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Melissa had some 4-ray shapes as depicted in the cartoon. She glued them together as depicted in the cartoon on the right. At least how many shapes did she use? A: 8,B: 4,C: 3,D: 5,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_484.png"
+    ],
+    "id": 484
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Mary had some 7-ray shapes as demonstrated in the drawing. She pasted them together as demonstrated in the drawing on the right. At minimum, how many shapes did she use? A: 9,B: 3,C: 4,D: 0,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_492.png"
+    ],
+    "id": 492
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Crystal had some 7-ray shapes as shown in the drawing. She glued them together as shown in the drawing on the right. At minimum, how many shapes did she use? A: 7,B: 1,C: 5,D: 3,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_502.png"
+    ],
+    "id": 502
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel had a few 5-ray shapes as shown in the picture. She glued them together as shown in the picture on the right. At minimum, how many shapes did she use? A: 4,B: 3,C: 8,D: 0,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_508.png"
+    ],
+    "id": 508
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Melissa had some 5-ray slices as depicted in the image. She attached them together as depicted in the image on the right. At least how many slices did she use? A: 9,B: 0,C: 4,D: 5,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_510.png"
+    ],
+    "id": 510
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Bridget had a few 2-ray slices as depicted in the drawing. She glued them together as depicted in the drawing on the right. At least how many slices did she use? A: 9,B: 4,C: 2,D: 3,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_520.png"
+    ],
+    "id": 520
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kristin had some 7-ray slices as presented in the figure. She attached them together as presented in the figure on the right. At least how many slices did she use? A: 2,B: 9,C: 1,D: 3,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_524.png"
+    ],
+    "id": 524
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Wayne had a few 5-ray shapes as displayed in the cartoon. He pasted them together as displayed in the cartoon on the right. At least how many shapes did he use? A: 3,B: 1,C: 5,D: 7,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_540.png"
+    ],
+    "id": 540
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Denise had some 4-ray slices as pictured in the image. She attached them together as pictured in the image on the right. At minimum, how many slices did she use? A: 8,B: 9,C: 3,D: 0,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_556.png"
+    ],
+    "id": 556
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joseph had some 5-ray shapes as demonstrated in the figure. He glued them together as demonstrated in the figure on the right. At least how many shapes did he use? A: 8,B: 3,C: 2,D: 7,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_562.png"
+    ],
+    "id": 562
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Lawrence had some 4-ray slices as presented in the figure. He glued them together as presented in the figure on the right. At least how many slices did he use? A: 5,B: 6,C: 9,D: 0,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_563.png"
+    ],
+    "id": 563
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Mary had some 3-ray shapes as demonstrated in the figure. She glued them together as demonstrated in the figure on the right. At least how many shapes did she use? A: 2,B: 6,C: 3,D: 0,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_564.png"
+    ],
+    "id": 564
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Cristina had a few 6-ray slices as presented in the drawing. She pasted them together as presented in the drawing on the right. At least how many slices did she use? A: 6,B: 9,C: 8,D: 2,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_565.png"
+    ],
+    "id": 565
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Gabriel had a few 4-ray slices as pictured in the cartoon. He pasted them together as pictured in the cartoon on the right. At least how many slices did he use? A: 4,B: 5,C: 0,D: 1,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_577.png"
+    ],
+    "id": 577
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Katherine had some 5-ray shapes as displayed in the image. She pasted them together as displayed in the image on the right. At least how many shapes did she use? A: 5,B: 0,C: 4,D: 8,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_592.png"
+    ],
+    "id": 592
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Tina had some 7-ray slices as shown in the figure. She attached them together as shown in the figure on the right. At least how many slices did she use? A: 5,B: 9,C: 8,D: 3,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_600.png"
+    ],
+    "id": 600
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Vickie had a few 5-ray slices as shown in the picture. She pasted them together as shown in the picture on the right. At least how many slices did she use? A: 6,B: 1,C: 3,D: 5,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_608.png"
+    ],
+    "id": 608
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Charles had some 5-ray shapes as displayed in the drawing. He attached them together as displayed in the drawing on the right. At least how many shapes did he use? A: 5,B: 1,C: 7,D: 3,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_612.png"
+    ],
+    "id": 612
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Sylvia had some 3-ray shapes as demonstrated in the picture. She pasted them together as demonstrated in the picture on the right. At minimum, how many shapes did she use? A: 1,B: 9,C: 4,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_627.png"
+    ],
+    "id": 627
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: John had some 3-ray slices as displayed in the picture. He attached them together as displayed in the picture on the right. At least how many slices did he use? A: 5,B: 1,C: 3,D: 2,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_632.png"
+    ],
+    "id": 632
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Amy had some 6-ray slices as demonstrated in the image. She attached them together as demonstrated in the image on the right. At least how many slices did she use? A: 3,B: 5,C: 8,D: 6,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_64.png"
+    ],
+    "id": 64
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Mary had some 7-ray slices as presented in the image. She attached them together as presented in the image on the right. At least how many slices did she use? A: 8,B: 4,C: 5,D: 1,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_641.png"
+    ],
+    "id": 641
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Johnny had a few 2-ray shapes as shown in the cartoon. He attached them together as shown in the cartoon on the right. At least how many shapes did he use? A: 0,B: 3,C: 2,D: 1,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_642.png"
+    ],
+    "id": 642
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Brenda had a few 7-ray slices as displayed in the drawing. She glued them together as displayed in the drawing on the right. At minimum, how many slices did she use? A: 3,B: 2,C: 0,D: 4,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_645.png"
+    ],
+    "id": 645
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Paige had some 2-ray shapes as depicted in the picture. She glued them together as depicted in the picture on the right. At least how many shapes did she use? A: 4,B: 7,C: 8,D: 2,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_646.png"
+    ],
+    "id": 646
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Tina had a few 5-ray shapes as pictured in the image. She attached them together as pictured in the image on the right. At minimum, how many shapes did she use? A: 4,B: 1,C: 3,D: 2,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_647.png"
+    ],
+    "id": 647
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jasmine had a few 4-ray shapes as depicted in the figure. She attached them together as depicted in the figure on the right. At least how many shapes did she use? A: 9,B: 2,C: 3,D: 4,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_648.png"
+    ],
+    "id": 648
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Bridget had some 3-ray shapes as displayed in the cartoon. She pasted them together as displayed in the cartoon on the right. At least how many shapes did she use? A: 7,B: 3,C: 0,D: 2,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_663.png"
+    ],
+    "id": 663
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Erin had some 7-ray shapes as displayed in the drawing. She pasted them together as displayed in the drawing on the right. At least how many shapes did she use? A: 4,B: 7,C: 2,D: 1,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_681.png"
+    ],
+    "id": 681
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Melissa had a few 4-ray shapes as depicted in the figure. She glued them together as depicted in the figure on the right. At least how many shapes did she use? A: 2,B: 6,C: 1,D: 3,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_683.png"
+    ],
+    "id": 683
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Tina had some 7-ray slices as shown in the picture. She pasted them together as shown in the picture on the right. At least how many slices did she use? A: 2,B: 7,C: 5,D: 9,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_686.png"
+    ],
+    "id": 686
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Sylvia had some 4-ray slices as depicted in the image. She glued them together as depicted in the image on the right. At minimum, how many slices did she use? A: 4,B: 0,C: 3,D: 9,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_698.png"
+    ],
+    "id": 698
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michelle had a few 6-ray slices as presented in the figure. She attached them together as presented in the figure on the right. At minimum, how many slices did she use? A: 6,B: 5,C: 3,D: 8,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_699.png"
+    ],
+    "id": 699
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Tracy had some 3-ray slices as displayed in the picture. She attached them together as displayed in the picture on the right. At minimum, how many slices did she use? A: 4,B: 0,C: 1,D: 7,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_702.png"
+    ],
+    "id": 702
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Felicia had some 6-ray slices as pictured in the cartoon. She pasted them together as pictured in the cartoon on the right. At least how many slices did she use? A: 5,B: 6,C: 3,D: 7,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_709.png"
+    ],
+    "id": 709
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Karen had some 5-ray shapes as presented in the figure. She glued them together as presented in the figure on the right. At least how many shapes did she use? A: 9,B: 1,C: 3,D: 0,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_719.png"
+    ],
+    "id": 719
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Tracy had some 6-ray shapes as pictured in the image. She attached them together as pictured in the image on the right. At least how many shapes did she use? A: 7,B: 2,C: 6,D: 8,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_725.png"
+    ],
+    "id": 725
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joshua had a few 2-ray slices as displayed in the figure. He pasted them together as displayed in the figure on the right. At least how many slices did he use? A: 7,B: 2,C: 1,D: 4,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_729.png"
+    ],
+    "id": 729
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: John had some 5-ray shapes as demonstrated in the image. He attached them together as demonstrated in the image on the right. At minimum, how many shapes did he use? A: 8,B: 6,C: 0,D: 4,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_742.png"
+    ],
+    "id": 742
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Melissa had a few 3-ray shapes as displayed in the cartoon. She pasted them together as displayed in the cartoon on the right. At minimum, how many shapes did she use? A: 6,B: 5,C: 9,D: 3,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_747.png"
+    ],
+    "id": 747
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: William had a few 6-ray shapes as depicted in the image. He attached them together as depicted in the image on the right. At least how many shapes did he use? A: 8,B: 2,C: 0,D: 3,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_748.png"
+    ],
+    "id": 748
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: John had some 6-ray shapes as depicted in the drawing. He pasted them together as depicted in the drawing on the right. At minimum, how many shapes did he use? A: 4,B: 1,C: 8,D: 6,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_751.png"
+    ],
+    "id": 751
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: William had some 7-ray shapes as depicted in the image. He pasted them together as depicted in the image on the right. At minimum, how many shapes did he use? A: 9,B: 3,C: 7,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_763.png"
+    ],
+    "id": 763
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Tina had a few 4-ray slices as presented in the cartoon. She attached them together as presented in the cartoon on the right. At minimum, how many slices did she use? A: 6,B: 4,C: 9,D: 5,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_766.png"
+    ],
+    "id": 766
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Karen had some 5-ray slices as displayed in the drawing. She pasted them together as displayed in the drawing on the right. At minimum, how many slices did she use? A: 7,B: 5,C: 9,D: 8,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_769.png"
+    ],
+    "id": 769
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel had some 7-ray shapes as depicted in the figure. She glued them together as depicted in the figure on the right. At least how many shapes did she use? A: 9,B: 3,C: 8,D: 0,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_775.png"
+    ],
+    "id": 775
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Felicia had a few 4-ray slices as presented in the drawing. She pasted them together as presented in the drawing on the right. At minimum, how many slices did she use? A: 6,B: 5,C: 1,D: 2,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_776.png"
+    ],
+    "id": 776
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Christian had some 6-ray shapes as shown in the image. He attached them together as shown in the image on the right. At least how many shapes did he use? A: 5,B: 1,C: 4,D: 0,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_779.png"
+    ],
+    "id": 779
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Chelsea had a few 4-ray slices as shown in the figure. She glued them together as shown in the figure on the right. At minimum, how many slices did she use? A: 2,B: 3,C: 5,D: 7,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_791.png"
+    ],
+    "id": 791
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Wayne had some 5-ray slices as displayed in the image. He attached them together as displayed in the image on the right. At least how many slices did he use? A: 3,B: 1,C: 9,D: 5,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_794.png"
+    ],
+    "id": 794
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Thomas had a few 7-ray slices as shown in the drawing. He pasted them together as shown in the drawing on the right. At minimum, how many slices did he use? A: 5,B: 3,C: 6,D: 2,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_795.png"
+    ],
+    "id": 795
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: William had a few 2-ray slices as shown in the image. He glued them together as shown in the image on the right. At least how many slices did he use? A: 0,B: 4,C: 8,D: 5,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_804.png"
+    ],
+    "id": 804
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Hannah had a few 2-ray shapes as displayed in the cartoon. She glued them together as displayed in the cartoon on the right. At minimum, how many shapes did she use? A: 7,B: 8,C: 9,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_805.png"
+    ],
+    "id": 805
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Carrie had some 3-ray slices as depicted in the figure. She pasted them together as depicted in the figure on the right. At least how many slices did she use? A: 7,B: 2,C: 8,D: 3,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_815.png"
+    ],
+    "id": 815
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Katherine had some 3-ray shapes as demonstrated in the drawing. She glued them together as demonstrated in the drawing on the right. At least how many shapes did she use? A: 6,B: 2,C: 9,D: 5,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_831.png"
+    ],
+    "id": 831
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Cristina had a few 6-ray shapes as shown in the figure. She pasted them together as shown in the figure on the right. At minimum, how many shapes did she use? A: 8,B: 5,C: 2,D: 0,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_835.png"
+    ],
+    "id": 835
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Daniel had a few 2-ray slices as demonstrated in the picture. He pasted them together as demonstrated in the picture on the right. At minimum, how many slices did he use? A: 6,B: 5,C: 8,D: 9,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_840.png"
+    ],
+    "id": 840
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Catherine had some 7-ray shapes as shown in the drawing. She pasted them together as shown in the drawing on the right. At minimum, how many shapes did she use? A: 1,B: 8,C: 6,D: 5,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_854.png"
+    ],
+    "id": 854
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: William had some 5-ray shapes as presented in the picture. He pasted them together as presented in the picture on the right. At least how many shapes did he use? A: 0,B: 5,C: 1,D: 9,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_856.png"
+    ],
+    "id": 856
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Ariel had some 2-ray slices as presented in the image. He glued them together as presented in the image on the right. At minimum, how many slices did he use? A: 9,B: 4,C: 2,D: 0,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_860.png"
+    ],
+    "id": 860
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Lawrence had a few 4-ray slices as demonstrated in the picture. He glued them together as demonstrated in the picture on the right. At minimum, how many slices did he use? A: 3,B: 2,C: 7,D: 8,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_863.png"
+    ],
+    "id": 863
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Robert had some 2-ray shapes as demonstrated in the cartoon. He pasted them together as demonstrated in the cartoon on the right. At minimum, how many shapes did he use? A: 6,B: 1,C: 7,D: 2,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_87.png"
+    ],
+    "id": 87
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jose had some 4-ray slices as shown in the figure. He attached them together as shown in the figure on the right. At minimum, how many slices did he use? A: 4,B: 9,C: 2,D: 6,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_870.png"
+    ],
+    "id": 870
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michael had some 7-ray shapes as shown in the cartoon. He pasted them together as shown in the cartoon on the right. At minimum, how many shapes did he use? A: 3,B: 8,C: 6,D: 5,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_871.png"
+    ],
+    "id": 871
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Victor had some 2-ray slices as shown in the cartoon. He pasted them together as shown in the cartoon on the right. At minimum, how many slices did he use? A: 0,B: 6,C: 2,D: 9,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_878.png"
+    ],
+    "id": 878
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Emily had a few 2-ray slices as pictured in the picture. She pasted them together as pictured in the picture on the right. At least how many slices did she use? A: 2,B: 4,C: 8,D: 3,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_883.png"
+    ],
+    "id": 883
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Amy had some 4-ray shapes as demonstrated in the picture. She pasted them together as demonstrated in the picture on the right. At minimum, how many shapes did she use? A: 4,B: 7,C: 8,D: 0,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_891.png"
+    ],
+    "id": 891
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Melissa had some 6-ray slices as demonstrated in the picture. She pasted them together as demonstrated in the picture on the right. At minimum, how many slices did she use? A: 0,B: 9,C: 7,D: 5,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_897.png"
+    ],
+    "id": 897
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Ariel had some 3-ray shapes as pictured in the figure. He pasted them together as pictured in the figure on the right. At least how many shapes did he use? A: 4,B: 3,C: 6,D: 5,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_91.png"
+    ],
+    "id": 91
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Stephen had a few 2-ray shapes as pictured in the cartoon. He glued them together as pictured in the cartoon on the right. At least how many shapes did he use? A: 7,B: 2,C: 4,D: 8,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_929.png"
+    ],
+    "id": 929
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Ariel had some 4-ray shapes as shown in the drawing. He pasted them together as shown in the drawing on the right. At minimum, how many shapes did he use? A: 6,B: 1,C: 4,D: 2,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_95.png"
+    ],
+    "id": 95
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Derrick had a few 7-ray slices as shown in the picture. He pasted them together as shown in the picture on the right. At minimum, how many slices did he use? A: 1,B: 5,C: 3,D: 8,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_951.png"
+    ],
+    "id": 951
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Robert had a few 4-ray shapes as presented in the image. He attached them together as presented in the image on the right. At least how many shapes did he use? A: 5,B: 4,C: 2,D: 9,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_955.png"
+    ],
+    "id": 955
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Gabriel had some 6-ray shapes as presented in the image. He glued them together as presented in the image on the right. At minimum, how many shapes did he use? A: 1,B: 6,C: 4,D: 8,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_957.png"
+    ],
+    "id": 957
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Lisa had a few 2-ray shapes as demonstrated in the image. She glued them together as demonstrated in the image on the right. At least how many shapes did she use? A: 9,B: 3,C: 5,D: 1,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_960.png"
+    ],
+    "id": 960
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Vickie had a few 7-ray slices as presented in the picture. She pasted them together as presented in the picture on the right. At least how many slices did she use? A: 1,B: 5,C: 3,D: 6,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_972.png"
+    ],
+    "id": 972
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Natalie had a few 5-ray shapes as displayed in the cartoon. She glued them together as displayed in the cartoon on the right. At minimum, how many shapes did she use? A: 1,B: 3,C: 0,D: 6,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_975.png"
+    ],
+    "id": 975
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Tina had a few 3-ray shapes as depicted in the drawing. She attached them together as depicted in the drawing on the right. At minimum, how many shapes did she use? A: 6,B: 0,C: 8,D: 3,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_98.png"
+    ],
+    "id": 98
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joseph had a few 3-ray shapes as depicted in the picture. He glued them together as depicted in the picture on the right. At least how many shapes did he use? A: 9,B: 0,C: 1,D: 5,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_981.png"
+    ],
+    "id": 981
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kathryn had some 4-ray slices as pictured in the picture. She attached them together as pictured in the picture on the right. At minimum, how many slices did she use? A: 4,B: 8,C: 2,D: 6,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/78/img/puzzle_78_995.png"
+    ],
+    "id": 995
+  }
+]

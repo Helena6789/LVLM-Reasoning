@@ -1,0 +1,4802 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his graduation party, Miles had 10 guests. He bought 5 cakes, and each of them was cut into 4 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 8,B: 9,C: 0,D: 7,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1013.png"
+    ],
+    "id": 1013
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her anniversary party, Lidia had 7 guests. She bought 5 pizzas, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 6,B: 1,C: 7,D: 2,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1017.png"
+    ],
+    "id": 1017
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his graduation party, Julio had 15 guests. He bought 5 pies, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 17,B: 2,C: 18,D: 8,E: 16. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1018.png"
+    ],
+    "id": 1018
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her New Year's party, Kenya had 5 guests. She bought 2 pizzas, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 6,B: 4,C: 5,D: 3,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1021.png"
+    ],
+    "id": 1021
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his Christmas party, Jason had 13 guests. He bought 5 cakes, and each of them was cut into 5 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 24,B: 4,C: 10,D: 14,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1022.png"
+    ],
+    "id": 1022
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his Christmas party, Edward had 3 guests. He bought 3 cakes, and each of them was cut into 5 slices. Each person at the party ate 3 slices of cake. How many slices of cake were left over? A: 5,B: 1,C: 3,D: 4,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1026.png"
+    ],
+    "id": 1026
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his birthday party, Earle had 12 guests. He bought 5 pizzas, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 2,B: 3,C: 7,D: 13,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1029.png"
+    ],
+    "id": 1029
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, John had 4 guests. He bought 4 pizzas, and each of them was cut into 3 slices. Each person at the party ate 2 slices of pizza. How many slices of pizza were left over? A: 8,B: 9,C: 10,D: 11,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1039.png"
+    ],
+    "id": 1039
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, Edward had 5 guests. He bought 3 cakes, and each of them was cut into 3 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 4,B: 1,C: 5,D: 0,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1045.png"
+    ],
+    "id": 1045
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her Christmas party, Jennie had 2 guests. She bought 2 pizzas, and each of them was cut into 3 slices. Each person at the party ate 2 slices of pizza. How many slices of pizza were left over? A: 2,B: 3,C: 5,D: 1,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1052.png"
+    ],
+    "id": 1052
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her anniversary party, Lorene had 8 guests. She bought 2 cakes, and each of them was cut into 5 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 2,B: 9,C: 4,D: 5,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1057.png"
+    ],
+    "id": 1057
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his Christmas party, Francis had 6 guests. He bought 5 pies, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 11,B: 7,C: 9,D: 16,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1060.png"
+    ],
+    "id": 1060
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her anniversary party, Judy had 2 guests. She bought 4 pizzas, and each of them was cut into 2 slices. Each person at the party ate 2 slices of pizza. How many slices of pizza were left over? A: 0,B: 3,C: 2,D: 7,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1065.png"
+    ],
+    "id": 1065
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his graduation party, Russell had 7 guests. He bought 5 pies, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 6,B: 2,C: 9,D: 1,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1072.png"
+    ],
+    "id": 1072
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her New Year's party, Ellen had 3 guests. She bought 3 cakes, and each of them was cut into 4 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 8,B: 0,C: 11,D: 6,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1077.png"
+    ],
+    "id": 1077
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her graduation party, Karen had 8 guests. She bought 5 cakes, and each of them was cut into 2 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 9,B: 8,C: 0,D: 6,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1083.png"
+    ],
+    "id": 1083
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his graduation party, Roy had 5 guests. He bought 5 pizzas, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 7,B: 9,C: 3,D: 4,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1087.png"
+    ],
+    "id": 1087
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his graduation party, Jimmy had 2 guests. He bought 3 pies, and each of them was cut into 5 slices. Each person at the party ate 5 slices of pie. How many slices of pie were left over? A: 9,B: 13,C: 4,D: 0,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1096.png"
+    ],
+    "id": 1096
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her New Year's party, Barbara had 3 guests. She bought 4 pies, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 0,B: 3,C: 11,D: 4,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1105.png"
+    ],
+    "id": 1105
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her anniversary party, Charlotte had 3 guests. She bought 4 pies, and each of them was cut into 5 slices. Each person at the party ate 2 slices of pie. How many slices of pie were eaten? A: 12,B: 10,C: 13,D: 14,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1110.png"
+    ],
+    "id": 1110
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her anniversary party, Debra had 5 guests. She bought 2 cakes, and each of them was cut into 4 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 4,B: 3,C: 7,D: 2,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1124.png"
+    ],
+    "id": 1124
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her anniversary party, Robin had 7 guests. She bought 5 pies, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 3,B: 8,C: 2,D: 9,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1127.png"
+    ],
+    "id": 1127
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her birthday party, Jessica had 2 guests. She bought 3 pies, and each of them was cut into 3 slices. Each person at the party ate 3 slices of pie. How many slices of pie were eaten? A: 6,B: 5,C: 2,D: 9,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_113.png"
+    ],
+    "id": 113
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his anniversary party, Adam had 5 guests. He bought 5 cakes, and each of them was cut into 2 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 4,B: 6,C: 0,D: 5,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1130.png"
+    ],
+    "id": 1130
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his Christmas party, David had 2 guests. He bought 2 cakes, and each of them was cut into 4 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 7,B: 3,C: 4,D: 1,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1131.png"
+    ],
+    "id": 1131
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her graduation party, Janet had 2 guests. She bought 5 pies, and each of them was cut into 2 slices. Each person at the party ate 3 slices of pie. How many slices of pie were left over? A: 9,B: 0,C: 1,D: 4,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1137.png"
+    ],
+    "id": 1137
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, Philip had 3 guests. He bought 3 pies, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 5,B: 2,C: 4,D: 1,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1153.png"
+    ],
+    "id": 1153
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her graduation party, Maryann had 3 guests. She bought 4 pies, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 0,B: 5,C: 1,D: 7,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1154.png"
+    ],
+    "id": 1154
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her birthday party, Sarah had 8 guests. She bought 5 cakes, and each of them was cut into 2 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 2,B: 9,C: 4,D: 7,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1155.png"
+    ],
+    "id": 1155
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her New Year's party, Majorie had 3 guests. She bought 2 cakes, and each of them was cut into 4 slices. Each person at the party ate 2 slices of cake. How many slices of cake were eaten? A: 4,B: 8,C: 0,D: 1,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1163.png"
+    ],
+    "id": 1163
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her graduation party, Mona had 7 guests. She bought 3 pies, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 8,B: 3,C: 0,D: 2,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1181.png"
+    ],
+    "id": 1181
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his anniversary party, Michael had 5 guests. He bought 2 cakes, and each of them was cut into 4 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 1,B: 3,C: 5,D: 2,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1184.png"
+    ],
+    "id": 1184
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, Richard had 3 guests. He bought 2 pizzas, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 6,B: 1,C: 7,D: 9,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1185.png"
+    ],
+    "id": 1185
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, Michael had 2 guests. He bought 4 pizzas, and each of them was cut into 5 slices. Each person at the party ate 2 slices of pizza. How many slices of pizza were left over? A: 9,B: 0,C: 16,D: 15,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1195.png"
+    ],
+    "id": 1195
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her graduation party, Faith had 9 guests. She bought 4 pies, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 9,B: 10,C: 1,D: 0,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1208.png"
+    ],
+    "id": 1208
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his Christmas party, Michael had 8 guests. He bought 5 pies, and each of them was cut into 5 slices. Each person at the party ate 2 slices of pie. How many slices of pie were left over? A: 19,B: 6,C: 24,D: 7,E: 22. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1216.png"
+    ],
+    "id": 1216
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his anniversary party, Elton had 3 guests. He bought 4 cakes, and each of them was cut into 3 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 5,B: 7,C: 4,D: 0,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_122.png"
+    ],
+    "id": 122
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her graduation party, Betty had 8 guests. She bought 5 cakes, and each of them was cut into 2 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 3,B: 9,C: 5,D: 1,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1225.png"
+    ],
+    "id": 1225
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her birthday party, Evelyn had 4 guests. She bought 3 pizzas, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 3,B: 5,C: 4,D: 2,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_123.png"
+    ],
+    "id": 123
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her birthday party, Cheryl had 6 guests. She bought 4 cakes, and each of them was cut into 2 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 3,B: 1,C: 2,D: 4,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1239.png"
+    ],
+    "id": 1239
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her anniversary party, Angie had 10 guests. She bought 4 pizzas, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 9,B: 14,C: 13,D: 5,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1242.png"
+    ],
+    "id": 1242
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her graduation party, Lola had 7 guests. She bought 5 cakes, and each of them was cut into 3 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 7,B: 2,C: 8,D: 10,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1249.png"
+    ],
+    "id": 1249
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her anniversary party, Shannon had 7 guests. She bought 2 pizzas, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 0,B: 1,C: 8,D: 2,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1255.png"
+    ],
+    "id": 1255
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her graduation party, Heather had 6 guests. She bought 3 cakes, and each of them was cut into 3 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 0,B: 5,C: 4,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1257.png"
+    ],
+    "id": 1257
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her Christmas party, Louise had 8 guests. She bought 4 pies, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 11,B: 9,C: 6,D: 1,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1258.png"
+    ],
+    "id": 1258
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her graduation party, Toni had 6 guests. She bought 5 cakes, and each of them was cut into 5 slices. Each person at the party ate 3 slices of cake. How many slices of cake were eaten? A: 9,B: 0,C: 6,D: 21,E: 22. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1265.png"
+    ],
+    "id": 1265
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his anniversary party, Andrew had 8 guests. He bought 5 cakes, and each of them was cut into 4 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 9,B: 17,C: 18,D: 5,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1267.png"
+    ],
+    "id": 1267
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his birthday party, Aaron had 2 guests. He bought 3 cakes, and each of them was cut into 4 slices. Each person at the party ate 4 slices of cake. How many slices of cake were eaten? A: 6,B: 7,C: 12,D: 3,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1268.png"
+    ],
+    "id": 1268
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, Nicolas had 6 guests. He bought 2 pizzas, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 6,B: 3,C: 8,D: 4,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1276.png"
+    ],
+    "id": 1276
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his graduation party, Boyce had 3 guests. He bought 5 cakes, and each of them was cut into 5 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 4,B: 23,C: 17,D: 0,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1283.png"
+    ],
+    "id": 1283
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his anniversary party, Phillip had 4 guests. He bought 5 pizzas, and each of them was cut into 5 slices. Each person at the party ate 5 slices of pizza. How many slices of pizza were eaten? A: 25,B: 3,C: 16,D: 15,E: 17. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1292.png"
+    ],
+    "id": 1292
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her birthday party, Wanda had 8 guests. She bought 5 cakes, and each of them was cut into 2 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 1,B: 3,C: 7,D: 8,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1295.png"
+    ],
+    "id": 1295
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her Christmas party, Amy had 5 guests. She bought 5 cakes, and each of them was cut into 2 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 9,B: 4,C: 6,D: 0,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1298.png"
+    ],
+    "id": 1298
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her anniversary party, Shawn had 10 guests. She bought 4 pies, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 5,B: 11,C: 3,D: 1,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1307.png"
+    ],
+    "id": 1307
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her New Year's party, Ruby had 2 guests. She bought 3 pies, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 1,B: 3,C: 4,D: 0,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_131.png"
+    ],
+    "id": 131
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, Juan had 6 guests. He bought 2 pizzas, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 5,B: 3,C: 7,D: 1,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1333.png"
+    ],
+    "id": 1333
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his Christmas party, George had 12 guests. He bought 5 pizzas, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 20,B: 11,C: 14,D: 12,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1338.png"
+    ],
+    "id": 1338
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her graduation party, Mary had 10 guests. She bought 3 pies, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 3,B: 11,C: 10,D: 4,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_135.png"
+    ],
+    "id": 135
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his birthday party, Dan had 9 guests. He bought 4 cakes, and each of them was cut into 3 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 10,B: 4,C: 2,D: 8,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1355.png"
+    ],
+    "id": 1355
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, Jesus had 9 guests. He bought 5 pies, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 0,B: 2,C: 12,D: 10,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1364.png"
+    ],
+    "id": 1364
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her anniversary party, Maryann had 2 guests. She bought 3 cakes, and each of them was cut into 2 slices. Each person at the party ate 2 slices of cake. How many slices of cake were left over? A: 2,B: 4,C: 0,D: 5,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1368.png"
+    ],
+    "id": 1368
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her New Year's party, Nellie had 2 guests. She bought 2 cakes, and each of them was cut into 4 slices. Each person at the party ate 2 slices of cake. How many slices of cake were eaten? A: 0,B: 4,C: 6,D: 1,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1370.png"
+    ],
+    "id": 1370
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his birthday party, James had 4 guests. He bought 5 cakes, and each of them was cut into 2 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 2,B: 6,C: 5,D: 1,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1372.png"
+    ],
+    "id": 1372
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, Jason had 7 guests. He bought 2 pies, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 8,B: 4,C: 1,D: 0,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1383.png"
+    ],
+    "id": 1383
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his anniversary party, David had 5 guests. He bought 3 cakes, and each of them was cut into 3 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 6,B: 7,C: 2,D: 5,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1391.png"
+    ],
+    "id": 1391
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his Christmas party, Jeffrey had 4 guests. He bought 4 pies, and each of them was cut into 4 slices. Each person at the party ate 2 slices of pie. How many slices of pie were left over? A: 15,B: 3,C: 14,D: 7,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1397.png"
+    ],
+    "id": 1397
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her birthday party, Valorie had 9 guests. She bought 5 cakes, and each of them was cut into 5 slices. Each person at the party ate 2 slices of cake. How many slices of cake were eaten? A: 6,B: 14,C: 4,D: 20,E: 24. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1398.png"
+    ],
+    "id": 1398
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her Christmas party, Marilyn had 8 guests. She bought 4 pizzas, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 8,B: 11,C: 9,D: 7,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_14.png"
+    ],
+    "id": 14
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his graduation party, Daryl had 16 guests. He bought 5 cakes, and each of them was cut into 4 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 13,B: 0,C: 10,D: 15,E: 17. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1401.png"
+    ],
+    "id": 1401
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, Charles had 3 guests. He bought 3 cakes, and each of them was cut into 2 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 5,B: 4,C: 3,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1409.png"
+    ],
+    "id": 1409
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his Christmas party, Michael had 3 guests. He bought 5 pizzas, and each of them was cut into 5 slices. Each person at the party ate 3 slices of pizza. How many slices of pizza were eaten? A: 23,B: 13,C: 5,D: 11,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1410.png"
+    ],
+    "id": 1410
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her graduation party, Eileen had 6 guests. She bought 5 pizzas, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 8,B: 1,C: 0,D: 9,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1411.png"
+    ],
+    "id": 1411
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his birthday party, Jimmie had 6 guests. He bought 5 pizzas, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 7,B: 4,C: 0,D: 9,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1412.png"
+    ],
+    "id": 1412
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his graduation party, Isidro had 6 guests. He bought 3 pizzas, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 8,B: 3,C: 0,D: 7,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1414.png"
+    ],
+    "id": 1414
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his Christmas party, Loren had 23 guests. He bought 5 pies, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 20,B: 18,C: 21,D: 24,E: 23. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1427.png"
+    ],
+    "id": 1427
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his anniversary party, James had 7 guests. He bought 2 pizzas, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 5,B: 8,C: 9,D: 3,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1431.png"
+    ],
+    "id": 1431
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her anniversary party, Ann had 5 guests. She bought 2 pies, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 0,B: 3,C: 9,D: 1,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1435.png"
+    ],
+    "id": 1435
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his graduation party, Charlie had 5 guests. He bought 2 pies, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 2,B: 1,C: 0,D: 7,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1438.png"
+    ],
+    "id": 1438
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her New Year's party, Phung had 2 guests. She bought 3 cakes, and each of them was cut into 2 slices. Each person at the party ate 2 slices of cake. How many slices of cake were eaten? A: 5,B: 6,C: 1,D: 2,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_144.png"
+    ],
+    "id": 144
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his birthday party, Frank had 3 guests. He bought 5 pizzas, and each of them was cut into 4 slices. Each person at the party ate 5 slices of pizza. How many slices of pizza were left over? A: 12,B: 0,C: 13,D: 17,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1440.png"
+    ],
+    "id": 1440
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her New Year's party, Doris had 3 guests. She bought 2 pies, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 0,B: 4,C: 2,D: 3,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1452.png"
+    ],
+    "id": 1452
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his anniversary party, Juan had 9 guests. He bought 3 pizzas, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 6,B: 1,C: 0,D: 10,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1460.png"
+    ],
+    "id": 1460
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her birthday party, Barbara had 14 guests. She bought 4 pizzas, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 0,B: 8,C: 3,D: 15,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1463.png"
+    ],
+    "id": 1463
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her Christmas party, Margarita had 18 guests. She bought 5 cakes, and each of them was cut into 4 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 11,B: 5,C: 8,D: 18,E: 19. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1479.png"
+    ],
+    "id": 1479
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his Christmas party, Philip had 4 guests. He bought 5 pies, and each of them was cut into 3 slices. Each person at the party ate 3 slices of pie. How many slices of pie were left over? A: 11,B: 9,C: 2,D: 0,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1480.png"
+    ],
+    "id": 1480
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her graduation party, Lillian had 5 guests. She bought 3 cakes, and each of them was cut into 5 slices. Each person at the party ate 2 slices of cake. How many slices of cake were eaten? A: 4,B: 12,C: 10,D: 6,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1483.png"
+    ],
+    "id": 1483
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her anniversary party, Carolina had 5 guests. She bought 3 cakes, and each of them was cut into 4 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 6,B: 4,C: 8,D: 10,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1485.png"
+    ],
+    "id": 1485
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her anniversary party, April had 8 guests. She bought 5 cakes, and each of them was cut into 2 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 9,B: 6,C: 1,D: 3,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1486.png"
+    ],
+    "id": 1486
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her birthday party, Anna had 2 guests. She bought 2 pies, and each of them was cut into 3 slices. Each person at the party ate 2 slices of pie. How many slices of pie were left over? A: 0,B: 4,C: 1,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1496.png"
+    ],
+    "id": 1496
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her Christmas party, Lavonda had 5 guests. She bought 4 pies, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 4,B: 3,C: 1,D: 10,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1497.png"
+    ],
+    "id": 1497
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his graduation party, Frank had 12 guests. He bought 3 pizzas, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 7,B: 3,C: 13,D: 14,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_15.png"
+    ],
+    "id": 15
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her anniversary party, Bernice had 8 guests. She bought 4 pies, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 0,B: 4,C: 9,D: 7,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1500.png"
+    ],
+    "id": 1500
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, Terrence had 5 guests. He bought 4 cakes, and each of them was cut into 4 slices. Each person at the party ate 2 slices of cake. How many slices of cake were eaten? A: 4,B: 12,C: 11,D: 10,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1501.png"
+    ],
+    "id": 1501
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her anniversary party, Claudia had 6 guests. She bought 2 pies, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 7,B: 6,C: 9,D: 3,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1509.png"
+    ],
+    "id": 1509
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her Christmas party, Willetta had 2 guests. She bought 3 pies, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 4,B: 1,C: 2,D: 3,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1514.png"
+    ],
+    "id": 1514
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her graduation party, Francine had 8 guests. She bought 3 cakes, and each of them was cut into 4 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 9,B: 7,C: 11,D: 0,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1516.png"
+    ],
+    "id": 1516
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her anniversary party, Phyllis had 7 guests. She bought 5 pies, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 6,B: 14,C: 8,D: 5,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1521.png"
+    ],
+    "id": 1521
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her graduation party, Elsie had 8 guests. She bought 5 pizzas, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 8,B: 2,C: 9,D: 1,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1523.png"
+    ],
+    "id": 1523
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his anniversary party, Michael had 3 guests. He bought 3 cakes, and each of them was cut into 2 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 1,B: 2,C: 5,D: 0,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1529.png"
+    ],
+    "id": 1529
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his birthday party, John had 3 guests. He bought 4 pies, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 6,B: 2,C: 4,D: 5,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1530.png"
+    ],
+    "id": 1530
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his anniversary party, James had 10 guests. He bought 3 cakes, and each of them was cut into 4 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 9,B: 11,C: 10,D: 0,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1534.png"
+    ],
+    "id": 1534
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, Heriberto had 2 guests. He bought 3 cakes, and each of them was cut into 2 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 5,B: 1,C: 2,D: 3,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1535.png"
+    ],
+    "id": 1535
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his anniversary party, Elmer had 3 guests. He bought 5 pizzas, and each of them was cut into 2 slices. Each person at the party ate 2 slices of pizza. How many slices of pizza were left over? A: 2,B: 5,C: 0,D: 9,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1571.png"
+    ],
+    "id": 1571
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her Christmas party, Josephine had 9 guests. She bought 5 cakes, and each of them was cut into 4 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 0,B: 5,C: 13,D: 9,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1578.png"
+    ],
+    "id": 1578
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his graduation party, Richard had 13 guests. He bought 5 pies, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 12,B: 24,C: 5,D: 11,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1580.png"
+    ],
+    "id": 1580
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, Edwin had 2 guests. He bought 5 cakes, and each of them was cut into 3 slices. Each person at the party ate 4 slices of cake. How many slices of cake were left over? A: 3,B: 2,C: 14,D: 10,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1585.png"
+    ],
+    "id": 1585
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his anniversary party, Luther had 10 guests. He bought 3 cakes, and each of them was cut into 4 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 1,B: 11,C: 3,D: 4,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1586.png"
+    ],
+    "id": 1586
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, Ryan had 23 guests. He bought 5 cakes, and each of them was cut into 5 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 7,B: 10,C: 4,D: 1,E: 20. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1590.png"
+    ],
+    "id": 1590
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his anniversary party, Randall had 3 guests. He bought 3 pizzas, and each of them was cut into 4 slices. Each person at the party ate 3 slices of pizza. How many slices of pizza were left over? A: 10,B: 6,C: 3,D: 0,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1591.png"
+    ],
+    "id": 1591
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his anniversary party, Joshua had 13 guests. He bought 5 cakes, and each of them was cut into 5 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 15,B: 1,C: 18,D: 11,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1598.png"
+    ],
+    "id": 1598
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her Christmas party, Jina had 9 guests. She bought 3 pizzas, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 2,B: 6,C: 10,D: 0,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1599.png"
+    ],
+    "id": 1599
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his Christmas party, David had 2 guests. He bought 2 pizzas, and each of them was cut into 4 slices. Each person at the party ate 2 slices of pizza. How many slices of pizza were eaten? A: 4,B: 2,C: 7,D: 6,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_162.png"
+    ],
+    "id": 162
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, David had 16 guests. He bought 4 pies, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 5,B: 17,C: 7,D: 4,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1632.png"
+    ],
+    "id": 1632
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her New Year's party, Ok had 5 guests. She bought 2 cakes, and each of them was cut into 5 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 6,B: 9,C: 1,D: 5,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1634.png"
+    ],
+    "id": 1634
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his graduation party, Robert had 3 guests. He bought 4 pies, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 6,B: 5,C: 4,D: 3,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1637.png"
+    ],
+    "id": 1637
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, Gregory had 7 guests. He bought 5 pizzas, and each of them was cut into 5 slices. Each person at the party ate 2 slices of pizza. How many slices of pizza were eaten? A: 22,B: 7,C: 16,D: 4,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1639.png"
+    ],
+    "id": 1639
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her birthday party, Isabel had 2 guests. She bought 4 pizzas, and each of them was cut into 4 slices. Each person at the party ate 4 slices of pizza. How many slices of pizza were left over? A: 13,B: 10,C: 1,D: 4,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1644.png"
+    ],
+    "id": 1644
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her anniversary party, Shirley had 2 guests. She bought 5 cakes, and each of them was cut into 2 slices. Each person at the party ate 2 slices of cake. How many slices of cake were eaten? A: 4,B: 6,C: 0,D: 2,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1649.png"
+    ],
+    "id": 1649
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her birthday party, Rosalinda had 3 guests. She bought 4 cakes, and each of them was cut into 3 slices. Each person at the party ate 3 slices of cake. How many slices of cake were eaten? A: 12,B: 9,C: 11,D: 4,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1662.png"
+    ],
+    "id": 1662
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his birthday party, Malcolm had 5 guests. He bought 2 pies, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 2,B: 0,C: 5,D: 1,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1664.png"
+    ],
+    "id": 1664
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his Christmas party, Charles had 7 guests. He bought 3 pizzas, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 2,B: 8,C: 9,D: 13,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_167.png"
+    ],
+    "id": 167
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, Deshawn had 8 guests. He bought 3 pies, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 12,B: 14,C: 9,D: 6,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1679.png"
+    ],
+    "id": 1679
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, Paul had 14 guests. He bought 4 pizzas, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 3,B: 11,C: 15,D: 10,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1686.png"
+    ],
+    "id": 1686
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her Christmas party, Monique had 3 guests. She bought 3 pizzas, and each of them was cut into 3 slices. Each person at the party ate 2 slices of pizza. How many slices of pizza were eaten? A: 1,B: 8,C: 6,D: 0,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1688.png"
+    ],
+    "id": 1688
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his Christmas party, Antonio had 2 guests. He bought 2 pizzas, and each of them was cut into 3 slices. Each person at the party ate 2 slices of pizza. How many slices of pizza were left over? A: 0,B: 1,C: 4,D: 3,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1696.png"
+    ],
+    "id": 1696
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, Ralph had 6 guests. He bought 3 pizzas, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 3,B: 7,C: 5,D: 2,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1699.png"
+    ],
+    "id": 1699
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his Christmas party, Gregory had 4 guests. He bought 4 cakes, and each of them was cut into 3 slices. Each person at the party ate 2 slices of cake. How many slices of cake were eaten? A: 10,B: 7,C: 11,D: 9,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1701.png"
+    ],
+    "id": 1701
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her graduation party, Bonnie had 10 guests. She bought 5 pizzas, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 19,B: 11,C: 1,D: 0,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1706.png"
+    ],
+    "id": 1706
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her New Year's party, Nicole had 10 guests. She bought 5 pies, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 17,B: 3,C: 9,D: 2,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1708.png"
+    ],
+    "id": 1708
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her graduation party, Mary had 3 guests. She bought 2 pies, and each of them was cut into 4 slices. Each person at the party ate 2 slices of pie. How many slices of pie were eaten? A: 1,B: 0,C: 8,D: 7,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1715.png"
+    ],
+    "id": 1715
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her Christmas party, Jessica had 2 guests. She bought 3 cakes, and each of them was cut into 3 slices. Each person at the party ate 3 slices of cake. How many slices of cake were left over? A: 7,B: 2,C: 0,D: 8,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1716.png"
+    ],
+    "id": 1716
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her New Year's party, Jennifer had 2 guests. She bought 5 pies, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 3,B: 5,C: 7,D: 0,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1723.png"
+    ],
+    "id": 1723
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his anniversary party, John had 4 guests. He bought 4 cakes, and each of them was cut into 4 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 11,B: 12,C: 7,D: 9,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1725.png"
+    ],
+    "id": 1725
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her anniversary party, Laura had 2 guests. She bought 4 cakes, and each of them was cut into 5 slices. Each person at the party ate 6 slices of cake. How many slices of cake were left over? A: 6,B: 4,C: 2,D: 15,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1726.png"
+    ],
+    "id": 1726
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his anniversary party, Landon had 2 guests. He bought 3 pizzas, and each of them was cut into 2 slices. Each person at the party ate 2 slices of pizza. How many slices of pizza were eaten? A: 0,B: 6,C: 1,D: 3,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1749.png"
+    ],
+    "id": 1749
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her graduation party, Denise had 10 guests. She bought 5 pies, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 4,B: 5,C: 6,D: 10,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1751.png"
+    ],
+    "id": 1751
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her graduation party, Courtney had 4 guests. She bought 5 pies, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 9,B: 8,C: 5,D: 6,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1752.png"
+    ],
+    "id": 1752
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her Christmas party, Elsie had 4 guests. She bought 4 pies, and each of them was cut into 5 slices. Each person at the party ate 3 slices of pie. How many slices of pie were left over? A: 5,B: 9,C: 18,D: 0,E: 16. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1754.png"
+    ],
+    "id": 1754
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her graduation party, Delores had 5 guests. She bought 4 pies, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 17,B: 11,C: 14,D: 19,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1758.png"
+    ],
+    "id": 1758
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her anniversary party, Cindy had 2 guests. She bought 2 cakes, and each of them was cut into 3 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 2,B: 5,C: 3,D: 1,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1759.png"
+    ],
+    "id": 1759
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her Christmas party, Samantha had 6 guests. She bought 5 pizzas, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 6,B: 7,C: 12,D: 4,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1763.png"
+    ],
+    "id": 1763
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her New Year's party, Rachel had 8 guests. She bought 5 pies, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 3,B: 4,C: 0,D: 5,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1773.png"
+    ],
+    "id": 1773
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her New Year's party, Joan had 10 guests. She bought 4 cakes, and each of them was cut into 4 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 13,B: 10,C: 7,D: 12,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1774.png"
+    ],
+    "id": 1774
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his graduation party, Mark had 5 guests. He bought 2 cakes, and each of them was cut into 4 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 6,B: 2,C: 5,D: 1,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1793.png"
+    ],
+    "id": 1793
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her birthday party, Cherie had 6 guests. She bought 2 pies, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 3,B: 7,C: 6,D: 9,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1796.png"
+    ],
+    "id": 1796
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her anniversary party, Regina had 5 guests. She bought 3 pizzas, and each of them was cut into 4 slices. Each person at the party ate 2 slices of pizza. How many slices of pizza were left over? A: 9,B: 7,C: 0,D: 3,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1797.png"
+    ],
+    "id": 1797
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his graduation party, James had 10 guests. He bought 5 pizzas, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 9,B: 8,C: 7,D: 4,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1807.png"
+    ],
+    "id": 1807
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his anniversary party, Ronald had 3 guests. He bought 5 pizzas, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 13,B: 14,C: 4,D: 5,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1809.png"
+    ],
+    "id": 1809
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her graduation party, Audrey had 3 guests. She bought 5 pies, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 8,B: 12,C: 6,D: 16,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1824.png"
+    ],
+    "id": 1824
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his birthday party, Andrew had 3 guests. He bought 4 pies, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 5,B: 4,C: 3,D: 7,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1836.png"
+    ],
+    "id": 1836
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her birthday party, Tammy had 7 guests. She bought 2 cakes, and each of them was cut into 5 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 4,B: 3,C: 8,D: 7,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1837.png"
+    ],
+    "id": 1837
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her anniversary party, Shanna had 2 guests. She bought 3 pizzas, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 7,B: 1,C: 6,D: 8,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1840.png"
+    ],
+    "id": 1840
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his graduation party, James had 7 guests. He bought 3 pizzas, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 6,B: 2,C: 3,D: 0,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1842.png"
+    ],
+    "id": 1842
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, Shannon had 2 guests. He bought 3 pizzas, and each of them was cut into 3 slices. Each person at the party ate 3 slices of pizza. How many slices of pizza were left over? A: 5,B: 0,C: 7,D: 6,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1843.png"
+    ],
+    "id": 1843
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his graduation party, John had 6 guests. He bought 4 cakes, and each of them was cut into 3 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 2,B: 9,C: 6,D: 3,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1846.png"
+    ],
+    "id": 1846
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her anniversary party, Violet had 5 guests. She bought 3 pizzas, and each of them was cut into 5 slices. Each person at the party ate 2 slices of pizza. How many slices of pizza were left over? A: 2,B: 1,C: 11,D: 3,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1849.png"
+    ],
+    "id": 1849
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her New Year's party, Virginia had 6 guests. She bought 4 pies, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 10,B: 7,C: 8,D: 4,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1852.png"
+    ],
+    "id": 1852
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his anniversary party, Matthew had 2 guests. He bought 2 pies, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 3,B: 2,C: 0,D: 5,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1863.png"
+    ],
+    "id": 1863
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his birthday party, Chase had 14 guests. He bought 5 cakes, and each of them was cut into 5 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 11,B: 0,C: 24,D: 15,E: 21. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1864.png"
+    ],
+    "id": 1864
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her Christmas party, Winifred had 4 guests. She bought 3 pizzas, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 8,B: 7,C: 5,D: 4,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_188.png"
+    ],
+    "id": 188
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her graduation party, Mary had 4 guests. She bought 3 cakes, and each of them was cut into 3 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 4,B: 7,C: 3,D: 6,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1881.png"
+    ],
+    "id": 1881
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her birthday party, Beth had 8 guests. She bought 3 cakes, and each of them was cut into 5 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 2,B: 9,C: 13,D: 4,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1886.png"
+    ],
+    "id": 1886
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her New Year's party, Leanne had 11 guests. She bought 5 pies, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 17,B: 7,C: 4,D: 8,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1887.png"
+    ],
+    "id": 1887
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her birthday party, Glenda had 10 guests. She bought 4 cakes, and each of them was cut into 3 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 6,B: 8,C: 1,D: 7,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1892.png"
+    ],
+    "id": 1892
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her graduation party, Susan had 13 guests. She bought 5 cakes, and each of them was cut into 3 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 10,B: 14,C: 3,D: 6,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1896.png"
+    ],
+    "id": 1896
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her Christmas party, Lois had 3 guests. She bought 2 cakes, and each of them was cut into 3 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 2,B: 5,C: 3,D: 4,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_190.png"
+    ],
+    "id": 190
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his birthday party, Michael had 21 guests. He bought 5 pies, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 5,B: 4,C: 16,D: 6,E: 22. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1900.png"
+    ],
+    "id": 1900
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her anniversary party, Vikki had 10 guests. She bought 3 cakes, and each of them was cut into 4 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 0,B: 11,C: 8,D: 2,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1901.png"
+    ],
+    "id": 1901
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, Miguel had 5 guests. He bought 5 pies, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 9,B: 7,C: 6,D: 3,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1902.png"
+    ],
+    "id": 1902
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his birthday party, Jose had 8 guests. He bought 4 cakes, and each of them was cut into 4 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 9,B: 15,C: 8,D: 7,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1916.png"
+    ],
+    "id": 1916
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his graduation party, Jorge had 3 guests. He bought 2 pies, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 0,B: 5,C: 4,D: 1,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1926.png"
+    ],
+    "id": 1926
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, Kevin had 4 guests. He bought 2 pies, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 1,B: 2,C: 0,D: 7,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1952.png"
+    ],
+    "id": 1952
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her anniversary party, Joyce had 5 guests. She bought 4 pies, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 7,B: 0,C: 2,D: 5,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1953.png"
+    ],
+    "id": 1953
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, Donald had 8 guests. He bought 5 pies, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 9,B: 0,C: 1,D: 7,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1971.png"
+    ],
+    "id": 1971
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his birthday party, Michael had 18 guests. He bought 5 pies, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 7,B: 24,C: 11,D: 19,E: 16. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_198.png"
+    ],
+    "id": 198
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his birthday party, Joaquin had 6 guests. He bought 4 pies, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 3,B: 4,C: 1,D: 0,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1997.png"
+    ],
+    "id": 1997
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her birthday party, Catherine had 5 guests. She bought 4 pies, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 5,B: 2,C: 1,D: 4,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_2.png"
+    ],
+    "id": 2
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his graduation party, Michael had 6 guests. He bought 3 pies, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 3,B: 1,C: 0,D: 7,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_201.png"
+    ],
+    "id": 201
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her graduation party, Lorraine had 3 guests. She bought 4 cakes, and each of them was cut into 5 slices. Each person at the party ate 3 slices of cake. How many slices of cake were eaten? A: 8,B: 6,C: 12,D: 2,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_202.png"
+    ],
+    "id": 202
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his anniversary party, Michael had 17 guests. He bought 5 pies, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 2,B: 5,C: 6,D: 18,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_203.png"
+    ],
+    "id": 203
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her graduation party, Hilda had 4 guests. She bought 3 pizzas, and each of them was cut into 5 slices. Each person at the party ate 2 slices of pizza. How many slices of pizza were eaten? A: 13,B: 6,C: 3,D: 11,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_206.png"
+    ],
+    "id": 206
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her birthday party, Brittney had 6 guests. She bought 2 pies, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 3,B: 6,C: 7,D: 1,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_207.png"
+    ],
+    "id": 207
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his birthday party, John had 3 guests. He bought 2 pies, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 4,B: 2,C: 5,D: 1,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_21.png"
+    ],
+    "id": 21
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his anniversary party, Robert had 7 guests. He bought 4 pizzas, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 8,B: 9,C: 5,D: 1,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_217.png"
+    ],
+    "id": 217
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his Christmas party, Michael had 16 guests. He bought 5 pies, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 17,B: 12,C: 4,D: 2,E: 16. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_22.png"
+    ],
+    "id": 22
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his graduation party, Joseph had 6 guests. He bought 2 pies, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 6,B: 1,C: 5,D: 7,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_220.png"
+    ],
+    "id": 220
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, Joseph had 9 guests. He bought 5 pizzas, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 5,B: 7,C: 1,D: 9,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_231.png"
+    ],
+    "id": 231
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his Christmas party, Michael had 5 guests. He bought 4 pizzas, and each of them was cut into 3 slices. Each person at the party ate 2 slices of pizza. How many slices of pizza were eaten? A: 1,B: 8,C: 4,D: 7,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_242.png"
+    ],
+    "id": 242
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her graduation party, Arlene had 10 guests. She bought 4 pizzas, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 2,B: 6,C: 1,D: 0,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_247.png"
+    ],
+    "id": 247
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, Erin had 2 guests. He bought 2 cakes, and each of them was cut into 5 slices. Each person at the party ate 3 slices of cake. How many slices of cake were eaten? A: 8,B: 5,C: 4,D: 9,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_253.png"
+    ],
+    "id": 253
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, Wayne had 3 guests. He bought 3 pies, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 4,B: 3,C: 5,D: 0,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_270.png"
+    ],
+    "id": 270
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his anniversary party, Charles had 5 guests. He bought 2 pizzas, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 4,B: 3,C: 9,D: 8,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_277.png"
+    ],
+    "id": 277
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his Christmas party, John had 10 guests. He bought 3 cakes, and each of them was cut into 4 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 5,B: 7,C: 4,D: 1,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_280.png"
+    ],
+    "id": 280
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his Christmas party, James had 2 guests. He bought 3 pies, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 12,B: 7,C: 10,D: 3,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_289.png"
+    ],
+    "id": 289
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her graduation party, Pearl had 10 guests. She bought 3 pies, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 4,B: 9,C: 7,D: 3,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_294.png"
+    ],
+    "id": 294
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her New Year's party, Susan had 18 guests. She bought 5 pies, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 10,B: 15,C: 14,D: 23,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_296.png"
+    ],
+    "id": 296
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her anniversary party, Cheryl had 10 guests. She bought 5 pies, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 4,B: 3,C: 9,D: 5,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_316.png"
+    ],
+    "id": 316
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her graduation party, Mary had 3 guests. She bought 2 cakes, and each of them was cut into 3 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 0,B: 4,C: 5,D: 1,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_318.png"
+    ],
+    "id": 318
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her Christmas party, Sabrina had 6 guests. She bought 2 pizzas, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 4,B: 6,C: 1,D: 5,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_331.png"
+    ],
+    "id": 331
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her anniversary party, Naomi had 5 guests. She bought 2 pies, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 5,B: 4,C: 7,D: 6,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_338.png"
+    ],
+    "id": 338
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her graduation party, Isabel had 10 guests. She bought 5 cakes, and each of them was cut into 3 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 0,B: 11,C: 4,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_344.png"
+    ],
+    "id": 344
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her New Year's party, Jennifer had 4 guests. She bought 2 cakes, and each of them was cut into 3 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 2,B: 4,C: 3,D: 0,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_35.png"
+    ],
+    "id": 35
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his Christmas party, Christopher had 10 guests. He bought 3 pizzas, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 4,B: 9,C: 7,D: 1,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_379.png"
+    ],
+    "id": 379
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her New Year's party, Mary had 2 guests. She bought 2 pies, and each of them was cut into 5 slices. Each person at the party ate 2 slices of pie. How many slices of pie were eaten? A: 1,B: 6,C: 2,D: 0,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_380.png"
+    ],
+    "id": 380
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, Neal had 6 guests. He bought 5 cakes, and each of them was cut into 4 slices. Each person at the party ate 2 slices of cake. How many slices of cake were left over? A: 6,B: 17,C: 7,D: 10,E: 18. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_385.png"
+    ],
+    "id": 385
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his anniversary party, Ramiro had 6 guests. He bought 3 pies, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 13,B: 0,C: 6,D: 8,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_386.png"
+    ],
+    "id": 386
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her Christmas party, Carol had 17 guests. She bought 5 pies, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 9,B: 14,C: 18,D: 17,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_388.png"
+    ],
+    "id": 388
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his anniversary party, Jose had 2 guests. He bought 2 cakes, and each of them was cut into 4 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 1,B: 0,C: 3,D: 7,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_392.png"
+    ],
+    "id": 392
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, Jamie had 4 guests. He bought 2 pies, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 2,B: 3,C: 4,D: 1,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_393.png"
+    ],
+    "id": 393
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his Christmas party, Daniel had 6 guests. He bought 4 cakes, and each of them was cut into 2 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 7,B: 6,C: 0,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_398.png"
+    ],
+    "id": 398
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his graduation party, Timothy had 13 guests. He bought 4 cakes, and each of them was cut into 5 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 19,B: 18,C: 6,D: 8,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_401.png"
+    ],
+    "id": 401
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, Robert had 5 guests. He bought 5 pies, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 9,B: 3,C: 14,D: 6,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_402.png"
+    ],
+    "id": 402
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his Christmas party, Matthew had 7 guests. He bought 5 pizzas, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 2,B: 8,C: 9,D: 7,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_407.png"
+    ],
+    "id": 407
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her anniversary party, Katelynn had 9 guests. She bought 5 cakes, and each of them was cut into 5 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 15,B: 14,C: 3,D: 11,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_41.png"
+    ],
+    "id": 41
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her anniversary party, Elizabeth had 4 guests. She bought 2 pies, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 0,B: 5,C: 8,D: 4,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_419.png"
+    ],
+    "id": 419
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, Albert had 7 guests. He bought 5 pizzas, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 2,B: 4,C: 9,D: 8,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_442.png"
+    ],
+    "id": 442
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his graduation party, Terrence had 5 guests. He bought 2 pies, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 0,B: 1,C: 4,D: 6,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_456.png"
+    ],
+    "id": 456
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, Francisco had 7 guests. He bought 3 cakes, and each of them was cut into 5 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 7,B: 0,C: 13,D: 9,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_460.png"
+    ],
+    "id": 460
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his birthday party, Daryl had 4 guests. He bought 2 pizzas, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 0,B: 4,C: 5,D: 1,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_467.png"
+    ],
+    "id": 467
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his graduation party, Rick had 4 guests. He bought 3 pies, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 10,B: 1,C: 12,D: 2,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_475.png"
+    ],
+    "id": 475
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her New Year's party, Donna had 7 guests. She bought 5 cakes, and each of them was cut into 2 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 6,B: 7,C: 3,D: 8,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_485.png"
+    ],
+    "id": 485
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his Christmas party, Larry had 5 guests. He bought 2 pizzas, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 9,B: 1,C: 7,D: 2,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_493.png"
+    ],
+    "id": 493
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her birthday party, Sybil had 3 guests. She bought 3 pizzas, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 5,B: 4,C: 2,D: 1,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_503.png"
+    ],
+    "id": 503
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, Robert had 6 guests. He bought 5 pizzas, and each of them was cut into 5 slices. Each person at the party ate 3 slices of pizza. How many slices of pizza were left over? A: 3,B: 13,C: 4,D: 16,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_509.png"
+    ],
+    "id": 509
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her Christmas party, Patricia had 4 guests. She bought 2 pies, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 0,B: 4,C: 5,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_511.png"
+    ],
+    "id": 511
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her Christmas party, Ruth had 10 guests. She bought 4 pies, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 6,B: 10,C: 11,D: 2,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_521.png"
+    ],
+    "id": 521
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his Christmas party, Chad had 7 guests. He bought 5 pizzas, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 9,B: 1,C: 3,D: 8,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_525.png"
+    ],
+    "id": 525
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her graduation party, Nina had 8 guests. She bought 2 cakes, and each of them was cut into 5 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 3,B: 2,C: 5,D: 1,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_541.png"
+    ],
+    "id": 541
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, John had 4 guests. He bought 4 pizzas, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 4,B: 2,C: 0,D: 5,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_557.png"
+    ],
+    "id": 557
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his Christmas party, Joseph had 3 guests. He bought 2 cakes, and each of them was cut into 4 slices. Each person at the party ate 2 slices of cake. How many slices of cake were eaten? A: 8,B: 0,C: 7,D: 4,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_563.png"
+    ],
+    "id": 563
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his Christmas party, David had 2 guests. He bought 5 cakes, and each of them was cut into 2 slices. Each person at the party ate 2 slices of cake. How many slices of cake were left over? A: 5,B: 8,C: 2,D: 4,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_564.png"
+    ],
+    "id": 564
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her anniversary party, Mary had 18 guests. She bought 4 pies, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 4,B: 19,C: 5,D: 18,E: 17. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_565.png"
+    ],
+    "id": 565
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her birthday party, Elizabeth had 10 guests. She bought 5 cakes, and each of them was cut into 3 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 7,B: 4,C: 3,D: 10,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_566.png"
+    ],
+    "id": 566
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her Christmas party, Erin had 2 guests. She bought 5 pies, and each of them was cut into 2 slices. Each person at the party ate 2 slices of pie. How many slices of pie were left over? A: 4,B: 7,C: 1,D: 0,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_578.png"
+    ],
+    "id": 578
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his birthday party, Michael had 14 guests. He bought 4 cakes, and each of them was cut into 4 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 15,B: 10,C: 2,D: 14,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_593.png"
+    ],
+    "id": 593
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her birthday party, Dorothy had 9 guests. She bought 4 pizzas, and each of them was cut into 5 slices. Each person at the party ate 2 slices of pizza. How many slices of pizza were left over? A: 5,B: 3,C: 2,D: 11,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_601.png"
+    ],
+    "id": 601
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her anniversary party, Melissa had 2 guests. She bought 5 cakes, and each of them was cut into 4 slices. Each person at the party ate 3 slices of cake. How many slices of cake were left over? A: 12,B: 3,C: 5,D: 19,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_609.png"
+    ],
+    "id": 609
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his graduation party, Charles had 7 guests. He bought 5 pies, and each of them was cut into 5 slices. Each person at the party ate 3 slices of pie. How many slices of pie were eaten? A: 8,B: 14,C: 18,D: 24,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_613.png"
+    ],
+    "id": 613
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his anniversary party, Robert had 2 guests. He bought 2 pizzas, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 3,B: 5,C: 2,D: 4,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_628.png"
+    ],
+    "id": 628
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his graduation party, James had 3 guests. He bought 2 pizzas, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 4,B: 3,C: 1,D: 5,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_633.png"
+    ],
+    "id": 633
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his Christmas party, Randolph had 2 guests. He bought 2 pizzas, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 5,B: 4,C: 1,D: 2,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_642.png"
+    ],
+    "id": 642
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her Christmas party, Eva had 3 guests. She bought 2 cakes, and each of them was cut into 4 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 7,B: 6,C: 2,D: 4,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_643.png"
+    ],
+    "id": 643
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her anniversary party, Nicolette had 4 guests. She bought 3 cakes, and each of them was cut into 3 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 4,B: 5,C: 0,D: 7,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_646.png"
+    ],
+    "id": 646
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his anniversary party, Steven had 2 guests. He bought 3 pies, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 1,B: 2,C: 4,D: 0,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_647.png"
+    ],
+    "id": 647
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her graduation party, Stephine had 7 guests. She bought 5 cakes, and each of them was cut into 3 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 8,B: 14,C: 12,D: 1,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_648.png"
+    ],
+    "id": 648
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her anniversary party, Mary had 2 guests. She bought 5 pies, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 12,B: 8,C: 2,D: 0,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_649.png"
+    ],
+    "id": 649
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his Christmas party, William had 6 guests. He bought 4 pies, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 4,B: 7,C: 0,D: 5,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_65.png"
+    ],
+    "id": 65
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her graduation party, Catherine had 7 guests. She bought 2 pizzas, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 8,B: 3,C: 1,D: 0,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_664.png"
+    ],
+    "id": 664
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his Christmas party, James had 7 guests. He bought 5 pizzas, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 3,B: 2,C: 9,D: 8,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_682.png"
+    ],
+    "id": 682
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, Matthew had 3 guests. He bought 5 pizzas, and each of them was cut into 2 slices. Each person at the party ate 2 slices of pizza. How many slices of pizza were left over? A: 2,B: 4,C: 0,D: 1,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_684.png"
+    ],
+    "id": 684
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her birthday party, Josphine had 6 guests. She bought 2 pies, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 7,B: 0,C: 1,D: 4,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_687.png"
+    ],
+    "id": 687
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his anniversary party, Christopher had 7 guests. He bought 3 pizzas, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 7,B: 0,C: 8,D: 2,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_699.png"
+    ],
+    "id": 699
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, Martin had 3 guests. He bought 3 pizzas, and each of them was cut into 3 slices. Each person at the party ate 2 slices of pizza. How many slices of pizza were left over? A: 0,B: 2,C: 5,D: 1,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_700.png"
+    ],
+    "id": 700
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her graduation party, Helen had 16 guests. She bought 4 cakes, and each of them was cut into 5 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 5,B: 17,C: 0,D: 11,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_703.png"
+    ],
+    "id": 703
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his birthday party, Joel had 4 guests. He bought 4 pizzas, and each of them was cut into 5 slices. Each person at the party ate 3 slices of pizza. How many slices of pizza were left over? A: 5,B: 11,C: 4,D: 7,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_710.png"
+    ],
+    "id": 710
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her birthday party, Karen had 3 guests. She bought 2 pizzas, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 1,B: 4,C: 3,D: 0,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_720.png"
+    ],
+    "id": 720
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his anniversary party, John had 7 guests. He bought 3 cakes, and each of them was cut into 3 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 0,B: 3,C: 4,D: 1,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_726.png"
+    ],
+    "id": 726
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her New Year's party, Hope had 6 guests. She bought 4 pizzas, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 7,B: 2,C: 3,D: 6,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_730.png"
+    ],
+    "id": 730
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his birthday party, William had 13 guests. He bought 5 pizzas, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 7,B: 3,C: 5,D: 1,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_743.png"
+    ],
+    "id": 743
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his anniversary party, James had 5 guests. He bought 5 pizzas, and each of them was cut into 3 slices. Each person at the party ate 2 slices of pizza. How many slices of pizza were eaten? A: 3,B: 12,C: 14,D: 10,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_748.png"
+    ],
+    "id": 748
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her New Year's party, Mavis had 10 guests. She bought 3 cakes, and each of them was cut into 4 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 1,B: 0,C: 6,D: 7,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_749.png"
+    ],
+    "id": 749
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her birthday party, Leslie had 5 guests. She bought 2 pies, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 6,B: 4,C: 0,D: 2,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_752.png"
+    ],
+    "id": 752
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his graduation party, Philip had 16 guests. He bought 5 pizzas, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 4,B: 1,C: 3,D: 11,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_764.png"
+    ],
+    "id": 764
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, Richard had 3 guests. He bought 5 cakes, and each of them was cut into 5 slices. Each person at the party ate 2 slices of cake. How many slices of cake were left over? A: 5,B: 7,C: 17,D: 2,E: 22. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_767.png"
+    ],
+    "id": 767
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her graduation party, June had 6 guests. She bought 5 cakes, and each of them was cut into 5 slices. Each person at the party ate 3 slices of cake. How many slices of cake were eaten? A: 18,B: 3,C: 10,D: 2,E: 21. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_770.png"
+    ],
+    "id": 770
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his birthday party, Gary had 4 guests. He bought 4 pies, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 5,B: 2,C: 3,D: 1,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_776.png"
+    ],
+    "id": 776
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her anniversary party, Regina had 3 guests. She bought 4 pies, and each of them was cut into 3 slices. Each person at the party ate 3 slices of pie. How many slices of pie were eaten? A: 11,B: 5,C: 4,D: 12,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_777.png"
+    ],
+    "id": 777
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her Christmas party, Holly had 6 guests. She bought 4 pizzas, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 2,B: 7,C: 5,D: 6,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_780.png"
+    ],
+    "id": 780
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her anniversary party, Eva had 10 guests. She bought 5 pies, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 11,B: 15,C: 1,D: 4,E: 16. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_792.png"
+    ],
+    "id": 792
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her New Year's party, Susan had 3 guests. She bought 5 cakes, and each of them was cut into 2 slices. Each person at the party ate 2 slices of cake. How many slices of cake were eaten? A: 8,B: 5,C: 3,D: 2,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_795.png"
+    ],
+    "id": 795
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, John had 3 guests. He bought 5 pizzas, and each of them was cut into 4 slices. Each person at the party ate 3 slices of pizza. How many slices of pizza were left over? A: 7,B: 15,C: 8,D: 14,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_796.png"
+    ],
+    "id": 796
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his graduation party, Armando had 2 guests. He bought 2 pies, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 7,B: 5,C: 0,D: 1,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_805.png"
+    ],
+    "id": 805
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, Benjamin had 7 guests. He bought 3 pies, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 13,B: 5,C: 12,D: 8,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_806.png"
+    ],
+    "id": 806
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her anniversary party, Renee had 2 guests. She bought 2 pies, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 5,B: 3,C: 6,D: 7,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_816.png"
+    ],
+    "id": 816
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her graduation party, Sarah had 3 guests. She bought 4 pizzas, and each of them was cut into 2 slices. Each person at the party ate 2 slices of pizza. How many slices of pizza were left over? A: 7,B: 6,C: 3,D: 0,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_832.png"
+    ],
+    "id": 832
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her New Year's party, Janette had 5 guests. She bought 2 pies, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 3,B: 2,C: 4,D: 6,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_836.png"
+    ],
+    "id": 836
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her Christmas party, Betty had 3 guests. She bought 5 pies, and each of them was cut into 2 slices. Each person at the party ate 2 slices of pie. How many slices of pie were eaten? A: 7,B: 8,C: 2,D: 6,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_841.png"
+    ],
+    "id": 841
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her New Year's party, Valerie had 13 guests. She bought 5 pies, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 7,B: 4,C: 11,D: 10,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_855.png"
+    ],
+    "id": 855
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his anniversary party, Keith had 6 guests. He bought 5 cakes, and each of them was cut into 2 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 2,B: 5,C: 7,D: 9,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_857.png"
+    ],
+    "id": 857
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his birthday party, Adam had 9 guests. He bought 3 cakes, and each of them was cut into 5 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 8,B: 10,C: 5,D: 1,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_861.png"
+    ],
+    "id": 861
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his anniversary party, Michael had 5 guests. He bought 5 pizzas, and each of them was cut into 4 slices. Each person at the party ate 2 slices of pizza. How many slices of pizza were eaten? A: 3,B: 19,C: 9,D: 18,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_864.png"
+    ],
+    "id": 864
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, Deon had 3 guests. He bought 4 cakes, and each of them was cut into 4 slices. Each person at the party ate 4 slices of cake. How many slices of cake were eaten? A: 5,B: 13,C: 8,D: 16,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_871.png"
+    ],
+    "id": 871
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her New Year's party, Tina had 2 guests. She bought 3 pies, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 5,B: 4,C: 3,D: 1,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_872.png"
+    ],
+    "id": 872
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his Christmas party, John had 5 guests. He bought 3 pies, and each of them was cut into 5 slices. Each person at the party ate 2 slices of pie. How many slices of pie were left over? A: 3,B: 11,C: 8,D: 0,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_879.png"
+    ],
+    "id": 879
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her Christmas party, Karen had 6 guests. She bought 4 cakes, and each of them was cut into 5 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 3,B: 6,C: 12,D: 7,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_88.png"
+    ],
+    "id": 88
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his Christmas party, Lee had 5 guests. He bought 5 pizzas, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 1,B: 0,C: 4,D: 14,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_884.png"
+    ],
+    "id": 884
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his birthday party, Raymond had 6 guests. He bought 3 pizzas, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 3,B: 2,C: 5,D: 6,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_892.png"
+    ],
+    "id": 892
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, Jose had 3 guests. He bought 2 pies, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 4,B: 2,C: 0,D: 6,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_898.png"
+    ],
+    "id": 898
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her graduation party, Danielle had 4 guests. She bought 5 pies, and each of them was cut into 2 slices. Each person at the party ate 2 slices of pie. How many slices of pie were left over? A: 7,B: 0,C: 3,D: 2,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_92.png"
+    ],
+    "id": 92
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, Sean had 2 guests. He bought 3 pies, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 3,B: 5,C: 0,D: 4,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_930.png"
+    ],
+    "id": 930
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his Christmas party, Andrew had 4 guests. He bought 4 pies, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 2,B: 0,C: 5,D: 1,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_952.png"
+    ],
+    "id": 952
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For his New Year's party, Douglass had 2 guests. He bought 4 pizzas, and each of them was cut into 2 slices. Each person at the party ate 2 slices of pizza. How many slices of pizza were eaten? A: 3,B: 6,C: 5,D: 4,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_956.png"
+    ],
+    "id": 956
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her graduation party, Katrina had 4 guests. She bought 4 pies, and each of them was cut into 5 slices. Each person at the party ate 2 slices of pie. How many slices of pie were eaten? A: 9,B: 10,C: 15,D: 11,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_958.png"
+    ],
+    "id": 958
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her anniversary party, Michelle had 5 guests. She bought 3 pizzas, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 2,B: 6,C: 1,D: 5,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_96.png"
+    ],
+    "id": 96
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her New Year's party, Doris had 13 guests. She bought 4 pies, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 12,B: 13,C: 14,D: 1,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_961.png"
+    ],
+    "id": 961
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her Christmas party, Hilda had 6 guests. She bought 3 cakes, and each of them was cut into 5 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 14,B: 9,C: 12,D: 7,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_973.png"
+    ],
+    "id": 973
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her Christmas party, Katerine had 3 guests. She bought 3 cakes, and each of them was cut into 2 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 2,B: 5,C: 4,D: 0,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_976.png"
+    ],
+    "id": 976
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her anniversary party, Catherine had 4 guests. She bought 3 pizzas, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 2,B: 0,C: 1,D: 3,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_982.png"
+    ],
+    "id": 982
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her New Year's party, Jolene had 13 guests. She bought 4 pizzas, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 12,B: 15,C: 2,D: 9,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_99.png"
+    ],
+    "id": 99
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: For her Christmas party, Joanna had 4 guests. She bought 4 cakes, and each of them was cut into 5 slices. Each person at the party ate 2 slices of cake. How many slices of cake were eaten? A: 17,B: 10,C: 16,D: 9,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_996.png"
+    ],
+    "id": 996
+  }
+]

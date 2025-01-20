@@ -1,0 +1,1602 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<image>\nImagine we travel from Siorapaqortoq station to Comisillo station. The train departs at 5:00 AM, passing 1 other station in between without stopping, and arrives at 10:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 18 hours,B: 14 hours,C: 13 hours,D: 10 hours,E: 11 hours",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1015.png"
+    ],
+    "id": 1015
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train from Bridgecord station to Twilmore station leaves at 3:00 AM and passes by 1 other station without stopping. The numbers show the travel time between two stations in hours. The train arrives at Twilmore station at 4:00 PM on the same day. What is the travel time represented by the question mark? A: 3 hours,B: 2 hours,C: 6 hours,D: 4 hours,E: 5 hours",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_104.png"
+    ],
+    "id": 104
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nImagine we travel from Kapisilnaaq station to Brightrey station. The train departs at 7:00 AM, passing 1 other station in between without stopping, and arrives at 7:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 8 hours,B: 9 hours,C: 4 hours,D: 10 hours,E: 5 hours",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1046.png"
+    ],
+    "id": 1046
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train from Garnoque station to Ittoqqorlussuaq station departs at 5:00 AM and passes by 1 other station without stopping. The numbers show the travel time between two stations in hours. The train arrives at Ittoqqorlussuaq station at 8:00 PM on the same day. What is the travel time represented by the question mark? A: 8 hours,B: 7 hours,C: 9 hours,D: 10 hours,E: 4 hours",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1061.png"
+    ],
+    "id": 1061
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nImagine we travel from Marcali station to Lernas station. The train departs at 6:00 PM, passing 1 other station in between without stopping, and arrives at 9:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 2 hours,B: 1 hour,C: 5 hours,D: 3 hours,E: 6 hours",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1123.png"
+    ],
+    "id": 1123
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train from Templecoln station to Yarmere station departs at 10:00 AM and passes by 1 other station without stopping. The numbers show the travel time between two stations in hours. The train arrives at Yarmere station at 10:00 PM on the same day. What is the travel time represented by the question mark? A: 10 hours,B: 7 hours,C: 6 hours,D: 9 hours,E: 4 hours",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1136.png"
+    ],
+    "id": 1136
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train from Manpico station to Uperthal station departs at 2:00 PM and passes by 1 other station without stopping. The numbers show the travel time between two stations in hours. The train arrives at Uperthal station at 11:00 PM on the same day. What is the travel time represented by the question mark? A: 1 hour,B: 4 hours,C: 3 hours,D: 7 hours,E: 8 hours",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1144.png"
+    ],
+    "id": 1144
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train leaves Tunriden station at 3:00 AM and passes by 1 other station without stopping. It arrives at Guasacalco station at 7:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 15 hours,B: 11 hours,C: 12 hours,D: 9 hours,E: 13 hours",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1148.png"
+    ],
+    "id": 1148
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train departs Acapan station at 3:00 AM and arrives Tepexpopan station at 7:00 PM on the same day. It passes 1 other station in between without stopping. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 5 hours,B: 6 hours,C: 8 hours,D: 9 hours,E: 7 hours",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1159.png"
+    ],
+    "id": 1159
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train leaves Guadaridad station at 10:00 AM. It passes 1 other station without stopping and arrives Guadalahuacan station at 10:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 13 hours,B: 9 hours,C: 12 hours,D: 11 hours,E: 6 hours",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1172.png"
+    ],
+    "id": 1172
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train from Voncoln station to Guadalahuacan station leaves at 12:00 AM and passes by 1 other station without stopping. The numbers show the travel time between two stations in hours. The train arrives at Guadalahuacan station at 8:00 PM on the same day. What is the travel time represented by the question mark? A: 8 hours,B: 11 hours,C: 7 hours,D: 5 hours,E: 10 hours",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1187.png"
+    ],
+    "id": 1187
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train departs Marcali station at 1:00 PM and arrives Brightden station at 8:00 PM on the same day. It passes 1 other station in between without stopping. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 6 hours,B: 10 hours,C: 9 hours,D: 2 hours,E: 7 hours",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1219.png"
+    ],
+    "id": 1219
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train departs Uummanlinnguit station at 1:00 AM and arrives Bordtane station at 8:00 AM on the same day. It passes 1 other station in between without stopping. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 5 hours,B: 1 hour,C: 2 hours,D: 3 hours,E: 4 hours",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1251.png"
+    ],
+    "id": 1251
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train departs Kearlan station at 6:00 AM and arrives Buchdosa station at 12:00 PM on the same day. It passes 1 other station in between without stopping. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 4 hours,B: 7 hours,C: 6 hours,D: 1 hour,E: 2 hours",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1301.png"
+    ],
+    "id": 1301
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train departs Cenmas station at 1:00 AM and passes by 1 other station without stopping. It arrives at Cunduacaque station at 8:00 AM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 5 hours,B: 2 hours,C: 4 hours,D: 1 hour,E: 8 hours",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1322.png"
+    ],
+    "id": 1322
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train leaves Radview station at 12:00 PM. It passes 1 other station without stopping and arrives Ventrey station at 3:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 5 hours,B: 6 hours,C: 3 hours,D: 2 hours,E: 1 hour",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1328.png"
+    ],
+    "id": 1328
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train leaves Gloufolk station at 1:00 AM and passes by 1 other station without stopping. It arrives at Croytry station at 5:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 15 hours,B: 16 hours,C: 13 hours,D: 8 hours,E: 12 hours",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1350.png"
+    ],
+    "id": 1350
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train from Bexlow station to Arborholm station departs at 2:00 PM and passes by 1 other station without stopping. The numbers show the travel time between two stations in hours. The train arrives at Arborholm station at 5:00 PM on the same day. What is the travel time represented by the question mark? A: 2 hours,B: 4 hours,C: 5 hours,D: 1 hour,E: 3 hours",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1373.png"
+    ],
+    "id": 1373
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train departs Everdown station at 3:00 AM and passes by 1 other station without stopping. It arrives at Carcaque station at 10:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 6 hours,B: 5 hours,C: 3 hours,D: 1 hour,E: 2 hours",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1389.png"
+    ],
+    "id": 1389
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nImagine we travel from Colbiens station to Apatpulco station. The train departs at 8:00 AM, passing 1 other station in between without stopping, and arrives at 4:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 10 hours,B: 3 hours,C: 5 hours,D: 6 hours,E: 4 hours",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1399.png"
+    ],
+    "id": 1399
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train from Hilwood station to Horswick station departs at 11:00 AM and passes by 1 other station without stopping. The numbers show the travel time between two stations in hours. The train arrives at Horswick station at 9:00 PM on the same day. What is the travel time represented by the question mark? A: 2 hours,B: 8 hours,C: 4 hours,D: 6 hours,E: 5 hours",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1416.png"
+    ],
+    "id": 1416
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nImagine we travel from Woodsons station to Bexlow station. The train leaves at 12:00 AM, passing 1 other station in between without stopping, and arrives at 12:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 5 hours,B: 3 hours,C: 8 hours,D: 2 hours,E: 9 hours",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1439.png"
+    ],
+    "id": 1439
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nImagine we travel from Jiunada station to Wasaburg station. The train leaves at 8:00 AM, passing 1 other station in between without stopping, and arrives at 3:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 7 hours,B: 4 hours,C: 1 hour,D: 5 hours,E: 6 hours",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1444.png"
+    ],
+    "id": 1444
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nImagine we travel from Apatpulco station to Frandiac station. The train leaves at 6:00 AM, passing 1 other station in between without stopping, and arrives at 9:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 5 hours,B: 8 hours,C: 9 hours,D: 1 hour,E: 3 hours",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1446.png"
+    ],
+    "id": 1446
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train from Apatpulco station to Sisimiut station departs at 5:00 PM and passes by 1 other station without stopping. The numbers show the travel time between two stations in hours. The train arrives at Sisimiut station at 9:00 PM on the same day. What is the travel time represented by the question mark? A: 5 hours,B: 4 hours,C: 1 hour,D: 3 hours,E: 2 hours",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_147.png"
+    ],
+    "id": 147
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train from Tapajuana station to Ammasjaat station departs at 6:00 AM and passes by 1 other station without stopping. The numbers show the travel time between two stations in hours. The train arrives at Ammasjaat station at 8:00 PM on the same day. What is the travel time represented by the question mark? A: 11 hours,B: 14 hours,C: 7 hours,D: 15 hours,E: 8 hours",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_151.png"
+    ],
+    "id": 151
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train departs Niarapaluk station at 2:00 AM and arrives Templery station at 12:00 PM on the same day. It passes 1 other station in between without stopping. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 11 hours,B: 6 hours,C: 3 hours,D: 7 hours,E: 8 hours",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_152.png"
+    ],
+    "id": 152
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train departs Saatleq station at 3:00 AM and arrives Uperthal station at 7:00 PM on the same day. It passes 1 other station in between without stopping. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 7 hours,B: 6 hours,C: 3 hours,D: 4 hours,E: 5 hours",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1528.png"
+    ],
+    "id": 1528
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train leaves Stratrey station at 4:00 AM. It passes 1 other station without stopping and arrives Nothampton station at 11:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 9 hours,B: 7 hours,C: 5 hours,D: 4 hours,E: 6 hours",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_153.png"
+    ],
+    "id": 153
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train from Siorasiaat station to Reydora station departs at 3:00 AM and passes by 1 other station without stopping. The numbers show the travel time between two stations in hours. The train arrives at Reydora station at 8:00 PM on the same day. What is the travel time represented by the question mark? A: 7 hours,B: 11 hours,C: 15 hours,D: 12 hours,E: 10 hours",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1596.png"
+    ],
+    "id": 1596
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train from Beaconcroft station to Bordtane station leaves at 2:00 PM and passes by 1 other station without stopping. The numbers show the travel time between two stations in hours. The train arrives at Bordtane station at 8:00 PM on the same day. What is the travel time represented by the question mark? A: 2 hours,B: 8 hours,C: 5 hours,D: 4 hours,E: 6 hours",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1604.png"
+    ],
+    "id": 1604
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train from Poherock station to Birthon station departs at 3:00 PM and passes by 1 other station without stopping. The numbers show the travel time between two stations in hours. The train arrives at Birthon station at 11:00 PM on the same day. What is the travel time represented by the question mark? A: 6 hours,B: 5 hours,C: 4 hours,D: 2 hours,E: 1 hour",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_161.png"
+    ],
+    "id": 161
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train departs Ammasjaat station at 11:00 AM and arrives Brosdows station at 10:00 PM on the same day. It passes 1 other station in between without stopping. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 7 hours,B: 10 hours,C: 4 hours,D: 6 hours,E: 8 hours",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1627.png"
+    ],
+    "id": 1627
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train leaves Naucaljuana station at 3:00 AM. It passes 1 other station without stopping and arrives Coduacan station at 11:00 AM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 9 hours,B: 6 hours,C: 4 hours,D: 7 hours,E: 8 hours",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1635.png"
+    ],
+    "id": 1635
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train departs Savisuarsuit station at 3:00 AM and passes by 1 other station without stopping. It arrives at Brosdows station at 3:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 13 hours,B: 9 hours,C: 11 hours,D: 8 hours,E: 10 hours",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1656.png"
+    ],
+    "id": 1656
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train leaves Gloufolk station at 6:00 AM. It passes 1 other station without stopping and arrives Ocozapan station at 12:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 2 hours,B: 4 hours,C: 7 hours,D: 3 hours,E: 5 hours",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1682.png"
+    ],
+    "id": 1682
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train from Uummanlinnguit station to Ittoqqorqornat station leaves at 12:00 AM and passes by 1 other station without stopping. The numbers show the travel time between two stations in hours. The train arrives at Ittoqqorqornat station at 4:00 PM on the same day. What is the travel time represented by the question mark? A: 13 hours,B: 17 hours,C: 9 hours,D: 11 hours,E: 12 hours",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1684.png"
+    ],
+    "id": 1684
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train departs Poherock station at 11:00 AM and arrives Barncester station at 9:00 PM on the same day. It passes 1 other station in between without stopping. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 6 hours,B: 4 hours,C: 2 hours,D: 3 hours,E: 5 hours",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1693.png"
+    ],
+    "id": 1693
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train departs Celazapan station at 2:00 AM and passes by 1 other station without stopping. It arrives at Savissisuaq station at 2:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 6 hours,B: 2 hours,C: 4 hours,D: 5 hours,E: 3 hours",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1703.png"
+    ],
+    "id": 1703
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train departs Siosoq station at 3:00 PM and arrives Havigluk station at 9:00 PM on the same day. It passes 1 other station in between without stopping. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 6 hours,B: 4 hours,C: 5 hours,D: 1 hour,E: 3 hours",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1705.png"
+    ],
+    "id": 1705
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train leaves Dunfolk station at 8:00 AM. It passes 1 other station without stopping and arrives Huisillo station at 11:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 2 hours,B: 5 hours,C: 4 hours,D: 6 hours,E: 7 hours",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1713.png"
+    ],
+    "id": 1713
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train departs Nialan station at 2:00 AM and passes by 1 other station without stopping. It arrives at Guadalahuacan station at 10:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 7 hours,B: 3 hours,C: 9 hours,D: 5 hours,E: 8 hours",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1734.png"
+    ],
+    "id": 1734
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train departs Niaqorguit station at 12:00 AM and passes by 1 other station without stopping. It arrives at Canbrook station at 7:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 4 hours,B: 8 hours,C: 1 hour,D: 3 hours,E: 7 hours",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1769.png"
+    ],
+    "id": 1769
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nImagine we travel from Farnquet station to Sarfannloq station. The train leaves at 9:00 AM, passing 1 other station in between without stopping, and arrives at 6:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 6 hours,B: 9 hours,C: 4 hours,D: 7 hours,E: 2 hours",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1771.png"
+    ],
+    "id": 1771
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train from Gibpawa station to Juacalpan station leaves at 2:00 AM and passes by 1 other station without stopping. The numbers show the travel time between two stations in hours. The train arrives at Juacalpan station at 10:00 PM on the same day. What is the travel time represented by the question mark? A: 19 hours,B: 21 hours,C: 17 hours,D: 15 hours,E: 20 hours",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1777.png"
+    ],
+    "id": 1777
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train leaves Buchnia station at 5:00 AM. It passes 1 other station without stopping and arrives Comichuca station at 6:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 4 hours,B: 11 hours,C: 8 hours,D: 6 hours,E: 7 hours",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1780.png"
+    ],
+    "id": 1780
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nImagine we travel from Siosoq station to Havigluk station. The train departs at 12:00 AM, passing 1 other station in between without stopping, and arrives at 3:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 9 hours,B: 10 hours,C: 14 hours,D: 8 hours,E: 12 hours",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1812.png"
+    ],
+    "id": 1812
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nImagine we travel from Kearlan station to Bordtane station. The train leaves at 12:00 AM, passing 1 other station in between without stopping, and arrives at 9:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 13 hours,B: 15 hours,C: 17 hours,D: 16 hours,E: 14 hours",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1823.png"
+    ],
+    "id": 1823
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train departs Woodsons station at 6:00 AM and passes by 1 other station without stopping. It arrives at Merimouth station at 8:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 14 hours,B: 11 hours,C: 6 hours,D: 10 hours,E: 13 hours",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1844.png"
+    ],
+    "id": 1844
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train from Petromer station to Raydosa station leaves at 3:00 PM and passes by 1 other station without stopping. The numbers show the travel time between two stations in hours. The train arrives at Raydosa station at 11:00 PM on the same day. What is the travel time represented by the question mark? A: 1 hour,B: 5 hours,C: 4 hours,D: 2 hours,E: 3 hours",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_187.png"
+    ],
+    "id": 187
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train leaves Savissisuaq station at 12:00 PM. It passes 1 other station without stopping and arrives Qasisak station at 9:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 5 hours,B: 7 hours,C: 6 hours,D: 2 hours,E: 10 hours",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1871.png"
+    ],
+    "id": 1871
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train departs Northmere station at 4:00 AM and passes by 1 other station without stopping. It arrives at Ittoqqortaq station at 11:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 8 hours,B: 11 hours,C: 6 hours,D: 12 hours,E: 9 hours",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1878.png"
+    ],
+    "id": 1878
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nImagine we travel from Salapulco station to Gravenwall station. The train departs at 3:00 AM, passing 1 other station in between without stopping, and arrives at 9:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 9 hours,B: 13 hours,C: 10 hours,D: 14 hours,E: 7 hours",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1883.png"
+    ],
+    "id": 1883
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train leaves Colbiens station at 2:00 PM and passes by 1 other station without stopping. It arrives at Acapan station at 7:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 4 hours,B: 3 hours,C: 2 hours,D: 1 hour,E: 5 hours",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1889.png"
+    ],
+    "id": 1889
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train leaves Berthierlis station at 7:00 AM and passes by 1 other station without stopping. It arrives at Walworth station at 11:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 4 hours,B: 8 hours,C: 5 hours,D: 3 hours,E: 1 hour",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1891.png"
+    ],
+    "id": 1891
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nImagine we travel from Gopawa station to Ikerasoq station. The train departs at 2:00 AM, passing 1 other station in between without stopping, and arrives at 5:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 10 hours,B: 16 hours,C: 12 hours,D: 9 hours,E: 13 hours",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1895.png"
+    ],
+    "id": 1895
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train leaves Zumjara station at 5:00 AM and passes by 1 other station without stopping. It arrives at Siosoq station at 2:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 8 hours,B: 2 hours,C: 7 hours,D: 4 hours,E: 5 hours",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1907.png"
+    ],
+    "id": 1907
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train from Oqaattalik station to Napanaq station leaves at 5:00 PM and passes by 1 other station without stopping. The numbers show the travel time between two stations in hours. The train arrives at Napanaq station at 8:00 PM on the same day. What is the travel time represented by the question mark? A: 2 hours,B: 1 hour,C: 3 hours,D: 5 hours,E: 6 hours",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1929.png"
+    ],
+    "id": 1929
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train leaves Savisuarsuit station at 4:00 AM. It passes 1 other station without stopping and arrives Eqalumiit station at 5:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 2 hours,B: 1 hour,C: 3 hours,D: 6 hours,E: 4 hours",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1943.png"
+    ],
+    "id": 1943
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train departs Tepexpopan station at 12:00 PM and arrives Bridgecord station at 9:00 PM on the same day. It passes 1 other station in between without stopping. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 7 hours,B: 6 hours,C: 4 hours,D: 9 hours,E: 10 hours",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1949.png"
+    ],
+    "id": 1949
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train from Siolaq station to Willingway station leaves at 6:00 AM and passes by 1 other station without stopping. The numbers show the travel time between two stations in hours. The train arrives at Willingway station at 12:00 PM on the same day. What is the travel time represented by the question mark? A: 1 hour,B: 3 hours,C: 5 hours,D: 2 hours,E: 4 hours",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1968.png"
+    ],
+    "id": 1968
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train departs Uummamijit station at 11:00 AM and passes by 1 other station without stopping. It arrives at Barncester station at 11:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 13 hours,B: 7 hours,C: 9 hours,D: 8 hours,E: 10 hours",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_1983.png"
+    ],
+    "id": 1983
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nImagine we travel from Hadborough station to Richpool station. The train departs at 8:00 AM, passing 1 other station in between without stopping, and arrives at 5:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 3 hours,B: 4 hours,C: 5 hours,D: 2 hours,E: 1 hour",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_208.png"
+    ],
+    "id": 208
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train leaves Iropar station at 7:00 AM and passes by 1 other station without stopping. It arrives at Puecali station at 8:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 11 hours,B: 9 hours,C: 14 hours,D: 12 hours,E: 15 hours",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_226.png"
+    ],
+    "id": 226
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train departs Allerwell station at 3:00 AM and arrives Gravenwall station at 10:00 AM on the same day. It passes 1 other station in between without stopping. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 1 hour,B: 6 hours,C: 5 hours,D: 3 hours,E: 2 hours",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_230.png"
+    ],
+    "id": 230
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train from Buchdosa station to Turlita station leaves at 4:00 AM and passes by 1 other station without stopping. The numbers show the travel time between two stations in hours. The train arrives at Turlita station at 10:00 PM on the same day. What is the travel time represented by the question mark? A: 12 hours,B: 14 hours,C: 8 hours,D: 11 hours,E: 15 hours",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_254.png"
+    ],
+    "id": 254
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train departs Battlegueuil station at 12:00 PM and arrives Merimouth station at 7:00 PM on the same day. It passes 1 other station in between without stopping. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 1 hour,B: 5 hours,C: 4 hours,D: 3 hours,E: 2 hours",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_263.png"
+    ],
+    "id": 263
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train leaves Asheller station at 4:00 AM and passes by 1 other station without stopping. It arrives at Jiuteridad station at 9:00 AM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 3 hours,B: 2 hours,C: 4 hours,D: 7 hours,E: 1 hour",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_27.png"
+    ],
+    "id": 27
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train from Tasiutalik station to Zumgales station leaves at 1:00 AM and passes by 1 other station without stopping. The numbers show the travel time between two stations in hours. The train arrives at Zumgales station at 9:00 PM on the same day. What is the travel time represented by the question mark? A: 21 hours,B: 16 hours,C: 18 hours,D: 22 hours,E: 20 hours",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_284.png"
+    ],
+    "id": 284
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nImagine we travel from Nartut station to Jiunada station. The train leaves at 12:00 PM, passing 1 other station in between without stopping, and arrives at 7:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 6 hours,B: 7 hours,C: 9 hours,D: 1 hour,E: 5 hours",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_346.png"
+    ],
+    "id": 346
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train leaves Ilusiaat station at 4:00 PM. It passes 1 other station without stopping and arrives Harpminster station at 8:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 3 hours,B: 2 hours,C: 1 hour,D: 6 hours,E: 5 hours",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_38.png"
+    ],
+    "id": 38
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train from Menstable station to Zacaloya station leaves at 1:00 AM and passes by 1 other station without stopping. The numbers show the travel time between two stations in hours. The train arrives at Zacaloya station at 1:00 PM on the same day. What is the travel time represented by the question mark? A: 5 hours,B: 2 hours,C: 8 hours,D: 6 hours,E: 10 hours",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_403.png"
+    ],
+    "id": 403
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train departs Oqaatsaarsuk station at 2:00 AM and arrives Wasapawa station at 10:00 PM on the same day. It passes 1 other station in between without stopping. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 22 hours,B: 14 hours,C: 20 hours,D: 18 hours,E: 19 hours",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_404.png"
+    ],
+    "id": 404
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train departs Barncester station at 1:00 AM and arrives Wessea station at 6:00 PM on the same day. It passes 1 other station in between without stopping. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 7 hours,B: 3 hours,C: 6 hours,D: 8 hours,E: 2 hours",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_438.png"
+    ],
+    "id": 438
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nImagine we travel from Bridgecord station to Templery station. The train departs at 1:00 PM, passing 1 other station in between without stopping, and arrives at 9:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 9 hours,B: 5 hours,C: 3 hours,D: 11 hours,E: 7 hours",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_453.png"
+    ],
+    "id": 453
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train departs Northmere station at 6:00 AM and passes by 1 other station without stopping. It arrives at Bexlow station at 11:00 AM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 3 hours,B: 2 hours,C: 4 hours,D: 7 hours,E: 6 hours",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_464.png"
+    ],
+    "id": 464
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nImagine we travel from Twilmore station to Alluitmanaq station. The train leaves at 9:00 AM, passing 1 other station in between without stopping, and arrives at 10:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 1 hour,B: 5 hours,C: 4 hours,D: 2 hours,E: 6 hours",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_470.png"
+    ],
+    "id": 470
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train departs Guasacalco station at 4:00 AM and arrives Eqalumiit station at 11:00 AM on the same day. It passes 1 other station in between without stopping. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 2 hours,B: 1 hour,C: 6 hours,D: 4 hours,E: 5 hours",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_473.png"
+    ],
+    "id": 473
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train from Akunniarfik station to Parader station leaves at 1:00 PM and passes by 1 other station without stopping. The numbers show the travel time between two stations in hours. The train arrives at Parader station at 11:00 PM on the same day. What is the travel time represented by the question mark? A: 7 hours,B: 6 hours,C: 2 hours,D: 3 hours,E: 4 hours",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_489.png"
+    ],
+    "id": 489
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train departs Comaltumal station at 3:00 AM and arrives Paraher station at 5:00 PM on the same day. It passes 1 other station in between without stopping. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 9 hours,B: 7 hours,C: 8 hours,D: 6 hours,E: 5 hours",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_510.png"
+    ],
+    "id": 510
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nImagine we travel from Zacasave station to Donet station. The train departs at 3:00 AM, passing 1 other station in between without stopping, and arrives at 9:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 4 hours,B: 1 hour,C: 3 hours,D: 5 hours,E: 2 hours",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_54.png"
+    ],
+    "id": 54
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train leaves Menstable station at 1:00 AM. It passes 1 other station without stopping and arrives Comisillo station at 11:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 23 hours,B: 24 hours,C: 22 hours,D: 21 hours,E: 18 hours",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_551.png"
+    ],
+    "id": 551
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nImagine we travel from Mansfolk station to Tanman station. The train departs at 1:00 PM, passing 1 other station in between without stopping, and arrives at 5:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 1 hour,B: 5 hours,C: 6 hours,D: 2 hours,E: 4 hours",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_587.png"
+    ],
+    "id": 587
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train from Elvons station to Uummanlinnguit station leaves at 7:00 AM and passes by 1 other station without stopping. The numbers show the travel time between two stations in hours. The train arrives at Uummanlinnguit station at 10:00 PM on the same day. What is the travel time represented by the question mark? A: 8 hours,B: 9 hours,C: 6 hours,D: 11 hours,E: 7 hours",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_624.png"
+    ],
+    "id": 624
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train leaves Paraher station at 4:00 PM and passes by 1 other station without stopping. It arrives at Oqaathivik station at 7:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 5 hours,B: 4 hours,C: 6 hours,D: 1 hour,E: 2 hours",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_640.png"
+    ],
+    "id": 640
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nImagine we travel from Brimbrook station to Vegrerior station. The train departs at 2:00 AM, passing 1 other station in between without stopping, and arrives at 6:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 3 hours,B: 1 hour,C: 4 hours,D: 5 hours,E: 2 hours",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_641.png"
+    ],
+    "id": 641
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train from Sarlussuaq station to Siolaq station leaves at 8:00 AM and passes by 1 other station without stopping. The numbers show the travel time between two stations in hours. The train arrives at Siolaq station at 12:00 PM on the same day. What is the travel time represented by the question mark? A: 7 hours,B: 3 hours,C: 1 hour,D: 6 hours,E: 4 hours",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_660.png"
+    ],
+    "id": 660
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train from Niaqorguit station to Dunfolk station leaves at 5:00 AM and passes by 1 other station without stopping. The numbers show the travel time between two stations in hours. The train arrives at Dunfolk station at 10:00 PM on the same day. What is the travel time represented by the question mark? A: 9 hours,B: 1 hour,C: 2 hours,D: 5 hours,E: 6 hours",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_688.png"
+    ],
+    "id": 688
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nImagine we travel from Aastaq station to Portdale station. The train leaves at 8:00 AM, passing 1 other station in between without stopping, and arrives at 9:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 4 hours,B: 2 hours,C: 5 hours,D: 3 hours,E: 7 hours",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_750.png"
+    ],
+    "id": 750
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nImagine we travel from Uperthal station to Shawree station. The train leaves at 8:00 AM, passing 1 other station in between without stopping, and arrives at 4:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 6 hours,B: 8 hours,C: 5 hours,D: 1 hour,E: 9 hours",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_798.png"
+    ],
+    "id": 798
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train leaves Sartu station at 3:00 PM. It passes 1 other station without stopping and arrives Cunduacaque station at 6:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 2 hours,B: 4 hours,C: 5 hours,D: 1 hour,E: 6 hours",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_801.png"
+    ],
+    "id": 801
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train leaves Celazapan station at 3:00 PM. It passes 1 other station without stopping and arrives Bridgecord station at 10:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 1 hour,B: 4 hours,C: 5 hours,D: 3 hours,E: 2 hours",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_822.png"
+    ],
+    "id": 822
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train departs Tasiisivik station at 2:00 AM and arrives Elvons station at 5:00 PM on the same day. It passes 1 other station in between without stopping. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 8 hours,B: 9 hours,C: 4 hours,D: 12 hours,E: 11 hours",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_878.png"
+    ],
+    "id": 878
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train departs Cenmas station at 11:00 AM and passes by 1 other station without stopping. It arrives at Guadaridad station at 6:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 2 hours,B: 3 hours,C: 4 hours,D: 5 hours,E: 6 hours",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_881.png"
+    ],
+    "id": 881
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train from Colbiens station to Paraher station leaves at 7:00 PM and passes by 1 other station without stopping. The numbers show the travel time between two stations in hours. The train arrives at Paraher station at 11:00 PM on the same day. What is the travel time represented by the question mark? A: 5 hours,B: 3 hours,C: 2 hours,D: 6 hours,E: 7 hours",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_897.png"
+    ],
+    "id": 897
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train departs Sisimiut station at 3:00 PM and passes by 1 other station without stopping. It arrives at Hingbridge station at 11:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 3 hours,B: 2 hours,C: 6 hours,D: 5 hours,E: 9 hours",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_9.png"
+    ],
+    "id": 9
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train from Zumjara station to Chilacun station departs at 12:00 AM and passes by 1 other station without stopping. The numbers show the travel time between two stations in hours. The train arrives at Chilacun station at 9:00 PM on the same day. What is the travel time represented by the question mark? A: 18 hours,B: 17 hours,C: 20 hours,D: 19 hours,E: 24 hours",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_914.png"
+    ],
+    "id": 914
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train leaves Qaasimiut station at 3:00 AM. It passes 1 other station without stopping and arrives Bordtane station at 3:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 7 hours,B: 6 hours,C: 3 hours,D: 8 hours,E: 10 hours",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_929.png"
+    ],
+    "id": 929
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train departs Kangervik station at 3:00 AM and arrives Villalato station at 7:00 PM on the same day. It passes 1 other station in between without stopping. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 7 hours,B: 1 hour,C: 5 hours,D: 6 hours,E: 4 hours",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_955.png"
+    ],
+    "id": 955
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nA train departs Cunduacaque station at 1:00 AM and passes by 1 other station without stopping. It arrives at Reydora station at 2:00 PM on the same day. The numbers show the travel time between two stations in hours. What is the travel time represented by the question mark? A: 6 hours,B: 5 hours,C: 4 hours,D: 1 hour,E: 2 hours",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/21/img/puzzle_21_e_957.png"
+    ],
+    "id": 957
+  }
+]

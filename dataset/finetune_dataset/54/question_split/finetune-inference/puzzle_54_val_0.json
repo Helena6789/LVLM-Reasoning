@@ -1,0 +1,1602 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from H to H along the lines and pick up the letters HEALTH in the correct order. If the length of each grid is 1 unit, then the length of the shortest walk in units is: A: 31,B: 23,C: 24,D: 27,E: 25",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1015.png"
+    ],
+    "id": 1015
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from B to T along the lines and pick up the letters BUDGET in the correct order. If the length of each grid is 1 unit, then the length of the shortest walk in units is: A: 18,B: 16,C: 15,D: 22,E: 21",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_104.png"
+    ],
+    "id": 104
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from B to D along the lines and pick up the letters BEYOND in the correct order. If the length of each grid is 1 unit, then the length of the shortest walk in units is: A: 18,B: 22,C: 23,D: 25,E: 26",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1046.png"
+    ],
+    "id": 1046
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIf we walk from K to M along the lines and pick up the letters KINGDOM in the correct order, what is the length of the shortest walk in units given that the length of each grid is 1 unit? A: 29,B: 24,C: 27,D: 28,E: 26",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1061.png"
+    ],
+    "id": 1061
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from V to Y along the lines and pick up the letters VALLEY in the correct order. If the length of each grid is 1 unit, then the length of the shortest walk in units is: A: 24,B: 21,C: 19,D: 18,E: 22",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1123.png"
+    ],
+    "id": 1123
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIf we walk from S to L along the lines and pick up the letters SIGNAL in the correct order, what is the length of the shortest walk in units given that the length of each grid is 1 unit? A: 19,B: 26,C: 22,D: 21,E: 24",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1136.png"
+    ],
+    "id": 1136
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe length of each grid is 1 unit. If we walk from A to E along the lines and pick up the letters AVERAGE in the correct order, then the length of the shortest walk in units is: A: 19,B: 15,C: 20,D: 18,E: 17",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1144.png"
+    ],
+    "id": 1144
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from C to T along the lines and pick up the letters COMMENT in the correct order. If the length of each grid is 1 unit, what is the length of the shortest walk in units? A: 25,B: 27,C: 28,D: 30,E: 32",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1148.png"
+    ],
+    "id": 1148
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from H to G along the lines and pick up the letters HEADING in the correct order. If the length of each grid is 1 unit, then the length of the shortest walk in units is: A: 29,B: 25,C: 30,D: 32,E: 27",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1159.png"
+    ],
+    "id": 1159
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe length of each grid is 1 unit. If we walk from D to R along the lines and pick up the letters DOCTOR in the correct order, then the length of the shortest walk in units is: A: 21,B: 20,C: 17,D: 18,E: 24",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1172.png"
+    ],
+    "id": 1172
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from V to E along the lines and pick up the letters VENTURE in the correct order. If the length of each grid is 1 unit, what is the length of the shortest walk in units? A: 32,B: 27,C: 30,D: 29,E: 26",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1187.png"
+    ],
+    "id": 1187
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from M to R along the lines and pick up the letters MASTER in the correct order. If the length of each grid is 1 unit, what is the length of the shortest walk in units? A: 19,B: 24,C: 18,D: 21,E: 20",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1219.png"
+    ],
+    "id": 1219
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from F to T along the lines and pick up the letters FORMAT in the correct order. What is the length of the shortest walk in units given that the length of each grid is 1 unit? A: 16,B: 20,C: 22,D: 18,E: 17",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1251.png"
+    ],
+    "id": 1251
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe length of each grid is 1 unit. If we walk from W to Y along the lines and pick up the letters WEEKLY in the correct order, what is the length of the shortest walk in units? A: 23,B: 24,C: 28,D: 26,E: 27",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1301.png"
+    ],
+    "id": 1301
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from C to E along the lines and pick up the letters CHANCE in the correct order. If the length of each grid is 1 unit, what is the length of the shortest walk in units? A: 19,B: 13,C: 16,D: 15,E: 12",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1322.png"
+    ],
+    "id": 1322
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from M to S along the lines and pick up the letters MORRIS in the correct order. The length of the shortest walk in units is (the length of each grid is 1 unit): A: 29,B: 28,C: 27,D: 33,E: 30",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1328.png"
+    ],
+    "id": 1328
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIf we walk from C to Y along the lines and pick up the letters CHARITY in the correct order, then the length of the shortest walk in units is (the length of each grid is 1 unit): A: 31,B: 23,C: 30,D: 24,E: 27",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1350.png"
+    ],
+    "id": 1350
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from M to Y along the lines and pick up the letters MAINLY in the correct order. The length of the shortest walk in units is (the length of each grid is 1 unit): A: 25,B: 21,C: 28,D: 26,E: 24",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1373.png"
+    ],
+    "id": 1373
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from P to M along the lines and pick up the letters PROBLEM in the correct order. What is the length of the shortest walk in units given that the length of each grid is 1 unit? A: 23,B: 29,C: 26,D: 25,E: 27",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1389.png"
+    ],
+    "id": 1389
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from D to R along the lines and pick up the letters DEALER in the correct order. If the length of each grid is 1 unit, what is the length of the shortest walk in units? A: 16,B: 20,C: 17,D: 21,E: 19",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1399.png"
+    ],
+    "id": 1399
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIf we walk from S to Y along the lines and pick up the letters SURVEY in the correct order, what is the length of the shortest walk in units given that the length of each grid is 1 unit? A: 14,B: 15,C: 17,D: 16,E: 19",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1416.png"
+    ],
+    "id": 1416
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from R to L along the lines and pick up the letters RADICAL in the correct order. If the length of each grid is 1 unit, then the length of the shortest walk in units is: A: 29,B: 23,C: 28,D: 26,E: 22",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1439.png"
+    ],
+    "id": 1439
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe length of each grid is 1 unit. If we walk from E to E along the lines and pick up the letters EXPENSE in the correct order, what is the length of the shortest walk in units? A: 19,B: 17,C: 15,D: 18,E: 14",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1444.png"
+    ],
+    "id": 1444
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from S to H along the lines and pick up the letters SPEECH in the correct order. If the length of each grid is 1 unit, what is the length of the shortest walk in units? A: 15,B: 16,C: 17,D: 14,E: 18",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1446.png"
+    ],
+    "id": 1446
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe length of each grid is 1 unit. If we walk from W to R along the lines and pick up the letters WHETHER in the correct order, what is the length of the shortest walk in units? A: 21,B: 29,C: 23,D: 22,E: 25",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_147.png"
+    ],
+    "id": 147
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from C to S along the lines and pick up the letters CLASSES in the correct order. What is the length of the shortest walk in units given that the length of each grid is 1 unit? A: 16,B: 15,C: 19,D: 18,E: 23",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_151.png"
+    ],
+    "id": 151
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe length of each grid is 1 unit. If we walk from S to G along the lines and pick up the letters SHOWING in the correct order, then the length of the shortest walk in units is: A: 35,B: 29,C: 34,D: 36,E: 33",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_152.png"
+    ],
+    "id": 152
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIf we walk from C to D along the lines and pick up the letters CHECKED in the correct order, then the length of the shortest walk in units is (the length of each grid is 1 unit): A: 22,B: 17,C: 19,D: 21,E: 15",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1528.png"
+    ],
+    "id": 1528
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from S to T along the lines and pick up the letters SEGMENT in the correct order. What is the length of the shortest walk in units given that the length of each grid is 1 unit? A: 27,B: 28,C: 29,D: 32,E: 25",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_153.png"
+    ],
+    "id": 153
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIf we walk from W to G along the lines and pick up the letters WALKING in the correct order, what is the length of the shortest walk in units given that the length of each grid is 1 unit? A: 17,B: 21,C: 24,D: 25,E: 20",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1596.png"
+    ],
+    "id": 1596
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIf we walk from S to Y along the lines and pick up the letters SHORTLY in the correct order, what is the length of the shortest walk in units given that the length of each grid is 1 unit? A: 30,B: 27,C: 24,D: 26,E: 22",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1604.png"
+    ],
+    "id": 1604
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe length of each grid is 1 unit. If we walk from C to N along the lines and pick up the letters CAUTION in the correct order, what is the length of the shortest walk in units? A: 26,B: 28,C: 27,D: 33,E: 30",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_161.png"
+    ],
+    "id": 161
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe length of each grid is 1 unit. If we walk from E to E along the lines and pick up the letters EXPLORE in the correct order, what is the length of the shortest walk in units? A: 18,B: 26,C: 24,D: 25,E: 22",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1627.png"
+    ],
+    "id": 1627
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe length of each grid is 1 unit. If we walk from M to L along the lines and pick up the letters MEDICAL in the correct order, then the length of the shortest walk in units is: A: 20,B: 21,C: 23,D: 24,E: 28",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1635.png"
+    ],
+    "id": 1635
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIf we walk from C to S along the lines and pick up the letters CLOTHES in the correct order, then the length of the shortest walk in units is (the length of each grid is 1 unit): A: 30,B: 29,C: 32,D: 34,E: 28",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1656.png"
+    ],
+    "id": 1656
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from I to T along the lines and pick up the letters IMPACT in the correct order. What is the length of the shortest walk in units given that the length of each grid is 1 unit? A: 20,B: 25,C: 21,D: 18,E: 22",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1682.png"
+    ],
+    "id": 1682
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from M to E along the lines and pick up the letters MODULE in the correct order. What is the length of the shortest walk in units given that the length of each grid is 1 unit? A: 20,B: 24,C: 19,D: 21,E: 18",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1684.png"
+    ],
+    "id": 1684
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIf we walk from E to R along the lines and pick up the letters EITHER in the correct order, what is the length of the shortest walk in units given that the length of each grid is 1 unit? A: 21,B: 17,C: 23,D: 20,E: 22",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1693.png"
+    ],
+    "id": 1693
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIf we walk from R to R along the lines and pick up the letters RECOVER in the correct order, then the length of the shortest walk in units is (the length of each grid is 1 unit): A: 22,B: 21,C: 23,D: 26,E: 25",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1703.png"
+    ],
+    "id": 1703
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe length of each grid is 1 unit. If we walk from G to Y along the lines and pick up the letters GALLERY in the correct order, what is the length of the shortest walk in units? A: 23,B: 30,C: 29,D: 31,E: 27",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1705.png"
+    ],
+    "id": 1705
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe length of each grid is 1 unit. If we walk from A to Y along the lines and pick up the letters ACADEMY in the correct order, then the length of the shortest walk in units is: A: 29,B: 30,C: 33,D: 34,E: 32",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1713.png"
+    ],
+    "id": 1713
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from R to G along the lines and pick up the letters READING in the correct order. If the length of each grid is 1 unit, what is the length of the shortest walk in units? A: 39,B: 38,C: 34,D: 36,E: 42",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1734.png"
+    ],
+    "id": 1734
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from C to E along the lines and pick up the letters CHARGE in the correct order. What is the length of the shortest walk in units given that the length of each grid is 1 unit? A: 24,B: 22,C: 20,D: 21,E: 26",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1769.png"
+    ],
+    "id": 1769
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe length of each grid is 1 unit. If we walk from E to Y along the lines and pick up the letters EASILY in the correct order, then the length of the shortest walk in units is: A: 19,B: 17,C: 14,D: 15,E: 18",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1771.png"
+    ],
+    "id": 1771
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIf we walk from L to R along the lines and pick up the letters LATTER in the correct order, what is the length of the shortest walk in units given that the length of each grid is 1 unit? A: 15,B: 19,C: 16,D: 22,E: 21",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1777.png"
+    ],
+    "id": 1777
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from R to E along the lines and pick up the letters RELATE in the correct order. What is the length of the shortest walk in units given that the length of each grid is 1 unit? A: 21,B: 22,C: 18,D: 24,E: 19",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1780.png"
+    ],
+    "id": 1780
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIf we walk from P to S along the lines and pick up the letters PROCESS in the correct order, what is the length of the shortest walk in units given that the length of each grid is 1 unit? A: 19,B: 21,C: 22,D: 25,E: 20",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1812.png"
+    ],
+    "id": 1812
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from V to S along the lines and pick up the letters VARIOUS in the correct order. If the length of each grid is 1 unit, what is the length of the shortest walk in units? A: 32,B: 30,C: 31,D: 28,E: 27",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1823.png"
+    ],
+    "id": 1823
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from B to E along the lines and pick up the letters BECAUSE in the correct order. If the length of each grid is 1 unit, what is the length of the shortest walk in units? A: 24,B: 21,C: 20,D: 17,E: 25",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1844.png"
+    ],
+    "id": 1844
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from T to M along the lines and pick up the letters TELECOM in the correct order. What is the length of the shortest walk in units given that the length of each grid is 1 unit? A: 24,B: 27,C: 20,D: 25,E: 21",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_187.png"
+    ],
+    "id": 187
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from T to G along the lines and pick up the letters TURNING in the correct order. What is the length of the shortest walk in units given that the length of each grid is 1 unit? A: 26,B: 31,C: 24,D: 23,E: 27",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1871.png"
+    ],
+    "id": 1871
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from H to G along the lines and pick up the letters HOUSING in the correct order. What is the length of the shortest walk in units given that the length of each grid is 1 unit? A: 29,B: 31,C: 28,D: 24,E: 27",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1878.png"
+    ],
+    "id": 1878
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from C to T along the lines and pick up the letters COMPACT in the correct order. What is the length of the shortest walk in units given that the length of each grid is 1 unit? A: 20,B: 26,C: 21,D: 23,E: 22",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1883.png"
+    ],
+    "id": 1883
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from M to F along the lines and pick up the letters MYSELF in the correct order. The length of the shortest walk in units is (the length of each grid is 1 unit): A: 22,B: 24,C: 20,D: 25,E: 21",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1889.png"
+    ],
+    "id": 1889
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from P to E along the lines and pick up the letters PRODUCE in the correct order. If the length of each grid is 1 unit, then the length of the shortest walk in units is: A: 29,B: 33,C: 28,D: 31,E: 26",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1891.png"
+    ],
+    "id": 1891
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from P to M along the lines and pick up the letters PERFORM in the correct order. If the length of each grid is 1 unit, then the length of the shortest walk in units is: A: 28,B: 26,C: 25,D: 21,E: 23",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1895.png"
+    ],
+    "id": 1895
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from D to N along the lines and pick up the letters DRIVEN in the correct order. What is the length of the shortest walk in units given that the length of each grid is 1 unit? A: 20,B: 16,C: 18,D: 21,E: 19",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1907.png"
+    ],
+    "id": 1907
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from R to S along the lines and pick up the letters REMAINS in the correct order. If the length of each grid is 1 unit, what is the length of the shortest walk in units? A: 36,B: 41,C: 40,D: 39,E: 38",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1929.png"
+    ],
+    "id": 1929
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIf we walk from D to T along the lines and pick up the letters DEFAULT in the correct order, then the length of the shortest walk in units is (the length of each grid is 1 unit): A: 28,B: 27,C: 31,D: 30,E: 29",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1943.png"
+    ],
+    "id": 1943
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe length of each grid is 1 unit. If we walk from W to G along the lines and pick up the letters WORKING in the correct order, what is the length of the shortest walk in units? A: 29,B: 30,C: 28,D: 22,E: 26",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1949.png"
+    ],
+    "id": 1949
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe length of each grid is 1 unit. If we walk from H to E along the lines and pick up the letters HANDLE in the correct order, then the length of the shortest walk in units is: A: 14,B: 18,C: 21,D: 17,E: 16",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1968.png"
+    ],
+    "id": 1968
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIf we walk from R to E along the lines and pick up the letters RELEASE in the correct order, then the length of the shortest walk in units is (the length of each grid is 1 unit): A: 15,B: 9,C: 10,D: 11,E: 13",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_1983.png"
+    ],
+    "id": 1983
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIf we walk from M to L along the lines and pick up the letters MINERAL in the correct order, what is the length of the shortest walk in units given that the length of each grid is 1 unit? A: 24,B: 27,C: 23,D: 25,E: 26",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_208.png"
+    ],
+    "id": 208
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from M to L along the lines and pick up the letters MANUAL in the correct order. If the length of each grid is 1 unit, what is the length of the shortest walk in units? A: 15,B: 19,C: 17,D: 16,E: 18",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_226.png"
+    ],
+    "id": 226
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from S to T along the lines and pick up the letters SUMMIT in the correct order. What is the length of the shortest walk in units given that the length of each grid is 1 unit? A: 24,B: 27,C: 21,D: 28,E: 25",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_230.png"
+    ],
+    "id": 230
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIf we walk from C to T along the lines and pick up the letters CIRCUIT in the correct order, what is the length of the shortest walk in units given that the length of each grid is 1 unit? A: 16,B: 22,C: 19,D: 17,E: 21",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_254.png"
+    ],
+    "id": 254
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe length of each grid is 1 unit. If we walk from P to S along the lines and pick up the letters PERHAPS in the correct order, what is the length of the shortest walk in units? A: 25,B: 28,C: 23,D: 24,E: 21",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_263.png"
+    ],
+    "id": 263
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from E to D along the lines and pick up the letters EXPAND in the correct order. What is the length of the shortest walk in units given that the length of each grid is 1 unit? A: 15,B: 17,C: 18,D: 19,E: 16",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_27.png"
+    ],
+    "id": 27
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe length of each grid is 1 unit. If we walk from S to T along the lines and pick up the letters STRICT in the correct order, what is the length of the shortest walk in units? A: 26,B: 21,C: 22,D: 25,E: 27",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_284.png"
+    ],
+    "id": 284
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe length of each grid is 1 unit. If we walk from W to E along the lines and pick up the letters WEBSITE in the correct order, what is the length of the shortest walk in units? A: 12,B: 15,C: 11,D: 19,E: 18",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_346.png"
+    ],
+    "id": 346
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe length of each grid is 1 unit. If we walk from P to M along the lines and pick up the letters PROBLEM in the correct order, then the length of the shortest walk in units is: A: 18,B: 22,C: 20,D: 19,E: 17",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_38.png"
+    ],
+    "id": 38
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from C to D along the lines and pick up the letters CHECKED in the correct order. The length of the shortest walk in units is (the length of each grid is 1 unit): A: 18,B: 23,C: 22,D: 19,E: 24",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_403.png"
+    ],
+    "id": 403
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe length of each grid is 1 unit. If we walk from M to R along the lines and pick up the letters MEMBER in the correct order, what is the length of the shortest walk in units? A: 20,B: 25,C: 24,D: 22,E: 21",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_404.png"
+    ],
+    "id": 404
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe length of each grid is 1 unit. If we walk from R to T along the lines and pick up the letters REPEAT in the correct order, what is the length of the shortest walk in units? A: 17,B: 21,C: 22,D: 19,E: 15",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_438.png"
+    ],
+    "id": 438
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from A to S along the lines and pick up the letters ADDRESS in the correct order. If the length of each grid is 1 unit, then the length of the shortest walk in units is: A: 18,B: 17,C: 15,D: 13,E: 12",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_453.png"
+    ],
+    "id": 453
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIf we walk from V to S along the lines and pick up the letters VARIOUS in the correct order, what is the length of the shortest walk in units given that the length of each grid is 1 unit? A: 29,B: 26,C: 21,D: 25,E: 24",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_464.png"
+    ],
+    "id": 464
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from P to N along the lines and pick up the letters PASSION in the correct order. If the length of each grid is 1 unit, what is the length of the shortest walk in units? A: 40,B: 33,C: 36,D: 37,E: 32",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_470.png"
+    ],
+    "id": 470
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from O to E along the lines and pick up the letters OPERATE in the correct order. The length of the shortest walk in units is (the length of each grid is 1 unit): A: 19,B: 23,C: 22,D: 21,E: 20",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_473.png"
+    ],
+    "id": 473
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from E to G along the lines and pick up the letters EVENING in the correct order. If the length of each grid is 1 unit, then the length of the shortest walk in units is: A: 23,B: 19,C: 18,D: 24,E: 22",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_489.png"
+    ],
+    "id": 489
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from F to N along the lines and pick up the letters FOREIGN in the correct order. If the length of each grid is 1 unit, then the length of the shortest walk in units is: A: 25,B: 23,C: 19,D: 21,E: 27",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_510.png"
+    ],
+    "id": 510
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe length of each grid is 1 unit. If we walk from S to L along the lines and pick up the letters SOCIAL in the correct order, what is the length of the shortest walk in units? A: 19,B: 16,C: 17,D: 23,E: 20",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_54.png"
+    ],
+    "id": 54
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from F to N along the lines and pick up the letters FICTION in the correct order. If the length of each grid is 1 unit, what is the length of the shortest walk in units? A: 27,B: 30,C: 25,D: 24,E: 26",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_551.png"
+    ],
+    "id": 551
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from I to F along the lines and pick up the letters ITSELF in the correct order. What is the length of the shortest walk in units given that the length of each grid is 1 unit? A: 10,B: 8,C: 12,D: 13,E: 15",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_587.png"
+    ],
+    "id": 587
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from R to D along the lines and pick up the letters RESPOND in the correct order. The length of the shortest walk in units is (the length of each grid is 1 unit): A: 36,B: 31,C: 28,D: 35,E: 32",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_624.png"
+    ],
+    "id": 624
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from B to H along the lines and pick up the letters BRANCH in the correct order. The length of the shortest walk in units is (the length of each grid is 1 unit): A: 19,B: 23,C: 25,D: 20,E: 27",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_640.png"
+    ],
+    "id": 640
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from R to E along the lines and pick up the letters REMOVE in the correct order. The length of the shortest walk in units is (the length of each grid is 1 unit): A: 11,B: 15,C: 17,D: 12,E: 16",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_641.png"
+    ],
+    "id": 641
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from H to E along the lines and pick up the letters HANDLE in the correct order. The length of the shortest walk in units is (the length of each grid is 1 unit): A: 23,B: 22,C: 26,D: 27,E: 24",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_660.png"
+    ],
+    "id": 660
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from C to D along the lines and pick up the letters CLOSED in the correct order. If the length of each grid is 1 unit, what is the length of the shortest walk in units? A: 19,B: 23,C: 20,D: 18,E: 15",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_688.png"
+    ],
+    "id": 688
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from C to E along the lines and pick up the letters CREATE in the correct order. What is the length of the shortest walk in units given that the length of each grid is 1 unit? A: 17,B: 18,C: 14,D: 16,E: 21",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_750.png"
+    ],
+    "id": 750
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe length of each grid is 1 unit. If we walk from O to T along the lines and pick up the letters OUTPUT in the correct order, then the length of the shortest walk in units is: A: 16,B: 18,C: 21,D: 15,E: 20",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_798.png"
+    ],
+    "id": 798
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe length of each grid is 1 unit. If we walk from A to D along the lines and pick up the letters APPLIED in the correct order, what is the length of the shortest walk in units? A: 15,B: 14,C: 11,D: 12,E: 13",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_801.png"
+    ],
+    "id": 801
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from W to Y along the lines and pick up the letters WHEREBY in the correct order. What is the length of the shortest walk in units given that the length of each grid is 1 unit? A: 31,B: 33,C: 29,D: 32,E: 28",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_822.png"
+    ],
+    "id": 822
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIf we walk from T to L along the lines and pick up the letters TYPICAL in the correct order, what is the length of the shortest walk in units given that the length of each grid is 1 unit? A: 22,B: 21,C: 27,D: 28,E: 24",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_878.png"
+    ],
+    "id": 878
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIf we walk from S to N along the lines and pick up the letters STATION in the correct order, what is the length of the shortest walk in units given that the length of each grid is 1 unit? A: 16,B: 23,C: 19,D: 20,E: 18",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_881.png"
+    ],
+    "id": 881
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from R to E along the lines and pick up the letters REMOVE in the correct order. If the length of each grid is 1 unit, what is the length of the shortest walk in units? A: 16,B: 21,C: 18,D: 14,E: 20",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_897.png"
+    ],
+    "id": 897
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from S to Y along the lines and pick up the letters SURELY in the correct order. What is the length of the shortest walk in units given that the length of each grid is 1 unit? A: 25,B: 26,C: 33,D: 29,E: 27",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_9.png"
+    ],
+    "id": 9
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIf we walk from T to L along the lines and pick up the letters TYPICAL in the correct order, then the length of the shortest walk in units is (the length of each grid is 1 unit): A: 17,B: 14,C: 19,D: 15,E: 16",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_914.png"
+    ],
+    "id": 914
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nThe length of each grid is 1 unit. If we walk from F to R along the lines and pick up the letters FATHER in the correct order, then the length of the shortest walk in units is: A: 16,B: 20,C: 17,D: 18,E: 21",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_929.png"
+    ],
+    "id": 929
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from U to E along the lines and pick up the letters UPDATE in the correct order. If the length of each grid is 1 unit, what is the length of the shortest walk in units? A: 26,B: 25,C: 19,D: 23,E: 22",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_955.png"
+    ],
+    "id": 955
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nWe want to walk from N to E along the lines and pick up the letters NOWHERE in the correct order. The length of the shortest walk in units is (the length of each grid is 1 unit): A: 25,B: 23,C: 27,D: 24,E: 21",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/54/img/puzzle_54_e_957.png"
+    ],
+    "id": 957
+  }
+]

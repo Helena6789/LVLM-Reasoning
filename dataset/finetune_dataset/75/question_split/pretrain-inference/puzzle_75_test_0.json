@@ -1,0 +1,4802 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Melissa created a shape using some red blocks and 12 gray blocks. How many of these gray blocks are not visible in the image?  A: 4,B: 0,C: 7,D: 9,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1.png"
+    ],
+    "id": 1
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Amber created a setup using some red blocks and 55 green blocks. How many of these green blocks are not visible in the picture?  A: 51,B: 18,C: 36,D: 56,E: 31. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1012.png"
+    ],
+    "id": 1012
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Victor created a setup using some blue bricks and 6 green bricks. How many of these green bricks cannot be seen in the image?  A: 0,B: 8,C: 2,D: 5,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1016.png"
+    ],
+    "id": 1016
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michael made a structure using some gray blocks and 15 black blocks. How many of these black blocks are not visible in the cartoon?  A: 4,B: 5,C: 9,D: 1,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1017.png"
+    ],
+    "id": 1017
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jorge created a structure using some red blocks and 117 brown blocks. How many of these brown blocks are not visible in the figure?  A: 80,B: 6,C: 141,D: 158,E: 25. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1020.png"
+    ],
+    "id": 1020
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Sandra built a setup using some red bricks and 53 gray bricks. How many of these gray bricks are not visible in the cartoon?  A: 58,B: 31,C: 30,D: 49,E: 59. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1021.png"
+    ],
+    "id": 1021
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Lisa made a setup using some brown blocks and 4 white blocks. How many of these white blocks are not visible in the picture?  A: 2,B: 0,C: 4,D: 1,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1025.png"
+    ],
+    "id": 1025
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Holly built a setup using some black blocks and 46 blue blocks. How many of these blue blocks cannot be seen in the cartoon?  A: 1,B: 9,C: 47,D: 25,E: 39. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1028.png"
+    ],
+    "id": 1028
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Nicholas made a structure using some blue blocks and 62 brown blocks. How many of these brown blocks cannot be seen in the drawing?  A: 28,B: 55,C: 27,D: 40,E: 60. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1038.png"
+    ],
+    "id": 1038
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jasmine built a shape using some black bricks and 30 gray bricks. How many of these gray bricks cannot be seen in the drawing?  A: 10,B: 24,C: 15,D: 21,E: 25. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1044.png"
+    ],
+    "id": 1044
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Lisa built a structure using some black blocks and 102 blue blocks. How many of these blue blocks cannot be seen in the picture?  A: 54,B: 72,C: 12,D: 80,E: 60. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1051.png"
+    ],
+    "id": 1051
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Felicia made a structure using some blue bricks and 50 brown bricks. How many of these brown bricks cannot be seen in the image?  A: 39,B: 3,C: 35,D: 30,E: 52. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1056.png"
+    ],
+    "id": 1056
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Carrie created a shape using some green blocks and 30 black blocks. How many of these black blocks cannot be seen in the image?  A: 26,B: 15,C: 25,D: 5,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1059.png"
+    ],
+    "id": 1059
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Tracy created a setup using some red bricks and 22 gray bricks. How many of these gray bricks are not visible in the cartoon?  A: 12,B: 11,C: 8,D: 10,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1064.png"
+    ],
+    "id": 1064
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Crystal created a setup using some green blocks and 29 gray blocks. How many of these gray blocks cannot be seen in the figure?  A: 12,B: 10,C: 2,D: 7,E: 23. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1071.png"
+    ],
+    "id": 1071
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Hannah created a setup using some white blocks and 19 black blocks. How many of these black blocks cannot be seen in the cartoon?  A: 7,B: 6,C: 15,D: 9,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1076.png"
+    ],
+    "id": 1076
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Charles built a shape using some blue bricks and 43 white bricks. How many of these white bricks are not visible in the picture?  A: 33,B: 38,C: 18,D: 7,E: 20. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1082.png"
+    ],
+    "id": 1082
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joseph created a shape using some gray bricks and 28 white bricks. How many of these white bricks cannot be seen in the cartoon?  A: 31,B: 5,C: 18,D: 28,E: 24. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1086.png"
+    ],
+    "id": 1086
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joseph created a shape using some blue blocks and 17 black blocks. How many of these black blocks are not visible in the drawing?  A: 9,B: 4,C: 7,D: 5,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1095.png"
+    ],
+    "id": 1095
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Melissa built a shape using some blue blocks and 37 brown blocks. How many of these brown blocks are not visible in the picture?  A: 12,B: 20,C: 37,D: 15,E: 32. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1104.png"
+    ],
+    "id": 1104
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joseph made a setup using some brown blocks and 51 blue blocks. How many of these blue blocks are not visible in the picture?  A: 30,B: 9,C: 51,D: 54,E: 24. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1109.png"
+    ],
+    "id": 1109
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Charles created a shape using some brown bricks and 39 black bricks. How many of these black bricks cannot be seen in the cartoon?  A: 6,B: 8,C: 24,D: 20,E: 30. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_112.png"
+    ],
+    "id": 112
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Thomas made a shape using some green bricks and 19 brown bricks. How many of these brown bricks cannot be seen in the drawing?  A: 1,B: 2,C: 14,D: 7,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1123.png"
+    ],
+    "id": 1123
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Nicholas created a setup using some white blocks and 81 blue blocks. How many of these blue blocks are not visible in the cartoon?  A: 60,B: 49,C: 108,D: 72,E: 78. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1126.png"
+    ],
+    "id": 1126
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Nicholas made a setup using some white bricks and 54 red bricks. How many of these red bricks cannot be seen in the image?  A: 47,B: 32,C: 28,D: 56,E: 38. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1129.png"
+    ],
+    "id": 1129
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joseph built a structure using some green blocks and 69 blue blocks. How many of these blue blocks are not visible in the figure?  A: 68,B: 63,C: 74,D: 45,E: 78. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1130.png"
+    ],
+    "id": 1130
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Bruce created a shape using some white bricks and 92 gray bricks. How many of these gray bricks cannot be seen in the drawing?  A: 50,B: 49,C: 112,D: 60,E: 55. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1136.png"
+    ],
+    "id": 1136
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joseph created a setup using some red bricks and 43 black bricks. How many of these black bricks cannot be seen in the figure?  A: 20,B: 19,C: 26,D: 13,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1152.png"
+    ],
+    "id": 1152
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Derrick created a setup using some black bricks and 28 blue bricks. How many of these blue bricks cannot be seen in the drawing?  A: 12,B: 17,C: 18,D: 11,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1153.png"
+    ],
+    "id": 1153
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Pamela created a structure using some red bricks and 21 blue bricks. How many of these blue bricks are not visible in the cartoon?  A: 8,B: 12,C: 15,D: 14,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1154.png"
+    ],
+    "id": 1154
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Derrick created a setup using some red blocks and 30 gray blocks. How many of these gray blocks cannot be seen in the cartoon?  A: 0,B: 16,C: 30,D: 24,E: 28. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1162.png"
+    ],
+    "id": 1162
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Charles built a shape using some green bricks and 35 white bricks. How many of these white bricks are not visible in the cartoon?  A: 2,B: 11,C: 15,D: 8,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1180.png"
+    ],
+    "id": 1180
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Felicia created a shape using some white bricks and 42 gray bricks. How many of these gray bricks cannot be seen in the picture?  A: 2,B: 11,C: 25,D: 20,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1183.png"
+    ],
+    "id": 1183
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Paul created a shape using some red blocks and 40 black blocks. How many of these black blocks are not visible in the drawing?  A: 10,B: 14,C: 24,D: 37,E: 20. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1184.png"
+    ],
+    "id": 1184
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Katherine built a shape using some red blocks and 13 brown blocks. How many of these brown blocks cannot be seen in the drawing?  A: 6,B: 4,C: 8,D: 5,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1194.png"
+    ],
+    "id": 1194
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Stephen created a structure using some red bricks and 14 gray bricks. How many of these gray bricks cannot be seen in the cartoon?  A: 3,B: 0,C: 4,D: 5,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1207.png"
+    ],
+    "id": 1207
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Robert made a shape using some blue blocks and 13 white blocks. How many of these white blocks are not visible in the picture?  A: 4,B: 6,C: 9,D: 7,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_121.png"
+    ],
+    "id": 121
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Erin built a setup using some gray bricks and 5 brown bricks. How many of these brown bricks cannot be seen in the cartoon?  A: 5,B: 9,C: 4,D: 3,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1215.png"
+    ],
+    "id": 1215
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Carrie built a structure using some brown blocks and 140 red blocks. How many of these red blocks are not visible in the figure?  A: 86,B: 100,C: 168,D: 145,E: 101. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_122.png"
+    ],
+    "id": 122
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Brenda built a setup using some black bricks and 21 brown bricks. How many of these brown bricks cannot be seen in the drawing?  A: 6,B: 13,C: 18,D: 17,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1224.png"
+    ],
+    "id": 1224
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jeff built a shape using some gray bricks and 22 blue bricks. How many of these blue bricks cannot be seen in the cartoon?  A: 9,B: 8,C: 13,D: 6,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1238.png"
+    ],
+    "id": 1238
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jerry built a structure using some black blocks and 20 white blocks. How many of these white blocks cannot be seen in the picture?  A: 6,B: 17,C: 18,D: 2,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1241.png"
+    ],
+    "id": 1241
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Amy built a structure using some brown bricks and 41 red bricks. How many of these red bricks cannot be seen in the cartoon?  A: 28,B: 16,C: 36,D: 23,E: 20. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1248.png"
+    ],
+    "id": 1248
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Paige made a structure using some black bricks and 29 red bricks. How many of these red bricks cannot be seen in the cartoon?  A: 1,B: 5,C: 12,D: 17,E: 21. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1254.png"
+    ],
+    "id": 1254
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Daniel created a setup using some green blocks and 18 black blocks. How many of these black blocks cannot be seen in the drawing?  A: 12,B: 4,C: 8,D: 5,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1256.png"
+    ],
+    "id": 1256
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Albert made a setup using some brown blocks and 66 green blocks. How many of these green blocks cannot be seen in the figure?  A: 58,B: 55,C: 40,D: 64,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1257.png"
+    ],
+    "id": 1257
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Christopher built a setup using some white blocks and 57 blue blocks. How many of these blue blocks are not visible in the image?  A: 44,B: 32,C: 13,D: 43,E: 22. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1264.png"
+    ],
+    "id": 1264
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Karen made a structure using some black bricks and 45 green bricks. How many of these green bricks are not visible in the figure?  A: 26,B: 14,C: 37,D: 25,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1266.png"
+    ],
+    "id": 1266
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Johnny built a setup using some blue blocks and 176 red blocks. How many of these red blocks cannot be seen in the figure?  A: 103,B: 182,C: 125,D: 225,E: 35. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1267.png"
+    ],
+    "id": 1267
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Mary built a structure using some brown blocks and 58 red blocks. How many of these red blocks are not visible in the image?  A: 0,B: 36,C: 47,D: 46,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1275.png"
+    ],
+    "id": 1275
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Brian made a setup using some brown blocks and 29 white blocks. How many of these white blocks cannot be seen in the image?  A: 5,B: 19,C: 17,D: 16,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1282.png"
+    ],
+    "id": 1282
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Frank built a setup using some black blocks and 16 green blocks. How many of these green blocks are not visible in the drawing?  A: 2,B: 3,C: 6,D: 5,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1291.png"
+    ],
+    "id": 1291
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Daniel created a setup using some gray bricks and 7 black bricks. How many of these black bricks are not visible in the picture?  A: 2,B: 7,C: 1,D: 4,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1294.png"
+    ],
+    "id": 1294
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Tyler built a setup using some brown bricks and 52 green bricks. How many of these green bricks are not visible in the figure?  A: 32,B: 6,C: 14,D: 56,E: 44. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1297.png"
+    ],
+    "id": 1297
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Derrick created a structure using some red blocks and 22 green blocks. How many of these green blocks are not visible in the figure?  A: 8,B: 0,C: 10,D: 5,E: 18. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_13.png"
+    ],
+    "id": 13
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kenneth made a shape using some white bricks and 14 black bricks. How many of these black bricks are not visible in the picture?  A: 9,B: 7,C: 5,D: 3,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_130.png"
+    ],
+    "id": 130
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Wayne made a setup using some blue bricks and 50 black bricks. How many of these black bricks cannot be seen in the cartoon?  A: 50,B: 20,C: 19,D: 25,E: 30. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1306.png"
+    ],
+    "id": 1306
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jose created a setup using some blue blocks and 28 gray blocks. How many of these gray blocks are not visible in the picture?  A: 13,B: 4,C: 2,D: 15,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1332.png"
+    ],
+    "id": 1332
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: John built a shape using some white blocks and 42 blue blocks. How many of these blue blocks are not visible in the drawing?  A: 27,B: 46,C: 30,D: 18,E: 24. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1337.png"
+    ],
+    "id": 1337
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Tina made a setup using some red bricks and 21 green bricks. How many of these green bricks are not visible in the picture?  A: 12,B: 2,C: 11,D: 10,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_134.png"
+    ],
+    "id": 134
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Holly built a setup using some brown blocks and 6 black blocks. How many of these black blocks are not visible in the picture?  A: 2,B: 3,C: 1,D: 7,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1354.png"
+    ],
+    "id": 1354
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: William created a structure using some white blocks and 19 blue blocks. How many of these blue blocks cannot be seen in the figure?  A: 6,B: 8,C: 1,D: 10,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1363.png"
+    ],
+    "id": 1363
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Daniel created a shape using some black blocks and 53 red blocks. How many of these red blocks cannot be seen in the drawing?  A: 60,B: 9,C: 8,D: 32,E: 36. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1367.png"
+    ],
+    "id": 1367
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Derrick created a shape using some gray blocks and 31 black blocks. How many of these black blocks cannot be seen in the cartoon?  A: 31,B: 18,C: 1,D: 16,E: 28. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1369.png"
+    ],
+    "id": 1369
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel built a setup using some black blocks and 36 gray blocks. How many of these gray blocks cannot be seen in the picture?  A: 9,B: 35,C: 20,D: 14,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1371.png"
+    ],
+    "id": 1371
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kathryn created a setup using some brown blocks and 13 gray blocks. How many of these gray blocks cannot be seen in the image?  A: 6,B: 9,C: 0,D: 5,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1382.png"
+    ],
+    "id": 1382
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michael made a setup using some black bricks and 91 white bricks. How many of these white bricks cannot be seen in the drawing?  A: 60,B: 20,C: 25,D: 22,E: 118. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1390.png"
+    ],
+    "id": 1390
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Frank built a shape using some black blocks and 7 white blocks. How many of these white blocks are not visible in the drawing?  A: 6,B: 8,C: 1,D: 3,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1396.png"
+    ],
+    "id": 1396
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel built a shape using some blue bricks and 27 green bricks. How many of these green bricks cannot be seen in the figure?  A: 4,B: 25,C: 0,D: 1,E: 18. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1397.png"
+    ],
+    "id": 1397
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel built a shape using some brown blocks and 29 red blocks. How many of these red blocks cannot be seen in the picture?  A: 5,B: 15,C: 6,D: 13,E: 25. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_14.png"
+    ],
+    "id": 14
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joseph built a structure using some black bricks and 38 blue bricks. How many of these blue bricks are not visible in the image?  A: 20,B: 15,C: 6,D: 8,E: 37. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1400.png"
+    ],
+    "id": 1400
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Anthony built a shape using some green blocks and 10 gray blocks. How many of these gray blocks are not visible in the picture?  A: 1,B: 8,C: 4,D: 7,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1408.png"
+    ],
+    "id": 1408
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Julie made a setup using some brown blocks and 14 green blocks. How many of these green blocks are not visible in the drawing?  A: 5,B: 2,C: 6,D: 7,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1409.png"
+    ],
+    "id": 1409
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Wayne created a setup using some black bricks and 23 gray bricks. How many of these gray bricks are not visible in the cartoon?  A: 15,B: 7,C: 3,D: 0,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1410.png"
+    ],
+    "id": 1410
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jennifer created a structure using some white bricks and 10 red bricks. How many of these red bricks are not visible in the image?  A: 4,B: 6,C: 9,D: 8,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1411.png"
+    ],
+    "id": 1411
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kevin built a shape using some brown blocks and 15 green blocks. How many of these green blocks are not visible in the cartoon?  A: 2,B: 4,C: 7,D: 6,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1413.png"
+    ],
+    "id": 1413
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Catherine created a setup using some black bricks and 15 gray bricks. How many of these gray bricks cannot be seen in the figure?  A: 4,B: 11,C: 7,D: 2,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1426.png"
+    ],
+    "id": 1426
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Erin built a setup using some black blocks and 71 white blocks. How many of these white blocks cannot be seen in the image?  A: 40,B: 69,C: 42,D: 45,E: 55. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_143.png"
+    ],
+    "id": 143
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Stephen built a shape using some green blocks and 57 gray blocks. How many of these gray blocks cannot be seen in the image?  A: 20,B: 30,C: 47,D: 34,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1430.png"
+    ],
+    "id": 1430
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joseph created a shape using some white blocks and 33 red blocks. How many of these red blocks cannot be seen in the image?  A: 6,B: 34,C: 12,D: 20,E: 30. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1434.png"
+    ],
+    "id": 1434
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Denise made a structure using some gray bricks and 120 blue bricks. How many of these blue bricks cannot be seen in the cartoon?  A: 95,B: 134,C: 80,D: 59,E: 117. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1437.png"
+    ],
+    "id": 1437
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michele created a setup using some blue blocks and 32 brown blocks. How many of these brown blocks cannot be seen in the image?  A: 16,B: 31,C: 5,D: 26,E: 20. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1439.png"
+    ],
+    "id": 1439
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Melissa built a shape using some white bricks and 76 red bricks. How many of these red bricks cannot be seen in the figure?  A: 17,B: 3,C: 50,D: 26,E: 62. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1451.png"
+    ],
+    "id": 1451
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel created a shape using some black blocks and 35 gray blocks. How many of these gray blocks cannot be seen in the drawing?  A: 19,B: 33,C: 20,D: 4,E: 28. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1459.png"
+    ],
+    "id": 1459
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Paul made a setup using some black bricks and 35 white bricks. How many of these white bricks cannot be seen in the drawing?  A: 4,B: 16,C: 10,D: 5,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1462.png"
+    ],
+    "id": 1462
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jose created a setup using some red bricks and 19 gray bricks. How many of these gray bricks are not visible in the figure?  A: 8,B: 7,C: 4,D: 9,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1478.png"
+    ],
+    "id": 1478
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel created a structure using some gray bricks and 18 green bricks. How many of these green bricks are not visible in the cartoon?  A: 7,B: 8,C: 11,D: 5,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1479.png"
+    ],
+    "id": 1479
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Sandra created a shape using some green bricks and 5 gray bricks. How many of these gray bricks are not visible in the cartoon?  A: 2,B: 9,C: 4,D: 5,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1482.png"
+    ],
+    "id": 1482
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Catherine made a shape using some brown bricks and 22 black bricks. How many of these black bricks are not visible in the image?  A: 17,B: 9,C: 13,D: 10,E: 19. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1484.png"
+    ],
+    "id": 1484
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Katherine created a shape using some blue blocks and 39 black blocks. How many of these black blocks are not visible in the image?  A: 35,B: 24,C: 32,D: 8,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1485.png"
+    ],
+    "id": 1485
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: William built a structure using some white bricks and 89 brown bricks. How many of these brown bricks are not visible in the cartoon?  A: 64,B: 106,C: 120,D: 75,E: 33. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1495.png"
+    ],
+    "id": 1495
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Emily created a shape using some red blocks and 46 green blocks. How many of these green blocks are not visible in the drawing?  A: 24,B: 40,C: 13,D: 11,E: 30. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1496.png"
+    ],
+    "id": 1496
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Bridget created a structure using some red bricks and 96 brown bricks. How many of these brown bricks are not visible in the drawing?  A: 45,B: 51,C: 39,D: 60,E: 67. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1499.png"
+    ],
+    "id": 1499
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Carl built a setup using some green blocks and 20 blue blocks. How many of these blue blocks are not visible in the figure?  A: 4,B: 13,C: 7,D: 8,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1500.png"
+    ],
+    "id": 1500
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Catherine made a structure using some gray blocks and 145 green blocks. How many of these green blocks cannot be seen in the drawing?  A: 154,B: 99,C: 100,D: 146,E: 80. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1508.png"
+    ],
+    "id": 1508
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joshua made a structure using some green bricks and 11 black bricks. How many of these black bricks cannot be seen in the drawing?  A: 5,B: 4,C: 1,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1513.png"
+    ],
+    "id": 1513
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Derrick made a shape using some blue blocks and 44 red blocks. How many of these red blocks cannot be seen in the figure?  A: 38,B: 9,C: 50,D: 53,E: 27. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1515.png"
+    ],
+    "id": 1515
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Matthew made a structure using some black bricks and 69 brown bricks. How many of these brown bricks cannot be seen in the cartoon?  A: 56,B: 40,C: 34,D: 58,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1520.png"
+    ],
+    "id": 1520
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kathryn made a structure using some black bricks and 34 blue bricks. How many of these blue bricks are not visible in the image?  A: 20,B: 18,C: 31,D: 37,E: 38. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1522.png"
+    ],
+    "id": 1522
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michael built a structure using some red blocks and 19 blue blocks. How many of these blue blocks cannot be seen in the image?  A: 1,B: 8,C: 4,D: 6,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1528.png"
+    ],
+    "id": 1528
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jorge created a setup using some brown blocks and 22 red blocks. How many of these red blocks are not visible in the drawing?  A: 8,B: 2,C: 15,D: 5,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1529.png"
+    ],
+    "id": 1529
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joseph created a setup using some black blocks and 31 green blocks. How many of these green blocks cannot be seen in the image?  A: 9,B: 19,C: 7,D: 12,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1533.png"
+    ],
+    "id": 1533
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Brenda built a setup using some black blocks and 25 green blocks. How many of these green blocks cannot be seen in the image?  A: 6,B: 22,C: 20,D: 23,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1534.png"
+    ],
+    "id": 1534
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Julie built a setup using some black blocks and 104 green blocks. How many of these green blocks are not visible in the picture?  A: 63,B: 145,C: 38,D: 36,E: 80. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1570.png"
+    ],
+    "id": 1570
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Danielle built a shape using some green blocks and 27 brown blocks. How many of these brown blocks cannot be seen in the image?  A: 12,B: 23,C: 1,D: 17,E: 19. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1577.png"
+    ],
+    "id": 1577
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Wayne made a structure using some gray bricks and 11 red bricks. How many of these red bricks cannot be seen in the figure?  A: 7,B: 2,C: 4,D: 3,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1579.png"
+    ],
+    "id": 1579
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Sandra built a structure using some gray blocks and 24 white blocks. How many of these white blocks cannot be seen in the cartoon?  A: 1,B: 3,C: 9,D: 12,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1584.png"
+    ],
+    "id": 1584
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Denise created a shape using some brown bricks and 32 black bricks. How many of these black bricks are not visible in the figure?  A: 18,B: 30,C: 17,D: 20,E: 29. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1585.png"
+    ],
+    "id": 1585
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michael built a shape using some brown blocks and 29 gray blocks. How many of these gray blocks cannot be seen in the picture?  A: 15,B: 22,C: 11,D: 3,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1589.png"
+    ],
+    "id": 1589
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Christian built a structure using some gray bricks and 41 blue bricks. How many of these blue bricks are not visible in the cartoon?  A: 25,B: 19,C: 44,D: 24,E: 31. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1590.png"
+    ],
+    "id": 1590
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Lisa built a shape using some black blocks and 32 gray blocks. How many of these gray blocks cannot be seen in the figure?  A: 3,B: 4,C: 21,D: 16,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1597.png"
+    ],
+    "id": 1597
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Johnny created a setup using some blue blocks and 20 red blocks. How many of these red blocks are not visible in the figure?  A: 8,B: 3,C: 6,D: 0,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1598.png"
+    ],
+    "id": 1598
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Hannah made a setup using some gray bricks and 51 white bricks. How many of these white bricks cannot be seen in the image?  A: 4,B: 38,C: 58,D: 30,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_161.png"
+    ],
+    "id": 161
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Bruce made a structure using some blue blocks and 20 green blocks. How many of these green blocks are not visible in the cartoon?  A: 18,B: 13,C: 10,D: 7,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1631.png"
+    ],
+    "id": 1631
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Robert made a structure using some blue bricks and 56 black bricks. How many of these black bricks are not visible in the image?  A: 24,B: 30,C: 28,D: 0,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1633.png"
+    ],
+    "id": 1633
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Felicia made a structure using some gray blocks and 21 white blocks. How many of these white blocks are not visible in the picture?  A: 15,B: 14,C: 8,D: 10,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1636.png"
+    ],
+    "id": 1636
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Vickie made a shape using some white bricks and 30 red bricks. How many of these red bricks are not visible in the drawing?  A: 15,B: 9,C: 5,D: 19,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1638.png"
+    ],
+    "id": 1638
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joseph made a setup using some green blocks and 10 gray blocks. How many of these gray blocks are not visible in the image?  A: 2,B: 5,C: 0,D: 4,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1643.png"
+    ],
+    "id": 1643
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Nathan created a setup using some gray blocks and 23 blue blocks. How many of these blue blocks are not visible in the image?  A: 10,B: 0,C: 19,D: 8,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1648.png"
+    ],
+    "id": 1648
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jeff made a shape using some brown bricks and 101 black bricks. How many of these black bricks cannot be seen in the picture?  A: 75,B: 0,C: 48,D: 13,E: 20. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_166.png"
+    ],
+    "id": 166
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Karen made a shape using some gray bricks and 168 brown bricks. How many of these brown bricks cannot be seen in the cartoon?  A: 146,B: 125,C: 194,D: 227,E: 229. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1661.png"
+    ],
+    "id": 1661
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Nathan made a setup using some red bricks and 32 brown bricks. How many of these brown bricks cannot be seen in the figure?  A: 18,B: 25,C: 27,D: 28,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1663.png"
+    ],
+    "id": 1663
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Charles made a setup using some black bricks and 65 gray bricks. How many of these gray bricks are not visible in the cartoon?  A: 40,B: 12,C: 7,D: 15,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1678.png"
+    ],
+    "id": 1678
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Derrick built a structure using some gray bricks and 19 blue bricks. How many of these blue bricks cannot be seen in the figure?  A: 12,B: 10,C: 16,D: 0,E: 18. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1685.png"
+    ],
+    "id": 1685
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Holly made a setup using some black blocks and 63 white blocks. How many of these white blocks are not visible in the cartoon?  A: 20,B: 52,C: 62,D: 29,E: 40. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1687.png"
+    ],
+    "id": 1687
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Tracy built a shape using some black blocks and 25 red blocks. How many of these red blocks are not visible in the image?  A: 12,B: 8,C: 10,D: 16,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1695.png"
+    ],
+    "id": 1695
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Dustin created a structure using some white bricks and 75 gray bricks. How many of these gray bricks are not visible in the image?  A: 75,B: 82,C: 81,D: 84,E: 50. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1698.png"
+    ],
+    "id": 1698
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Emily made a setup using some brown blocks and 35 black blocks. How many of these black blocks are not visible in the image?  A: 10,B: 13,C: 16,D: 23,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1700.png"
+    ],
+    "id": 1700
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Pamela made a structure using some gray blocks and 33 blue blocks. How many of these blue blocks cannot be seen in the figure?  A: 9,B: 14,C: 27,D: 5,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1705.png"
+    ],
+    "id": 1705
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Danielle created a shape using some blue bricks and 89 red bricks. How many of these red bricks are not visible in the picture?  A: 51,B: 14,C: 7,D: 46,E: 60. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1707.png"
+    ],
+    "id": 1707
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: William made a shape using some green bricks and 53 red bricks. How many of these red bricks are not visible in the picture?  A: 36,B: 21,C: 49,D: 18,E: 43. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1714.png"
+    ],
+    "id": 1714
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kristin built a structure using some black bricks and 31 white bricks. How many of these white bricks cannot be seen in the figure?  A: 0,B: 18,C: 3,D: 16,E: 20. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1715.png"
+    ],
+    "id": 1715
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: John made a setup using some black bricks and 47 brown bricks. How many of these brown bricks cannot be seen in the picture?  A: 48,B: 54,C: 51,D: 10,E: 30. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1722.png"
+    ],
+    "id": 1722
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Victor made a structure using some gray bricks and 32 brown bricks. How many of these brown bricks are not visible in the drawing?  A: 24,B: 16,C: 31,D: 14,E: 29. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1724.png"
+    ],
+    "id": 1724
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Charles made a structure using some black blocks and 32 red blocks. How many of these red blocks cannot be seen in the image?  A: 1,B: 9,C: 15,D: 13,E: 17. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1725.png"
+    ],
+    "id": 1725
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Gabriel made a shape using some white bricks and 37 black bricks. How many of these black bricks are not visible in the image?  A: 39,B: 31,C: 20,D: 14,E: 27. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1748.png"
+    ],
+    "id": 1748
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Denise created a setup using some gray bricks and 45 black bricks. How many of these black bricks are not visible in the picture?  A: 26,B: 13,C: 10,D: 24,E: 30. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1750.png"
+    ],
+    "id": 1750
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Chelsea made a setup using some red blocks and 49 brown blocks. How many of these brown blocks cannot be seen in the drawing?  A: 48,B: 43,C: 12,D: 27,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1751.png"
+    ],
+    "id": 1751
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Derrick made a setup using some blue bricks and 25 red bricks. How many of these red bricks are not visible in the drawing?  A: 8,B: 5,C: 12,D: 11,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1753.png"
+    ],
+    "id": 1753
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joshua made a shape using some red blocks and 69 gray blocks. How many of these gray blocks cannot be seen in the drawing?  A: 50,B: 35,C: 40,D: 34,E: 36. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1757.png"
+    ],
+    "id": 1757
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: John created a structure using some black bricks and 35 gray bricks. How many of these gray bricks cannot be seen in the drawing?  A: 16,B: 14,C: 1,D: 18,E: 27. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1758.png"
+    ],
+    "id": 1758
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Carrie created a shape using some blue bricks and 26 brown bricks. How many of these brown bricks cannot be seen in the figure?  A: 9,B: 16,C: 14,D: 0,E: 17. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1762.png"
+    ],
+    "id": 1762
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Robert created a shape using some red blocks and 24 brown blocks. How many of these brown blocks cannot be seen in the drawing?  A: 14,B: 8,C: 3,D: 9,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1772.png"
+    ],
+    "id": 1772
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Katherine built a setup using some white bricks and 89 red bricks. How many of these red bricks cannot be seen in the image?  A: 109,B: 60,C: 70,D: 94,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1773.png"
+    ],
+    "id": 1773
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michael created a setup using some gray bricks and 72 blue bricks. How many of these blue bricks are not visible in the picture?  A: 85,B: 69,C: 33,D: 48,E: 74. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1792.png"
+    ],
+    "id": 1792
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michele built a setup using some black blocks and 31 brown blocks. How many of these brown blocks cannot be seen in the figure?  A: 18,B: 6,C: 16,D: 27,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1795.png"
+    ],
+    "id": 1795
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michele made a shape using some red blocks and 37 gray blocks. How many of these gray blocks cannot be seen in the cartoon?  A: 7,B: 24,C: 30,D: 16,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1796.png"
+    ],
+    "id": 1796
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: John built a structure using some gray bricks and 86 black bricks. How many of these black bricks are not visible in the picture?  A: 52,B: 60,C: 113,D: 118,E: 76. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1806.png"
+    ],
+    "id": 1806
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Justin built a shape using some red blocks and 36 white blocks. How many of these white blocks cannot be seen in the cartoon?  A: 14,B: 16,C: 10,D: 6,E: 27. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1808.png"
+    ],
+    "id": 1808
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: John built a shape using some brown blocks and 87 blue blocks. How many of these blue blocks cannot be seen in the figure?  A: 74,B: 3,C: 60,D: 77,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1823.png"
+    ],
+    "id": 1823
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Melissa created a structure using some red blocks and 89 black blocks. How many of these black blocks cannot be seen in the cartoon?  A: 60,B: 4,C: 26,D: 102,E: 101. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1835.png"
+    ],
+    "id": 1835
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Felicia built a setup using some white blocks and 70 blue blocks. How many of these blue blocks are not visible in the figure?  A: 65,B: 45,C: 40,D: 38,E: 71. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1836.png"
+    ],
+    "id": 1836
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Erin made a structure using some white blocks and 12 red blocks. How many of these red blocks are not visible in the picture?  A: 3,B: 1,C: 4,D: 6,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1839.png"
+    ],
+    "id": 1839
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jon made a structure using some blue bricks and 60 black bricks. How many of these black bricks are not visible in the image?  A: 39,B: 71,C: 45,D: 36,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1841.png"
+    ],
+    "id": 1841
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: John made a structure using some white blocks and 12 blue blocks. How many of these blue blocks cannot be seen in the figure?  A: 9,B: 5,C: 8,D: 4,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1842.png"
+    ],
+    "id": 1842
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Tina made a structure using some red blocks and 166 white blocks. How many of these white blocks are not visible in the drawing?  A: 125,B: 119,C: 195,D: 181,E: 28. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1845.png"
+    ],
+    "id": 1845
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michelle created a shape using some white bricks and 39 brown bricks. How many of these brown bricks are not visible in the figure?  A: 24,B: 17,C: 38,D: 20,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1848.png"
+    ],
+    "id": 1848
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Matthew built a setup using some green blocks and 26 brown blocks. How many of these brown blocks are not visible in the image?  A: 3,B: 12,C: 13,D: 8,E: 17. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1851.png"
+    ],
+    "id": 1851
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Johnny built a setup using some gray blocks and 38 blue blocks. How many of these blue blocks cannot be seen in the drawing?  A: 45,B: 15,C: 24,D: 7,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1862.png"
+    ],
+    "id": 1862
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Charles made a structure using some blue blocks and 29 gray blocks. How many of these gray blocks are not visible in the picture?  A: 9,B: 11,C: 28,D: 1,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1863.png"
+    ],
+    "id": 1863
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Natalie created a structure using some red blocks and 15 black blocks. How many of these black blocks are not visible in the cartoon?  A: 9,B: 10,C: 8,D: 4,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_187.png"
+    ],
+    "id": 187
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Tina made a shape using some brown blocks and 46 white blocks. How many of these white blocks are not visible in the figure?  A: 30,B: 38,C: 43,D: 40,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1880.png"
+    ],
+    "id": 1880
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Charles built a structure using some green blocks and 35 gray blocks. How many of these gray blocks cannot be seen in the cartoon?  A: 24,B: 16,C: 21,D: 19,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1885.png"
+    ],
+    "id": 1885
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Holly built a structure using some green bricks and 21 brown bricks. How many of these brown bricks cannot be seen in the drawing?  A: 8,B: 14,C: 5,D: 9,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1886.png"
+    ],
+    "id": 1886
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Carl created a structure using some gray blocks and 14 brown blocks. How many of these brown blocks cannot be seen in the drawing?  A: 2,B: 5,C: 9,D: 1,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_189.png"
+    ],
+    "id": 189
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Deborah made a shape using some blue blocks and 93 gray blocks. How many of these gray blocks cannot be seen in the drawing?  A: 64,B: 103,C: 7,D: 60,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1891.png"
+    ],
+    "id": 1891
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Dustin created a shape using some green blocks and 14 red blocks. How many of these red blocks are not visible in the cartoon?  A: 0,B: 10,C: 1,D: 8,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1895.png"
+    ],
+    "id": 1895
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Christopher built a structure using some gray blocks and 17 brown blocks. How many of these brown blocks are not visible in the picture?  A: 13,B: 8,C: 4,D: 1,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1899.png"
+    ],
+    "id": 1899
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Catherine built a shape using some red blocks and 117 black blocks. How many of these black blocks cannot be seen in the drawing?  A: 89,B: 80,C: 138,D: 53,E: 109. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1900.png"
+    ],
+    "id": 1900
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Dustin built a setup using some blue blocks and 90 red blocks. How many of these red blocks are not visible in the drawing?  A: 85,B: 35,C: 0,D: 60,E: 21. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1901.png"
+    ],
+    "id": 1901
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Tyler built a structure using some gray bricks and 55 brown bricks. How many of these brown bricks are not visible in the cartoon?  A: 4,B: 43,C: 44,D: 3,E: 25. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1915.png"
+    ],
+    "id": 1915
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Tina created a structure using some black bricks and 9 white bricks. How many of these white bricks cannot be seen in the cartoon?  A: 4,B: 8,C: 0,D: 9,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1925.png"
+    ],
+    "id": 1925
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Anthony made a shape using some red blocks and 33 gray blocks. How many of these gray blocks are not visible in the picture?  A: 18,B: 19,C: 31,D: 3,E: 16. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1951.png"
+    ],
+    "id": 1951
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Matthew built a structure using some blue bricks and 30 white bricks. How many of these white bricks cannot be seen in the image?  A: 22,B: 16,C: 19,D: 29,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1952.png"
+    ],
+    "id": 1952
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel built a shape using some black bricks and 30 green bricks. How many of these green bricks cannot be seen in the picture?  A: 30,B: 22,C: 2,D: 27,E: 16. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_197.png"
+    ],
+    "id": 197
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Carl built a shape using some blue blocks and 47 red blocks. How many of these red blocks cannot be seen in the image?  A: 24,B: 14,C: 30,D: 2,E: 25. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1970.png"
+    ],
+    "id": 1970
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Christopher built a shape using some brown bricks and 20 red bricks. How many of these red bricks cannot be seen in the image?  A: 6,B: 9,C: 0,D: 8,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_1996.png"
+    ],
+    "id": 1996
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: John built a setup using some blue bricks and 34 white bricks. How many of these white bricks are not visible in the picture?  A: 20,B: 14,C: 3,D: 19,E: 16. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_20.png"
+    ],
+    "id": 20
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jasmine made a setup using some gray bricks and 34 black bricks. How many of these black bricks are not visible in the figure?  A: 23,B: 14,C: 16,D: 19,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_200.png"
+    ],
+    "id": 200
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Nicholas built a shape using some red bricks and 24 gray bricks. How many of these gray bricks are not visible in the picture?  A: 10,B: 16,C: 2,D: 14,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_201.png"
+    ],
+    "id": 201
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Carl built a shape using some black blocks and 92 gray blocks. How many of these gray blocks cannot be seen in the image?  A: 82,B: 12,C: 80,D: 60,E: 68. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_202.png"
+    ],
+    "id": 202
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kathryn built a shape using some gray blocks and 92 white blocks. How many of these white blocks are not visible in the drawing?  A: 0,B: 27,C: 94,D: 70,E: 60. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_205.png"
+    ],
+    "id": 205
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: John built a structure using some red blocks and 35 blue blocks. How many of these blue blocks are not visible in the drawing?  A: 22,B: 20,C: 38,D: 36,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_206.png"
+    ],
+    "id": 206
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Matthew made a shape using some brown bricks and 18 red bricks. How many of these red bricks cannot be seen in the figure?  A: 14,B: 1,C: 3,D: 12,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_21.png"
+    ],
+    "id": 21
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rebecca built a shape using some blue blocks and 46 brown blocks. How many of these brown blocks cannot be seen in the picture?  A: 47,B: 42,C: 25,D: 17,E: 46. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_216.png"
+    ],
+    "id": 216
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: John built a structure using some gray bricks and 30 blue bricks. How many of these blue bricks cannot be seen in the image?  A: 16,B: 2,C: 20,D: 28,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_219.png"
+    ],
+    "id": 219
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Paige made a structure using some gray bricks and 59 green bricks. How many of these green bricks are not visible in the drawing?  A: 40,B: 35,C: 75,D: 28,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_230.png"
+    ],
+    "id": 230
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Frank created a structure using some brown blocks and 34 green blocks. How many of these green blocks are not visible in the drawing?  A: 15,B: 5,C: 22,D: 0,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_241.png"
+    ],
+    "id": 241
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Catherine made a structure using some gray blocks and 31 green blocks. How many of these green blocks are not visible in the picture?  A: 23,B: 2,C: 16,D: 15,E: 26. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_246.png"
+    ],
+    "id": 246
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Lawrence created a setup using some gray bricks and 20 black bricks. How many of these black bricks are not visible in the image?  A: 7,B: 8,C: 5,D: 15,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_252.png"
+    ],
+    "id": 252
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joseph built a structure using some green blocks and 26 gray blocks. How many of these gray blocks are not visible in the drawing?  A: 3,B: 1,C: 12,D: 18,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_269.png"
+    ],
+    "id": 269
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Catherine made a setup using some white blocks and 26 gray blocks. How many of these gray blocks cannot be seen in the figure?  A: 19,B: 14,C: 2,D: 26,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_276.png"
+    ],
+    "id": 276
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Nathan made a setup using some black bricks and 15 brown bricks. How many of these brown bricks are not visible in the image?  A: 6,B: 8,C: 2,D: 11,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_279.png"
+    ],
+    "id": 279
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Melissa created a shape using some gray bricks and 91 white bricks. How many of these white bricks cannot be seen in the drawing?  A: 58,B: 43,C: 63,D: 0,E: 60. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_288.png"
+    ],
+    "id": 288
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Tina made a shape using some gray bricks and 19 red bricks. How many of these red bricks cannot be seen in the drawing?  A: 11,B: 8,C: 6,D: 0,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_293.png"
+    ],
+    "id": 293
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jerry made a shape using some brown bricks and 37 gray bricks. How many of these gray bricks are not visible in the drawing?  A: 18,B: 30,C: 4,D: 35,E: 33. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_295.png"
+    ],
+    "id": 295
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel created a shape using some gray blocks and 54 red blocks. How many of these red blocks are not visible in the picture?  A: 30,B: 27,C: 32,D: 36,E: 40. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_315.png"
+    ],
+    "id": 315
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Emily built a shape using some brown bricks and 74 blue bricks. How many of these blue bricks cannot be seen in the picture?  A: 80,B: 45,C: 48,D: 77,E: 58. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_317.png"
+    ],
+    "id": 317
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Bruce built a shape using some gray blocks and 33 red blocks. How many of these red blocks are not visible in the image?  A: 14,B: 9,C: 2,D: 19,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_330.png"
+    ],
+    "id": 330
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Gina created a structure using some black blocks and 43 blue blocks. How many of these blue blocks are not visible in the picture?  A: 28,B: 33,C: 6,D: 24,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_337.png"
+    ],
+    "id": 337
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Albert created a shape using some green blocks and 88 blue blocks. How many of these blue blocks are not visible in the image?  A: 60,B: 32,C: 55,D: 26,E: 102. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_34.png"
+    ],
+    "id": 34
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Sylvia built a shape using some gray blocks and 7 black blocks. How many of these black blocks cannot be seen in the figure?  A: 1,B: 8,C: 4,D: 3,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_343.png"
+    ],
+    "id": 343
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Christine built a structure using some brown blocks and 24 white blocks. How many of these white blocks are not visible in the figure?  A: 9,B: 18,C: 16,D: 22,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_378.png"
+    ],
+    "id": 378
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joseph made a structure using some black blocks and 47 blue blocks. How many of these blue blocks cannot be seen in the figure?  A: 18,B: 22,C: 2,D: 45,E: 25. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_379.png"
+    ],
+    "id": 379
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Chelsea created a setup using some white bricks and 112 red bricks. How many of these red bricks are not visible in the cartoon?  A: 12,B: 75,C: 96,D: 88,E: 22. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_384.png"
+    ],
+    "id": 384
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Amy created a structure using some red blocks and 75 blue blocks. How many of these blue blocks are not visible in the picture?  A: 50,B: 64,C: 4,D: 33,E: 30. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_385.png"
+    ],
+    "id": 385
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Thomas created a setup using some red blocks and 63 gray blocks. How many of these gray blocks cannot be seen in the drawing?  A: 40,B: 6,C: 1,D: 47,E: 22. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_387.png"
+    ],
+    "id": 387
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Melissa built a shape using some blue blocks and 51 red blocks. How many of these red blocks cannot be seen in the picture?  A: 25,B: 4,C: 12,D: 32,E: 21. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_391.png"
+    ],
+    "id": 391
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Bruce created a setup using some white blocks and 20 brown blocks. How many of these brown blocks cannot be seen in the figure?  A: 8,B: 5,C: 1,D: 15,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_392.png"
+    ],
+    "id": 392
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jennifer built a setup using some blue blocks and 46 green blocks. How many of these green blocks are not visible in the picture?  A: 25,B: 21,C: 16,D: 19,E: 31. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_397.png"
+    ],
+    "id": 397
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Stephen created a shape using some gray blocks and 49 red blocks. How many of these red blocks are not visible in the cartoon?  A: 30,B: 22,C: 38,D: 6,E: 41. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_40.png"
+    ],
+    "id": 40
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Natalie made a setup using some green bricks and 22 gray bricks. How many of these gray bricks cannot be seen in the figure?  A: 16,B: 13,C: 9,D: 15,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_400.png"
+    ],
+    "id": 400
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Tina created a setup using some red bricks and 170 brown bricks. How many of these brown bricks are not visible in the figure?  A: 47,B: 53,C: 125,D: 102,E: 133. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_401.png"
+    ],
+    "id": 401
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Gabriel made a shape using some brown blocks and 113 red blocks. How many of these red blocks are not visible in the drawing?  A: 134,B: 29,C: 48,D: 75,E: 39. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_406.png"
+    ],
+    "id": 406
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Chelsea created a shape using some blue bricks and 74 red bricks. How many of these red bricks cannot be seen in the cartoon?  A: 34,B: 48,C: 65,D: 80,E: 84. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_418.png"
+    ],
+    "id": 418
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Danielle built a setup using some blue bricks and 75 black bricks. How many of these black bricks cannot be seen in the picture?  A: 95,B: 51,C: 14,D: 48,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_441.png"
+    ],
+    "id": 441
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Holly made a setup using some red bricks and 17 brown bricks. How many of these brown bricks cannot be seen in the cartoon?  A: 6,B: 5,C: 1,D: 3,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_455.png"
+    ],
+    "id": 455
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joshua made a setup using some blue blocks and 36 red blocks. How many of these red blocks are not visible in the figure?  A: 20,B: 16,C: 9,D: 6,E: 18. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_459.png"
+    ],
+    "id": 459
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jose built a shape using some gray blocks and 113 red blocks. How many of these red blocks cannot be seen in the cartoon?  A: 75,B: 90,C: 77,D: 19,E: 56. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_466.png"
+    ],
+    "id": 466
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michelle created a shape using some white blocks and 46 gray blocks. How many of these gray blocks cannot be seen in the cartoon?  A: 17,B: 8,C: 39,D: 20,E: 37. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_474.png"
+    ],
+    "id": 474
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Julie made a shape using some black bricks and 26 green bricks. How many of these green bricks cannot be seen in the figure?  A: 11,B: 9,C: 6,D: 10,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_484.png"
+    ],
+    "id": 484
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Charles created a structure using some black blocks and 40 brown blocks. How many of these brown blocks are not visible in the figure?  A: 5,B: 27,C: 6,D: 20,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_492.png"
+    ],
+    "id": 492
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Derrick made a shape using some white bricks and 28 black bricks. How many of these black bricks are not visible in the drawing?  A: 23,B: 12,C: 10,D: 18,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_502.png"
+    ],
+    "id": 502
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jose created a structure using some green bricks and 78 gray bricks. How many of these gray bricks are not visible in the figure?  A: 0,B: 50,C: 10,D: 58,E: 76. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_508.png"
+    ],
+    "id": 508
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Katherine built a setup using some gray bricks and 10 brown bricks. How many of these brown bricks are not visible in the picture?  A: 4,B: 0,C: 2,D: 1,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_510.png"
+    ],
+    "id": 510
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Justin made a shape using some brown blocks and 14 white blocks. How many of these white blocks are not visible in the cartoon?  A: 4,B: 12,C: 13,D: 8,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_520.png"
+    ],
+    "id": 520
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Katherine built a setup using some red blocks and 15 green blocks. How many of these green blocks cannot be seen in the image?  A: 9,B: 8,C: 2,D: 7,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_524.png"
+    ],
+    "id": 524
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Melissa made a structure using some white bricks and 34 green bricks. How many of these green bricks are not visible in the image?  A: 4,B: 5,C: 2,D: 15,E: 25. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_540.png"
+    ],
+    "id": 540
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Katherine made a structure using some red bricks and 64 gray bricks. How many of these gray bricks are not visible in the figure?  A: 39,B: 57,C: 40,D: 50,E: 23. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_556.png"
+    ],
+    "id": 556
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Holly created a shape using some black bricks and 75 green bricks. How many of these green bricks cannot be seen in the drawing?  A: 59,B: 53,C: 74,D: 4,E: 50. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_562.png"
+    ],
+    "id": 562
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: John created a setup using some red blocks and 58 brown blocks. How many of these brown blocks are not visible in the cartoon?  A: 15,B: 40,C: 59,D: 32,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_563.png"
+    ],
+    "id": 563
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Natalie created a structure using some white bricks and 12 brown bricks. How many of these brown bricks are not visible in the image?  A: 8,B: 2,C: 5,D: 4,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_564.png"
+    ],
+    "id": 564
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michelle made a structure using some white bricks and 21 green bricks. How many of these green bricks are not visible in the figure?  A: 5,B: 10,C: 12,D: 17,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_565.png"
+    ],
+    "id": 565
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rebecca created a structure using some white bricks and 43 gray bricks. How many of these gray bricks cannot be seen in the image?  A: 11,B: 20,C: 5,D: 14,E: 30. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_577.png"
+    ],
+    "id": 577
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Tyler made a structure using some brown bricks and 16 black bricks. How many of these black bricks cannot be seen in the drawing?  A: 1,B: 8,C: 7,D: 9,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_592.png"
+    ],
+    "id": 592
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Derrick made a setup using some green bricks and 33 black bricks. How many of these black bricks cannot be seen in the figure?  A: 7,B: 25,C: 16,D: 10,E: 24. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_600.png"
+    ],
+    "id": 600
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michael built a shape using some red blocks and 139 brown blocks. How many of these brown blocks cannot be seen in the picture?  A: 39,B: 72,C: 52,D: 40,E: 100. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_608.png"
+    ],
+    "id": 608
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: John created a setup using some blue blocks and 35 brown blocks. How many of these brown blocks cannot be seen in the cartoon?  A: 10,B: 12,C: 11,D: 16,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_612.png"
+    ],
+    "id": 612
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Stephen created a structure using some gray blocks and 44 white blocks. How many of these white blocks are not visible in the image?  A: 20,B: 28,C: 0,D: 24,E: 30. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_627.png"
+    ],
+    "id": 627
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kristin built a shape using some white blocks and 24 gray blocks. How many of these gray blocks are not visible in the drawing?  A: 4,B: 12,C: 7,D: 22,E: 19. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_632.png"
+    ],
+    "id": 632
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michele made a shape using some gray bricks and 113 brown bricks. How many of these brown bricks are not visible in the image?  A: 71,B: 17,C: 118,D: 105,E: 80. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_64.png"
+    ],
+    "id": 64
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jennifer made a structure using some gray blocks and 95 brown blocks. How many of these brown blocks cannot be seen in the drawing?  A: 29,B: 99,C: 8,D: 102,E: 60. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_641.png"
+    ],
+    "id": 641
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Tyler created a shape using some gray blocks and 65 green blocks. How many of these green blocks are not visible in the image?  A: 40,B: 56,C: 21,D: 16,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_642.png"
+    ],
+    "id": 642
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Tina built a setup using some white bricks and 30 blue bricks. How many of these blue bricks are not visible in the picture?  A: 24,B: 16,C: 26,D: 12,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_645.png"
+    ],
+    "id": 645
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Cristina made a setup using some red blocks and 44 green blocks. How many of these green blocks cannot be seen in the cartoon?  A: 24,B: 23,C: 3,D: 9,E: 18. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_646.png"
+    ],
+    "id": 646
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Gabriel built a structure using some green blocks and 28 red blocks. How many of these red blocks cannot be seen in the cartoon?  A: 14,B: 19,C: 0,D: 15,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_647.png"
+    ],
+    "id": 647
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Melissa built a setup using some blue bricks and 8 black bricks. How many of these black bricks cannot be seen in the figure?  A: 1,B: 3,C: 9,D: 0,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_648.png"
+    ],
+    "id": 648
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Victor built a shape using some brown bricks and 39 blue bricks. How many of these blue bricks are not visible in the cartoon?  A: 23,B: 43,C: 24,D: 6,E: 44. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_663.png"
+    ],
+    "id": 663
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Gabriel created a structure using some gray blocks and 26 red blocks. How many of these red blocks are not visible in the picture?  A: 12,B: 6,C: 14,D: 5,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_681.png"
+    ],
+    "id": 681
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Stephen built a setup using some brown bricks and 28 black bricks. How many of these black bricks are not visible in the image?  A: 1,B: 0,C: 12,D: 10,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_683.png"
+    ],
+    "id": 683
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Frank created a setup using some brown bricks and 13 black bricks. How many of these black bricks are not visible in the picture?  A: 6,B: 11,C: 8,D: 5,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_686.png"
+    ],
+    "id": 686
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Paul created a structure using some brown bricks and 62 green bricks. How many of these green bricks cannot be seen in the figure?  A: 47,B: 1,C: 40,D: 52,E: 35. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_698.png"
+    ],
+    "id": 698
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Catherine made a shape using some brown bricks and 112 blue bricks. How many of these blue bricks cannot be seen in the image?  A: 60,B: 25,C: 34,D: 132,E: 75. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_699.png"
+    ],
+    "id": 699
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Bridget made a shape using some black blocks and 39 white blocks. How many of these white blocks cannot be seen in the image?  A: 7,B: 25,C: 8,D: 16,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_702.png"
+    ],
+    "id": 702
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kathryn built a structure using some black bricks and 18 blue bricks. How many of these blue bricks are not visible in the cartoon?  A: 9,B: 16,C: 10,D: 12,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_709.png"
+    ],
+    "id": 709
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Paige created a structure using some gray bricks and 82 red bricks. How many of these red bricks are not visible in the picture?  A: 29,B: 63,C: 36,D: 38,E: 50. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_719.png"
+    ],
+    "id": 719
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Charles created a setup using some white bricks and 43 brown bricks. How many of these brown bricks are not visible in the cartoon?  A: 24,B: 31,C: 14,D: 18,E: 47. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_725.png"
+    ],
+    "id": 725
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Anthony built a structure using some white bricks and 37 red bricks. How many of these red bricks are not visible in the image?  A: 39,B: 36,C: 15,D: 24,E: 26. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_729.png"
+    ],
+    "id": 729
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jorge built a setup using some red bricks and 17 white bricks. How many of these white bricks are not visible in the figure?  A: 2,B: 12,C: 6,D: 8,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_742.png"
+    ],
+    "id": 742
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jennifer made a structure using some black blocks and 18 white blocks. How many of these white blocks are not visible in the picture?  A: 9,B: 6,C: 1,D: 3,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_747.png"
+    ],
+    "id": 747
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jasmine built a shape using some blue blocks and 42 black blocks. How many of these black blocks cannot be seen in the drawing?  A: 12,B: 37,C: 34,D: 20,E: 35. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_748.png"
+    ],
+    "id": 748
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Gabriel created a shape using some gray blocks and 70 brown blocks. How many of these brown blocks are not visible in the cartoon?  A: 69,B: 31,C: 57,D: 40,E: 47. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_751.png"
+    ],
+    "id": 751
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jeff built a shape using some green bricks and 10 white bricks. How many of these white bricks are not visible in the cartoon?  A: 0,B: 3,C: 4,D: 9,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_763.png"
+    ],
+    "id": 763
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: William built a shape using some green blocks and 9 blue blocks. How many of these blue blocks are not visible in the picture?  A: 8,B: 9,C: 2,D: 3,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_766.png"
+    ],
+    "id": 766
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Pamela built a setup using some blue blocks and 23 green blocks. How many of these green blocks cannot be seen in the drawing?  A: 7,B: 16,C: 2,D: 13,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_769.png"
+    ],
+    "id": 769
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michelle created a setup using some blue bricks and 21 gray bricks. How many of these gray bricks cannot be seen in the drawing?  A: 1,B: 15,C: 9,D: 10,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_775.png"
+    ],
+    "id": 775
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Julie made a shape using some black bricks and 55 green bricks. How many of these green bricks are not visible in the picture?  A: 39,B: 32,C: 43,D: 59,E: 57. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_776.png"
+    ],
+    "id": 776
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Melissa created a shape using some red blocks and 54 black blocks. How many of these black blocks are not visible in the figure?  A: 30,B: 25,C: 29,D: 4,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_779.png"
+    ],
+    "id": 779
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michael created a setup using some black blocks and 42 brown blocks. How many of these brown blocks cannot be seen in the drawing?  A: 5,B: 23,C: 38,D: 17,E: 20. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_791.png"
+    ],
+    "id": 791
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jeff created a shape using some white blocks and 64 brown blocks. How many of these brown blocks cannot be seen in the cartoon?  A: 66,B: 32,C: 59,D: 40,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_794.png"
+    ],
+    "id": 794
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Felicia created a shape using some white blocks and 10 gray blocks. How many of these gray blocks cannot be seen in the figure?  A: 1,B: 4,C: 8,D: 5,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_795.png"
+    ],
+    "id": 795
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kristin made a shape using some white bricks and 6 red bricks. How many of these red bricks cannot be seen in the cartoon?  A: 4,B: 1,C: 2,D: 7,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_804.png"
+    ],
+    "id": 804
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michael made a shape using some red bricks and 25 blue bricks. How many of these blue bricks cannot be seen in the cartoon?  A: 12,B: 6,C: 0,D: 21,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_805.png"
+    ],
+    "id": 805
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Charles created a structure using some red blocks and 94 green blocks. How many of these green blocks are not visible in the picture?  A: 115,B: 36,C: 94,D: 60,E: 103. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_815.png"
+    ],
+    "id": 815
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: John built a setup using some brown blocks and 65 gray blocks. How many of these gray blocks cannot be seen in the picture?  A: 29,B: 73,C: 45,D: 8,E: 79. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_831.png"
+    ],
+    "id": 831
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Wayne built a shape using some green blocks and 11 gray blocks. How many of these gray blocks are not visible in the figure?  A: 3,B: 2,C: 0,D: 6,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_835.png"
+    ],
+    "id": 835
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Robert built a shape using some red bricks and 31 blue bricks. How many of these blue bricks are not visible in the image?  A: 3,B: 15,C: 18,D: 4,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_840.png"
+    ],
+    "id": 840
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Sylvia created a structure using some blue blocks and 52 gray blocks. How many of these gray blocks cannot be seen in the cartoon?  A: 55,B: 33,C: 30,D: 15,E: 41. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_854.png"
+    ],
+    "id": 854
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Victor made a shape using some gray blocks and 23 black blocks. How many of these black blocks cannot be seen in the figure?  A: 12,B: 9,C: 4,D: 11,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_856.png"
+    ],
+    "id": 856
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: William built a setup using some brown bricks and 33 black bricks. How many of these black bricks cannot be seen in the drawing?  A: 34,B: 2,C: 20,D: 23,E: 31. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_860.png"
+    ],
+    "id": 860
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kathryn built a shape using some blue blocks and 121 green blocks. How many of these green blocks are not visible in the cartoon?  A: 51,B: 126,C: 80,D: 136,E: 62. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_863.png"
+    ],
+    "id": 863
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: William built a structure using some brown bricks and 15 blue bricks. How many of these blue bricks are not visible in the picture?  A: 5,B: 8,C: 6,D: 9,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_87.png"
+    ],
+    "id": 87
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Amy created a shape using some blue blocks and 113 green blocks. How many of these green blocks cannot be seen in the figure?  A: 46,B: 73,C: 110,D: 96,E: 75. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_870.png"
+    ],
+    "id": 870
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Ariel created a setup using some white bricks and 41 blue bricks. How many of these blue bricks are not visible in the drawing?  A: 8,B: 6,C: 27,D: 20,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_871.png"
+    ],
+    "id": 871
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kristin made a setup using some gray blocks and 105 blue blocks. How many of these blue blocks cannot be seen in the figure?  A: 112,B: 75,C: 49,D: 102,E: 58. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_878.png"
+    ],
+    "id": 878
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Bruce created a shape using some brown blocks and 47 blue blocks. How many of these blue blocks cannot be seen in the cartoon?  A: 42,B: 27,C: 13,D: 17,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_883.png"
+    ],
+    "id": 883
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Chelsea created a setup using some gray bricks and 53 green bricks. How many of these green bricks cannot be seen in the drawing?  A: 11,B: 51,C: 19,D: 34,E: 30. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_891.png"
+    ],
+    "id": 891
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Anthony built a setup using some brown bricks and 13 gray bricks. How many of these gray bricks are not visible in the cartoon?  A: 5,B: 7,C: 3,D: 1,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_897.png"
+    ],
+    "id": 897
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jerry made a shape using some brown blocks and 50 white blocks. How many of these white blocks are not visible in the drawing?  A: 43,B: 6,C: 48,D: 45,E: 25. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_91.png"
+    ],
+    "id": 91
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: William created a shape using some white blocks and 24 gray blocks. How many of these gray blocks are not visible in the picture?  A: 12,B: 2,C: 1,D: 19,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_929.png"
+    ],
+    "id": 929
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Brian created a structure using some green blocks and 29 black blocks. How many of these black blocks are not visible in the figure?  A: 16,B: 30,C: 27,D: 9,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_95.png"
+    ],
+    "id": 95
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Bridget created a structure using some white bricks and 45 black bricks. How many of these black bricks cannot be seen in the cartoon?  A: 34,B: 20,C: 26,D: 38,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_951.png"
+    ],
+    "id": 951
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Lawrence created a setup using some blue blocks and 88 green blocks. How many of these green blocks are not visible in the cartoon?  A: 90,B: 77,C: 61,D: 60,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_955.png"
+    ],
+    "id": 955
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michael made a setup using some white bricks and 91 red bricks. How many of these red bricks cannot be seen in the cartoon?  A: 19,B: 32,C: 29,D: 75,E: 60. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_957.png"
+    ],
+    "id": 957
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Wayne created a shape using some green bricks and 68 black bricks. How many of these black bricks are not visible in the figure?  A: 20,B: 12,C: 61,D: 11,E: 40. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_960.png"
+    ],
+    "id": 960
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Carl created a setup using some blue bricks and 89 green bricks. How many of these green bricks are not visible in the picture?  A: 5,B: 100,C: 60,D: 115,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_972.png"
+    ],
+    "id": 972
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joshua built a structure using some white bricks and 16 gray bricks. How many of these gray bricks cannot be seen in the figure?  A: 6,B: 9,C: 1,D: 8,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_975.png"
+    ],
+    "id": 975
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: William created a structure using some green bricks and 36 white bricks. How many of these white bricks are not visible in the image?  A: 28,B: 33,C: 18,D: 31,E: 34. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_98.png"
+    ],
+    "id": 98
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Anthony made a structure using some blue blocks and 44 red blocks. How many of these red blocks cannot be seen in the cartoon?  A: 38,B: 24,C: 33,D: 16,E: 29. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_981.png"
+    ],
+    "id": 981
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joseph made a structure using some green bricks and 142 white bricks. How many of these white bricks are not visible in the figure?  A: 91,B: 186,C: 92,D: 32,E: 100. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/75/img/puzzle_75_995.png"
+    ],
+    "id": 995
+  }
+]

@@ -1,0 +1,4802 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her beginning turn, Felicia got 17 points with 9 arrows on the target, as presented in the image. On her second turn, she received 26 points, as presented in the second image and so on. How many point(s) did she receive on her last turn? A: 23,B: 21,C: 24,D: 1,E: 20. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1.png"
+    ],
+    "id": 1
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Gabriel made five attempts with the darts on the target as shown in the image. How many point(s) did he receive on his last attempt? A: 5,B: 24,C: 18,D: 1,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1012.png"
+    ],
+    "id": 1012
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his beginning chance, Matthew got 26 points with 9 darts on the target, as shown in the figure. On his next chance, he got 32 points, as shown in the next figure and so on. How many point(s) did he make on his last chance? A: 63,B: 32,C: 35,D: 54,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1016.png"
+    ],
+    "id": 1016
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her first attempt, Christine got 17 points with 10 arrows on the target, as presented in the figure. On her second attempt, she made 12 points, as presented in the second figure and so on. How many point(s) did she get on her last attempt? A: 18,B: 12,C: 17,D: 0,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1017.png"
+    ],
+    "id": 1017
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joshua made five turns with the arrows on the target as demonstrated in the image. How many point(s) did he get on his last turn? A: 8,B: 37,C: 49,D: 25,E: 36. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1020.png"
+    ],
+    "id": 1020
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her beginning chance, Felicia got 3 points with 2 arrows on the target, as demonstrated in the image. On her second chance, she received 8 points, as demonstrated in the second image. How many point(s) did she receive on her third chance? A: 1,B: 7,C: 2,D: 5,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1021.png"
+    ],
+    "id": 1021
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his first turn, Stephen got 7 points with 6 darts on the target, as presented in the picture. On his second turn, he received 5 points, as presented in the second picture and so on. How many point(s) did he get on his last turn? A: 14,B: 17,C: 3,D: 9,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1025.png"
+    ],
+    "id": 1025
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his initial turn, Nathan got 4 points with 5 arrows on the target, as depicted in the image. On his second turn, he got 11 points, as depicted in the second image and so on. How many point(s) did he receive on his last turn? A: 5,B: 2,C: 6,D: 1,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1028.png"
+    ],
+    "id": 1028
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his first attempt, John got 45 points with 15 darts on the target, as presented in the image. On his next attempt, he received 26 points, as presented in the next image and so on. How many point(s) did he get on his last attempt? A: 45,B: 17,C: 32,D: 12,E: 35. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1038.png"
+    ],
+    "id": 1038
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her initial chance, Rebecca got 21 points with 5 darts on the target, as displayed in the image. On her next chance, she got 18 points, as displayed in the next image. How many point(s) did she make on her last chance? A: 13,B: 9,C: 3,D: 12,E: 18. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1044.png"
+    ],
+    "id": 1044
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her first turn, Catherine got 16 points with 5 arrows on the target, as presented in the top-left part of the image. On her second turn, she got 11 points, as presented in the second image and so on. How many point(s) did she get on her last turn? A: 8,B: 49,C: 26,D: 28,E: 36. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1051.png"
+    ],
+    "id": 1051
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her initial attempt, Michelle got 17 points with 6 darts on the target, as displayed in the figure. On her next attempt, she made 16 points, as displayed in the next figure and so on. How many point(s) did she receive on her last attempt? A: 8,B: 6,C: 15,D: 23,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1056.png"
+    ],
+    "id": 1056
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her initial chance, Karen got 12 points with 9 darts on the target, as demonstrated in the figure. On her second chance, she got 11 points, as demonstrated in the second figure and so on. How many point(s) did she receive on her last chance? A: 12,B: 10,C: 7,D: 9,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1059.png"
+    ],
+    "id": 1059
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Brenda made five attempts with the arrows on the target as depicted in the image. How many point(s) did she get on her last attempt? A: 10,B: 39,C: 14,D: 6,E: 36. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1064.png"
+    ],
+    "id": 1064
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his first chance, Jon got 10 points with 8 arrows on the target, as demonstrated in the figure. On his second chance, he received 13 points, as demonstrated in the second figure and so on. How many point(s) did he receive on his last chance? A: 18,B: 12,C: 4,D: 27,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1071.png"
+    ],
+    "id": 1071
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joseph made three turns with the darts on the target as displayed in the figure. How many point(s) did he make on his last turn? A: 13,B: 11,C: 18,D: 20,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1076.png"
+    ],
+    "id": 1076
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michele made three attempts with the arrows on the target as demonstrated in the figure. How many point(s) did she get on her last attempt? A: 2,B: 1,C: 5,D: 3,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1082.png"
+    ],
+    "id": 1082
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her beginning attempt, Michele got 19 points with 7 darts on the target, as depicted in the top-left part of the picture. On her next attempt, she received 23 points, as depicted in the next picture and so on. How many point(s) did she make on her last attempt? A: 1,B: 2,C: 17,D: 10,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1086.png"
+    ],
+    "id": 1086
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michael made four attempts with the darts on the target as shown in the image. How many point(s) did he make on his last attempt? A: 11,B: 35,C: 21,D: 26,E: 27. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1095.png"
+    ],
+    "id": 1095
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his beginning chance, Anthony got 8 points with 6 arrows on the target, as demonstrated in the top-left part of the picture. On his second chance, he got 15 points, as demonstrated in the second picture and so on. How many point(s) did he make on his last chance? A: 7,B: 21,C: 29,D: 15,E: 20. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1104.png"
+    ],
+    "id": 1104
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel made four attempts with the arrows on the target as shown in the image. How many point(s) did she get on her last attempt? A: 17,B: 20,C: 0,D: 2,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1109.png"
+    ],
+    "id": 1109
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jasmine made five attempts with the arrows on the target as depicted in the figure. How many point(s) did she receive on her last attempt? A: 2,B: 38,C: 36,D: 21,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_112.png"
+    ],
+    "id": 112
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Brenda made four chances with the arrows on the target as demonstrated in the picture. How many point(s) did she get on her last chance? A: 2,B: 18,C: 10,D: 0,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1123.png"
+    ],
+    "id": 1123
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michele made four chances with the darts on the target as shown in the figure. How many point(s) did she make on her last chance? A: 9,B: 20,C: 10,D: 16,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1126.png"
+    ],
+    "id": 1126
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her initial turn, Bridget got 18 points with 10 arrows on the target, as depicted in the picture. On her second turn, she made 23 points, as depicted in the second picture and so on. How many point(s) did she make on her last turn? A: 36,B: 11,C: 26,D: 44,E: 16. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1129.png"
+    ],
+    "id": 1129
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jorge made five turns with the darts on the target as displayed in the figure. How many point(s) did he make on his last turn? A: 37,B: 11,C: 10,D: 20,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1130.png"
+    ],
+    "id": 1130
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: William made six attempts with the darts on the target as demonstrated in the image. How many point(s) did he receive on his last attempt? A: 13,B: 20,C: 28,D: 2,E: 19. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1136.png"
+    ],
+    "id": 1136
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michelle made four chances with the arrows on the target as demonstrated in the figure. How many point(s) did she get on her last chance? A: 4,B: 0,C: 1,D: 3,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1152.png"
+    ],
+    "id": 1152
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her beginning attempt, Bridget got 30 points with 11 arrows on the target, as demonstrated in the figure. On her next attempt, she received 26 points, as demonstrated in the next figure and so on. How many point(s) did she receive on her last attempt? A: 51,B: 2,C: 47,D: 48,E: 27. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1153.png"
+    ],
+    "id": 1153
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his first turn, William got 6 points with 5 arrows on the target, as demonstrated in the image. On his next turn, he received 18 points, as demonstrated in the next image and so on. How many point(s) did he make on his last turn? A: 13,B: 16,C: 3,D: 23,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1154.png"
+    ],
+    "id": 1154
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his first chance, Bruce got 19 points with 7 darts on the target, as depicted in the image. On his next chance, he made 24 points, as depicted in the next image and so on. How many point(s) did he receive on his last chance? A: 4,B: 24,C: 14,D: 6,E: 22. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1162.png"
+    ],
+    "id": 1162
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his beginning attempt, Christian got 4 points with 2 darts on the target, as shown in the picture. On his second attempt, he received 4 points, as shown in the second picture. How many point(s) did he make on his last attempt? A: 11,B: 12,C: 6,D: 15,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1180.png"
+    ],
+    "id": 1180
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Nicholas made five attempts with the arrows on the target as demonstrated in the image. How many point(s) did he get on his last attempt? A: 19,B: 40,C: 26,D: 11,E: 28. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1183.png"
+    ],
+    "id": 1183
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Wayne made five chances with the arrows on the target as displayed in the figure. How many point(s) did he get on his last chance? A: 32,B: 18,C: 33,D: 1,E: 29. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1184.png"
+    ],
+    "id": 1184
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his first chance, Michael got 10 points with 6 darts on the target, as demonstrated in the image. On his next chance, he got 8 points, as demonstrated in the next image and so on. How many point(s) did he receive on his last chance? A: 10,B: 17,C: 18,D: 1,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1194.png"
+    ],
+    "id": 1194
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his beginning chance, John got 42 points with 13 darts on the target, as displayed in the picture. On his second chance, he got 23 points, as displayed in the second picture and so on. How many point(s) did he make on his last chance? A: 24,B: 13,C: 30,D: 15,E: 25. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1207.png"
+    ],
+    "id": 1207
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his beginning turn, Bruce got 14 points with 7 arrows on the target, as presented in the top-left part of the picture. On his second turn, he got 21 points, as presented in the second picture and so on. How many point(s) did he make on his last turn? A: 13,B: 25,C: 10,D: 23,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_121.png"
+    ],
+    "id": 121
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel made three attempts with the darts on the target as depicted in the image. How many point(s) did she receive on her third attempt? A: 1,B: 7,C: 16,D: 8,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1215.png"
+    ],
+    "id": 1215
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her beginning turn, Amber got 10 points with 5 darts on the target, as presented in the figure. On her next turn, she made 15 points, as presented in the next figure and so on. How many point(s) did she get on her last turn? A: 17,B: 21,C: 11,D: 18,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_122.png"
+    ],
+    "id": 122
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Karen made five chances with the arrows on the target as demonstrated in the image. How many point(s) did she receive on her last chance? A: 7,B: 13,C: 21,D: 12,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1224.png"
+    ],
+    "id": 1224
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Cristina made five chances with the darts on the target as demonstrated in the figure. How many point(s) did she get on her last chance? A: 18,B: 12,C: 9,D: 14,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1238.png"
+    ],
+    "id": 1238
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel made three turns with the arrows on the target as shown in the picture. How many point(s) did she get on her third turn? A: 4,B: 9,C: 0,D: 6,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1241.png"
+    ],
+    "id": 1241
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Derrick made six chances with the darts on the target as shown in the figure. How many point(s) did he get on his last chance? A: 34,B: 19,C: 9,D: 16,E: 22. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1248.png"
+    ],
+    "id": 1248
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Gabriel made five chances with the darts on the target as shown in the image. How many point(s) did he receive on his last chance? A: 15,B: 14,C: 16,D: 26,E: 24. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1254.png"
+    ],
+    "id": 1254
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel made six turns with the darts on the target as displayed in the figure. How many point(s) did she receive on her last turn? A: 26,B: 41,C: 34,D: 47,E: 24. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1256.png"
+    ],
+    "id": 1256
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel made three chances with the darts on the target as depicted in the picture. How many point(s) did she get on her third chance? A: 3,B: 12,C: 7,D: 6,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1257.png"
+    ],
+    "id": 1257
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his first attempt, Bruce got 10 points with 3 darts on the target, as shown in the top-left part of the picture. On his second attempt, he made 17 points, as shown in the second picture. How many point(s) did he receive on his last attempt? A: 0,B: 19,C: 14,D: 24,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1264.png"
+    ],
+    "id": 1264
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his initial turn, John got 31 points with 10 darts on the target, as presented in the picture. On his second turn, he received 33 points, as presented in the second picture and so on. How many point(s) did he get on his last turn? A: 31,B: 6,C: 0,D: 32,E: 17. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1266.png"
+    ],
+    "id": 1266
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Julie made five chances with the arrows on the target as shown in the image. How many point(s) did she get on her last chance? A: 12,B: 3,C: 13,D: 17,E: 16. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1267.png"
+    ],
+    "id": 1267
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Charles made three attempts with the arrows on the target as presented in the figure. How many point(s) did he get on his last attempt? A: 9,B: 7,C: 0,D: 15,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1275.png"
+    ],
+    "id": 1275
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his beginning turn, Lawrence got 32 points with 12 darts on the target, as shown in the top-left part of the figure. On his second turn, he received 27 points, as shown in the second figure and so on. How many point(s) did he get on his last turn? A: 26,B: 32,C: 7,D: 4,E: 23. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1282.png"
+    ],
+    "id": 1282
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his initial turn, Joseph got 24 points with 7 arrows on the target, as shown in the picture. On his next turn, he got 29 points, as shown in the next picture and so on. How many point(s) did he get on his last turn? A: 29,B: 32,C: 22,D: 39,E: 34. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1291.png"
+    ],
+    "id": 1291
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his first chance, Jose got 20 points with 10 darts on the target, as demonstrated in the top-left part of the image. On his second chance, he made 25 points, as demonstrated in the second image and so on. How many point(s) did he get on his last chance? A: 40,B: 22,C: 11,D: 7,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1294.png"
+    ],
+    "id": 1294
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his initial turn, Jose got 11 points with 5 arrows on the target, as demonstrated in the top-left part of the image. On his next turn, he got 5 points, as demonstrated in the next image. How many point(s) did he receive on his last turn? A: 3,B: 6,C: 9,D: 10,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1297.png"
+    ],
+    "id": 1297
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: William made four chances with the darts on the target as shown in the image. How many point(s) did he make on his last chance? A: 2,B: 15,C: 5,D: 12,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_13.png"
+    ],
+    "id": 13
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Anthony made four turns with the darts on the target as demonstrated in the image. How many point(s) did he receive on his last turn? A: 4,B: 8,C: 10,D: 15,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_130.png"
+    ],
+    "id": 130
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Felicia made four turns with the arrows on the target as shown in the image. How many point(s) did she make on her last turn? A: 11,B: 8,C: 7,D: 4,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1306.png"
+    ],
+    "id": 1306
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her initial attempt, Jennifer got 13 points with 5 darts on the target, as demonstrated in the figure. On her next attempt, she received 11 points, as demonstrated in the next figure and so on. How many point(s) did she make on her last attempt? A: 18,B: 25,C: 1,D: 34,E: 20. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1332.png"
+    ],
+    "id": 1332
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michele made five chances with the arrows on the target as presented in the picture. How many point(s) did she receive on her last chance? A: 22,B: 9,C: 21,D: 18,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1337.png"
+    ],
+    "id": 1337
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her first attempt, Kathryn got 11 points with 6 arrows on the target, as depicted in the figure. On her second attempt, she made 9 points, as depicted in the second figure and so on. How many point(s) did she make on her last attempt? A: 2,B: 7,C: 3,D: 8,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_134.png"
+    ],
+    "id": 134
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Vickie made three attempts with the arrows on the target as shown in the image. How many point(s) did she receive on her last attempt? A: 1,B: 18,C: 14,D: 15,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1354.png"
+    ],
+    "id": 1354
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his initial chance, Frank got 11 points with 3 darts on the target, as shown in the figure. On his second chance, he received 14 points, as shown in the second figure. How many point(s) did he receive on his third chance? A: 25,B: 18,C: 31,D: 17,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1363.png"
+    ],
+    "id": 1363
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her initial turn, Sandra got 20 points with 8 arrows on the target, as demonstrated in the image. On her next turn, she received 17 points, as demonstrated in the next image and so on. How many point(s) did she get on her last turn? A: 35,B: 33,C: 4,D: 22,E: 29. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1367.png"
+    ],
+    "id": 1367
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her first turn, Chelsea got 20 points with 5 arrows on the target, as demonstrated in the top-left part of the image. On her next turn, she received 23 points, as demonstrated in the next image and so on. How many point(s) did she get on her last turn? A: 9,B: 8,C: 4,D: 15,E: 25. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1369.png"
+    ],
+    "id": 1369
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her initial turn, Carrie got 5 points with 5 arrows on the target, as depicted in the image. On her second turn, she received 12 points, as depicted in the second image and so on. How many point(s) did she receive on her last turn? A: 11,B: 0,C: 19,D: 12,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1371.png"
+    ],
+    "id": 1371
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her beginning chance, Lisa got 20 points with 7 arrows on the target, as depicted in the top-left part of the figure. On her next chance, she made 25 points, as depicted in the next figure and so on. How many point(s) did she make on her last chance? A: 17,B: 8,C: 6,D: 29,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1382.png"
+    ],
+    "id": 1382
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Danielle made three turns with the darts on the target as displayed in the picture. How many point(s) did she make on her third turn? A: 3,B: 6,C: 9,D: 8,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1390.png"
+    ],
+    "id": 1390
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his initial attempt, Jon got 37 points with 11 darts on the target, as demonstrated in the picture. On his next attempt, he received 26 points, as demonstrated in the next picture and so on. How many point(s) did he get on his last attempt? A: 60,B: 41,C: 48,D: 72,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1396.png"
+    ],
+    "id": 1396
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her beginning attempt, Kristin got 18 points with 5 darts on the target, as shown in the top-left part of the figure. On her next attempt, she made 18 points, as shown in the next figure and so on. How many point(s) did she make on her last attempt? A: 27,B: 44,C: 30,D: 37,E: 51. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1397.png"
+    ],
+    "id": 1397
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Albert made six attempts with the darts on the target as shown in the figure. How many point(s) did he get on his last attempt? A: 19,B: 29,C: 7,D: 41,E: 43. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_14.png"
+    ],
+    "id": 14
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her initial attempt, Christine got 19 points with 6 arrows on the target, as presented in the top-left part of the picture. On her second attempt, she got 31 points, as presented in the second picture and so on. How many point(s) did she make on her last attempt? A: 17,B: 21,C: 32,D: 52,E: 29. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1400.png"
+    ],
+    "id": 1400
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his beginning chance, Kenneth got 20 points with 8 arrows on the target, as displayed in the image. On his next chance, he made 19 points, as displayed in the next image and so on. How many point(s) did he make on his last chance? A: 57,B: 23,C: 29,D: 30,E: 21. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1408.png"
+    ],
+    "id": 1408
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jasmine made four turns with the darts on the target as depicted in the picture. How many point(s) did she receive on her last turn? A: 29,B: 49,C: 60,D: 20,E: 36. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1409.png"
+    ],
+    "id": 1409
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Katherine made three chances with the darts on the target as depicted in the figure. How many point(s) did she get on her last chance? A: 4,B: 1,C: 5,D: 17,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1410.png"
+    ],
+    "id": 1410
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his first chance, Victor got 18 points with 4 arrows on the target, as presented in the top-left part of the figure. On his next chance, he made 17 points, as presented in the next figure. How many point(s) did he get on his third chance? A: 9,B: 8,C: 6,D: 13,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1411.png"
+    ],
+    "id": 1411
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Robert made four attempts with the darts on the target as presented in the figure. How many point(s) did he get on his last attempt? A: 1,B: 9,C: 5,D: 7,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1413.png"
+    ],
+    "id": 1413
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her initial chance, Melissa got 6 points with 6 arrows on the target, as displayed in the top-left part of the picture. On her next chance, she got 4 points, as displayed in the next picture. How many point(s) did she get on her third chance? A: 1,B: 3,C: 9,D: 7,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1426.png"
+    ],
+    "id": 1426
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her initial turn, Amber got 17 points with 8 arrows on the target, as shown in the top-left part of the image. On her second turn, she got 32 points, as shown in the second image and so on. How many point(s) did she make on her last turn? A: 65,B: 34,C: 58,D: 52,E: 50. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_143.png"
+    ],
+    "id": 143
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his first chance, John got 7 points with 5 darts on the target, as displayed in the figure. On his second chance, he made 16 points, as displayed in the second figure and so on. How many point(s) did he receive on his last chance? A: 11,B: 8,C: 16,D: 7,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1430.png"
+    ],
+    "id": 1430
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jerry made three turns with the darts on the target as shown in the image. How many point(s) did he make on his third turn? A: 9,B: 12,C: 2,D: 8,E: 16. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1434.png"
+    ],
+    "id": 1434
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jennifer made three chances with the arrows on the target as depicted in the picture. How many point(s) did she receive on her third chance? A: 33,B: 29,C: 3,D: 18,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1437.png"
+    ],
+    "id": 1437
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Christian made four turns with the arrows on the target as presented in the image. How many point(s) did he make on his last turn? A: 9,B: 16,C: 12,D: 24,E: 29. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1439.png"
+    ],
+    "id": 1439
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Amber made four chances with the darts on the target as demonstrated in the image. How many point(s) did she receive on her last chance? A: 7,B: 11,C: 2,D: 20,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1451.png"
+    ],
+    "id": 1451
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her first attempt, Michelle got 38 points with 11 arrows on the target, as depicted in the top-left part of the picture. On her next attempt, she received 22 points, as depicted in the next picture and so on. How many point(s) did she make on her last attempt? A: 32,B: 10,C: 28,D: 18,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1459.png"
+    ],
+    "id": 1459
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her beginning chance, Rebecca got 16 points with 9 darts on the target, as demonstrated in the top-left part of the image. On her next chance, she got 15 points, as demonstrated in the next image and so on. How many point(s) did she receive on her last chance? A: 17,B: 0,C: 14,D: 4,E: 31. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1462.png"
+    ],
+    "id": 1462
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Julie made four turns with the darts on the target as shown in the picture. How many point(s) did she get on her last turn? A: 9,B: 6,C: 3,D: 10,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1478.png"
+    ],
+    "id": 1478
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Justin made six attempts with the darts on the target as displayed in the figure. How many point(s) did he make on his last attempt? A: 14,B: 21,C: 29,D: 40,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1479.png"
+    ],
+    "id": 1479
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her beginning attempt, Julie got 18 points with 7 arrows on the target, as shown in the image. On her second attempt, she made 32 points, as shown in the second image and so on. How many point(s) did she receive on her last attempt? A: 4,B: 25,C: 6,D: 2,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1482.png"
+    ],
+    "id": 1482
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kathryn made three attempts with the darts on the target as depicted in the figure. How many point(s) did she get on her last attempt? A: 5,B: 17,C: 29,D: 28,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1484.png"
+    ],
+    "id": 1484
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Daniel made five turns with the arrows on the target as demonstrated in the image. How many point(s) did he get on his last turn? A: 11,B: 6,C: 14,D: 12,E: 21. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1485.png"
+    ],
+    "id": 1485
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his initial chance, Michael got 8 points with 4 arrows on the target, as displayed in the top-left part of the figure. On his second chance, he received 10 points, as displayed in the second figure. How many point(s) did he receive on his last chance? A: 2,B: 8,C: 11,D: 7,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1495.png"
+    ],
+    "id": 1495
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Pamela made six turns with the arrows on the target as presented in the picture. How many point(s) did she receive on her last turn? A: 11,B: 20,C: 33,D: 57,E: 29. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1496.png"
+    ],
+    "id": 1496
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Nathan made six chances with the arrows on the target as displayed in the picture. How many point(s) did he make on his last chance? A: 0,B: 25,C: 45,D: 23,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1499.png"
+    ],
+    "id": 1499
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her initial turn, Brenda got 14 points with 4 darts on the target, as demonstrated in the image. On her second turn, she received 24 points, as demonstrated in the second image. How many point(s) did she receive on her third turn? A: 14,B: 15,C: 6,D: 8,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1500.png"
+    ],
+    "id": 1500
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Christian made three turns with the arrows on the target as demonstrated in the image. How many point(s) did he make on his third turn? A: 11,B: 14,C: 12,D: 20,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1508.png"
+    ],
+    "id": 1508
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michael made six attempts with the arrows on the target as shown in the figure. How many point(s) did he receive on his last attempt? A: 5,B: 23,C: 10,D: 41,E: 27. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1513.png"
+    ],
+    "id": 1513
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Stephen made three attempts with the darts on the target as displayed in the figure. How many point(s) did he receive on his last attempt? A: 7,B: 10,C: 3,D: 5,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1515.png"
+    ],
+    "id": 1515
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her beginning chance, Crystal got 20 points with 8 arrows on the target, as presented in the top-left part of the figure. On her second chance, she received 23 points, as presented in the second figure and so on. How many point(s) did she get on her last chance? A: 9,B: 17,C: 10,D: 2,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1520.png"
+    ],
+    "id": 1520
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Melissa made four chances with the arrows on the target as demonstrated in the figure. How many point(s) did she receive on her last chance? A: 46,B: 17,C: 13,D: 9,E: 27. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1522.png"
+    ],
+    "id": 1522
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his first turn, Christian got 34 points with 12 arrows on the target, as shown in the top-left part of the picture. On his next turn, he got 16 points, as shown in the next picture and so on. How many point(s) did he get on his last turn? A: 66,B: 42,C: 74,D: 11,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1528.png"
+    ],
+    "id": 1528
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joseph made four attempts with the darts on the target as depicted in the image. How many point(s) did he get on his last attempt? A: 3,B: 36,C: 19,D: 0,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1529.png"
+    ],
+    "id": 1529
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her initial turn, Katherine got 32 points with 10 arrows on the target, as demonstrated in the top-left part of the image. On her next turn, she made 23 points, as demonstrated in the next image and so on. How many point(s) did she get on her last turn? A: 41,B: 12,C: 17,D: 5,E: 23. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1533.png"
+    ],
+    "id": 1533
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his initial chance, Anthony got 12 points with 7 darts on the target, as demonstrated in the top-left part of the figure. On his second chance, he got 23 points, as demonstrated in the second figure and so on. How many point(s) did he make on his last chance? A: 20,B: 3,C: 26,D: 21,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1534.png"
+    ],
+    "id": 1534
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his initial turn, Matthew got 22 points with 10 darts on the target, as shown in the top-left part of the figure. On his next turn, he got 20 points, as shown in the next figure and so on. How many point(s) did he make on his last turn? A: 33,B: 48,C: 47,D: 25,E: 28. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1570.png"
+    ],
+    "id": 1570
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Brian made five chances with the darts on the target as demonstrated in the image. How many point(s) did he receive on his last chance? A: 27,B: 44,C: 35,D: 19,E: 23. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1577.png"
+    ],
+    "id": 1577
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her first attempt, Hannah got 2 points with 3 arrows on the target, as demonstrated in the figure. On her next attempt, she made 2 points, as demonstrated in the next figure. How many point(s) did she make on her third attempt? A: 2,B: 8,C: 6,D: 4,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1579.png"
+    ],
+    "id": 1579
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michele made five turns with the darts on the target as shown in the image. How many point(s) did she make on her last turn? A: 31,B: 27,C: 20,D: 48,E: 30. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1584.png"
+    ],
+    "id": 1584
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jasmine made six turns with the arrows on the target as demonstrated in the picture. How many point(s) did she get on her last turn? A: 28,B: 27,C: 33,D: 17,E: 38. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1585.png"
+    ],
+    "id": 1585
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her initial turn, Crystal got 15 points with 6 darts on the target, as displayed in the image. On her second turn, she got 16 points, as displayed in the second image and so on. How many point(s) did she receive on her last turn? A: 33,B: 19,C: 13,D: 5,E: 21. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1589.png"
+    ],
+    "id": 1589
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jennifer made three attempts with the darts on the target as depicted in the picture. How many point(s) did she get on her third attempt? A: 8,B: 12,C: 11,D: 15,E: 20. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1590.png"
+    ],
+    "id": 1590
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his initial attempt, John got 9 points with 6 arrows on the target, as displayed in the top-left part of the picture. On his next attempt, he got 9 points, as displayed in the next picture. How many point(s) did he make on his third attempt? A: 15,B: 9,C: 7,D: 13,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1597.png"
+    ],
+    "id": 1597
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her first turn, Sandra got 20 points with 7 arrows on the target, as depicted in the figure. On her second turn, she made 23 points, as depicted in the second figure and so on. How many point(s) did she make on her last turn? A: 33,B: 17,C: 24,D: 21,E: 34. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1598.png"
+    ],
+    "id": 1598
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his first attempt, Nathan got 19 points with 6 darts on the target, as presented in the figure. On his second attempt, he made 22 points, as presented in the second figure and so on. How many point(s) did he make on his last attempt? A: 29,B: 32,C: 30,D: 17,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_161.png"
+    ],
+    "id": 161
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Natalie made three turns with the darts on the target as presented in the figure. How many point(s) did she make on her third turn? A: 1,B: 3,C: 9,D: 0,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1631.png"
+    ],
+    "id": 1631
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his initial chance, Gabriel got 27 points with 9 darts on the target, as displayed in the top-left part of the picture. On his next chance, he got 24 points, as displayed in the next picture and so on. How many point(s) did he make on his last chance? A: 5,B: 8,C: 40,D: 26,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1633.png"
+    ],
+    "id": 1633
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Katherine made four attempts with the darts on the target as shown in the image. How many point(s) did she make on her last attempt? A: 11,B: 20,C: 15,D: 4,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1636.png"
+    ],
+    "id": 1636
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Melissa made five chances with the darts on the target as shown in the picture. How many point(s) did she get on her last chance? A: 31,B: 29,C: 58,D: 61,E: 57. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1638.png"
+    ],
+    "id": 1638
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Robert made six chances with the darts on the target as shown in the picture. How many point(s) did he receive on his last chance? A: 32,B: 37,C: 23,D: 22,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1643.png"
+    ],
+    "id": 1643
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Nicholas made four chances with the arrows on the target as presented in the image. How many point(s) did he get on his last chance? A: 6,B: 17,C: 1,D: 14,E: 19. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1648.png"
+    ],
+    "id": 1648
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Carl made six attempts with the darts on the target as presented in the picture. How many point(s) did he make on his last attempt? A: 29,B: 10,C: 0,D: 25,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_166.png"
+    ],
+    "id": 166
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his first chance, Joshua got 18 points with 9 darts on the target, as displayed in the top-left part of the figure. On his second chance, he received 26 points, as displayed in the second figure and so on. How many point(s) did he make on his last chance? A: 28,B: 17,C: 22,D: 36,E: 24. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1661.png"
+    ],
+    "id": 1661
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his beginning turn, Thomas got 9 points with 4 arrows on the target, as shown in the image. On his second turn, he got 3 points, as shown in the second image. How many point(s) did he make on his last turn? A: 9,B: 1,C: 3,D: 16,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1663.png"
+    ],
+    "id": 1663
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Wayne made five turns with the arrows on the target as depicted in the image. How many point(s) did he get on his last turn? A: 15,B: 19,C: 20,D: 18,E: 25. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1678.png"
+    ],
+    "id": 1678
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his first turn, Derrick got 7 points with 5 arrows on the target, as depicted in the top-left part of the image. On his second turn, he made 15 points, as depicted in the second image and so on. How many point(s) did he get on his last turn? A: 4,B: 8,C: 1,D: 3,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1685.png"
+    ],
+    "id": 1685
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Karen made six turns with the darts on the target as demonstrated in the picture. How many point(s) did she get on her last turn? A: 9,B: 23,C: 19,D: 14,E: 16. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1687.png"
+    ],
+    "id": 1687
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his beginning chance, Gabriel got 24 points with 10 darts on the target, as depicted in the top-left part of the figure. On his second chance, he got 30 points, as depicted in the second figure and so on. How many point(s) did he make on his last chance? A: 36,B: 32,C: 63,D: 29,E: 65. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1695.png"
+    ],
+    "id": 1695
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Katherine made four attempts with the darts on the target as shown in the image. How many point(s) did she receive on her last attempt? A: 27,B: 30,C: 21,D: 11,E: 17. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1698.png"
+    ],
+    "id": 1698
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her first turn, Chelsea got 21 points with 8 arrows on the target, as presented in the top-left part of the picture. On her second turn, she received 19 points, as presented in the second picture and so on. How many point(s) did she receive on her last turn? A: 3,B: 9,C: 16,D: 14,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1700.png"
+    ],
+    "id": 1700
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his initial turn, Lawrence got 19 points with 5 arrows on the target, as presented in the figure. On his next turn, he received 13 points, as presented in the next figure. How many point(s) did he make on his third turn? A: 13,B: 2,C: 20,D: 3,E: 16. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1705.png"
+    ],
+    "id": 1705
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Julie made three turns with the darts on the target as displayed in the figure. How many point(s) did she receive on her last turn? A: 5,B: 17,C: 0,D: 12,E: 16. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1707.png"
+    ],
+    "id": 1707
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Amber made four turns with the arrows on the target as displayed in the image. How many point(s) did she get on her last turn? A: 20,B: 29,C: 8,D: 0,E: 19. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1714.png"
+    ],
+    "id": 1714
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her beginning chance, Kathryn got 11 points with 4 darts on the target, as shown in the top-left part of the figure. On her second chance, she received 14 points, as shown in the second figure and so on. How many point(s) did she make on her last chance? A: 30,B: 20,C: 19,D: 17,E: 21. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1715.png"
+    ],
+    "id": 1715
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her beginning chance, Danielle got 21 points with 7 arrows on the target, as demonstrated in the picture. On her second chance, she made 14 points, as demonstrated in the second picture and so on. How many point(s) did she make on her last chance? A: 25,B: 26,C: 42,D: 36,E: 24. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1722.png"
+    ],
+    "id": 1722
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: John made six attempts with the arrows on the target as demonstrated in the picture. How many point(s) did he get on his last attempt? A: 0,B: 27,C: 16,D: 52,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1724.png"
+    ],
+    "id": 1724
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her first turn, Bridget got 21 points with 9 darts on the target, as shown in the top-left part of the picture. On her second turn, she received 24 points, as shown in the second picture and so on. How many point(s) did she receive on her last turn? A: 27,B: 9,C: 37,D: 15,E: 49. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1725.png"
+    ],
+    "id": 1725
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Julie made five attempts with the arrows on the target as depicted in the image. How many point(s) did she make on her last attempt? A: 22,B: 20,C: 4,D: 10,E: 26. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1748.png"
+    ],
+    "id": 1748
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Anthony made six chances with the arrows on the target as shown in the figure. How many point(s) did he make on his last chance? A: 35,B: 51,C: 15,D: 26,E: 57. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1750.png"
+    ],
+    "id": 1750
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Thomas made three chances with the arrows on the target as shown in the image. How many point(s) did he make on his last chance? A: 5,B: 0,C: 8,D: 1,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1751.png"
+    ],
+    "id": 1751
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jorge made three turns with the darts on the target as demonstrated in the figure. How many point(s) did he receive on his last turn? A: 18,B: 6,C: 11,D: 13,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1753.png"
+    ],
+    "id": 1753
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his beginning attempt, Jose got 18 points with 5 darts on the target, as shown in the picture. On his next attempt, he got 26 points, as shown in the next picture and so on. How many point(s) did he receive on his last attempt? A: 15,B: 11,C: 13,D: 17,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1757.png"
+    ],
+    "id": 1757
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her initial chance, Michelle got 9 points with 4 arrows on the target, as displayed in the figure. On her next chance, she made 12 points, as displayed in the next figure and so on. How many point(s) did she get on her last chance? A: 14,B: 1,C: 27,D: 12,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1758.png"
+    ],
+    "id": 1758
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her initial turn, Kathryn got 13 points with 5 darts on the target, as displayed in the image. On her next turn, she got 11 points, as displayed in the next image and so on. How many point(s) did she get on her last turn? A: 16,B: 13,C: 22,D: 20,E: 19. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1762.png"
+    ],
+    "id": 1762
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Denise made four turns with the arrows on the target as presented in the figure. How many point(s) did she make on her last turn? A: 28,B: 18,C: 6,D: 17,E: 30. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1772.png"
+    ],
+    "id": 1772
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his beginning chance, Kenneth got 30 points with 11 darts on the target, as shown in the top-left part of the figure. On his second chance, he got 18 points, as shown in the second figure and so on. How many point(s) did he get on his last chance? A: 26,B: 21,C: 34,D: 7,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1773.png"
+    ],
+    "id": 1773
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Gabriel made five chances with the arrows on the target as depicted in the figure. How many point(s) did he make on his last chance? A: 28,B: 42,C: 45,D: 1,E: 25. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1792.png"
+    ],
+    "id": 1792
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his initial turn, Michael got 4 points with 3 arrows on the target, as demonstrated in the top-left part of the picture. On his next turn, he got 12 points, as demonstrated in the next picture. How many point(s) did he get on his third turn? A: 6,B: 3,C: 5,D: 1,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1795.png"
+    ],
+    "id": 1795
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Derrick made three chances with the darts on the target as displayed in the image. How many point(s) did he receive on his last chance? A: 14,B: 21,C: 37,D: 29,E: 28. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1796.png"
+    ],
+    "id": 1796
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michael made three chances with the darts on the target as demonstrated in the figure. How many point(s) did he get on his third chance? A: 5,B: 14,C: 11,D: 3,E: 20. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1806.png"
+    ],
+    "id": 1806
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: John made four turns with the arrows on the target as presented in the figure. How many point(s) did he make on his last turn? A: 47,B: 11,C: 26,D: 3,E: 23. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1808.png"
+    ],
+    "id": 1808
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her initial attempt, Tina got 21 points with 6 darts on the target, as displayed in the figure. On her next attempt, she received 15 points, as displayed in the next figure. How many point(s) did she make on her last attempt? A: 28,B: 12,C: 17,D: 19,E: 22. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1823.png"
+    ],
+    "id": 1823
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Sylvia made five chances with the arrows on the target as shown in the figure. How many point(s) did she receive on her last chance? A: 14,B: 28,C: 32,D: 23,E: 17. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1835.png"
+    ],
+    "id": 1835
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her beginning turn, Catherine got 12 points with 6 arrows on the target, as depicted in the picture. On her next turn, she received 6 points, as depicted in the next picture and so on. How many point(s) did she receive on her last turn? A: 17,B: 10,C: 21,D: 3,E: 18. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1836.png"
+    ],
+    "id": 1836
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rebecca made five turns with the darts on the target as shown in the picture. How many point(s) did she receive on her last turn? A: 15,B: 4,C: 9,D: 14,E: 24. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1839.png"
+    ],
+    "id": 1839
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Catherine made four chances with the arrows on the target as demonstrated in the picture. How many point(s) did she get on her last chance? A: 23,B: 2,C: 14,D: 12,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1841.png"
+    ],
+    "id": 1841
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her initial attempt, Carrie got 22 points with 5 darts on the target, as demonstrated in the top-left part of the picture. On her second attempt, she received 23 points, as demonstrated in the second picture. How many point(s) did she receive on her last attempt? A: 7,B: 21,C: 13,D: 4,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1842.png"
+    ],
+    "id": 1842
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jorge made three chances with the darts on the target as shown in the image. How many point(s) did he receive on his third chance? A: 7,B: 2,C: 11,D: 3,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1845.png"
+    ],
+    "id": 1845
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his first turn, Joseph got 27 points with 10 darts on the target, as demonstrated in the top-left part of the image. On his second turn, he got 28 points, as demonstrated in the second image and so on. How many point(s) did he get on his last turn? A: 15,B: 45,C: 34,D: 30,E: 51. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1848.png"
+    ],
+    "id": 1848
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her first turn, Gina got 20 points with 8 darts on the target, as presented in the top-left part of the figure. On her next turn, she made 15 points, as presented in the next figure and so on. How many point(s) did she receive on her last turn? A: 37,B: 20,C: 21,D: 3,E: 29. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1851.png"
+    ],
+    "id": 1851
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his beginning attempt, John got 26 points with 11 arrows on the target, as shown in the image. On his second attempt, he got 31 points, as shown in the second image and so on. How many point(s) did he receive on his last attempt? A: 3,B: 34,C: 23,D: 45,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1862.png"
+    ],
+    "id": 1862
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her beginning turn, Crystal got 19 points with 5 arrows on the target, as displayed in the top-left part of the figure. On her next turn, she made 14 points, as displayed in the next figure. How many point(s) did she receive on her third turn? A: 11,B: 6,C: 17,D: 10,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1863.png"
+    ],
+    "id": 1863
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his beginning attempt, Victor got 19 points with 9 arrows on the target, as presented in the image. On his next attempt, he received 22 points, as presented in the next image and so on. How many point(s) did he receive on his last attempt? A: 11,B: 37,C: 21,D: 14,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_187.png"
+    ],
+    "id": 187
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Albert made three attempts with the darts on the target as displayed in the image. How many point(s) did he get on his last attempt? A: 0,B: 1,C: 6,D: 9,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1880.png"
+    ],
+    "id": 1880
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his beginning attempt, Christian got 26 points with 11 darts on the target, as presented in the top-left part of the image. On his next attempt, he made 27 points, as presented in the next image and so on. How many point(s) did he get on his last attempt? A: 5,B: 0,C: 20,D: 22,E: 25. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1885.png"
+    ],
+    "id": 1885
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jerry made three turns with the darts on the target as presented in the figure. How many point(s) did he make on his third turn? A: 7,B: 15,C: 6,D: 8,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1886.png"
+    ],
+    "id": 1886
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Anthony made six chances with the darts on the target as shown in the figure. How many point(s) did he make on his last chance? A: 42,B: 28,C: 5,D: 26,E: 29. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_189.png"
+    ],
+    "id": 189
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Wayne made five attempts with the darts on the target as displayed in the figure. How many point(s) did he get on his last attempt? A: 0,B: 27,C: 48,D: 39,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1891.png"
+    ],
+    "id": 1891
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his beginning chance, Bruce got 12 points with 5 darts on the target, as depicted in the top-left part of the figure. On his next chance, he made 28 points, as depicted in the next figure and so on. How many point(s) did he get on his last chance? A: 27,B: 25,C: 34,D: 20,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1895.png"
+    ],
+    "id": 1895
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her initial chance, Tina got 15 points with 6 darts on the target, as shown in the picture. On her next chance, she got 8 points, as shown in the next picture. How many point(s) did she receive on her third chance? A: 12,B: 20,C: 7,D: 2,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1899.png"
+    ],
+    "id": 1899
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joshua made four turns with the arrows on the target as displayed in the image. How many point(s) did he receive on his last turn? A: 24,B: 19,C: 8,D: 23,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1900.png"
+    ],
+    "id": 1900
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her initial turn, Mary got 13 points with 8 darts on the target, as displayed in the top-left part of the figure. On her next turn, she made 18 points, as displayed in the next figure and so on. How many point(s) did she make on her last turn? A: 13,B: 7,C: 16,D: 20,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1901.png"
+    ],
+    "id": 1901
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his initial chance, Thomas got 19 points with 8 arrows on the target, as presented in the top-left part of the picture. On his second chance, he got 23 points, as presented in the second picture and so on. How many point(s) did he receive on his last chance? A: 37,B: 11,C: 6,D: 20,E: 25. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1915.png"
+    ],
+    "id": 1915
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Nicholas made three chances with the darts on the target as demonstrated in the figure. How many point(s) did he get on his last chance? A: 6,B: 9,C: 5,D: 7,E: 17. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1925.png"
+    ],
+    "id": 1925
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Bridget made six chances with the darts on the target as depicted in the picture. How many point(s) did she make on her last chance? A: 27,B: 7,C: 49,D: 0,E: 33. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1951.png"
+    ],
+    "id": 1951
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Holly made six chances with the arrows on the target as demonstrated in the figure. How many point(s) did she receive on her last chance? A: 5,B: 20,C: 38,D: 35,E: 21. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1952.png"
+    ],
+    "id": 1952
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Anthony made five turns with the darts on the target as depicted in the image. How many point(s) did he make on his last turn? A: 63,B: 42,C: 49,D: 37,E: 35. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_197.png"
+    ],
+    "id": 197
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Tracy made five turns with the arrows on the target as demonstrated in the image. How many point(s) did she receive on her last turn? A: 20,B: 29,C: 23,D: 4,E: 31. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1970.png"
+    ],
+    "id": 1970
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Wayne made four turns with the arrows on the target as displayed in the picture. How many point(s) did he receive on his last turn? A: 7,B: 22,C: 14,D: 0,E: 31. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_1996.png"
+    ],
+    "id": 1996
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Amber made five turns with the arrows on the target as displayed in the figure. How many point(s) did she get on her last turn? A: 27,B: 40,C: 51,D: 29,E: 28. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_20.png"
+    ],
+    "id": 20
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Felicia made four attempts with the arrows on the target as depicted in the figure. How many point(s) did she receive on her last attempt? A: 8,B: 7,C: 10,D: 13,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_200.png"
+    ],
+    "id": 200
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Johnny made four attempts with the arrows on the target as displayed in the image. How many point(s) did he get on his last attempt? A: 12,B: 9,C: 6,D: 2,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_201.png"
+    ],
+    "id": 201
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Bridget made four chances with the arrows on the target as presented in the picture. How many point(s) did she receive on her last chance? A: 7,B: 6,C: 13,D: 12,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_202.png"
+    ],
+    "id": 202
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his first attempt, Wayne got 12 points with 8 arrows on the target, as shown in the figure. On his second attempt, he received 23 points, as shown in the second figure and so on. How many point(s) did he make on his last attempt? A: 22,B: 39,C: 32,D: 23,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_205.png"
+    ],
+    "id": 205
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Melissa made six turns with the darts on the target as displayed in the picture. How many point(s) did she get on her last turn? A: 28,B: 25,C: 4,D: 31,E: 30. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_206.png"
+    ],
+    "id": 206
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Derrick made three chances with the darts on the target as demonstrated in the picture. How many point(s) did he make on his third chance? A: 10,B: 14,C: 17,D: 9,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_21.png"
+    ],
+    "id": 21
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his first turn, Charles got 24 points with 8 arrows on the target, as demonstrated in the image. On his second turn, he got 19 points, as demonstrated in the second image and so on. How many point(s) did he receive on his last turn? A: 45,B: 21,C: 24,D: 47,E: 26. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_216.png"
+    ],
+    "id": 216
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his first turn, Ariel got 11 points with 3 darts on the target, as depicted in the top-left part of the picture. On his next turn, he received 24 points, as depicted in the next picture. How many point(s) did he make on his last turn? A: 6,B: 35,C: 0,D: 21,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_219.png"
+    ],
+    "id": 219
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her beginning attempt, Michelle got 31 points with 13 darts on the target, as presented in the image. On her second attempt, she got 39 points, as presented in the second image and so on. How many point(s) did she make on her last attempt? A: 33,B: 30,C: 24,D: 1,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_230.png"
+    ],
+    "id": 230
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his initial chance, Carl got 12 points with 4 darts on the target, as demonstrated in the top-left part of the figure. On his second chance, he received 8 points, as demonstrated in the second figure. How many point(s) did he receive on his last chance? A: 9,B: 0,C: 2,D: 1,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_241.png"
+    ],
+    "id": 241
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her beginning attempt, Amber got 25 points with 9 arrows on the target, as shown in the top-left part of the figure. On her next attempt, she received 21 points, as shown in the next figure and so on. How many point(s) did she make on her last attempt? A: 23,B: 2,C: 8,D: 9,E: 27. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_246.png"
+    ],
+    "id": 246
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his initial turn, John got 21 points with 9 arrows on the target, as demonstrated in the picture. On his next turn, he made 18 points, as demonstrated in the next picture and so on. How many point(s) did he make on his last turn? A: 40,B: 11,C: 13,D: 25,E: 46. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_252.png"
+    ],
+    "id": 252
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her beginning chance, Pamela got 22 points with 10 darts on the target, as presented in the top-left part of the image. On her second chance, she got 23 points, as presented in the second image and so on. How many point(s) did she get on her last chance? A: 33,B: 32,C: 23,D: 15,E: 22. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_269.png"
+    ],
+    "id": 269
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Felicia made five attempts with the darts on the target as shown in the image. How many point(s) did she get on her last attempt? A: 33,B: 25,C: 44,D: 40,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_276.png"
+    ],
+    "id": 276
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his first turn, Stephen got 25 points with 10 darts on the target, as displayed in the top-left part of the image. On his second turn, he made 19 points, as displayed in the second image and so on. How many point(s) did he receive on his last turn? A: 22,B: 25,C: 37,D: 5,E: 21. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_279.png"
+    ],
+    "id": 279
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her beginning chance, Rebecca got 14 points with 4 arrows on the target, as depicted in the figure. On her next chance, she got 12 points, as depicted in the next figure. How many point(s) did she get on her last chance? A: 34,B: 35,C: 19,D: 1,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_288.png"
+    ],
+    "id": 288
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his initial attempt, Dustin got 24 points with 12 arrows on the target, as depicted in the image. On his next attempt, he received 20 points, as depicted in the next image and so on. How many point(s) did he get on his last attempt? A: 18,B: 17,C: 26,D: 30,E: 35. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_293.png"
+    ],
+    "id": 293
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rebecca made five turns with the darts on the target as presented in the picture. How many point(s) did she receive on her last turn? A: 50,B: 32,C: 52,D: 3,E: 19. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_295.png"
+    ],
+    "id": 295
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his initial attempt, Michael got 25 points with 8 darts on the target, as depicted in the figure. On his next attempt, he received 23 points, as depicted in the next figure and so on. How many point(s) did he get on his last attempt? A: 27,B: 13,C: 28,D: 30,E: 17. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_315.png"
+    ],
+    "id": 315
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Katherine made six chances with the arrows on the target as displayed in the image. How many point(s) did she receive on her last chance? A: 23,B: 42,C: 14,D: 41,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_317.png"
+    ],
+    "id": 317
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his initial attempt, Joseph got 6 points with 6 arrows on the target, as presented in the top-left part of the image. On his next attempt, he got 8 points, as presented in the next image and so on. How many point(s) did he get on his last attempt? A: 10,B: 5,C: 6,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_330.png"
+    ],
+    "id": 330
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her beginning attempt, Crystal got 6 points with 2 arrows on the target, as displayed in the figure. On her second attempt, she received 16 points, as displayed in the second figure. How many point(s) did she receive on her third attempt? A: 11,B: 18,C: 1,D: 7,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_337.png"
+    ],
+    "id": 337
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joseph made three chances with the darts on the target as displayed in the figure. How many point(s) did he receive on his third chance? A: 15,B: 13,C: 24,D: 0,E: 17. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_34.png"
+    ],
+    "id": 34
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Stephen made five attempts with the darts on the target as demonstrated in the figure. How many point(s) did he get on his last attempt? A: 24,B: 19,C: 16,D: 4,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_343.png"
+    ],
+    "id": 343
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Amy made five chances with the arrows on the target as demonstrated in the image. How many point(s) did she make on her last chance? A: 40,B: 25,C: 4,D: 8,E: 41. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_378.png"
+    ],
+    "id": 378
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: John made five chances with the darts on the target as displayed in the picture. How many point(s) did he get on his last chance? A: 18,B: 26,C: 2,D: 5,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_379.png"
+    ],
+    "id": 379
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his initial turn, Dustin got 11 points with 7 darts on the target, as displayed in the top-left part of the picture. On his second turn, he received 11 points, as displayed in the second picture and so on. How many point(s) did he make on his last turn? A: 12,B: 8,C: 11,D: 13,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_384.png"
+    ],
+    "id": 384
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Denise made six attempts with the darts on the target as presented in the figure. How many point(s) did she make on her last attempt? A: 28,B: 14,C: 44,D: 12,E: 18. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_385.png"
+    ],
+    "id": 385
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his beginning turn, Jon got 12 points with 6 darts on the target, as demonstrated in the top-left part of the picture. On his second turn, he made 6 points, as demonstrated in the second picture. How many point(s) did he receive on his last turn? A: 8,B: 11,C: 6,D: 4,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_387.png"
+    ],
+    "id": 387
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Holly made four attempts with the darts on the target as presented in the figure. How many point(s) did she receive on her last attempt? A: 18,B: 28,C: 24,D: 10,E: 16. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_391.png"
+    ],
+    "id": 391
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her beginning attempt, Rebecca got 28 points with 10 darts on the target, as presented in the top-left part of the picture. On her second attempt, she received 24 points, as presented in the second picture and so on. How many point(s) did she get on her last attempt? A: 31,B: 35,C: 22,D: 43,E: 45. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_392.png"
+    ],
+    "id": 392
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Melissa made three attempts with the arrows on the target as presented in the image. How many point(s) did she receive on her last attempt? A: 7,B: 20,C: 12,D: 21,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_397.png"
+    ],
+    "id": 397
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her initial chance, Melissa got 10 points with 5 darts on the target, as shown in the top-left part of the picture. On her next chance, she got 9 points, as shown in the next picture and so on. How many point(s) did she receive on her last chance? A: 14,B: 12,C: 6,D: 9,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_40.png"
+    ],
+    "id": 40
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his initial attempt, John got 34 points with 9 arrows on the target, as depicted in the picture. On his second attempt, he received 25 points, as depicted in the second picture and so on. How many point(s) did he get on his last attempt? A: 16,B: 5,C: 6,D: 25,E: 35. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_400.png"
+    ],
+    "id": 400
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michael made six turns with the darts on the target as shown in the figure. How many point(s) did he receive on his last turn? A: 51,B: 37,C: 44,D: 30,E: 31. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_401.png"
+    ],
+    "id": 401
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Lisa made three attempts with the darts on the target as shown in the image. How many point(s) did she get on her last attempt? A: 17,B: 16,C: 15,D: 6,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_406.png"
+    ],
+    "id": 406
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kathryn made four attempts with the darts on the target as shown in the figure. How many point(s) did she make on her last attempt? A: 17,B: 20,C: 12,D: 4,E: 31. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_418.png"
+    ],
+    "id": 418
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his initial chance, Nathan got 8 points with 4 arrows on the target, as shown in the top-left part of the figure. On his next chance, he made 18 points, as shown in the next figure and so on. How many point(s) did he make on his last chance? A: 16,B: 28,C: 14,D: 23,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_441.png"
+    ],
+    "id": 441
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her first turn, Melissa got 19 points with 9 darts on the target, as depicted in the image. On her next turn, she received 23 points, as depicted in the next image and so on. How many point(s) did she get on her last turn? A: 5,B: 32,C: 25,D: 39,E: 0. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_455.png"
+    ],
+    "id": 455
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kevin made three attempts with the darts on the target as shown in the figure. How many point(s) did he receive on his last attempt? A: 14,B: 10,C: 13,D: 16,E: 17. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_459.png"
+    ],
+    "id": 459
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kathryn made six turns with the darts on the target as shown in the picture. How many point(s) did she make on her last turn? A: 10,B: 33,C: 25,D: 19,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_466.png"
+    ],
+    "id": 466
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his initial turn, Joseph got 6 points with 4 arrows on the target, as depicted in the image. On his second turn, he made 10 points, as depicted in the second image. How many point(s) did he get on his last turn? A: 4,B: 11,C: 10,D: 6,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_474.png"
+    ],
+    "id": 474
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her first attempt, Tina got 11 points with 5 darts on the target, as displayed in the image. On her next attempt, she made 6 points, as displayed in the next image. How many point(s) did she receive on her third attempt? A: 16,B: 18,C: 9,D: 13,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_484.png"
+    ],
+    "id": 484
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his beginning attempt, Albert got 22 points with 6 darts on the target, as presented in the image. On his second attempt, he made 29 points, as presented in the second image and so on. How many point(s) did he get on his last attempt? A: 26,B: 38,C: 20,D: 45,E: 24. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_492.png"
+    ],
+    "id": 492
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her first turn, Natalie got 26 points with 9 arrows on the target, as presented in the figure. On her second turn, she got 23 points, as presented in the second figure and so on. How many point(s) did she receive on her last turn? A: 0,B: 8,C: 18,D: 16,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_502.png"
+    ],
+    "id": 502
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Denise made three chances with the darts on the target as demonstrated in the figure. How many point(s) did she make on her third chance? A: 5,B: 8,C: 1,D: 4,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_508.png"
+    ],
+    "id": 508
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: William made five turns with the darts on the target as presented in the image. How many point(s) did he receive on his last turn? A: 19,B: 2,C: 13,D: 21,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_510.png"
+    ],
+    "id": 510
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joseph made three chances with the arrows on the target as depicted in the figure. How many point(s) did he get on his last chance? A: 0,B: 10,C: 3,D: 15,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_520.png"
+    ],
+    "id": 520
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Lisa made four attempts with the arrows on the target as shown in the picture. How many point(s) did she make on her last attempt? A: 12,B: 1,C: 35,D: 33,E: 20. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_524.png"
+    ],
+    "id": 524
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michelle made five chances with the arrows on the target as depicted in the picture. How many point(s) did she make on her last chance? A: 30,B: 27,C: 34,D: 22,E: 20. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_540.png"
+    ],
+    "id": 540
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her first turn, Emily got 32 points with 10 darts on the target, as depicted in the top-left part of the figure. On her next turn, she made 23 points, as depicted in the next figure and so on. How many point(s) did she receive on her last turn? A: 19,B: 2,C: 21,D: 12,E: 41. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_556.png"
+    ],
+    "id": 556
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Sandra made three chances with the darts on the target as shown in the figure. How many point(s) did she get on her third chance? A: 24,B: 19,C: 18,D: 4,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_562.png"
+    ],
+    "id": 562
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Bridget made three chances with the arrows on the target as shown in the picture. How many point(s) did she receive on her third chance? A: 1,B: 8,C: 6,D: 4,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_563.png"
+    ],
+    "id": 563
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Rachel made six turns with the darts on the target as displayed in the figure. How many point(s) did she get on her last turn? A: 33,B: 14,C: 21,D: 13,E: 38. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_564.png"
+    ],
+    "id": 564
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: John made five attempts with the arrows on the target as depicted in the picture. How many point(s) did he get on his last attempt? A: 37,B: 20,C: 12,D: 35,E: 21. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_565.png"
+    ],
+    "id": 565
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her initial turn, Kristin got 33 points with 10 darts on the target, as demonstrated in the picture. On her next turn, she received 23 points, as demonstrated in the next picture and so on. How many point(s) did she receive on her last turn? A: 20,B: 25,C: 43,D: 28,E: 40. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_577.png"
+    ],
+    "id": 577
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Tyler made three attempts with the darts on the target as displayed in the figure. How many point(s) did she receive on her third attempt? A: 9,B: 0,C: 6,D: 3,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_592.png"
+    ],
+    "id": 592
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Brian made three attempts with the arrows on the target as depicted in the image. How many point(s) did he get on his last attempt? A: 0,B: 3,C: 5,D: 7,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_600.png"
+    ],
+    "id": 600
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Vickie made five attempts with the darts on the target as displayed in the image. How many point(s) did she receive on her last attempt? A: 13,B: 23,C: 3,D: 25,E: 43. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_608.png"
+    ],
+    "id": 608
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his initial chance, Victor got 10 points with 4 arrows on the target, as depicted in the top-left part of the image. On his second chance, he got 9 points, as depicted in the second image. How many point(s) did he get on his third chance? A: 2,B: 6,C: 5,D: 1,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_612.png"
+    ],
+    "id": 612
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his first attempt, Wayne got 32 points with 10 darts on the target, as presented in the image. On his next attempt, he received 26 points, as presented in the next image and so on. How many point(s) did he get on his last attempt? A: 48,B: 36,C: 31,D: 27,E: 34. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_627.png"
+    ],
+    "id": 627
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her first attempt, Rachel got 29 points with 11 arrows on the target, as presented in the figure. On her second attempt, she received 40 points, as presented in the second figure and so on. How many point(s) did she get on her last attempt? A: 48,B: 34,C: 13,D: 43,E: 28. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_632.png"
+    ],
+    "id": 632
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Dustin made four attempts with the darts on the target as presented in the figure. How many point(s) did he get on his last attempt? A: 13,B: 19,C: 9,D: 4,E: 23. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_64.png"
+    ],
+    "id": 64
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michele made three chances with the darts on the target as depicted in the figure. How many point(s) did she receive on her last chance? A: 12,B: 1,C: 15,D: 18,E: 11. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_641.png"
+    ],
+    "id": 641
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her initial attempt, Danielle got 17 points with 8 arrows on the target, as demonstrated in the image. On her next attempt, she made 19 points, as demonstrated in the next image and so on. How many point(s) did she receive on her last attempt? A: 9,B: 25,C: 13,D: 21,E: 17. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_642.png"
+    ],
+    "id": 642
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her first attempt, Melissa got 26 points with 11 darts on the target, as presented in the top-left part of the figure. On her second attempt, she got 27 points, as presented in the second figure and so on. How many point(s) did she get on her last attempt? A: 18,B: 25,C: 21,D: 27,E: 19. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_645.png"
+    ],
+    "id": 645
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his initial attempt, Joshua got 23 points with 8 darts on the target, as depicted in the top-left part of the figure. On his second attempt, he received 17 points, as depicted in the second figure and so on. How many point(s) did he get on his last attempt? A: 13,B: 1,C: 15,D: 14,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_646.png"
+    ],
+    "id": 646
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her first chance, Deborah got 7 points with 2 darts on the target, as displayed in the top-left part of the picture. On her next chance, she made 11 points, as displayed in the next picture. How many point(s) did she get on her third chance? A: 9,B: 1,C: 10,D: 13,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_647.png"
+    ],
+    "id": 647
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kevin made five turns with the arrows on the target as depicted in the image. How many point(s) did he get on his last turn? A: 0,B: 22,C: 2,D: 36,E: 40. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_648.png"
+    ],
+    "id": 648
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Nathan made four turns with the arrows on the target as displayed in the image. How many point(s) did he get on his last turn? A: 28,B: 24,C: 6,D: 46,E: 39. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_663.png"
+    ],
+    "id": 663
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her beginning attempt, Katherine got 6 points with 5 arrows on the target, as presented in the figure. On her next attempt, she got 11 points, as presented in the next figure and so on. How many point(s) did she make on her last attempt? A: 8,B: 3,C: 1,D: 7,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_681.png"
+    ],
+    "id": 681
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her initial chance, Danielle got 21 points with 6 darts on the target, as presented in the top-left part of the figure. On her next chance, she made 17 points, as presented in the next figure. How many point(s) did she receive on her third chance? A: 18,B: 8,C: 19,D: 24,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_683.png"
+    ],
+    "id": 683
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her first attempt, Danielle got 16 points with 8 arrows on the target, as displayed in the top-left part of the image. On her next attempt, she got 21 points, as displayed in the next image and so on. How many point(s) did she receive on her last attempt? A: 15,B: 1,C: 16,D: 7,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_686.png"
+    ],
+    "id": 686
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his first attempt, Nathan got 20 points with 9 darts on the target, as presented in the figure. On his second attempt, he made 18 points, as presented in the second figure and so on. How many point(s) did he receive on his last attempt? A: 9,B: 10,C: 19,D: 30,E: 25. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_698.png"
+    ],
+    "id": 698
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her beginning chance, Melissa got 9 points with 3 arrows on the target, as shown in the picture. On her second chance, she got 19 points, as shown in the second picture and so on. How many point(s) did she get on her last chance? A: 6,B: 2,C: 14,D: 12,E: 22. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_699.png"
+    ],
+    "id": 699
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jon made five chances with the darts on the target as shown in the figure. How many point(s) did he make on his last chance? A: 9,B: 19,C: 14,D: 1,E: 15. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_702.png"
+    ],
+    "id": 702
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Nathan made three turns with the darts on the target as displayed in the figure. How many point(s) did he receive on his third turn? A: 0,B: 3,C: 2,D: 4,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_709.png"
+    ],
+    "id": 709
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her first attempt, Catherine got 1 point with 2 darts on the target, as depicted in the figure. On her second attempt, she received 1 point, as depicted in the second figure. How many point(s) did she receive on her last attempt? A: 0,B: 1,C: 4,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_719.png"
+    ],
+    "id": 719
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her initial turn, Rachel got 12 points with 4 darts on the target, as presented in the top-left part of the picture. On her next turn, she got 9 points, as presented in the next picture and so on. How many point(s) did she receive on her last turn? A: 25,B: 19,C: 10,D: 1,E: 36. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_725.png"
+    ],
+    "id": 725
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her beginning attempt, Michele got 19 points with 4 arrows on the target, as presented in the figure. On her next attempt, she received 17 points, as presented in the next figure. How many point(s) did she receive on her last attempt? A: 18,B: 31,C: 32,D: 23,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_729.png"
+    ],
+    "id": 729
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her initial turn, Katherine got 5 points with 6 darts on the target, as shown in the top-left part of the image. On her next turn, she received 12 points, as shown in the next image and so on. How many point(s) did she receive on her last turn? A: 14,B: 2,C: 5,D: 12,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_742.png"
+    ],
+    "id": 742
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Paul made six attempts with the arrows on the target as shown in the picture. How many point(s) did he make on his last attempt? A: 4,B: 8,C: 7,D: 17,E: 26. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_747.png"
+    ],
+    "id": 747
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Derrick made six chances with the arrows on the target as displayed in the picture. How many point(s) did he get on his last chance? A: 35,B: 25,C: 1,D: 49,E: 32. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_748.png"
+    ],
+    "id": 748
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her initial chance, Bridget got 18 points with 9 arrows on the target, as presented in the top-left part of the image. On her next chance, she got 27 points, as presented in the next image and so on. How many point(s) did she get on her last chance? A: 23,B: 19,C: 13,D: 9,E: 40. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_751.png"
+    ],
+    "id": 751
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his initial turn, Derrick got 11 points with 3 darts on the target, as depicted in the picture. On his next turn, he made 13 points, as depicted in the next picture. How many point(s) did he get on his last turn? A: 14,B: 9,C: 31,D: 16,E: 23. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_763.png"
+    ],
+    "id": 763
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Wayne made four chances with the arrows on the target as presented in the picture. How many point(s) did he receive on his last chance? A: 18,B: 3,C: 6,D: 23,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_766.png"
+    ],
+    "id": 766
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her first turn, Carrie got 10 points with 4 darts on the target, as shown in the figure. On her next turn, she made 8 points, as shown in the next figure. How many point(s) did she receive on her last turn? A: 3,B: 21,C: 16,D: 0,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_769.png"
+    ],
+    "id": 769
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her beginning attempt, Katherine got 16 points with 8 darts on the target, as depicted in the top-left part of the image. On her second attempt, she got 28 points, as depicted in the second image and so on. How many point(s) did she make on her last attempt? A: 25,B: 5,C: 38,D: 31,E: 49. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_775.png"
+    ],
+    "id": 775
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her initial turn, Kathryn got 13 points with 5 arrows on the target, as depicted in the picture. On her next turn, she got 12 points, as depicted in the next picture. How many point(s) did she make on her third turn? A: 5,B: 0,C: 2,D: 4,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_776.png"
+    ],
+    "id": 776
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Sandra made three attempts with the arrows on the target as demonstrated in the image. How many point(s) did she get on her third attempt? A: 2,B: 8,C: 7,D: 5,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_779.png"
+    ],
+    "id": 779
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her initial turn, Lisa got 13 points with 5 darts on the target, as depicted in the image. On her second turn, she received 11 points, as depicted in the second image. How many point(s) did she get on her last turn? A: 13,B: 7,C: 0,D: 12,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_791.png"
+    ],
+    "id": 791
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his beginning turn, Anthony got 20 points with 9 darts on the target, as displayed in the image. On his second turn, he received 27 points, as displayed in the second image and so on. How many point(s) did he get on his last turn? A: 7,B: 20,C: 22,D: 17,E: 27. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_794.png"
+    ],
+    "id": 794
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his beginning attempt, Daniel got 7 points with 5 arrows on the target, as shown in the top-left part of the picture. On his next attempt, he got 14 points, as shown in the next picture and so on. How many point(s) did he receive on his last attempt? A: 9,B: 13,C: 7,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_795.png"
+    ],
+    "id": 795
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Danielle made five chances with the arrows on the target as demonstrated in the picture. How many point(s) did she make on her last chance? A: 16,B: 15,C: 7,D: 13,E: 28. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_804.png"
+    ],
+    "id": 804
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her first chance, Julie got 28 points with 8 arrows on the target, as shown in the image. On her second chance, she got 23 points, as shown in the second image and so on. How many point(s) did she receive on her last chance? A: 23,B: 34,C: 21,D: 31,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_805.png"
+    ],
+    "id": 805
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jerry made six turns with the arrows on the target as shown in the image. How many point(s) did he receive on his last turn? A: 5,B: 1,C: 21,D: 36,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_815.png"
+    ],
+    "id": 815
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Michael made five turns with the arrows on the target as depicted in the picture. How many point(s) did he make on his last turn? A: 23,B: 7,C: 27,D: 9,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_831.png"
+    ],
+    "id": 831
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her initial chance, Felicia got 10 points with 3 arrows on the target, as depicted in the picture. On her next chance, she got 21 points, as depicted in the next picture. How many point(s) did she receive on her last chance? A: 21,B: 35,C: 34,D: 9,E: 25. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_835.png"
+    ],
+    "id": 835
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Carrie made four attempts with the arrows on the target as depicted in the figure. How many point(s) did she make on her last attempt? A: 0,B: 28,C: 5,D: 35,E: 22. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_840.png"
+    ],
+    "id": 840
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Tracy made four chances with the arrows on the target as shown in the figure. How many point(s) did she get on her last chance? A: 16,B: 33,C: 7,D: 37,E: 20. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_854.png"
+    ],
+    "id": 854
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her first turn, Rebecca got 14 points with 6 darts on the target, as displayed in the figure. On her second turn, she got 5 points, as displayed in the second figure and so on. How many point(s) did she receive on her last turn? A: 15,B: 22,C: 12,D: 2,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_856.png"
+    ],
+    "id": 856
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her initial turn, Sylvia got 4 points with 3 darts on the target, as shown in the image. On her second turn, she made 12 points, as shown in the second image. How many point(s) did she make on her last turn? A: 9,B: 7,C: 0,D: 4,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_860.png"
+    ],
+    "id": 860
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Deborah made five attempts with the arrows on the target as presented in the picture. How many point(s) did she make on her last attempt? A: 13,B: 7,C: 3,D: 19,E: 14. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_863.png"
+    ],
+    "id": 863
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: William made six attempts with the darts on the target as depicted in the image. How many point(s) did he get on his last attempt? A: 20,B: 25,C: 0,D: 24,E: 21. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_87.png"
+    ],
+    "id": 87
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her first attempt, Katherine got 8 points with 3 arrows on the target, as depicted in the top-left part of the image. On her second attempt, she got 13 points, as depicted in the second image and so on. How many point(s) did she make on her last attempt? A: 22,B: 9,C: 0,D: 12,E: 17. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_870.png"
+    ],
+    "id": 870
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Nicholas made three attempts with the arrows on the target as shown in the image. How many point(s) did he make on his last attempt? A: 12,B: 21,C: 23,D: 24,E: 32. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_871.png"
+    ],
+    "id": 871
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Carrie made five turns with the darts on the target as presented in the image. How many point(s) did she get on her last turn? A: 2,B: 24,C: 5,D: 15,E: 22. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_878.png"
+    ],
+    "id": 878
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her beginning chance, Jasmine got 13 points with 4 arrows on the target, as depicted in the image. On her second chance, she received 14 points, as depicted in the second image and so on. How many point(s) did she get on her last chance? A: 23,B: 21,C: 31,D: 34,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_883.png"
+    ],
+    "id": 883
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his initial turn, Derrick got 15 points with 5 darts on the target, as displayed in the top-left part of the figure. On his next turn, he received 22 points, as displayed in the next figure and so on. How many point(s) did he make on his last turn? A: 3,B: 12,C: 22,D: 42,E: 26. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_891.png"
+    ],
+    "id": 891
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joseph made three turns with the arrows on the target as shown in the image. How many point(s) did he receive on his last turn? A: 11,B: 12,C: 0,D: 18,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_897.png"
+    ],
+    "id": 897
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her first turn, Katherine got 29 points with 8 arrows on the target, as shown in the top-left part of the figure. On her second turn, she received 32 points, as shown in the second figure and so on. How many point(s) did she make on her last turn? A: 19,B: 32,C: 63,D: 8,E: 57. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_91.png"
+    ],
+    "id": 91
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Danielle made three attempts with the darts on the target as demonstrated in the image. How many point(s) did she make on her last attempt? A: 2,B: 3,C: 8,D: 1,E: 10. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_929.png"
+    ],
+    "id": 929
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his beginning chance, Nicholas got 11 points with 4 darts on the target, as demonstrated in the top-left part of the picture. On his next chance, he received 15 points, as demonstrated in the next picture and so on. How many point(s) did he receive on his last chance? A: 13,B: 17,C: 11,D: 5,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_95.png"
+    ],
+    "id": 95
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Joseph made three chances with the arrows on the target as presented in the figure. How many point(s) did he make on his third chance? A: 2,B: 7,C: 0,D: 8,E: 12. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_951.png"
+    ],
+    "id": 951
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his beginning chance, John got 17 points with 6 darts on the target, as shown in the top-left part of the figure. On his next chance, he got 23 points, as shown in the next figure and so on. How many point(s) did he receive on his last chance? A: 2,B: 0,C: 18,D: 19,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_955.png"
+    ],
+    "id": 955
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Melissa made three chances with the arrows on the target as presented in the picture. How many point(s) did she get on her last chance? A: 0,B: 6,C: 10,D: 8,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_957.png"
+    ],
+    "id": 957
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Chelsea made three turns with the arrows on the target as presented in the picture. How many point(s) did she make on her third turn? A: 10,B: 9,C: 3,D: 14,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_960.png"
+    ],
+    "id": 960
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his first turn, Anthony got 21 points with 9 darts on the target, as depicted in the picture. On his next turn, he got 10 points, as depicted in the next picture and so on. How many point(s) did he make on his last turn? A: 21,B: 11,C: 12,D: 18,E: 17. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_972.png"
+    ],
+    "id": 972
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On her initial attempt, Felicia got 27 points with 6 darts on the target, as shown in the figure. On her second attempt, she received 19 points, as shown in the second figure. How many point(s) did she receive on her third attempt? A: 1,B: 27,C: 48,D: 20,E: 25. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_975.png"
+    ],
+    "id": 975
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Kristin made six attempts with the darts on the target as presented in the figure. How many point(s) did she make on her last attempt? A: 32,B: 6,C: 24,D: 4,E: 20. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_98.png"
+    ],
+    "id": 98
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Jose made six attempts with the darts on the target as presented in the image. How many point(s) did he receive on his last attempt? A: 26,B: 14,C: 6,D: 29,E: 20. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_981.png"
+    ],
+    "id": 981
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: On his initial attempt, John got 23 points with 7 arrows on the target, as shown in the picture. On his second attempt, he made 26 points, as shown in the second picture and so on. How many point(s) did he get on his last attempt? A: 18,B: 15,C: 12,D: 7,E: 13. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/85/img/puzzle_85_995.png"
+    ],
+    "id": 995
+  }
+]

@@ -1,0 +1,4802 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some kids are dancing in a chain. Some are looking forward and others are looking backward. What is the count of kids who are grasping another kid's hand with their right hand? A: 2,B: 7,C: 6,D: 5,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1.png"
+    ],
+    "id": 1
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some children are dancing in a line. Some are facing towards front and remaining are facing towards back. How many children are grasping another child's hand using left hand? A: 4,B: 2,C: 1,D: 5,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1012.png"
+    ],
+    "id": 1012
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few children are dancing in a line as presented in the picture. Some are looking towards front and others are looking towards back. What is the count of children who are grasping another child's hand using their left hand? A: 8,B: 1,C: 7,D: 2,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1016.png"
+    ],
+    "id": 1016
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few pupils are dancing in a line as shown in the image. Some are looking forward and remaining are looking backward. What is the count of pupils who are holding another pupil's hand using right hand? A: 1,B: 2,C: 8,D: 4,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1017.png"
+    ],
+    "id": 1017
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some children are dancing in a queue. Some are looking towards front and remaining are looking towards back. What is the count of children who are grasping another child's hand using right hand? A: 4,B: 1,C: 2,D: 7,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1020.png"
+    ],
+    "id": 1020
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following kids are dancing in a chain. A few are looking towards front and remaining are looking towards back. What is the count of kids who are holding another kid's hand with their left hand? A: 3,B: 9,C: 4,D: 5,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1021.png"
+    ],
+    "id": 1021
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few children are standing in a chain as pictured in the cartoon. Some are facing towards front and others are facing towards back. How many children are grasping another child's hand using left hand? A: 8,B: 5,C: 1,D: 2,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1025.png"
+    ],
+    "id": 1025
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some pupils are standing in a line. Some are looking forward and others are looking backward. How many pupils are grasping another pupil's hand using right hand? A: 3,B: 1,C: 4,D: 2,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1028.png"
+    ],
+    "id": 1028
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These kids are dancing in a queue as displayed in the cartoon. A few are looking towards front and others are looking towards back. How many kids are grasping another kid's hand using right hand? A: 3,B: 1,C: 7,D: 5,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1038.png"
+    ],
+    "id": 1038
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following pupils are standing in a line. Some are looking forward and others are looking backward. How many pupils are holding another pupil's hand using right hand? A: 1,B: 6,C: 3,D: 9,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1044.png"
+    ],
+    "id": 1044
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following kids are dancing in a queue. A few are looking towards front and others are looking towards back. How many kids are grasping another kid's hand with their right hand? A: 7,B: 3,C: 8,D: 4,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1051.png"
+    ],
+    "id": 1051
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following pupils are dancing in a line. A few are looking forward and others are looking backward. What is the count of pupils who are holding another pupil's hand using their right hand? A: 3,B: 1,C: 4,D: 5,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1056.png"
+    ],
+    "id": 1056
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many pupils are standing in a line as displayed in the image. Some are facing towards front and others are facing towards back. How many pupils are grasping another pupil's hand using left hand? A: 2,B: 5,C: 3,D: 1,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1059.png"
+    ],
+    "id": 1059
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few pupils are dancing in a line. A few are facing forward and others are facing backward. What is the count of pupils who are holding another pupil's hand using their right hand? A: 5,B: 3,C: 1,D: 7,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1064.png"
+    ],
+    "id": 1064
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several children are standing in a line as displayed in the cartoon. A few are looking forward and remaining are looking backward. How many children are grasping another child's hand using right hand? A: 4,B: 5,C: 3,D: 1,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1071.png"
+    ],
+    "id": 1071
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These kids are standing in a chain. A few are looking forward and remaining are looking backward. What is the count of kids who are holding another kid's hand using their left hand? A: 6,B: 2,C: 1,D: 5,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1076.png"
+    ],
+    "id": 1076
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few children are standing in a line as depicted in the figure. Some are looking forward and remaining are looking backward. What is the count of children who are holding another child's hand using left hand? A: 2,B: 1,C: 4,D: 3,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1082.png"
+    ],
+    "id": 1082
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These children are standing in a chain. Some are looking towards front and remaining are looking towards back. What is the count of children who are grasping another child's hand using their right hand? A: 3,B: 7,C: 8,D: 6,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1086.png"
+    ],
+    "id": 1086
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These kids are standing in a line. Some are facing forward and others are facing backward. What is the count of kids who are grasping another kid's hand using right hand? A: 4,B: 1,C: 8,D: 2,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1095.png"
+    ],
+    "id": 1095
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few kids are dancing in a queue as depicted in the image. Some are facing towards front and remaining are facing towards back. How many kids are grasping another kid's hand using their right hand? A: 7,B: 8,C: 3,D: 6,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1104.png"
+    ],
+    "id": 1104
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many pupils are dancing in a line as displayed in the picture. Some are looking forward and remaining are looking backward. How many pupils are grasping another pupil's hand using their left hand? A: 4,B: 7,C: 1,D: 2,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1109.png"
+    ],
+    "id": 1109
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several kids are standing in a chain as demonstrated in the figure. Some are facing forward and remaining are facing backward. What is the count of kids who are grasping another kid's hand with their right hand? A: 9,B: 1,C: 4,D: 6,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_112.png"
+    ],
+    "id": 112
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some pupils are standing in a chain. Some are facing forward and remaining are facing backward. What is the count of pupils who are grasping another pupil's hand using left hand? A: 1,B: 8,C: 6,D: 5,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1123.png"
+    ],
+    "id": 1123
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several kids are standing in a line. A few are facing forward and remaining are facing backward. How many kids are grasping another kid's hand with their right hand? A: 2,B: 4,C: 3,D: 5,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1126.png"
+    ],
+    "id": 1126
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some pupils are dancing in a line. Some are facing forward and remaining are facing backward. How many pupils are grasping another pupil's hand using right hand? A: 3,B: 5,C: 6,D: 4,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1129.png"
+    ],
+    "id": 1129
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few children are dancing in a queue as shown in the image. Some are looking forward and remaining are looking backward. How many children are grasping another child's hand using their left hand? A: 8,B: 4,C: 6,D: 9,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1130.png"
+    ],
+    "id": 1130
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some pupils are standing in a queue as depicted in the image. Some are looking towards front and remaining are looking towards back. How many pupils are grasping another pupil's hand with their left hand? A: 5,B: 3,C: 2,D: 4,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1136.png"
+    ],
+    "id": 1136
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some children are standing in a line. A few are looking forward and remaining are looking backward. How many children are grasping another child's hand with their left hand? A: 1,B: 2,C: 6,D: 4,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1152.png"
+    ],
+    "id": 1152
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few children are standing in a chain as pictured in the drawing. A few are looking forward and others are looking backward. How many children are holding another child's hand using left hand? A: 8,B: 6,C: 2,D: 7,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1153.png"
+    ],
+    "id": 1153
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many pupils are standing in a queue as demonstrated in the figure. A few are looking forward and remaining are looking backward. What is the count of pupils who are grasping another pupil's hand using right hand? A: 5,B: 4,C: 7,D: 1,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1154.png"
+    ],
+    "id": 1154
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These pupils are standing in a line as demonstrated in the figure. A few are facing towards front and others are facing towards back. What is the count of pupils who are grasping another pupil's hand using left hand? A: 2,B: 3,C: 7,D: 1,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1162.png"
+    ],
+    "id": 1162
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many pupils are dancing in a line as presented in the image. A few are facing towards front and remaining are facing towards back. What is the count of pupils who are grasping another pupil's hand using their left hand? A: 5,B: 4,C: 3,D: 6,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1180.png"
+    ],
+    "id": 1180
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many pupils are dancing in a queue. Some are facing towards front and remaining are facing towards back. How many pupils are holding another pupil's hand using their right hand? A: 2,B: 3,C: 6,D: 8,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1183.png"
+    ],
+    "id": 1183
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These kids are dancing in a queue as shown in the drawing. A few are looking forward and remaining are looking backward. How many kids are grasping another kid's hand with their right hand? A: 3,B: 1,C: 2,D: 4,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1184.png"
+    ],
+    "id": 1184
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some kids are standing in a queue. Some are facing towards front and others are facing towards back. How many kids are grasping another kid's hand using left hand? A: 9,B: 6,C: 5,D: 3,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1194.png"
+    ],
+    "id": 1194
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some children are standing in a chain. A few are facing forward and remaining are facing backward. What is the count of children who are holding another child's hand using right hand? A: 2,B: 1,C: 4,D: 5,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1207.png"
+    ],
+    "id": 1207
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some children are dancing in a chain. Some are facing towards front and others are facing towards back. What is the count of children who are holding another child's hand with their right hand? A: 1,B: 4,C: 2,D: 6,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_121.png"
+    ],
+    "id": 121
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few pupils are dancing in a line. Some are looking forward and others are looking backward. How many pupils are holding another pupil's hand with their right hand? A: 1,B: 3,C: 5,D: 2,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1215.png"
+    ],
+    "id": 1215
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several pupils are standing in a chain. A few are looking forward and remaining are looking backward. How many pupils are holding another pupil's hand using their left hand? A: 5,B: 2,C: 3,D: 1,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_122.png"
+    ],
+    "id": 122
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These kids are dancing in a line as pictured in the picture. Some are looking towards front and remaining are looking towards back. What is the count of kids who are holding another kid's hand using their left hand? A: 1,B: 3,C: 2,D: 4,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1224.png"
+    ],
+    "id": 1224
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some children are standing in a queue. Some are looking forward and others are looking backward. What is the count of children who are holding another child's hand using their right hand? A: 4,B: 5,C: 1,D: 3,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1238.png"
+    ],
+    "id": 1238
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These children are dancing in a queue. Some are facing forward and remaining are facing backward. What is the count of children who are grasping another child's hand with their left hand? A: 5,B: 1,C: 7,D: 3,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1241.png"
+    ],
+    "id": 1241
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many pupils are standing in a chain as pictured in the drawing. Some are facing towards front and others are facing towards back. How many pupils are holding another pupil's hand using left hand? A: 3,B: 4,C: 9,D: 5,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1248.png"
+    ],
+    "id": 1248
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some kids are standing in a line. A few are facing forward and remaining are facing backward. What is the count of kids who are holding another kid's hand using right hand? A: 6,B: 5,C: 2,D: 7,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1254.png"
+    ],
+    "id": 1254
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many children are standing in a line as shown in the image. A few are looking towards front and others are looking towards back. How many children are holding another child's hand with their left hand? A: 2,B: 5,C: 6,D: 3,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1256.png"
+    ],
+    "id": 1256
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following pupils are standing in a line as displayed in the figure. Some are facing forward and others are facing backward. How many pupils are grasping another pupil's hand using right hand? A: 9,B: 4,C: 8,D: 7,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1257.png"
+    ],
+    "id": 1257
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some children are dancing in a queue as pictured in the picture. A few are looking forward and remaining are looking backward. What is the count of children who are grasping another child's hand with their right hand? A: 4,B: 3,C: 2,D: 1,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1264.png"
+    ],
+    "id": 1264
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many children are standing in a line. Some are looking forward and others are looking backward. How many children are holding another child's hand using right hand? A: 3,B: 5,C: 6,D: 1,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1266.png"
+    ],
+    "id": 1266
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following pupils are standing in a line as pictured in the image. Some are looking towards front and remaining are looking towards back. How many pupils are holding another pupil's hand with their left hand? A: 7,B: 6,C: 5,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1267.png"
+    ],
+    "id": 1267
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few pupils are standing in a queue as presented in the drawing. Some are looking towards front and remaining are looking towards back. How many pupils are holding another pupil's hand using left hand? A: 5,B: 2,C: 1,D: 6,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1275.png"
+    ],
+    "id": 1275
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many children are standing in a chain. A few are facing forward and remaining are facing backward. What is the count of children who are grasping another child's hand with their left hand? A: 2,B: 3,C: 5,D: 1,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1282.png"
+    ],
+    "id": 1282
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These pupils are dancing in a line as displayed in the picture. Some are facing towards front and remaining are facing towards back. What is the count of pupils who are holding another pupil's hand using right hand? A: 5,B: 8,C: 1,D: 6,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1291.png"
+    ],
+    "id": 1291
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following pupils are dancing in a line as shown in the drawing. A few are looking towards front and remaining are looking towards back. How many pupils are grasping another pupil's hand with their left hand? A: 1,B: 8,C: 9,D: 7,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1294.png"
+    ],
+    "id": 1294
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few children are standing in a chain as pictured in the picture. Some are looking towards front and remaining are looking towards back. How many children are holding another child's hand using their left hand? A: 2,B: 4,C: 1,D: 3,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1297.png"
+    ],
+    "id": 1297
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some pupils are standing in a chain. Some are looking towards front and remaining are looking towards back. How many pupils are holding another pupil's hand using right hand? A: 3,B: 2,C: 4,D: 5,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_13.png"
+    ],
+    "id": 13
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some pupils are dancing in a queue. A few are facing towards front and others are facing towards back. What is the count of pupils who are grasping another pupil's hand with their right hand? A: 1,B: 5,C: 7,D: 4,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_130.png"
+    ],
+    "id": 130
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several kids are standing in a chain. Some are looking towards front and remaining are looking towards back. How many kids are grasping another kid's hand using their right hand? A: 8,B: 5,C: 3,D: 7,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1306.png"
+    ],
+    "id": 1306
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These children are dancing in a chain as pictured in the image. A few are facing forward and others are facing backward. How many children are grasping another child's hand using their left hand? A: 6,B: 3,C: 2,D: 1,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1332.png"
+    ],
+    "id": 1332
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many kids are dancing in a line. A few are looking towards front and others are looking towards back. How many kids are holding another kid's hand using their left hand? A: 4,B: 6,C: 2,D: 5,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1337.png"
+    ],
+    "id": 1337
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several kids are standing in a line. A few are facing towards front and remaining are facing towards back. What is the count of kids who are holding another kid's hand using their right hand? A: 2,B: 1,C: 5,D: 3,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_134.png"
+    ],
+    "id": 134
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some children are standing in a chain. A few are looking forward and others are looking backward. What is the count of children who are grasping another child's hand using their right hand? A: 1,B: 5,C: 2,D: 3,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1354.png"
+    ],
+    "id": 1354
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some children are dancing in a chain as depicted in the drawing. Some are facing towards front and others are facing towards back. How many children are grasping another child's hand using their right hand? A: 8,B: 9,C: 3,D: 7,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1363.png"
+    ],
+    "id": 1363
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These pupils are standing in a queue. A few are facing forward and others are facing backward. What is the count of pupils who are grasping another pupil's hand using their right hand? A: 7,B: 2,C: 1,D: 4,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1367.png"
+    ],
+    "id": 1367
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some children are dancing in a line. A few are looking towards front and others are looking towards back. How many children are holding another child's hand with their right hand? A: 3,B: 5,C: 4,D: 1,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1369.png"
+    ],
+    "id": 1369
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few children are standing in a line. A few are facing towards front and others are facing towards back. What is the count of children who are grasping another child's hand using right hand? A: 4,B: 2,C: 7,D: 3,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1371.png"
+    ],
+    "id": 1371
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several children are standing in a line as depicted in the drawing. A few are looking forward and others are looking backward. How many children are holding another child's hand using their left hand? A: 4,B: 3,C: 2,D: 7,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1382.png"
+    ],
+    "id": 1382
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These kids are dancing in a queue. A few are looking forward and others are looking backward. What is the count of kids who are grasping another kid's hand using right hand? A: 7,B: 2,C: 3,D: 6,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1390.png"
+    ],
+    "id": 1390
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some kids are dancing in a line. A few are looking forward and remaining are looking backward. What is the count of kids who are grasping another kid's hand with their left hand? A: 4,B: 1,C: 3,D: 2,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1396.png"
+    ],
+    "id": 1396
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several kids are standing in a queue as pictured in the drawing. A few are looking forward and remaining are looking backward. What is the count of kids who are grasping another kid's hand using left hand? A: 8,B: 3,C: 2,D: 6,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1397.png"
+    ],
+    "id": 1397
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few children are standing in a line. Some are looking towards front and remaining are looking towards back. What is the count of children who are holding another child's hand using left hand? A: 2,B: 1,C: 3,D: 5,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_14.png"
+    ],
+    "id": 14
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some pupils are dancing in a chain. A few are looking forward and remaining are looking backward. How many pupils are grasping another pupil's hand using left hand? A: 1,B: 4,C: 3,D: 8,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1400.png"
+    ],
+    "id": 1400
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These pupils are dancing in a queue. Some are facing towards front and others are facing towards back. How many pupils are holding another pupil's hand using left hand? A: 6,B: 2,C: 1,D: 3,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1408.png"
+    ],
+    "id": 1408
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several kids are standing in a chain. A few are looking towards front and remaining are looking towards back. How many kids are grasping another kid's hand using their right hand? A: 6,B: 4,C: 5,D: 1,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1409.png"
+    ],
+    "id": 1409
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few children are standing in a line. Some are facing forward and others are facing backward. What is the count of children who are holding another child's hand with their right hand? A: 4,B: 5,C: 3,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1410.png"
+    ],
+    "id": 1410
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few kids are standing in a chain as demonstrated in the picture. A few are looking towards front and others are looking towards back. How many kids are holding another kid's hand using right hand? A: 1,B: 4,C: 3,D: 6,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1411.png"
+    ],
+    "id": 1411
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some kids are standing in a line. Some are looking forward and others are looking backward. What is the count of kids who are grasping another kid's hand using their right hand? A: 5,B: 2,C: 3,D: 1,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1413.png"
+    ],
+    "id": 1413
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few pupils are standing in a chain as demonstrated in the figure. A few are facing towards front and remaining are facing towards back. How many pupils are grasping another pupil's hand using their left hand? A: 4,B: 5,C: 1,D: 2,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1426.png"
+    ],
+    "id": 1426
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These pupils are standing in a chain as presented in the image. A few are facing towards front and remaining are facing towards back. How many pupils are grasping another pupil's hand with their right hand? A: 5,B: 6,C: 7,D: 4,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_143.png"
+    ],
+    "id": 143
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few children are dancing in a chain as presented in the drawing. Some are looking forward and remaining are looking backward. What is the count of children who are holding another child's hand with their left hand? A: 4,B: 3,C: 8,D: 1,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1430.png"
+    ],
+    "id": 1430
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some pupils are dancing in a line. A few are facing forward and remaining are facing backward. What is the count of pupils who are holding another pupil's hand using right hand? A: 2,B: 9,C: 4,D: 8,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1434.png"
+    ],
+    "id": 1434
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some pupils are dancing in a line as depicted in the image. A few are looking towards front and others are looking towards back. How many pupils are grasping another pupil's hand using left hand? A: 2,B: 7,C: 6,D: 1,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1437.png"
+    ],
+    "id": 1437
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following pupils are dancing in a chain. Some are facing towards front and others are facing towards back. How many pupils are holding another pupil's hand using their left hand? A: 1,B: 5,C: 2,D: 4,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1439.png"
+    ],
+    "id": 1439
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many kids are dancing in a line. Some are looking forward and others are looking backward. What is the count of kids who are holding another kid's hand with their left hand? A: 1,B: 3,C: 5,D: 2,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1451.png"
+    ],
+    "id": 1451
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few children are dancing in a line. Some are looking towards front and others are looking towards back. What is the count of children who are grasping another child's hand with their right hand? A: 2,B: 6,C: 3,D: 5,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1459.png"
+    ],
+    "id": 1459
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some pupils are standing in a queue. Some are looking forward and remaining are looking backward. How many pupils are grasping another pupil's hand using left hand? A: 7,B: 5,C: 6,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1462.png"
+    ],
+    "id": 1462
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few children are standing in a queue. Some are looking forward and others are looking backward. How many children are grasping another child's hand using right hand? A: 6,B: 1,C: 4,D: 7,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1478.png"
+    ],
+    "id": 1478
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following kids are standing in a line as shown in the image. Some are facing forward and remaining are facing backward. How many kids are holding another kid's hand using their right hand? A: 3,B: 4,C: 6,D: 1,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1479.png"
+    ],
+    "id": 1479
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few kids are dancing in a queue. A few are facing towards front and remaining are facing towards back. How many kids are grasping another kid's hand using left hand? A: 4,B: 7,C: 6,D: 5,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1482.png"
+    ],
+    "id": 1482
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These children are standing in a chain. A few are facing towards front and others are facing towards back. How many children are grasping another child's hand with their left hand? A: 6,B: 9,C: 1,D: 2,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1484.png"
+    ],
+    "id": 1484
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few kids are dancing in a chain. Some are looking forward and others are looking backward. What is the count of kids who are grasping another kid's hand with their right hand? A: 3,B: 6,C: 9,D: 1,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1485.png"
+    ],
+    "id": 1485
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some kids are standing in a line as pictured in the image. Some are facing forward and remaining are facing backward. What is the count of kids who are holding another kid's hand using right hand? A: 5,B: 1,C: 2,D: 6,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1495.png"
+    ],
+    "id": 1495
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few pupils are dancing in a queue. Some are looking forward and remaining are looking backward. How many pupils are grasping another pupil's hand using their right hand? A: 4,B: 2,C: 1,D: 3,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1496.png"
+    ],
+    "id": 1496
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following kids are standing in a queue. Some are facing towards front and remaining are facing towards back. What is the count of kids who are holding another kid's hand using right hand? A: 2,B: 3,C: 4,D: 1,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1499.png"
+    ],
+    "id": 1499
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many kids are standing in a chain. Some are facing forward and others are facing backward. How many kids are holding another kid's hand using right hand? A: 2,B: 6,C: 1,D: 4,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1500.png"
+    ],
+    "id": 1500
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some kids are standing in a chain as depicted in the drawing. A few are looking towards front and remaining are looking towards back. How many kids are grasping another kid's hand using left hand? A: 5,B: 7,C: 2,D: 6,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1508.png"
+    ],
+    "id": 1508
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some children are standing in a chain. A few are facing towards front and remaining are facing towards back. How many children are grasping another child's hand using left hand? A: 6,B: 3,C: 4,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1513.png"
+    ],
+    "id": 1513
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few kids are standing in a chain as shown in the picture. Some are looking towards front and remaining are looking towards back. How many kids are holding another kid's hand with their right hand? A: 5,B: 1,C: 2,D: 4,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1515.png"
+    ],
+    "id": 1515
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some kids are standing in a queue as depicted in the image. Some are looking towards front and others are looking towards back. What is the count of kids who are grasping another kid's hand using right hand? A: 6,B: 3,C: 2,D: 5,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1520.png"
+    ],
+    "id": 1520
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few pupils are dancing in a chain. Some are looking forward and others are looking backward. What is the count of pupils who are grasping another pupil's hand using their right hand? A: 3,B: 8,C: 7,D: 5,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1522.png"
+    ],
+    "id": 1522
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few children are standing in a line. A few are facing towards front and remaining are facing towards back. How many children are grasping another child's hand using right hand? A: 1,B: 4,C: 7,D: 6,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1528.png"
+    ],
+    "id": 1528
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following kids are dancing in a line as displayed in the drawing. Some are facing forward and remaining are facing backward. How many kids are holding another kid's hand with their right hand? A: 5,B: 2,C: 8,D: 9,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1529.png"
+    ],
+    "id": 1529
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following children are standing in a queue as demonstrated in the picture. A few are facing towards front and others are facing towards back. How many children are grasping another child's hand with their right hand? A: 9,B: 6,C: 1,D: 7,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1533.png"
+    ],
+    "id": 1533
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following kids are standing in a chain as depicted in the drawing. A few are facing forward and remaining are facing backward. How many kids are grasping another kid's hand with their left hand? A: 3,B: 2,C: 4,D: 5,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1534.png"
+    ],
+    "id": 1534
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These pupils are dancing in a chain. A few are facing forward and remaining are facing backward. How many pupils are grasping another pupil's hand using their left hand? A: 8,B: 7,C: 4,D: 6,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1570.png"
+    ],
+    "id": 1570
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some pupils are dancing in a queue as demonstrated in the cartoon. Some are facing forward and remaining are facing backward. What is the count of pupils who are holding another pupil's hand with their left hand? A: 7,B: 4,C: 1,D: 6,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1577.png"
+    ],
+    "id": 1577
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These pupils are standing in a line. Some are facing forward and remaining are facing backward. How many pupils are holding another pupil's hand with their right hand? A: 1,B: 5,C: 7,D: 2,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1579.png"
+    ],
+    "id": 1579
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several children are standing in a line. A few are facing towards front and remaining are facing towards back. How many children are grasping another child's hand using their left hand? A: 5,B: 4,C: 1,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1584.png"
+    ],
+    "id": 1584
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few kids are standing in a queue as depicted in the image. A few are looking towards front and others are looking towards back. What is the count of kids who are holding another kid's hand using left hand? A: 7,B: 8,C: 9,D: 2,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1585.png"
+    ],
+    "id": 1585
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several children are standing in a chain as depicted in the figure. Some are facing towards front and others are facing towards back. What is the count of children who are grasping another child's hand using their right hand? A: 2,B: 1,C: 7,D: 6,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1589.png"
+    ],
+    "id": 1589
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many pupils are dancing in a queue. Some are facing towards front and others are facing towards back. What is the count of pupils who are grasping another pupil's hand using right hand? A: 1,B: 7,C: 2,D: 5,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1590.png"
+    ],
+    "id": 1590
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several children are standing in a chain. A few are facing forward and others are facing backward. How many children are grasping another child's hand using their right hand? A: 2,B: 1,C: 5,D: 8,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1597.png"
+    ],
+    "id": 1597
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several kids are standing in a chain as presented in the image. Some are looking forward and others are looking backward. How many kids are holding another kid's hand with their right hand? A: 8,B: 5,C: 3,D: 9,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1598.png"
+    ],
+    "id": 1598
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following kids are dancing in a line. A few are facing forward and others are facing backward. What is the count of kids who are holding another kid's hand with their right hand? A: 2,B: 3,C: 8,D: 6,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_161.png"
+    ],
+    "id": 161
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some children are dancing in a line. Some are looking forward and others are looking backward. What is the count of children who are grasping another child's hand with their right hand? A: 5,B: 6,C: 7,D: 1,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1631.png"
+    ],
+    "id": 1631
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many kids are dancing in a chain as presented in the image. A few are facing forward and others are facing backward. What is the count of kids who are holding another kid's hand using left hand? A: 5,B: 3,C: 4,D: 1,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1633.png"
+    ],
+    "id": 1633
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following pupils are standing in a chain as pictured in the picture. A few are facing towards front and remaining are facing towards back. How many pupils are grasping another pupil's hand with their right hand? A: 3,B: 2,C: 7,D: 6,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1636.png"
+    ],
+    "id": 1636
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following pupils are dancing in a line. A few are facing towards front and remaining are facing towards back. How many pupils are grasping another pupil's hand using left hand? A: 6,B: 7,C: 3,D: 4,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1638.png"
+    ],
+    "id": 1638
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following pupils are standing in a queue as depicted in the figure. A few are facing towards front and others are facing towards back. What is the count of pupils who are grasping another pupil's hand using their left hand? A: 2,B: 5,C: 3,D: 4,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1643.png"
+    ],
+    "id": 1643
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some pupils are standing in a line as shown in the cartoon. A few are looking towards front and others are looking towards back. What is the count of pupils who are holding another pupil's hand with their left hand? A: 4,B: 5,C: 6,D: 9,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1648.png"
+    ],
+    "id": 1648
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some pupils are standing in a line. Some are facing forward and others are facing backward. How many pupils are grasping another pupil's hand using right hand? A: 6,B: 5,C: 9,D: 3,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_166.png"
+    ],
+    "id": 166
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few kids are dancing in a queue. A few are facing towards front and remaining are facing towards back. How many kids are grasping another kid's hand using their left hand? A: 6,B: 5,C: 3,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1661.png"
+    ],
+    "id": 1661
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These pupils are standing in a queue as presented in the picture. Some are facing forward and others are facing backward. What is the count of pupils who are grasping another pupil's hand using left hand? A: 4,B: 7,C: 3,D: 2,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1663.png"
+    ],
+    "id": 1663
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several pupils are dancing in a chain. A few are looking towards front and others are looking towards back. What is the count of pupils who are holding another pupil's hand with their right hand? A: 5,B: 2,C: 7,D: 6,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1678.png"
+    ],
+    "id": 1678
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few kids are standing in a chain. A few are facing forward and others are facing backward. How many kids are grasping another kid's hand using their right hand? A: 2,B: 3,C: 4,D: 7,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1685.png"
+    ],
+    "id": 1685
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following kids are dancing in a line. Some are looking towards front and others are looking towards back. What is the count of kids who are holding another kid's hand using their left hand? A: 3,B: 2,C: 9,D: 1,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1687.png"
+    ],
+    "id": 1687
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several children are dancing in a line as presented in the figure. A few are facing forward and others are facing backward. What is the count of children who are grasping another child's hand using their right hand? A: 6,B: 4,C: 3,D: 7,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1695.png"
+    ],
+    "id": 1695
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following children are standing in a chain as depicted in the picture. A few are facing forward and others are facing backward. What is the count of children who are grasping another child's hand using their left hand? A: 1,B: 2,C: 3,D: 5,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1698.png"
+    ],
+    "id": 1698
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some kids are standing in a chain as displayed in the cartoon. A few are looking towards front and remaining are looking towards back. What is the count of kids who are holding another kid's hand using left hand? A: 5,B: 4,C: 1,D: 2,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1700.png"
+    ],
+    "id": 1700
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few children are standing in a line as depicted in the figure. A few are looking towards front and others are looking towards back. How many children are holding another child's hand with their right hand? A: 2,B: 6,C: 3,D: 5,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1705.png"
+    ],
+    "id": 1705
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some pupils are dancing in a chain as shown in the cartoon. A few are facing forward and others are facing backward. How many pupils are grasping another pupil's hand with their right hand? A: 4,B: 3,C: 5,D: 6,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1707.png"
+    ],
+    "id": 1707
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few kids are standing in a line as depicted in the image. A few are looking forward and remaining are looking backward. What is the count of kids who are grasping another kid's hand with their right hand? A: 6,B: 3,C: 1,D: 5,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1714.png"
+    ],
+    "id": 1714
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many pupils are dancing in a chain. Some are looking towards front and remaining are looking towards back. How many pupils are holding another pupil's hand using right hand? A: 1,B: 8,C: 5,D: 6,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1715.png"
+    ],
+    "id": 1715
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several kids are standing in a chain as shown in the image. Some are looking forward and remaining are looking backward. How many kids are grasping another kid's hand using their right hand? A: 3,B: 6,C: 1,D: 5,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1722.png"
+    ],
+    "id": 1722
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few children are dancing in a line as presented in the drawing. A few are looking towards front and remaining are looking towards back. What is the count of children who are grasping another child's hand with their right hand? A: 6,B: 1,C: 5,D: 2,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1724.png"
+    ],
+    "id": 1724
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some pupils are dancing in a line. A few are looking towards front and others are looking towards back. What is the count of pupils who are grasping another pupil's hand with their right hand? A: 3,B: 1,C: 2,D: 4,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1725.png"
+    ],
+    "id": 1725
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several kids are dancing in a chain as depicted in the figure. Some are facing towards front and remaining are facing towards back. What is the count of kids who are grasping another kid's hand using right hand? A: 3,B: 8,C: 2,D: 1,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1748.png"
+    ],
+    "id": 1748
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These children are dancing in a chain as displayed in the drawing. A few are looking towards front and remaining are looking towards back. What is the count of children who are grasping another child's hand with their left hand? A: 8,B: 7,C: 6,D: 1,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1750.png"
+    ],
+    "id": 1750
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several kids are standing in a queue as displayed in the figure. A few are looking towards front and others are looking towards back. What is the count of kids who are grasping another kid's hand using right hand? A: 2,B: 6,C: 1,D: 5,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1751.png"
+    ],
+    "id": 1751
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These children are dancing in a chain. A few are facing towards front and remaining are facing towards back. What is the count of children who are holding another child's hand with their right hand? A: 4,B: 1,C: 3,D: 9,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1753.png"
+    ],
+    "id": 1753
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few pupils are standing in a queue. Some are looking towards front and remaining are looking towards back. How many pupils are grasping another pupil's hand using their left hand? A: 4,B: 5,C: 2,D: 3,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1757.png"
+    ],
+    "id": 1757
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several kids are dancing in a chain. Some are facing towards front and others are facing towards back. What is the count of kids who are holding another kid's hand using their right hand? A: 2,B: 4,C: 1,D: 6,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1758.png"
+    ],
+    "id": 1758
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several children are standing in a queue as depicted in the figure. A few are looking towards front and remaining are looking towards back. How many children are holding another child's hand using right hand? A: 3,B: 7,C: 5,D: 6,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1762.png"
+    ],
+    "id": 1762
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some children are dancing in a line as presented in the image. A few are looking towards front and others are looking towards back. What is the count of children who are holding another child's hand using right hand? A: 7,B: 3,C: 8,D: 6,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1772.png"
+    ],
+    "id": 1772
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several children are dancing in a line as displayed in the figure. Some are facing forward and remaining are facing backward. What is the count of children who are grasping another child's hand using left hand? A: 3,B: 7,C: 5,D: 6,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1773.png"
+    ],
+    "id": 1773
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few kids are dancing in a chain. A few are facing forward and others are facing backward. What is the count of kids who are grasping another kid's hand with their right hand? A: 5,B: 7,C: 2,D: 1,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1792.png"
+    ],
+    "id": 1792
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few children are standing in a line as shown in the picture. Some are facing forward and remaining are facing backward. How many children are grasping another child's hand using their right hand? A: 1,B: 3,C: 5,D: 6,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1795.png"
+    ],
+    "id": 1795
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many children are dancing in a chain. A few are facing towards front and others are facing towards back. What is the count of children who are grasping another child's hand using their right hand? A: 7,B: 1,C: 8,D: 4,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1796.png"
+    ],
+    "id": 1796
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many pupils are dancing in a line as presented in the drawing. A few are looking forward and others are looking backward. What is the count of pupils who are holding another pupil's hand with their right hand? A: 1,B: 5,C: 9,D: 7,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1806.png"
+    ],
+    "id": 1806
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few pupils are standing in a queue as presented in the drawing. A few are looking towards front and remaining are looking towards back. What is the count of pupils who are grasping another pupil's hand using right hand? A: 3,B: 2,C: 6,D: 4,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1808.png"
+    ],
+    "id": 1808
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some children are standing in a chain. Some are facing forward and remaining are facing backward. How many children are grasping another child's hand using their left hand? A: 5,B: 2,C: 3,D: 1,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1823.png"
+    ],
+    "id": 1823
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These pupils are standing in a chain. A few are looking towards front and remaining are looking towards back. What is the count of pupils who are grasping another pupil's hand using their left hand? A: 2,B: 6,C: 1,D: 8,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1835.png"
+    ],
+    "id": 1835
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some pupils are dancing in a line. Some are facing forward and remaining are facing backward. How many pupils are holding another pupil's hand with their right hand? A: 1,B: 5,C: 3,D: 2,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1836.png"
+    ],
+    "id": 1836
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several kids are dancing in a line as displayed in the cartoon. A few are facing towards front and others are facing towards back. What is the count of kids who are holding another kid's hand using left hand? A: 3,B: 8,C: 7,D: 4,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1839.png"
+    ],
+    "id": 1839
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several kids are dancing in a queue as pictured in the cartoon. A few are facing forward and others are facing backward. What is the count of kids who are grasping another kid's hand with their right hand? A: 3,B: 6,C: 7,D: 1,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1841.png"
+    ],
+    "id": 1841
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several kids are standing in a chain. A few are looking forward and others are looking backward. How many kids are holding another kid's hand using right hand? A: 4,B: 1,C: 2,D: 6,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1842.png"
+    ],
+    "id": 1842
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following children are dancing in a line. Some are looking forward and remaining are looking backward. How many children are holding another child's hand using left hand? A: 8,B: 3,C: 2,D: 6,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1845.png"
+    ],
+    "id": 1845
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following pupils are standing in a line. Some are looking towards front and remaining are looking towards back. What is the count of pupils who are holding another pupil's hand with their right hand? A: 2,B: 4,C: 3,D: 5,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1848.png"
+    ],
+    "id": 1848
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some kids are dancing in a chain. Some are facing towards front and remaining are facing towards back. How many kids are holding another kid's hand using their right hand? A: 3,B: 1,C: 4,D: 2,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1851.png"
+    ],
+    "id": 1851
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some pupils are dancing in a chain as shown in the image. A few are facing forward and others are facing backward. What is the count of pupils who are holding another pupil's hand with their left hand? A: 2,B: 5,C: 1,D: 8,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1862.png"
+    ],
+    "id": 1862
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few pupils are standing in a chain as demonstrated in the picture. A few are looking towards front and remaining are looking towards back. How many pupils are holding another pupil's hand with their right hand? A: 1,B: 2,C: 7,D: 3,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1863.png"
+    ],
+    "id": 1863
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several children are standing in a line. A few are looking towards front and others are looking towards back. What is the count of children who are grasping another child's hand using right hand? A: 5,B: 3,C: 1,D: 4,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_187.png"
+    ],
+    "id": 187
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These kids are dancing in a line as displayed in the cartoon. A few are facing forward and others are facing backward. What is the count of kids who are holding another kid's hand with their right hand? A: 7,B: 2,C: 3,D: 4,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1880.png"
+    ],
+    "id": 1880
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following children are standing in a queue as demonstrated in the drawing. Some are facing forward and remaining are facing backward. What is the count of children who are holding another child's hand with their right hand? A: 4,B: 1,C: 5,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1885.png"
+    ],
+    "id": 1885
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These children are standing in a queue. Some are looking towards front and others are looking towards back. What is the count of children who are grasping another child's hand using their right hand? A: 3,B: 8,C: 9,D: 1,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1886.png"
+    ],
+    "id": 1886
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following kids are dancing in a queue as depicted in the cartoon. A few are facing forward and remaining are facing backward. How many kids are holding another kid's hand using their right hand? A: 4,B: 5,C: 2,D: 3,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_189.png"
+    ],
+    "id": 189
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few kids are standing in a line as presented in the cartoon. Some are facing towards front and remaining are facing towards back. How many kids are holding another kid's hand using left hand? A: 3,B: 7,C: 5,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1891.png"
+    ],
+    "id": 1891
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few pupils are dancing in a line as pictured in the cartoon. A few are facing towards front and others are facing towards back. How many pupils are holding another pupil's hand using left hand? A: 2,B: 6,C: 3,D: 4,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1895.png"
+    ],
+    "id": 1895
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following pupils are standing in a chain as depicted in the image. A few are looking towards front and remaining are looking towards back. How many pupils are holding another pupil's hand using right hand? A: 6,B: 1,C: 5,D: 2,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1899.png"
+    ],
+    "id": 1899
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several kids are dancing in a queue as shown in the picture. Some are facing forward and others are facing backward. How many kids are holding another kid's hand with their right hand? A: 8,B: 2,C: 9,D: 7,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1900.png"
+    ],
+    "id": 1900
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many kids are dancing in a chain. Some are looking towards front and others are looking towards back. What is the count of kids who are grasping another kid's hand with their right hand? A: 5,B: 4,C: 2,D: 3,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1901.png"
+    ],
+    "id": 1901
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many children are dancing in a queue as pictured in the drawing. Some are facing towards front and remaining are facing towards back. What is the count of children who are holding another child's hand using their right hand? A: 3,B: 1,C: 7,D: 5,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1915.png"
+    ],
+    "id": 1915
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many children are dancing in a chain. A few are facing forward and remaining are facing backward. What is the count of children who are holding another child's hand using their left hand? A: 4,B: 1,C: 6,D: 2,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1925.png"
+    ],
+    "id": 1925
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following kids are dancing in a line. Some are facing forward and others are facing backward. How many kids are grasping another kid's hand with their right hand? A: 4,B: 5,C: 6,D: 7,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1951.png"
+    ],
+    "id": 1951
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many kids are dancing in a chain as pictured in the figure. Some are looking forward and remaining are looking backward. What is the count of kids who are grasping another kid's hand with their right hand? A: 6,B: 1,C: 3,D: 7,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1952.png"
+    ],
+    "id": 1952
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several kids are standing in a chain as presented in the picture. A few are looking towards front and remaining are looking towards back. What is the count of kids who are grasping another kid's hand using left hand? A: 1,B: 2,C: 6,D: 4,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_197.png"
+    ],
+    "id": 197
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some kids are standing in a chain. Some are facing towards front and others are facing towards back. What is the count of kids who are grasping another kid's hand with their right hand? A: 1,B: 4,C: 3,D: 2,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1970.png"
+    ],
+    "id": 1970
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several kids are standing in a queue. Some are looking towards front and others are looking towards back. What is the count of kids who are holding another kid's hand using left hand? A: 1,B: 7,C: 5,D: 3,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_1996.png"
+    ],
+    "id": 1996
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many children are standing in a line. A few are facing forward and remaining are facing backward. How many children are grasping another child's hand using their left hand? A: 4,B: 1,C: 3,D: 2,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_20.png"
+    ],
+    "id": 20
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many kids are dancing in a queue as displayed in the image. Some are facing forward and others are facing backward. How many kids are holding another kid's hand using their left hand? A: 2,B: 5,C: 3,D: 1,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_200.png"
+    ],
+    "id": 200
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These pupils are dancing in a queue. Some are looking forward and remaining are looking backward. What is the count of pupils who are grasping another pupil's hand using right hand? A: 3,B: 4,C: 5,D: 6,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_201.png"
+    ],
+    "id": 201
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some pupils are dancing in a line as pictured in the cartoon. A few are looking forward and remaining are looking backward. How many pupils are holding another pupil's hand with their left hand? A: 3,B: 6,C: 7,D: 5,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_202.png"
+    ],
+    "id": 202
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following children are dancing in a queue. Some are looking towards front and others are looking towards back. What is the count of children who are holding another child's hand using their right hand? A: 4,B: 1,C: 5,D: 3,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_205.png"
+    ],
+    "id": 205
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many kids are dancing in a queue. A few are facing forward and remaining are facing backward. What is the count of kids who are grasping another kid's hand using right hand? A: 7,B: 4,C: 6,D: 8,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_206.png"
+    ],
+    "id": 206
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several children are standing in a queue. A few are facing towards front and others are facing towards back. What is the count of children who are holding another child's hand using right hand? A: 4,B: 3,C: 6,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_21.png"
+    ],
+    "id": 21
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following pupils are standing in a chain. Some are facing forward and remaining are facing backward. What is the count of pupils who are holding another pupil's hand using right hand? A: 2,B: 4,C: 3,D: 1,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_216.png"
+    ],
+    "id": 216
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some kids are standing in a line as presented in the cartoon. Some are facing forward and others are facing backward. What is the count of kids who are grasping another kid's hand using their right hand? A: 5,B: 4,C: 6,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_219.png"
+    ],
+    "id": 219
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These kids are dancing in a line. Some are looking towards front and remaining are looking towards back. What is the count of kids who are grasping another kid's hand using their left hand? A: 7,B: 2,C: 6,D: 1,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_230.png"
+    ],
+    "id": 230
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some kids are dancing in a queue. Some are facing forward and others are facing backward. What is the count of kids who are holding another kid's hand using their right hand? A: 4,B: 2,C: 3,D: 6,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_241.png"
+    ],
+    "id": 241
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many pupils are standing in a chain. A few are facing towards front and remaining are facing towards back. How many pupils are grasping another pupil's hand with their right hand? A: 2,B: 7,C: 6,D: 1,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_246.png"
+    ],
+    "id": 246
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following children are standing in a queue. Some are looking forward and remaining are looking backward. What is the count of children who are grasping another child's hand using their left hand? A: 8,B: 1,C: 3,D: 7,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_252.png"
+    ],
+    "id": 252
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following children are dancing in a chain as pictured in the image. A few are facing towards front and others are facing towards back. How many children are holding another child's hand with their right hand? A: 1,B: 5,C: 3,D: 6,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_269.png"
+    ],
+    "id": 269
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some kids are standing in a line as displayed in the drawing. Some are facing forward and others are facing backward. What is the count of kids who are grasping another kid's hand using their left hand? A: 2,B: 4,C: 6,D: 1,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_276.png"
+    ],
+    "id": 276
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few pupils are dancing in a line. A few are facing towards front and remaining are facing towards back. What is the count of pupils who are holding another pupil's hand using left hand? A: 3,B: 1,C: 4,D: 7,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_279.png"
+    ],
+    "id": 279
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These kids are dancing in a chain. A few are looking forward and remaining are looking backward. How many kids are grasping another kid's hand with their left hand? A: 6,B: 5,C: 8,D: 7,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_288.png"
+    ],
+    "id": 288
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These pupils are dancing in a line. A few are facing towards front and others are facing towards back. How many pupils are holding another pupil's hand using their left hand? A: 1,B: 2,C: 4,D: 3,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_293.png"
+    ],
+    "id": 293
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following pupils are standing in a line. A few are looking forward and others are looking backward. How many pupils are grasping another pupil's hand using left hand? A: 7,B: 4,C: 5,D: 1,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_295.png"
+    ],
+    "id": 295
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many pupils are standing in a line as shown in the image. A few are looking towards front and remaining are looking towards back. How many pupils are holding another pupil's hand using their left hand? A: 4,B: 8,C: 7,D: 1,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_315.png"
+    ],
+    "id": 315
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some pupils are dancing in a queue as presented in the drawing. Some are facing towards front and remaining are facing towards back. How many pupils are grasping another pupil's hand with their right hand? A: 2,B: 5,C: 1,D: 4,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_317.png"
+    ],
+    "id": 317
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some children are dancing in a chain. Some are facing forward and remaining are facing backward. How many children are holding another child's hand with their left hand? A: 1,B: 4,C: 7,D: 3,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_330.png"
+    ],
+    "id": 330
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following pupils are dancing in a line as presented in the cartoon. Some are looking towards front and remaining are looking towards back. What is the count of pupils who are grasping another pupil's hand with their left hand? A: 6,B: 8,C: 5,D: 4,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_337.png"
+    ],
+    "id": 337
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following kids are dancing in a chain as shown in the image. Some are facing forward and remaining are facing backward. What is the count of kids who are holding another kid's hand using their right hand? A: 7,B: 6,C: 2,D: 5,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_34.png"
+    ],
+    "id": 34
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following pupils are dancing in a queue. Some are looking forward and remaining are looking backward. How many pupils are grasping another pupil's hand using left hand? A: 9,B: 7,C: 1,D: 6,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_343.png"
+    ],
+    "id": 343
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following children are standing in a line as shown in the image. Some are facing forward and remaining are facing backward. How many children are holding another child's hand with their right hand? A: 1,B: 2,C: 3,D: 6,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_378.png"
+    ],
+    "id": 378
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few pupils are standing in a chain. Some are facing towards front and remaining are facing towards back. How many pupils are holding another pupil's hand using right hand? A: 3,B: 7,C: 6,D: 5,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_379.png"
+    ],
+    "id": 379
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many kids are standing in a queue. Some are looking forward and remaining are looking backward. What is the count of kids who are grasping another kid's hand using right hand? A: 5,B: 4,C: 3,D: 2,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_384.png"
+    ],
+    "id": 384
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some children are standing in a line as depicted in the cartoon. A few are facing towards front and others are facing towards back. How many children are grasping another child's hand using their left hand? A: 1,B: 6,C: 7,D: 5,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_385.png"
+    ],
+    "id": 385
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few pupils are dancing in a queue. Some are looking forward and remaining are looking backward. What is the count of pupils who are grasping another pupil's hand with their left hand? A: 5,B: 2,C: 1,D: 3,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_387.png"
+    ],
+    "id": 387
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many pupils are dancing in a queue. Some are looking towards front and others are looking towards back. What is the count of pupils who are grasping another pupil's hand using their left hand? A: 3,B: 1,C: 9,D: 4,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_391.png"
+    ],
+    "id": 391
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few kids are standing in a queue. A few are looking towards front and others are looking towards back. What is the count of kids who are holding another kid's hand using their right hand? A: 2,B: 7,C: 5,D: 3,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_392.png"
+    ],
+    "id": 392
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many children are standing in a queue as demonstrated in the cartoon. Some are looking forward and others are looking backward. What is the count of children who are grasping another child's hand using right hand? A: 3,B: 2,C: 5,D: 4,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_397.png"
+    ],
+    "id": 397
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These kids are dancing in a queue. A few are looking forward and others are looking backward. What is the count of kids who are grasping another kid's hand using their right hand? A: 3,B: 9,C: 7,D: 8,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_40.png"
+    ],
+    "id": 40
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several pupils are dancing in a chain. Some are facing forward and remaining are facing backward. How many pupils are grasping another pupil's hand using right hand? A: 6,B: 3,C: 7,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_400.png"
+    ],
+    "id": 400
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many kids are standing in a chain as displayed in the picture. A few are facing forward and remaining are facing backward. What is the count of kids who are grasping another kid's hand using left hand? A: 2,B: 1,C: 5,D: 4,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_401.png"
+    ],
+    "id": 401
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several children are standing in a chain. A few are looking forward and remaining are looking backward. What is the count of children who are grasping another child's hand with their right hand? A: 2,B: 1,C: 7,D: 3,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_406.png"
+    ],
+    "id": 406
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These pupils are standing in a chain as presented in the picture. A few are looking forward and others are looking backward. How many pupils are grasping another pupil's hand with their left hand? A: 6,B: 1,C: 5,D: 3,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_418.png"
+    ],
+    "id": 418
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several kids are standing in a queue as displayed in the drawing. Some are looking forward and remaining are looking backward. How many kids are holding another kid's hand using their left hand? A: 6,B: 4,C: 7,D: 8,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_441.png"
+    ],
+    "id": 441
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These pupils are standing in a chain as presented in the figure. Some are looking towards front and remaining are looking towards back. What is the count of pupils who are grasping another pupil's hand with their right hand? A: 4,B: 6,C: 2,D: 3,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_455.png"
+    ],
+    "id": 455
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These kids are dancing in a queue. Some are facing forward and remaining are facing backward. What is the count of kids who are holding another kid's hand with their left hand? A: 5,B: 7,C: 4,D: 1,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_459.png"
+    ],
+    "id": 459
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some children are standing in a line as presented in the cartoon. A few are looking forward and remaining are looking backward. How many children are grasping another child's hand using their left hand? A: 6,B: 4,C: 1,D: 7,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_466.png"
+    ],
+    "id": 466
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following kids are standing in a queue. Some are looking forward and others are looking backward. What is the count of kids who are holding another kid's hand with their right hand? A: 1,B: 5,C: 4,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_474.png"
+    ],
+    "id": 474
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few kids are dancing in a queue. A few are looking towards front and others are looking towards back. What is the count of kids who are grasping another kid's hand using left hand? A: 5,B: 3,C: 4,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_484.png"
+    ],
+    "id": 484
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many kids are dancing in a line. Some are facing forward and remaining are facing backward. What is the count of kids who are grasping another kid's hand using right hand? A: 1,B: 2,C: 5,D: 3,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_492.png"
+    ],
+    "id": 492
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several children are dancing in a line as pictured in the drawing. A few are facing towards front and others are facing towards back. How many children are holding another child's hand using left hand? A: 2,B: 6,C: 1,D: 5,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_502.png"
+    ],
+    "id": 502
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many kids are standing in a line as presented in the image. A few are looking forward and others are looking backward. How many kids are holding another kid's hand using right hand? A: 7,B: 2,C: 5,D: 6,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_508.png"
+    ],
+    "id": 508
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few kids are standing in a chain as shown in the figure. A few are facing forward and remaining are facing backward. What is the count of kids who are grasping another kid's hand using their right hand? A: 3,B: 4,C: 5,D: 2,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_510.png"
+    ],
+    "id": 510
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following pupils are dancing in a queue. Some are looking forward and others are looking backward. How many pupils are holding another pupil's hand using left hand? A: 5,B: 3,C: 1,D: 2,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_520.png"
+    ],
+    "id": 520
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several pupils are dancing in a queue as pictured in the image. A few are facing forward and others are facing backward. How many pupils are grasping another pupil's hand using their left hand? A: 5,B: 9,C: 8,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_524.png"
+    ],
+    "id": 524
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These kids are standing in a queue as pictured in the figure. Some are facing forward and others are facing backward. What is the count of kids who are holding another kid's hand using their right hand? A: 6,B: 3,C: 2,D: 5,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_540.png"
+    ],
+    "id": 540
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These children are standing in a line. Some are facing towards front and remaining are facing towards back. How many children are holding another child's hand with their left hand? A: 1,B: 5,C: 2,D: 3,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_556.png"
+    ],
+    "id": 556
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following pupils are standing in a line as demonstrated in the drawing. Some are facing forward and remaining are facing backward. What is the count of pupils who are grasping another pupil's hand with their left hand? A: 1,B: 3,C: 4,D: 5,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_562.png"
+    ],
+    "id": 562
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few kids are standing in a chain. A few are facing forward and others are facing backward. How many kids are holding another kid's hand with their left hand? A: 4,B: 5,C: 1,D: 6,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_563.png"
+    ],
+    "id": 563
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several kids are standing in a queue. Some are facing towards front and others are facing towards back. What is the count of kids who are holding another kid's hand using their right hand? A: 1,B: 5,C: 4,D: 3,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_564.png"
+    ],
+    "id": 564
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few children are dancing in a chain as presented in the drawing. Some are facing forward and remaining are facing backward. What is the count of children who are grasping another child's hand using their left hand? A: 7,B: 2,C: 5,D: 3,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_565.png"
+    ],
+    "id": 565
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some kids are standing in a chain. Some are looking forward and others are looking backward. What is the count of kids who are holding another kid's hand using their left hand? A: 7,B: 2,C: 1,D: 8,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_577.png"
+    ],
+    "id": 577
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few pupils are standing in a queue. Some are looking forward and remaining are looking backward. What is the count of pupils who are holding another pupil's hand with their left hand? A: 6,B: 1,C: 4,D: 3,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_592.png"
+    ],
+    "id": 592
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many children are dancing in a queue. A few are facing forward and others are facing backward. What is the count of children who are grasping another child's hand using their right hand? A: 4,B: 1,C: 8,D: 7,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_600.png"
+    ],
+    "id": 600
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few pupils are dancing in a chain. Some are looking towards front and others are looking towards back. What is the count of pupils who are holding another pupil's hand with their left hand? A: 8,B: 2,C: 3,D: 5,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_608.png"
+    ],
+    "id": 608
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many pupils are standing in a chain. A few are looking forward and others are looking backward. How many pupils are holding another pupil's hand using right hand? A: 5,B: 6,C: 7,D: 8,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_612.png"
+    ],
+    "id": 612
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few kids are dancing in a line as pictured in the image. A few are looking towards front and remaining are looking towards back. What is the count of kids who are grasping another kid's hand with their right hand? A: 8,B: 4,C: 9,D: 1,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_627.png"
+    ],
+    "id": 627
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several pupils are dancing in a chain as displayed in the image. Some are looking forward and others are looking backward. How many pupils are holding another pupil's hand using their right hand? A: 4,B: 6,C: 9,D: 2,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_632.png"
+    ],
+    "id": 632
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some kids are standing in a chain. A few are looking towards front and others are looking towards back. What is the count of kids who are grasping another kid's hand using left hand? A: 4,B: 5,C: 6,D: 1,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_64.png"
+    ],
+    "id": 64
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some pupils are standing in a line. Some are looking towards front and remaining are looking towards back. How many pupils are grasping another pupil's hand with their left hand? A: 2,B: 5,C: 4,D: 3,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_641.png"
+    ],
+    "id": 641
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few children are dancing in a chain. Some are looking towards front and remaining are looking towards back. What is the count of children who are holding another child's hand with their left hand? A: 3,B: 2,C: 6,D: 7,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_642.png"
+    ],
+    "id": 642
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some pupils are standing in a queue as demonstrated in the cartoon. A few are facing towards front and remaining are facing towards back. How many pupils are holding another pupil's hand using their right hand? A: 2,B: 3,C: 4,D: 7,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_645.png"
+    ],
+    "id": 645
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many pupils are dancing in a chain. A few are looking towards front and remaining are looking towards back. How many pupils are grasping another pupil's hand using their right hand? A: 3,B: 6,C: 1,D: 4,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_646.png"
+    ],
+    "id": 646
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These pupils are dancing in a chain. A few are looking towards front and remaining are looking towards back. What is the count of pupils who are holding another pupil's hand with their left hand? A: 2,B: 3,C: 1,D: 4,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_647.png"
+    ],
+    "id": 647
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several kids are standing in a chain. Some are looking forward and others are looking backward. What is the count of kids who are holding another kid's hand with their right hand? A: 9,B: 8,C: 1,D: 4,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_648.png"
+    ],
+    "id": 648
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following pupils are standing in a queue. Some are looking towards front and remaining are looking towards back. How many pupils are holding another pupil's hand with their right hand? A: 7,B: 3,C: 1,D: 5,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_663.png"
+    ],
+    "id": 663
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following kids are standing in a chain as displayed in the figure. Some are looking forward and remaining are looking backward. How many kids are grasping another kid's hand using their left hand? A: 6,B: 5,C: 1,D: 4,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_681.png"
+    ],
+    "id": 681
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These children are standing in a queue as demonstrated in the drawing. A few are looking towards front and others are looking towards back. What is the count of children who are holding another child's hand with their left hand? A: 4,B: 5,C: 3,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_683.png"
+    ],
+    "id": 683
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These kids are dancing in a queue as pictured in the image. A few are facing forward and others are facing backward. What is the count of kids who are holding another kid's hand with their right hand? A: 4,B: 6,C: 3,D: 5,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_686.png"
+    ],
+    "id": 686
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following kids are standing in a queue as demonstrated in the image. Some are facing towards front and others are facing towards back. What is the count of kids who are holding another kid's hand using left hand? A: 4,B: 7,C: 6,D: 1,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_698.png"
+    ],
+    "id": 698
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following kids are standing in a line. Some are facing forward and others are facing backward. How many kids are holding another kid's hand with their left hand? A: 3,B: 5,C: 2,D: 4,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_699.png"
+    ],
+    "id": 699
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several pupils are standing in a queue. Some are looking towards front and remaining are looking towards back. What is the count of pupils who are holding another pupil's hand using their left hand? A: 9,B: 5,C: 8,D: 4,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_702.png"
+    ],
+    "id": 702
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some children are standing in a chain. Some are looking forward and others are looking backward. How many children are holding another child's hand using their right hand? A: 3,B: 1,C: 7,D: 4,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_709.png"
+    ],
+    "id": 709
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few children are standing in a line. A few are looking forward and remaining are looking backward. How many children are grasping another child's hand with their left hand? A: 6,B: 1,C: 7,D: 3,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_719.png"
+    ],
+    "id": 719
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following children are standing in a queue as shown in the drawing. A few are facing towards front and others are facing towards back. What is the count of children who are grasping another child's hand using their right hand? A: 4,B: 8,C: 7,D: 6,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_725.png"
+    ],
+    "id": 725
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following pupils are dancing in a queue. Some are looking towards front and others are looking towards back. What is the count of pupils who are grasping another pupil's hand using right hand? A: 2,B: 3,C: 7,D: 6,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_729.png"
+    ],
+    "id": 729
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few kids are dancing in a queue as presented in the image. Some are facing towards front and others are facing towards back. What is the count of kids who are grasping another kid's hand using their right hand? A: 1,B: 6,C: 2,D: 5,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_742.png"
+    ],
+    "id": 742
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following kids are dancing in a chain as displayed in the picture. Some are facing towards front and others are facing towards back. How many kids are holding another kid's hand with their left hand? A: 3,B: 1,C: 6,D: 7,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_747.png"
+    ],
+    "id": 747
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several kids are dancing in a queue. A few are looking forward and others are looking backward. What is the count of kids who are holding another kid's hand with their right hand? A: 6,B: 3,C: 2,D: 1,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_748.png"
+    ],
+    "id": 748
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some pupils are dancing in a line. A few are looking towards front and others are looking towards back. What is the count of pupils who are grasping another pupil's hand using their left hand? A: 7,B: 9,C: 4,D: 8,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_751.png"
+    ],
+    "id": 751
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many kids are dancing in a queue. Some are facing towards front and others are facing towards back. How many kids are grasping another kid's hand using left hand? A: 2,B: 5,C: 4,D: 1,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_763.png"
+    ],
+    "id": 763
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These children are standing in a chain as shown in the figure. Some are looking towards front and others are looking towards back. What is the count of children who are grasping another child's hand using left hand? A: 2,B: 1,C: 5,D: 4,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_766.png"
+    ],
+    "id": 766
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following kids are dancing in a chain as displayed in the figure. A few are looking towards front and remaining are looking towards back. How many kids are grasping another kid's hand with their right hand? A: 4,B: 2,C: 5,D: 1,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_769.png"
+    ],
+    "id": 769
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some kids are dancing in a chain. A few are looking forward and remaining are looking backward. How many kids are holding another kid's hand with their left hand? A: 2,B: 1,C: 6,D: 4,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_775.png"
+    ],
+    "id": 775
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some children are standing in a line. Some are looking towards front and remaining are looking towards back. How many children are holding another child's hand using right hand? A: 1,B: 7,C: 8,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_776.png"
+    ],
+    "id": 776
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several kids are standing in a queue as pictured in the picture. Some are facing forward and others are facing backward. How many kids are holding another kid's hand with their left hand? A: 8,B: 6,C: 1,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_779.png"
+    ],
+    "id": 779
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following kids are standing in a queue. A few are facing forward and remaining are facing backward. How many kids are grasping another kid's hand with their left hand? A: 4,B: 2,C: 7,D: 1,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_791.png"
+    ],
+    "id": 791
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few kids are standing in a line. A few are looking forward and remaining are looking backward. What is the count of kids who are holding another kid's hand using left hand? A: 1,B: 2,C: 4,D: 3,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_794.png"
+    ],
+    "id": 794
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several kids are standing in a chain as pictured in the image. A few are looking towards front and others are looking towards back. How many kids are holding another kid's hand using their left hand? A: 8,B: 2,C: 7,D: 3,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_795.png"
+    ],
+    "id": 795
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many children are dancing in a chain as demonstrated in the cartoon. Some are facing forward and others are facing backward. What is the count of children who are grasping another child's hand using left hand? A: 8,B: 1,C: 6,D: 3,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_804.png"
+    ],
+    "id": 804
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few children are dancing in a queue. A few are looking towards front and remaining are looking towards back. How many children are holding another child's hand using left hand? A: 4,B: 7,C: 9,D: 8,E: 5. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_805.png"
+    ],
+    "id": 805
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many pupils are standing in a chain. Some are facing forward and remaining are facing backward. How many pupils are holding another pupil's hand using their right hand? A: 3,B: 6,C: 1,D: 8,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_815.png"
+    ],
+    "id": 815
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These children are dancing in a queue as demonstrated in the image. Some are facing forward and others are facing backward. How many children are grasping another child's hand using right hand? A: 4,B: 1,C: 2,D: 3,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_831.png"
+    ],
+    "id": 831
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following children are dancing in a queue. A few are facing forward and others are facing backward. How many children are holding another child's hand using left hand? A: 7,B: 3,C: 5,D: 6,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_835.png"
+    ],
+    "id": 835
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some pupils are standing in a chain. A few are facing forward and remaining are facing backward. What is the count of pupils who are grasping another pupil's hand with their left hand? A: 7,B: 3,C: 1,D: 2,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_840.png"
+    ],
+    "id": 840
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some pupils are dancing in a chain as demonstrated in the picture. A few are looking forward and remaining are looking backward. What is the count of pupils who are holding another pupil's hand with their left hand? A: 5,B: 6,C: 3,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_854.png"
+    ],
+    "id": 854
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some children are dancing in a queue. A few are looking towards front and others are looking towards back. How many children are grasping another child's hand with their right hand? A: 3,B: 4,C: 2,D: 5,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_856.png"
+    ],
+    "id": 856
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These children are standing in a chain. Some are facing forward and remaining are facing backward. What is the count of children who are holding another child's hand using their right hand? A: 2,B: 7,C: 5,D: 6,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_860.png"
+    ],
+    "id": 860
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These kids are standing in a line as presented in the picture. A few are looking towards front and others are looking towards back. What is the count of kids who are grasping another kid's hand using right hand? A: 4,B: 1,C: 3,D: 5,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_863.png"
+    ],
+    "id": 863
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These pupils are standing in a line as shown in the image. Some are facing forward and others are facing backward. How many pupils are grasping another pupil's hand with their right hand? A: 1,B: 4,C: 5,D: 2,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_87.png"
+    ],
+    "id": 87
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These pupils are dancing in a chain. Some are facing towards front and others are facing towards back. What is the count of pupils who are holding another pupil's hand using right hand? A: 5,B: 2,C: 3,D: 1,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_870.png"
+    ],
+    "id": 870
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some pupils are standing in a chain as pictured in the image. A few are looking towards front and remaining are looking towards back. What is the count of pupils who are holding another pupil's hand using right hand? A: 5,B: 1,C: 9,D: 7,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_871.png"
+    ],
+    "id": 871
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These kids are standing in a chain. Some are facing towards front and remaining are facing towards back. What is the count of kids who are grasping another kid's hand using their left hand? A: 3,B: 2,C: 1,D: 5,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_878.png"
+    ],
+    "id": 878
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many children are dancing in a line. A few are facing forward and others are facing backward. What is the count of children who are holding another child's hand using right hand? A: 4,B: 3,C: 1,D: 5,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_883.png"
+    ],
+    "id": 883
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following kids are dancing in a queue. A few are facing forward and others are facing backward. How many kids are holding another kid's hand using their left hand? A: 4,B: 7,C: 3,D: 2,E: 6. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_891.png"
+    ],
+    "id": 891
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several children are dancing in a line. A few are looking towards front and others are looking towards back. What is the count of children who are grasping another child's hand using right hand? A: 2,B: 6,C: 5,D: 7,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_897.png"
+    ],
+    "id": 897
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following children are dancing in a line. A few are facing forward and remaining are facing backward. How many children are holding another child's hand using left hand? A: 5,B: 6,C: 7,D: 1,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_91.png"
+    ],
+    "id": 91
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some pupils are standing in a line. Some are facing towards front and remaining are facing towards back. What is the count of pupils who are grasping another pupil's hand using their left hand? A: 7,B: 6,C: 3,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_929.png"
+    ],
+    "id": 929
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following children are standing in a chain as demonstrated in the image. A few are looking towards front and remaining are looking towards back. What is the count of children who are grasping another child's hand with their left hand? A: 8,B: 4,C: 7,D: 2,E: 9. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_95.png"
+    ],
+    "id": 95
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several kids are standing in a chain. A few are looking forward and remaining are looking backward. How many kids are grasping another kid's hand using their right hand? A: 3,B: 2,C: 6,D: 9,E: 8. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_951.png"
+    ],
+    "id": 951
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many kids are dancing in a chain. Some are facing forward and others are facing backward. How many kids are grasping another kid's hand using right hand? A: 4,B: 7,C: 2,D: 6,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_955.png"
+    ],
+    "id": 955
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: A few pupils are standing in a chain as shown in the cartoon. A few are looking forward and remaining are looking backward. What is the count of pupils who are holding another pupil's hand using their left hand? A: 5,B: 2,C: 4,D: 6,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_957.png"
+    ],
+    "id": 957
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Some children are dancing in a queue. Some are facing forward and others are facing backward. How many children are grasping another child's hand with their right hand? A: 5,B: 8,C: 6,D: 2,E: 1. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_960.png"
+    ],
+    "id": 960
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These kids are standing in a line. A few are looking forward and remaining are looking backward. How many kids are holding another kid's hand using their left hand? A: 1,B: 2,C: 6,D: 5,E: 4. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_972.png"
+    ],
+    "id": 972
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Many children are dancing in a queue. A few are looking towards front and others are looking towards back. What is the count of children who are holding another child's hand using right hand? A: 8,B: 5,C: 1,D: 2,E: 7. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_975.png"
+    ],
+    "id": 975
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: These children are dancing in a line as presented in the cartoon. A few are facing towards front and others are facing towards back. What is the count of children who are grasping another child's hand with their right hand? A: 4,B: 1,C: 5,D: 3,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_98.png"
+    ],
+    "id": 98
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: The following kids are standing in a chain. Some are looking forward and remaining are looking backward. How many kids are grasping another kid's hand using their right hand? A: 1,B: 2,C: 5,D: 4,E: 3. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_981.png"
+    ],
+    "id": 981
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nPlease answer the following questions: Several pupils are dancing in a chain. A few are facing forward and remaining are facing backward. How many pupils are grasping another pupil's hand using their left hand? A: 5,B: 6,C: 4,D: 1,E: 2. You should provide the answer in a single upper case letter, e.g: A",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/96/img/puzzle_96_995.png"
+    ],
+    "id": 995
+  }
+]

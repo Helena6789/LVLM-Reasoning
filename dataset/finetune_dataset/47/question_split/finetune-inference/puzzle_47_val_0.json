@@ -1,0 +1,1602 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her graduation party, Lupe had 15 guests. She bought 5 pizzas, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 0,B: 1,C: 17,D: 15,E: 16",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1015.png"
+    ],
+    "id": 1015
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his anniversary party, Edward had 4 guests. He bought 5 pizzas, and each of them was cut into 4 slices. Each person at the party ate 3 slices of pizza. How many slices of pizza were eaten? A: 14,B: 17,C: 15,D: 1,E: 19",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_104.png"
+    ],
+    "id": 104
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her graduation party, Stephanie had 17 guests. She bought 5 pies, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 5,B: 13,C: 24,D: 18,E: 23",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1046.png"
+    ],
+    "id": 1046
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her Christmas party, Mary had 8 guests. She bought 5 pies, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 5,B: 1,C: 9,D: 0,E: 10",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1061.png"
+    ],
+    "id": 1061
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her graduation party, Meaghan had 23 guests. She bought 5 cakes, and each of them was cut into 5 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 13,B: 6,C: 0,D: 24,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1123.png"
+    ],
+    "id": 1123
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her New Year's party, Lois had 6 guests. She bought 5 pizzas, and each of them was cut into 4 slices. Each person at the party ate 2 slices of pizza. How many slices of pizza were eaten? A: 9,B: 15,C: 16,D: 14,E: 12",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1136.png"
+    ],
+    "id": 1136
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her Christmas party, Elizabeth had 4 guests. She bought 3 pizzas, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 1,B: 5,C: 4,D: 2,E: 8",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1144.png"
+    ],
+    "id": 1144
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his anniversary party, Edward had 3 guests. He bought 2 pies, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 2,B: 4,C: 1,D: 0,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1148.png"
+    ],
+    "id": 1148
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her Christmas party, Amy had 5 guests. She bought 3 pizzas, and each of them was cut into 4 slices. Each person at the party ate 2 slices of pizza. How many slices of pizza were eaten? A: 2,B: 11,C: 10,D: 8,E: 12",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1159.png"
+    ],
+    "id": 1159
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her New Year's party, Kathleen had 14 guests. She bought 4 pizzas, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 8,B: 4,C: 17,D: 16,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1172.png"
+    ],
+    "id": 1172
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his graduation party, David had 6 guests. He bought 2 cakes, and each of them was cut into 4 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 2,B: 0,C: 5,D: 3,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1187.png"
+    ],
+    "id": 1187
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his New Year's party, Herbert had 8 guests. He bought 3 pizzas, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 3,B: 14,C: 6,D: 12,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1219.png"
+    ],
+    "id": 1219
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his birthday party, Kenneth had 5 guests. He bought 3 pizzas, and each of them was cut into 4 slices. Each person at the party ate 2 slices of pizza. How many slices of pizza were left over? A: 8,B: 7,C: 4,D: 0,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1251.png"
+    ],
+    "id": 1251
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his Christmas party, Ricky had 8 guests. He bought 4 pies, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 15,B: 9,C: 8,D: 6,E: 13",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1301.png"
+    ],
+    "id": 1301
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his Christmas party, Brian had 18 guests. He bought 4 pizzas, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 13,B: 8,C: 3,D: 12,E: 19",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1322.png"
+    ],
+    "id": 1322
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her graduation party, Nicole had 13 guests. She bought 3 pies, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 14,B: 5,C: 8,D: 4,E: 0",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1328.png"
+    ],
+    "id": 1328
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her Christmas party, Carla had 11 guests. She bought 4 pizzas, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 8,B: 5,C: 6,D: 4,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1350.png"
+    ],
+    "id": 1350
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her Christmas party, Elizabeth had 3 guests. She bought 2 cakes, and each of them was cut into 4 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 4,B: 7,C: 2,D: 1,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1373.png"
+    ],
+    "id": 1373
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his birthday party, Robert had 3 guests. He bought 3 cakes, and each of them was cut into 2 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 5,B: 4,C: 3,D: 0,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1389.png"
+    ],
+    "id": 1389
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his graduation party, Harvey had 6 guests. He bought 3 pies, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 1,B: 0,C: 2,D: 7,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1399.png"
+    ],
+    "id": 1399
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her birthday party, Christina had 3 guests. She bought 3 pizzas, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 5,B: 4,C: 2,D: 1,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1416.png"
+    ],
+    "id": 1416
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her anniversary party, Ila had 3 guests. She bought 2 pies, and each of them was cut into 5 slices. Each person at the party ate 2 slices of pie. How many slices of pie were eaten? A: 8,B: 2,C: 0,D: 6,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1439.png"
+    ],
+    "id": 1439
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his birthday party, Robert had 6 guests. He bought 2 pies, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 7,B: 6,C: 8,D: 3,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1444.png"
+    ],
+    "id": 1444
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his Christmas party, Lawrence had 8 guests. He bought 4 pies, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 10,B: 0,C: 4,D: 7,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1446.png"
+    ],
+    "id": 1446
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his Christmas party, Anthony had 4 guests. He bought 2 pies, and each of them was cut into 5 slices. Each person at the party ate 2 slices of pie. How many slices of pie were left over? A: 6,B: 2,C: 0,D: 7,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_147.png"
+    ],
+    "id": 147
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her anniversary party, Charlotte had 2 guests. She bought 4 cakes, and each of them was cut into 2 slices. Each person at the party ate 2 slices of cake. How many slices of cake were eaten? A: 5,B: 6,C: 3,D: 2,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_151.png"
+    ],
+    "id": 151
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her Christmas party, Veronica had 5 guests. She bought 4 cakes, and each of them was cut into 4 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 10,B: 6,C: 3,D: 11,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_152.png"
+    ],
+    "id": 152
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his anniversary party, John had 15 guests. He bought 4 pizzas, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 4,B: 7,C: 2,D: 0,E: 15",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1528.png"
+    ],
+    "id": 1528
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his anniversary party, Steven had 4 guests. He bought 5 cakes, and each of them was cut into 2 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 6,B: 9,C: 8,D: 5,E: 0",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_153.png"
+    ],
+    "id": 153
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her birthday party, Janice had 22 guests. She bought 5 pizzas, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 16,B: 7,C: 2,D: 6,E: 23",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1596.png"
+    ],
+    "id": 1596
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her New Year's party, Ashley had 2 guests. She bought 3 cakes, and each of them was cut into 3 slices. Each person at the party ate 2 slices of cake. How many slices of cake were eaten? A: 5,B: 6,C: 2,D: 1,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1604.png"
+    ],
+    "id": 1604
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his birthday party, Robert had 5 guests. He bought 5 pizzas, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 2,B: 4,C: 7,D: 1,E: 8",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_161.png"
+    ],
+    "id": 161
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her birthday party, Sherie had 3 guests. She bought 2 pies, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 4,B: 1,C: 2,D: 5,E: 0",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1627.png"
+    ],
+    "id": 1627
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his anniversary party, Jeff had 13 guests. He bought 5 pies, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 15,B: 14,C: 16,D: 18,E: 10",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1635.png"
+    ],
+    "id": 1635
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her birthday party, Tanya had 22 guests. She bought 5 cakes, and each of them was cut into 5 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 13,B: 7,C: 0,D: 3,E: 23",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1656.png"
+    ],
+    "id": 1656
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her birthday party, Mary had 3 guests. She bought 2 pizzas, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 3,B: 1,C: 4,D: 0,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1682.png"
+    ],
+    "id": 1682
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her Christmas party, Phyllis had 2 guests. She bought 3 cakes, and each of them was cut into 5 slices. Each person at the party ate 4 slices of cake. How many slices of cake were left over? A: 2,B: 3,C: 4,D: 7,E: 10",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1684.png"
+    ],
+    "id": 1684
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her graduation party, Ann had 10 guests. She bought 3 cakes, and each of them was cut into 4 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 5,B: 2,C: 7,D: 8,E: 11",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1693.png"
+    ],
+    "id": 1693
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his birthday party, Glen had 7 guests. He bought 5 pizzas, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 12,B: 11,C: 4,D: 8,E: 13",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1703.png"
+    ],
+    "id": 1703
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her graduation party, Nancy had 6 guests. She bought 3 pies, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 2,B: 0,C: 9,D: 5,E: 8",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1705.png"
+    ],
+    "id": 1705
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his anniversary party, George had 4 guests. He bought 4 cakes, and each of them was cut into 2 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 5,B: 3,C: 4,D: 1,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1713.png"
+    ],
+    "id": 1713
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her New Year's party, Jasmine had 4 guests. She bought 2 pies, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 5,B: 0,C: 1,D: 4,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1734.png"
+    ],
+    "id": 1734
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his Christmas party, Jason had 4 guests. He bought 2 cakes, and each of them was cut into 4 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 7,B: 5,C: 6,D: 1,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1769.png"
+    ],
+    "id": 1769
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his Christmas party, Philip had 13 guests. He bought 5 cakes, and each of them was cut into 3 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 12,B: 10,C: 14,D: 13,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1771.png"
+    ],
+    "id": 1771
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his graduation party, Troy had 5 guests. He bought 5 cakes, and each of them was cut into 2 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 0,B: 3,C: 6,D: 2,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1777.png"
+    ],
+    "id": 1777
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her graduation party, Jean had 5 guests. She bought 5 pies, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 0,B: 2,C: 5,D: 4,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1780.png"
+    ],
+    "id": 1780
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his graduation party, Justin had 3 guests. He bought 2 cakes, and each of them was cut into 4 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 3,B: 6,C: 2,D: 4,E: 0",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1812.png"
+    ],
+    "id": 1812
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his graduation party, Martin had 8 guests. He bought 5 pizzas, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 6,B: 11,C: 14,D: 1,E: 10",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1823.png"
+    ],
+    "id": 1823
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his New Year's party, George had 7 guests. He bought 3 cakes, and each of them was cut into 3 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 1,B: 4,C: 2,D: 0,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1844.png"
+    ],
+    "id": 1844
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his birthday party, Daniel had 3 guests. He bought 2 cakes, and each of them was cut into 5 slices. Each person at the party ate 2 slices of cake. How many slices of cake were left over? A: 2,B: 4,C: 8,D: 7,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_187.png"
+    ],
+    "id": 187
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his anniversary party, Miguel had 2 guests. He bought 2 cakes, and each of them was cut into 5 slices. Each person at the party ate 3 slices of cake. How many slices of cake were eaten? A: 1,B: 2,C: 9,D: 6,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1871.png"
+    ],
+    "id": 1871
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her Christmas party, Sarah had 5 guests. She bought 4 cakes, and each of them was cut into 2 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 0,B: 6,C: 7,D: 1,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1878.png"
+    ],
+    "id": 1878
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his New Year's party, Anthony had 5 guests. He bought 3 pizzas, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 2,B: 3,C: 1,D: 6,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1883.png"
+    ],
+    "id": 1883
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his Christmas party, Mathew had 4 guests. He bought 2 cakes, and each of them was cut into 4 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 5,B: 0,C: 3,D: 7,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1889.png"
+    ],
+    "id": 1889
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his New Year's party, Norman had 4 guests. He bought 3 pizzas, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 0,B: 3,C: 2,D: 5,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1891.png"
+    ],
+    "id": 1891
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his Christmas party, Johnny had 20 guests. He bought 5 cakes, and each of them was cut into 5 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 9,B: 4,C: 2,D: 21,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1895.png"
+    ],
+    "id": 1895
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his Christmas party, George had 2 guests. He bought 3 pizzas, and each of them was cut into 5 slices. Each person at the party ate 5 slices of pizza. How many slices of pizza were left over? A: 0,B: 13,C: 9,D: 1,E: 14",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1907.png"
+    ],
+    "id": 1907
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her anniversary party, Doris had 5 guests. She bought 3 pies, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 0,B: 7,C: 2,D: 3,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1929.png"
+    ],
+    "id": 1929
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his anniversary party, Ollie had 3 guests. He bought 5 pies, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 9,B: 6,C: 4,D: 0,E: 8",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1943.png"
+    ],
+    "id": 1943
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her graduation party, Eva had 5 guests. She bought 2 pies, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 5,B: 2,C: 7,D: 1,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1949.png"
+    ],
+    "id": 1949
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her anniversary party, Jessica had 4 guests. She bought 4 pizzas, and each of them was cut into 4 slices. Each person at the party ate 3 slices of pizza. How many slices of pizza were left over? A: 6,B: 12,C: 8,D: 1,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1968.png"
+    ],
+    "id": 1968
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his New Year's party, Willie had 4 guests. He bought 2 cakes, and each of them was cut into 3 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 2,B: 3,C: 4,D: 1,E: 0",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_1983.png"
+    ],
+    "id": 1983
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his Christmas party, Rick had 6 guests. He bought 3 pies, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 7,B: 5,C: 4,D: 1,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_208.png"
+    ],
+    "id": 208
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his Christmas party, Jerald had 6 guests. He bought 4 pies, and each of them was cut into 4 slices. Each person at the party ate 2 slices of pie. How many slices of pie were left over? A: 2,B: 5,C: 15,D: 10,E: 11",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_226.png"
+    ],
+    "id": 226
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her graduation party, Gloria had 2 guests. She bought 5 pizzas, and each of them was cut into 2 slices. Each person at the party ate 3 slices of pizza. How many slices of pizza were eaten? A: 0,B: 8,C: 7,D: 9,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_230.png"
+    ],
+    "id": 230
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her birthday party, Heather had 2 guests. She bought 2 cakes, and each of them was cut into 5 slices. Each person at the party ate 3 slices of cake. How many slices of cake were eaten? A: 5,B: 4,C: 9,D: 7,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_254.png"
+    ],
+    "id": 254
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her graduation party, Raquel had 4 guests. She bought 2 cakes, and each of them was cut into 5 slices. Each person at the party ate 2 slices of cake. How many slices of cake were left over? A: 8,B: 4,C: 3,D: 0,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_263.png"
+    ],
+    "id": 263
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his birthday party, John had 6 guests. He bought 5 pizzas, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 8,B: 5,C: 11,D: 7,E: 21",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_27.png"
+    ],
+    "id": 27
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her New Year's party, Therese had 3 guests. She bought 3 cakes, and each of them was cut into 4 slices. Each person at the party ate 2 slices of cake. How many slices of cake were eaten? A: 8,B: 1,C: 10,D: 2,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_284.png"
+    ],
+    "id": 284
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her birthday party, Josephine had 5 guests. She bought 4 pizzas, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 12,B: 6,C: 9,D: 10,E: 14",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_346.png"
+    ],
+    "id": 346
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his graduation party, John had 2 guests. He bought 4 pizzas, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 4,B: 2,C: 5,D: 0,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_38.png"
+    ],
+    "id": 38
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his New Year's party, Christopher had 8 guests. He bought 4 cakes, and each of them was cut into 5 slices. Each person at the party ate 2 slices of cake. How many slices of cake were eaten? A: 18,B: 13,C: 9,D: 4,E: 14",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_403.png"
+    ],
+    "id": 403
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his anniversary party, Jamison had 5 guests. He bought 4 cakes, and each of them was cut into 5 slices. Each person at the party ate 3 slices of cake. How many slices of cake were left over? A: 2,B: 19,C: 0,D: 9,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_404.png"
+    ],
+    "id": 404
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his graduation party, George had 2 guests. He bought 5 pies, and each of them was cut into 2 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 3,B: 7,C: 1,D: 5,E: 8",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_438.png"
+    ],
+    "id": 438
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his Christmas party, James had 9 guests. He bought 4 cakes, and each of them was cut into 4 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 15,B: 4,C: 0,D: 1,E: 10",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_453.png"
+    ],
+    "id": 453
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his birthday party, Donald had 4 guests. He bought 2 pizzas, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 5,B: 3,C: 2,D: 1,E: 0",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_464.png"
+    ],
+    "id": 464
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her New Year's party, Allene had 5 guests. She bought 3 pizzas, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were left over? A: 2,B: 4,C: 6,D: 8,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_470.png"
+    ],
+    "id": 470
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her birthday party, Grace had 9 guests. She bought 4 pies, and each of them was cut into 5 slices. Each person at the party ate 2 slices of pie. How many slices of pie were left over? A: 6,B: 13,C: 0,D: 1,E: 18",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_473.png"
+    ],
+    "id": 473
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her anniversary party, Jackie had 14 guests. She bought 4 pies, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 13,B: 4,C: 8,D: 10,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_489.png"
+    ],
+    "id": 489
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his New Year's party, Corey had 5 guests. He bought 2 pies, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 0,B: 6,C: 3,D: 5,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_510.png"
+    ],
+    "id": 510
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her birthday party, Shelia had 20 guests. She bought 5 pizzas, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 17,B: 21,C: 19,D: 1,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_54.png"
+    ],
+    "id": 54
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her anniversary party, Amy had 9 guests. She bought 4 pizzas, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 10,B: 3,C: 5,D: 13,E: 11",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_551.png"
+    ],
+    "id": 551
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her Christmas party, Mary had 4 guests. She bought 4 pies, and each of them was cut into 4 slices. Each person at the party ate 3 slices of pie. How many slices of pie were left over? A: 4,B: 1,C: 7,D: 11,E: 15",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_587.png"
+    ],
+    "id": 587
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his graduation party, John had 2 guests. He bought 2 pies, and each of them was cut into 4 slices. Each person at the party ate 2 slices of pie. How many slices of pie were left over? A: 3,B: 7,C: 5,D: 0,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_624.png"
+    ],
+    "id": 624
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his Christmas party, Lamont had 2 guests. He bought 3 pizzas, and each of them was cut into 2 slices. Each person at the party ate 2 slices of pizza. How many slices of pizza were eaten? A: 4,B: 3,C: 2,D: 6,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_640.png"
+    ],
+    "id": 640
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his birthday party, Alvin had 7 guests. He bought 4 pizzas, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 8,B: 4,C: 1,D: 3,E: 0",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_641.png"
+    ],
+    "id": 641
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her New Year's party, Irene had 8 guests. She bought 5 pizzas, and each of them was cut into 5 slices. Each person at the party ate 1 slice of pizza. How many slices of pizza were eaten? A: 20,B: 18,C: 22,D: 4,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_660.png"
+    ],
+    "id": 660
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her Christmas party, Karla had 2 guests. She bought 2 pies, and each of them was cut into 3 slices. Each person at the party ate 2 slices of pie. How many slices of pie were left over? A: 3,B: 2,C: 5,D: 1,E: 0",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_688.png"
+    ],
+    "id": 688
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her anniversary party, Shannon had 5 guests. She bought 5 cakes, and each of them was cut into 4 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 17,B: 14,C: 19,D: 0,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_750.png"
+    ],
+    "id": 750
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her graduation party, Cassandra had 5 guests. She bought 4 cakes, and each of them was cut into 2 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 6,B: 3,C: 5,D: 1,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_798.png"
+    ],
+    "id": 798
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her anniversary party, Cassie had 19 guests. She bought 5 cakes, and each of them was cut into 5 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 4,B: 20,C: 16,D: 15,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_801.png"
+    ],
+    "id": 801
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his anniversary party, Robert had 8 guests. He bought 3 pies, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 11,B: 10,C: 9,D: 3,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_822.png"
+    ],
+    "id": 822
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her graduation party, Cathleen had 3 guests. She bought 2 pies, and each of them was cut into 4 slices. Each person at the party ate 2 slices of pie. How many slices of pie were eaten? A: 1,B: 8,C: 0,D: 6,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_878.png"
+    ],
+    "id": 878
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her graduation party, Michelle had 4 guests. She bought 2 cakes, and each of them was cut into 4 slices. Each person at the party ate 1 slice of cake. How many slices of cake were eaten? A: 4,B: 0,C: 7,D: 2,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_881.png"
+    ],
+    "id": 881
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her birthday party, Ione had 7 guests. She bought 5 pies, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pie. How many slices of pie were left over? A: 7,B: 4,C: 13,D: 8,E: 11",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_897.png"
+    ],
+    "id": 897
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor her New Year's party, Maude had 9 guests. She bought 5 cakes, and each of them was cut into 3 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 5,B: 1,C: 7,D: 9,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_9.png"
+    ],
+    "id": 9
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his birthday party, Warren had 10 guests. He bought 4 pies, and each of them was cut into 3 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 1,B: 0,C: 7,D: 2,E: 11",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_914.png"
+    ],
+    "id": 914
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his New Year's party, Allan had 13 guests. He bought 5 pies, and each of them was cut into 4 slices. Each person at the party ate 1 slice of pie. How many slices of pie were eaten? A: 3,B: 11,C: 12,D: 8,E: 14",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_929.png"
+    ],
+    "id": 929
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his Christmas party, Carlos had 6 guests. He bought 4 cakes, and each of them was cut into 4 slices. Each person at the party ate 1 slice of cake. How many slices of cake were left over? A: 6,B: 10,C: 7,D: 0,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_955.png"
+    ],
+    "id": 955
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nFor his birthday party, Daniel had 6 guests. He bought 4 pies, and each of them was cut into 5 slices. Each person at the party ate 2 slices of pie. How many slices of pie were left over? A: 13,B: 6,C: 10,D: 7,E: 15",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/47/img/puzzle_47_957.png"
+    ],
+    "id": 957
+  }
+]

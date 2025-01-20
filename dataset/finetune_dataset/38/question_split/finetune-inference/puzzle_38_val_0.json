@@ -1,0 +1,1602 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are nine rooms and each room has three windows and one light. Last evening, six windows were lit. In how many rooms was the light on? A: 2,B: 0,C: 7,D: 8,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1015.png"
+    ],
+    "id": 1015
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are six rooms and each room has three windows and one light. Last night, eighteen windows were not lit. In how many rooms was the light off? A: 1,B: 6,C: 3,D: 0,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_104.png"
+    ],
+    "id": 104
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are five rooms and each room has three windows and one light. Last night, six windows were lit. In how many rooms was the light on? A: 4,B: 3,C: 1,D: 0,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1046.png"
+    ],
+    "id": 1046
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are five rooms and each room has two windows and one light. Last night, two windows were lit. In how many rooms was the light off? A: 1,B: 4,C: 3,D: 0,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1061.png"
+    ],
+    "id": 1061
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are ten rooms and each room has four windows and one light. Last evening, twenty-eight windows were lit. In how many rooms was the light on? A: 3,B: 7,C: 5,D: 8,E: 0",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1123.png"
+    ],
+    "id": 1123
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are twelve rooms and each room has three windows and one light. Last evening, six windows were lit. In how many rooms was the light on? A: 2,B: 1,C: 9,D: 0,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1136.png"
+    ],
+    "id": 1136
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are nine rooms and each room has four windows and one light. Last evening, sixteen windows were not lit. In how many rooms was the light on? A: 2,B: 1,C: 3,D: 5,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1144.png"
+    ],
+    "id": 1144
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are ten rooms and each room has four windows and one light. Last evening, eight windows were lit. In how many rooms was the light off? A: 2,B: 3,C: 8,D: 7,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1148.png"
+    ],
+    "id": 1148
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are ten rooms and each room has two windows and one light. Last night, eighteen windows were not lit. In how many rooms was the light on? A: 1,B: 6,C: 0,D: 8,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1159.png"
+    ],
+    "id": 1159
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are five rooms and each room has two windows and one light. Last evening, zero windows were lit. In how many rooms was the light off? A: 2,B: 0,C: 1,D: 5,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1172.png"
+    ],
+    "id": 1172
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are eleven rooms and each room has four windows and one light. Last evening, four windows were not lit. In how many rooms was the light off? A: 1,B: 3,C: 8,D: 4,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1187.png"
+    ],
+    "id": 1187
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are eleven rooms and each room has four windows and one light. Last night, sixteen windows were lit. In how many rooms was the light off? A: 7,B: 1,C: 9,D: 8,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1219.png"
+    ],
+    "id": 1219
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are ten rooms and each room has two windows and one light. Last night, fourteen windows were lit. In how many rooms was the light off? A: 2,B: 3,C: 8,D: 6,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1251.png"
+    ],
+    "id": 1251
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are seven rooms and each room has three windows and one light. Last night, twelve windows were not lit. In how many rooms was the light off? A: 6,B: 0,C: 5,D: 1,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1301.png"
+    ],
+    "id": 1301
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are nine rooms and each room has two windows and one light. Last evening, sixteen windows were lit. In how many rooms was the light off? A: 7,B: 2,C: 4,D: 1,E: 0",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1322.png"
+    ],
+    "id": 1322
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are five rooms and each room has three windows and one light. Last evening, nine windows were not lit. In how many rooms was the light on? A: 0,B: 4,C: 1,D: 2,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1328.png"
+    ],
+    "id": 1328
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are fourteen rooms and each room has four windows and one light. Last evening, forty windows were lit. In how many rooms was the light off? A: 9,B: 6,C: 12,D: 10,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1350.png"
+    ],
+    "id": 1350
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are ten rooms and each room has three windows and one light. Last evening, twenty-one windows were lit. In how many rooms was the light on? A: 6,B: 5,C: 1,D: 7,E: 8",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1373.png"
+    ],
+    "id": 1373
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are thirteen rooms and each room has three windows and one light. Last night, twenty-seven windows were not lit. In how many rooms was the light off? A: 8,B: 3,C: 6,D: 9,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1389.png"
+    ],
+    "id": 1389
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are seven rooms and each room has four windows and one light. Last evening, twelve windows were lit. In how many rooms was the light off? A: 4,B: 6,C: 0,D: 1,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1399.png"
+    ],
+    "id": 1399
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are seven rooms and each room has three windows and one light. Last evening, nine windows were lit. In how many rooms was the light on? A: 2,B: 0,C: 3,D: 6,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1416.png"
+    ],
+    "id": 1416
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are eight rooms and each room has three windows and one light. Last night, eighteen windows were lit. In how many rooms was the light on? A: 7,B: 0,C: 4,D: 6,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1439.png"
+    ],
+    "id": 1439
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are five rooms and each room has four windows and one light. Last night, eight windows were lit. In how many rooms was the light on? A: 0,B: 2,C: 3,D: 4,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1444.png"
+    ],
+    "id": 1444
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are ten rooms and each room has three windows and one light. Last evening, six windows were lit. In how many rooms was the light on? A: 0,B: 3,C: 4,D: 2,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1446.png"
+    ],
+    "id": 1446
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are twelve rooms and each room has three windows and one light. Last night, nine windows were lit. In how many rooms was the light on? A: 3,B: 9,C: 11,D: 10,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_147.png"
+    ],
+    "id": 147
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are fourteen rooms and each room has two windows and one light. Last evening, twenty-six windows were not lit. In how many rooms was the light off? A: 10,B: 1,C: 6,D: 13,E: 12",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_151.png"
+    ],
+    "id": 151
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are six rooms and each room has three windows and one light. Last evening, nine windows were not lit. In how many rooms was the light off? A: 2,B: 1,C: 0,D: 3,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_152.png"
+    ],
+    "id": 152
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are nine rooms and each room has three windows and one light. Last night, twelve windows were lit. In how many rooms was the light on? A: 4,B: 3,C: 8,D: 0,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1528.png"
+    ],
+    "id": 1528
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are eight rooms and each room has four windows and one light. Last night, twenty windows were not lit. In how many rooms was the light on? A: 5,B: 4,C: 3,D: 0,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_153.png"
+    ],
+    "id": 153
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are five rooms and each room has three windows and one light. Last night, three windows were not lit. In how many rooms was the light off? A: 3,B: 4,C: 0,D: 1,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1596.png"
+    ],
+    "id": 1596
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are eleven rooms and each room has four windows and one light. Last night, eight windows were not lit. In how many rooms was the light off? A: 5,B: 7,C: 3,D: 2,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1604.png"
+    ],
+    "id": 1604
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are thirteen rooms and each room has three windows and one light. Last evening, eighteen windows were not lit. In how many rooms was the light off? A: 2,B: 3,C: 4,D: 9,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_161.png"
+    ],
+    "id": 161
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are twelve rooms and each room has two windows and one light. Last evening, four windows were lit. In how many rooms was the light on? A: 4,B: 2,C: 8,D: 5,E: 11",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1627.png"
+    ],
+    "id": 1627
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are nine rooms and each room has three windows and one light. Last night, twenty-four windows were lit. In how many rooms was the light off? A: 6,B: 7,C: 4,D: 1,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1635.png"
+    ],
+    "id": 1635
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are nine rooms and each room has two windows and one light. Last night, four windows were lit. In how many rooms was the light on? A: 6,B: 4,C: 2,D: 7,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1656.png"
+    ],
+    "id": 1656
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are eight rooms and each room has three windows and one light. Last evening, twenty-one windows were lit. In how many rooms was the light off? A: 1,B: 5,C: 7,D: 2,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1682.png"
+    ],
+    "id": 1682
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are ten rooms and each room has four windows and one light. Last night, eight windows were lit. In how many rooms was the light on? A: 7,B: 6,C: 0,D: 8,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1684.png"
+    ],
+    "id": 1684
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are thirteen rooms and each room has two windows and one light. Last night, twenty-six windows were not lit. In how many rooms was the light on? A: 12,B: 8,C: 1,D: 0,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1693.png"
+    ],
+    "id": 1693
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are thirteen rooms and each room has two windows and one light. Last evening, sixteen windows were lit. In how many rooms was the light on? A: 12,B: 3,C: 8,D: 7,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1703.png"
+    ],
+    "id": 1703
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are nine rooms and each room has four windows and one light. Last evening, four windows were lit. In how many rooms was the light on? A: 7,B: 5,C: 1,D: 2,E: 8",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1705.png"
+    ],
+    "id": 1705
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are twelve rooms and each room has two windows and one light. Last night, fourteen windows were lit. In how many rooms was the light off? A: 10,B: 11,C: 2,D: 5,E: 0",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1713.png"
+    ],
+    "id": 1713
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are thirteen rooms and each room has two windows and one light. Last night, four windows were lit. In how many rooms was the light on? A: 4,B: 2,C: 11,D: 1,E: 12",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1734.png"
+    ],
+    "id": 1734
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are twelve rooms and each room has three windows and one light. Last evening, thirty-three windows were lit. In how many rooms was the light off? A: 0,B: 4,C: 2,D: 11,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1769.png"
+    ],
+    "id": 1769
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are ten rooms and each room has two windows and one light. Last night, six windows were lit. In how many rooms was the light off? A: 6,B: 1,C: 4,D: 7,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1771.png"
+    ],
+    "id": 1771
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are twelve rooms and each room has four windows and one light. Last evening, twelve windows were lit. In how many rooms was the light off? A: 9,B: 1,C: 11,D: 8,E: 0",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1777.png"
+    ],
+    "id": 1777
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are seven rooms and each room has two windows and one light. Last evening, ten windows were lit. In how many rooms was the light on? A: 4,B: 1,C: 0,D: 5,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1780.png"
+    ],
+    "id": 1780
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are nine rooms and each room has two windows and one light. Last night, fourteen windows were lit. In how many rooms was the light on? A: 3,B: 7,C: 6,D: 8,E: 0",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1812.png"
+    ],
+    "id": 1812
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are fourteen rooms and each room has three windows and one light. Last night, thirty-six windows were lit. In how many rooms was the light off? A: 0,B: 5,C: 4,D: 12,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1823.png"
+    ],
+    "id": 1823
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are nine rooms and each room has three windows and one light. Last evening, twelve windows were not lit. In how many rooms was the light off? A: 0,B: 3,C: 2,D: 4,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1844.png"
+    ],
+    "id": 1844
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are seven rooms and each room has three windows and one light. Last evening, three windows were not lit. In how many rooms was the light on? A: 5,B: 4,C: 3,D: 1,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_187.png"
+    ],
+    "id": 187
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are five rooms and each room has three windows and one light. Last night, nine windows were lit. In how many rooms was the light off? A: 0,B: 4,C: 1,D: 3,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1871.png"
+    ],
+    "id": 1871
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are ten rooms and each room has three windows and one light. Last night, thirty windows were not lit. In how many rooms was the light on? A: 7,B: 0,C: 2,D: 9,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1878.png"
+    ],
+    "id": 1878
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are ten rooms and each room has four windows and one light. Last evening, twenty-four windows were lit. In how many rooms was the light off? A: 8,B: 1,C: 4,D: 2,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1883.png"
+    ],
+    "id": 1883
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are eleven rooms and each room has two windows and one light. Last night, zero windows were lit. In how many rooms was the light on? A: 10,B: 8,C: 0,D: 7,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1889.png"
+    ],
+    "id": 1889
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are twelve rooms and each room has two windows and one light. Last night, twenty-two windows were lit. In how many rooms was the light off? A: 8,B: 9,C: 3,D: 10,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1891.png"
+    ],
+    "id": 1891
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are ten rooms and each room has two windows and one light. Last night, two windows were not lit. In how many rooms was the light on? A: 8,B: 9,C: 0,D: 1,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1895.png"
+    ],
+    "id": 1895
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are thirteen rooms and each room has four windows and one light. Last evening, twenty-eight windows were not lit. In how many rooms was the light off? A: 6,B: 9,C: 7,D: 4,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1907.png"
+    ],
+    "id": 1907
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are six rooms and each room has two windows and one light. Last evening, two windows were lit. In how many rooms was the light on? A: 2,B: 1,C: 4,D: 3,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1929.png"
+    ],
+    "id": 1929
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are ten rooms and each room has two windows and one light. Last night, eight windows were not lit. In how many rooms was the light on? A: 2,B: 7,C: 6,D: 9,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1943.png"
+    ],
+    "id": 1943
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are thirteen rooms and each room has two windows and one light. Last night, zero windows were lit. In how many rooms was the light off? A: 13,B: 12,C: 5,D: 0,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1949.png"
+    ],
+    "id": 1949
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are seven rooms and each room has four windows and one light. Last night, zero windows were lit. In how many rooms was the light off? A: 4,B: 5,C: 1,D: 0,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1968.png"
+    ],
+    "id": 1968
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are nine rooms and each room has three windows and one light. Last evening, nine windows were not lit. In how many rooms was the light off? A: 2,B: 6,C: 3,D: 1,E: 8",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_1983.png"
+    ],
+    "id": 1983
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are nine rooms and each room has four windows and one light. Last night, sixteen windows were lit. In how many rooms was the light on? A: 2,B: 8,C: 4,D: 0,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_208.png"
+    ],
+    "id": 208
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are fourteen rooms and each room has three windows and one light. Last evening, twenty-seven windows were not lit. In how many rooms was the light on? A: 10,B: 7,C: 1,D: 5,E: 8",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_226.png"
+    ],
+    "id": 226
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are ten rooms and each room has two windows and one light. Last evening, sixteen windows were lit. In how many rooms was the light off? A: 7,B: 6,C: 2,D: 8,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_230.png"
+    ],
+    "id": 230
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are five rooms and each room has four windows and one light. Last evening, eight windows were not lit. In how many rooms was the light on? A: 3,B: 4,C: 0,D: 1,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_254.png"
+    ],
+    "id": 254
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are fourteen rooms and each room has four windows and one light. Last evening, fifty-two windows were lit. In how many rooms was the light off? A: 1,B: 5,C: 6,D: 13,E: 0",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_263.png"
+    ],
+    "id": 263
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are seven rooms and each room has four windows and one light. Last evening, twenty-eight windows were not lit. In how many rooms was the light on? A: 4,B: 3,C: 2,D: 0,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_27.png"
+    ],
+    "id": 27
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are eight rooms and each room has four windows and one light. Last evening, twenty-four windows were lit. In how many rooms was the light on? A: 6,B: 5,C: 3,D: 2,E: 0",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_284.png"
+    ],
+    "id": 284
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are eight rooms and each room has two windows and one light. Last evening, eight windows were lit. In how many rooms was the light off? A: 5,B: 1,C: 4,D: 2,E: 0",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_346.png"
+    ],
+    "id": 346
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are twelve rooms and each room has two windows and one light. Last evening, twelve windows were lit. In how many rooms was the light on? A: 2,B: 6,C: 4,D: 1,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_38.png"
+    ],
+    "id": 38
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are eight rooms and each room has four windows and one light. Last evening, twenty-eight windows were lit. In how many rooms was the light off? A: 1,B: 5,C: 2,D: 3,E: 0",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_403.png"
+    ],
+    "id": 403
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are five rooms and each room has three windows and one light. Last evening, twelve windows were not lit. In how many rooms was the light off? A: 1,B: 0,C: 4,D: 3,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_404.png"
+    ],
+    "id": 404
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are five rooms and each room has four windows and one light. Last night, eight windows were not lit. In how many rooms was the light on? A: 0,B: 4,C: 2,D: 3,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_438.png"
+    ],
+    "id": 438
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are eight rooms and each room has two windows and one light. Last night, eight windows were not lit. In how many rooms was the light off? A: 3,B: 1,C: 4,D: 7,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_453.png"
+    ],
+    "id": 453
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are eight rooms and each room has four windows and one light. Last evening, zero windows were lit. In how many rooms was the light on? A: 1,B: 6,C: 2,D: 0,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_464.png"
+    ],
+    "id": 464
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are five rooms and each room has four windows and one light. Last night, zero windows were lit. In how many rooms was the light off? A: 5,B: 3,C: 0,D: 1,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_470.png"
+    ],
+    "id": 470
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are seven rooms and each room has four windows and one light. Last evening, twenty-four windows were not lit. In how many rooms was the light off? A: 4,B: 0,C: 3,D: 6,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_473.png"
+    ],
+    "id": 473
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are thirteen rooms and each room has three windows and one light. Last evening, thirty-three windows were not lit. In how many rooms was the light on? A: 2,B: 9,C: 0,D: 7,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_489.png"
+    ],
+    "id": 489
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are twelve rooms and each room has three windows and one light. Last evening, twenty-seven windows were lit. In how many rooms was the light off? A: 4,B: 6,C: 3,D: 7,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_510.png"
+    ],
+    "id": 510
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are nine rooms and each room has four windows and one light. Last evening, sixteen windows were lit. In how many rooms was the light off? A: 5,B: 2,C: 7,D: 1,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_54.png"
+    ],
+    "id": 54
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are six rooms and each room has two windows and one light. Last night, eight windows were not lit. In how many rooms was the light on? A: 5,B: 3,C: 2,D: 0,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_551.png"
+    ],
+    "id": 551
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are seven rooms and each room has two windows and one light. Last evening, zero windows were lit. In how many rooms was the light off? A: 4,B: 7,C: 6,D: 1,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_587.png"
+    ],
+    "id": 587
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are nine rooms and each room has four windows and one light. Last evening, twelve windows were lit. In how many rooms was the light on? A: 7,B: 5,C: 3,D: 4,E: 0",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_624.png"
+    ],
+    "id": 624
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are ten rooms and each room has four windows and one light. Last evening, four windows were not lit. In how many rooms was the light off? A: 6,B: 9,C: 1,D: 4,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_640.png"
+    ],
+    "id": 640
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are eleven rooms and each room has two windows and one light. Last night, twelve windows were lit. In how many rooms was the light on? A: 3,B: 6,C: 0,D: 2,E: 4",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_641.png"
+    ],
+    "id": 641
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are six rooms and each room has four windows and one light. Last night, twenty windows were lit. In how many rooms was the light on? A: 3,B: 5,C: 0,D: 4,E: 1",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_660.png"
+    ],
+    "id": 660
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are thirteen rooms and each room has three windows and one light. Last night, six windows were not lit. In how many rooms was the light on? A: 8,B: 1,C: 11,D: 4,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_688.png"
+    ],
+    "id": 688
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are seven rooms and each room has four windows and one light. Last evening, zero windows were lit. In how many rooms was the light on? A: 4,B: 1,C: 2,D: 0,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_750.png"
+    ],
+    "id": 750
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are eight rooms and each room has two windows and one light. Last evening, sixteen windows were not lit. In how many rooms was the light on? A: 4,B: 1,C: 6,D: 2,E: 0",
+        "role": "user"
+      },
+      {
+        "content": "E",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_798.png"
+    ],
+    "id": 798
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are eight rooms and each room has four windows and one light. Last evening, zero windows were lit. In how many rooms was the light on? A: 0,B: 5,C: 2,D: 3,E: 6",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_801.png"
+    ],
+    "id": 801
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are eleven rooms and each room has three windows and one light. Last evening, fifteen windows were not lit. In how many rooms was the light off? A: 9,B: 0,C: 6,D: 5,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_822.png"
+    ],
+    "id": 822
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are nine rooms and each room has two windows and one light. Last night, twelve windows were lit. In how many rooms was the light on? A: 2,B: 5,C: 6,D: 7,E: 8",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_878.png"
+    ],
+    "id": 878
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are twelve rooms and each room has three windows and one light. Last evening, fifteen windows were not lit. In how many rooms was the light off? A: 10,B: 5,C: 8,D: 2,E: 3",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_881.png"
+    ],
+    "id": 881
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are six rooms and each room has two windows and one light. Last night, four windows were not lit. In how many rooms was the light on? A: 0,B: 1,C: 2,D: 4,E: 5",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_897.png"
+    ],
+    "id": 897
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are thirteen rooms and each room has two windows and one light. Last night, twenty windows were not lit. In how many rooms was the light on? A: 0,B: 1,C: 12,D: 3,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_9.png"
+    ],
+    "id": 9
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are seven rooms and each room has four windows and one light. Last night, twelve windows were not lit. In how many rooms was the light off? A: 3,B: 1,C: 0,D: 6,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "A",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_914.png"
+    ],
+    "id": 914
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are eight rooms and each room has three windows and one light. Last evening, fifteen windows were not lit. In how many rooms was the light off? A: 4,B: 5,C: 0,D: 3,E: 7",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_929.png"
+    ],
+    "id": 929
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a hotel, there are eight rooms and each room has two windows and one light. Last evening, two windows were not lit. In how many rooms was the light off? A: 7,B: 6,C: 5,D: 1,E: 2",
+        "role": "user"
+      },
+      {
+        "content": "D",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_955.png"
+    ],
+    "id": 955
+  },
+  {
+    "messages": [
+      {
+        "content": "<image>\nIn a building, there are fourteen rooms and each room has four windows and one light. Last evening, sixteen windows were lit. In how many rooms was the light on? A: 3,B: 1,C: 4,D: 10,E: 9",
+        "role": "user"
+      },
+      {
+        "content": "C",
+        "role": "assistant"
+      }
+    ],
+    "images": [
+      "dataset/SMART101-release-v1/SMART101-Data/38/img/puzzle_38_957.png"
+    ],
+    "id": 957
+  }
+]
